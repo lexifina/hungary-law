@@ -14,25 +14,25 @@ bb) a beérkezett véleményeket az azokhoz fűzött saját véleményével egy�
 
 (4) A kiemelt térségre vonatkozó területfejlesztési koncepció és program egyeztetésénél (2) bekezdés szerint kell eljárni.
 
-(5)[^93] A vármegyei területfejlesztési koncepciót és programot véleményezésre meg kell küldeni
+(5)[^93] A megyei területfejlesztési koncepciót és programot véleményezésre meg kell küldeni
 
 a) a 10. melléklet 2., 6., 8. és 13. pontjában meghatározott szerveknek,[^94]
 
-b)[^95] a szomszédos vármegyei önkormányzatoknak, továbbá
+b)[^95] a szomszédos megyei önkormányzatoknak, továbbá
 
-c)[^96] az országhatár menti vármegyék területfejlesztési koncepcióját és programját a Kormány nemzetpolitikáért, egyházakkal való kapcsolattartás koordinációjáért, valamint nemzetiségpolitikáért felelős tagjának, aki a 19. §-ban rögzített határidőt figyelembe véve
+c)[^96] az országhatár menti megyék területfejlesztési koncepcióját és programját a Kormány nemzetpolitikáért, egyházakkal való kapcsolattartás koordinációjáért, valamint nemzetiségpolitikáért felelős tagjának, aki a 19. §-ban rögzített határidőt figyelembe véve
 
 ca) véleményt kér a határon túli magyarlakta térségek és települések fejlesztését támogató szakmai szervezetektől, és
 
-cb)[^97] a beérkezett véleményeket az azokhoz fűzött saját véleményével együtt továbbítja a kidolgozásért felelős vármegyei önkormányzat elnökének, valamint a beérkező vélemények alapján a területfejlesztéssel összefüggő jó gyakorlat gyűjtésében, fejlesztésében és átadásában közreműködő, a miniszter által kijelölt szervezetnek.
+cb)[^97] a beérkezett véleményeket az azokhoz fűzött saját véleményével együtt továbbítja a kidolgozásért felelős megyei önkormányzat elnökének, valamint a beérkező vélemények alapján a területfejlesztéssel összefüggő jó gyakorlat gyűjtésében, fejlesztésében és átadásában közreműködő, a miniszter által kijelölt szervezetnek.
 
 (6)[^98]
 
 [^91]: A 18. § (2) bekezdése az 511/2021. (IX. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^92]: A 18. § (3) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
-[^93]: A 18. § (5) bekezdése az 511/2021. (IX. 3.) Korm. rendelet 2. §-ával megállapított szöveg, nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^93]: A 18. § (5) bekezdése az 511/2021. (IX. 3.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 422/2026. (XI. 6.) Korm. rendelet 1. § 32. pontja szerint módosított szöveg.
 [^94]: A Magyar Közlöny 2021. évi 164. számában megjelent helyesbítésnek megfelelő szöveg.
-[^95]: A 18. § (5) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^96]: A 18. § (5) bekezdés c) pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 104. § f) pontja szerint módosított szöveg.
-[^97]: A 18. § (5) bekezdés c) pont cb) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^95]: A 18. § (5) bekezdés b) pontja a 422/2026. (XI. 6.) Korm. rendelet 1. § 33. pontja szerint módosított szöveg.
+[^96]: A 18. § (5) bekezdés c) pont nyitó szövegrésze a 422/2026. (XI. 6.) Korm. rendelet 1. § 34. pontja szerint módosított szöveg.
+[^97]: A 18. § (5) bekezdés c) pont cb) alpontja a 422/2026. (XI. 6.) Korm. rendelet 1. § 35. pontja szerint módosított szöveg.
 [^98]: A 18. § (6) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.

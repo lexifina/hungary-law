@@ -1,4 +1,4 @@
-11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^170]
+11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^169]
 
 A területrendezési tervek véleményezésére jogosult szervek
 
@@ -74,7 +74,7 @@ b) Országos Atomenergia Hivatal;
 
 10. az érintett területi államigazgatási szervek közül:
 
-a)[^171] fővárosi és vármegyei kormányhivatal
+a)[^170] fővárosi és megyei kormányhivatal
 
 aa) állami főépítészi hatáskörében,
 
@@ -90,15 +90,15 @@ af) közlekedési hatósági hatáskörében,
 
 ag) egészségügyi államigazgatási hatáskörében,
 
-## ah)[^172] területi hulladékgazdálkodási hatáskörében,
+## ah)[^171] területi hulladékgazdálkodási hatáskörében,
 
 ## b) a működési területével érintett nemzeti park igazgatóság,
 
 c) a működési területével érintett vízügyi igazgatóság,
 
-11.[^173] a szomszédos vármegyei önkormányzatok;
+11.[^172] a szomszédos megyei önkormányzatok;
 
-12.[^174] az érintett vármegyei önkormányzat;
+12.[^173] az érintett megyei önkormányzat;
 
 13. érintettsége esetén a fővárosi önkormányzat;
 
@@ -108,8 +108,8 @@ c) a működési területével érintett vízügyi igazgatóság,
 
 16. az érintett települési önkormányzatok.
 
-[^170]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított, a 825/2021. (XXII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^171]: A 11. melléklet 10. pont a) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^172]: A 11. melléklet 10. pont a) alpont ah) pontját a 60/2023. (II. 28.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^173]: A 11. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^174]: A 11. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^169]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított, a 825/2021. (XXII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^170]: A 11. melléklet 10. pont a) alpontja a 422/2026. (XI. 6.) Korm. rendelet 1. § 67. pontja szerint módosított szöveg.
+[^171]: A 11. melléklet 10. pont a) alpont ah) pontját a 60/2023. (II. 28.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^172]: A 11. melléklet 11. pontja a 422/2026. (XI. 6.) Korm. rendelet 1. § 68. pontja szerint módosított szöveg.
+[^173]: A 11. melléklet 12. pontja a 422/2026. (XI. 6.) Korm. rendelet 1. § 69. pontja szerint módosított szöveg.

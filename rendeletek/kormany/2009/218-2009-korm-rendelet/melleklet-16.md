@@ -12,13 +12,13 @@
 
 | 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7. | f) erdők övezete | erdészeti hatáskörében eljáró vármegyei kormányhivatal |
+| 7. | f) erdők övezete | erdészeti hatáskörében eljáró megyei kormányhivatal |
 
 | 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | h) tájképvédelmi terület övezete | nemzeti park igazgatóság |
 
-| 10. | i) világörökségi és világörökségi várományos területek övezete | örökségvédelmi hatáskörében eljáró vármegyei kormányhivatal |
+| 10. | i) világörökségi és világörökségi várományos területek övezete | örökségvédelmi hatáskörében eljáró megyei kormányhivatal |
 
 | 11. | j) vízminőség-védelmi terület övezete | területi vízügyi igazgatóság |
 
@@ -36,9 +36,9 @@
 
 | 18. | c) borszőlő termőhelyi kataszteri terület övezete | Kincstár |
 
-| 19. | 4. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott vármegyei övezetek |  | vármegyei önkormányzat |
+| 19. | 4. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott megyei övezetek |  | megyei önkormányzat |
 
-16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^179]
+16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^178]
 
 A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
@@ -56,13 +56,13 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7. | f) erdők övezete | erdészeti hatáskörében eljáró vármegyei kormányhivatal |
+| 7. | f) erdők övezete | erdészeti hatáskörében eljáró megyei kormányhivatal |
 
 | 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | h) tájképvédelmi terület övezete | nemzeti park igazgatóság |
 
-| 10. | i) világörökségi és világörökségi várományos területek övezete | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal |
+| 10. | i) világörökségi és világörökségi várományos területek övezete | örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
 | 11. | j) vízminőség-védelmi terület övezete | területi vízügyi igazgatóság |
 
@@ -76,6 +76,6 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 16. | c) földtani veszélyforrás területe övezete | bányafelügyelet |
 
-| 17. | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott vármegyei övezetek |  | vármegyei önkormányzat |
+| 17. | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott megyei övezetek |  | megyei önkormányzat |
 
-[^179]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § c) pontja és 2. 0 c) pontja szerint módosított szöveg.
+[^178]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e) és f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § c) pontja és 2. § c) pontja, a 422/2026. (XI. 6.) Korm. rendelet 1. § 83–86. pontja szerint módosított szöveg.

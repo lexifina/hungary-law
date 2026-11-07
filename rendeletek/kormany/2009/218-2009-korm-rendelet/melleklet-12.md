@@ -1,5 +1,5 @@
-12. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^175]
+12. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^174]
 
 Az országos és kiemelt térségi területrendezési tervek készítéséhez szükséges adatbázisok és adatok
 
-[^175]: A 12. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 2. § a) pontja iktatta be, szövege a 38/2020. (III. 10.) Korm. rendelet 4. § a) pontja, a 448/2025. (XII. 29.) Korm. rendelet 20. §-a, 21. § g)–i) pontja, 22. § d) pontja szerint módosított szöveg.
+[^174]: A 12. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 2. § a) pontja iktatta be, szövege a 38/2020. (III. 10.) Korm. rendelet 4. § a) pontja, a 448/2025. (XII. 29.) Korm. rendelet 20. §-a, 21. § g)–i) pontja, 22. § d) pontja szerint módosított szöveg.

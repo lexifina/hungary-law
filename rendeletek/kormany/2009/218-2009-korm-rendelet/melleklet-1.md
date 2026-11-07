@@ -1,8 +1,8 @@
 1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^119]
 
-A kiemelt térségi és a vármegyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a vármegyei területrendezési terv közös feltáró-értékelő vizsgálatának tartalmi követelményei[^120]
+A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró-értékelő vizsgálatának tartalmi követelményei[^120]
 
-1.[^121] A vármegye, kiemelt térség (a továbbiakban együtt: térség) társadalmi, gazdasági, környezeti helyzetének elemzése
+1.[^121] A megye, kiemelt térség (a továbbiakban együtt: térség) társadalmi, gazdasági, környezeti helyzetének elemzése
 
 1.1. Az adott térségre értelmezhető külső környezet vizsgálata:
 
@@ -147,8 +147,8 @@ a) a térség erősségeinek, gyengeségeinek, lehetőségeinek és a térséget
 b) a térség lehetséges fejlesztési irányainak bemutatása, és ezek alapján a lehetséges cselekvési területek azonosítása.
 
 [^119]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^120]: Az 1. melléklet címe a 616/2022. (XII. 29.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
-[^121]: Az 1. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
+[^120]: Az 1. melléklet címe a 422/2026. (XI. 6.) Korm. rendelet 1. § 44. pontja szerint módosított szöveg.
+[^121]: Az 1. melléklet 1. pontja a 422/2026. (XI. 6.) Korm. rendelet 1. § 45. pontja szerint módosított szöveg.
 [^122]: Az 1. melléklet 1.2. pont a) alpont ae) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § o) pontja szerint módosított szöveg.
 [^123]: Az 1. melléklet 2.1. pont a) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
 [^124]: Az 1. melléklet 2. pont 2.1. alpont g) pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § h) pontja szerint módosított szöveg.

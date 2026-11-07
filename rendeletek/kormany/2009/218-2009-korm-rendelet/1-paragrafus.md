@@ -14,7 +14,7 @@ e) horizontális cél: olyan, az adott területi egység fejlesztésének és te
 
 f) jövőkép: nagytávra és nagytávon túlmutatóan meghatározott, elérni kívánt jövőbeli célállapot átfogó és általános leírása, amely a célok kijelölésének alapvető irányát jelöli ki, és amelyben rögzülő elérendő jövőbeni állapotot a koncepció helyzetelemzésében, értékelésében meghatározott sajátosságokra, a számba vett várható fejlődésfolyamatokra tekintettel, a társadalom elvárásainak, értékeinek figyelembevételével lehet megfogalmazni,
 
-g)[^3] kidolgozásért felelős szerv: a területfejlesztésről és a területrendezésről szóló törvénynek megfelelően az Országos Területfejlesztési Koncepció, az Országos Területrendezési Terv és a kiemelt térség (Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet) területrendezési tervének kidolgozása esetén a Kormány; a vármegye és az egyéb kiemelt térségek területrendezési terv kidolgozása esetén a vármegyei önkormányzat; a vármegye területfejlesztési koncepciója és programja kidolgozásának esetében a vármegyei önkormányzat; a kiemelt térség területfejlesztési koncepciója és programja kidolgozásának esetében a térségi fejlesztési tanács,
+g)[^3] kidolgozásért felelős szerv: a területfejlesztésről és a területrendezésről szóló törvénynek megfelelően az Országos Területfejlesztési Koncepció, az Országos Területrendezési Terv és a kiemelt térség (Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet) területrendezési tervének kidolgozása esetén a Kormány; a megye és az egyéb kiemelt térségek területrendezési terv kidolgozása esetén a megyei önkormányzat; a megye területfejlesztési koncepciója és programja kidolgozásának esetében a megyei önkormányzat; a kiemelt térség területfejlesztési koncepciója és programja kidolgozásának esetében a térségi fejlesztési tanács,
 
 h)[^4] egyéb mellékút: a térségi szerepű összekötő út kivételével a közutak igazgatásáról szóló miniszteri rendelet szerinti mellékút,
 
@@ -40,11 +40,11 @@ r)[^10]
 
 s)[^11]
 
-t)[^12] térségi térszervező központ: a településrendszer térségi jelentőségű (kiemelt térség, vármegye, járások) központja, amely gazdasági, turisztikai, kulturális, közlekedési szempontból vármegyei szintű és több járásra kiterjedő szereppel bír.
+t)[^12] térségi térszervező központ: a településrendszer térségi jelentőségű (kiemelt térség, megye, járások) központja, amely gazdasági, turisztikai, kulturális, közlekedési szempontból megyei szintű és több járásra kiterjedő szereppel bír.
 
 [^1]: Az 1. § b) pontja a 121/2019. (V. 27.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § d) pontja a 25/2014. (II. 7.) Korm. rendelet 16. § a) pontja és 17. § a) pontja, a 121/2019. (V. 27.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § g) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 104. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § g) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 422/2026. (XI. 6.) Korm. rendelet 1. § 1. pontja szerint módosított szöveg.
 [^4]: Az 1. § h) pontja a 280/2017. (IX. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § l) pontját a 25/2014. (II. 7.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte, újonnan a 280/2017. (IX. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^6]: Az 1. § n) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
@@ -53,4 +53,4 @@ t)[^12] térségi térszervező központ: a településrendszer térségi jelent
 [^9]: Az 1. § q) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
 [^10]: Az 1. § r) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
 [^11]: Az 1. § s) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
-[^12]: Az 1. § t) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 104. § c) és d) pontja szerint módosított szöveg.
+[^12]: Az 1. § t) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 422/2026. (XI. 6.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.

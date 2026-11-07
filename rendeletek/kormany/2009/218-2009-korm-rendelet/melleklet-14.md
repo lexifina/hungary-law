@@ -18,8 +18,8 @@
 
 | 9. | MePAR | HMKÁ védett tájképi elemek | a) kiterjedéssel rendelkező HMKÁ védett tájelemek, b) pontszerű HMKÁ védett tájelemek | SHP shape |  |
 
-14. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^177]
+14. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^176]
 
-A kiemelt térségi és a vármegyei területrendezési terv, valamint a vármegyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
+A kiemelt térségi és a megyei területrendezési terv, valamint a megyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
-[^177]: A 14. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § b) pontja, a 29/2020. (II. 28.) Korm. rendelet 1. §-a, a 30/2020. (II. 28.) Korm. rendelet 13. § a)–b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § b) és d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § b) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § a) pontja, 2. § a) pontja és 3. §-a, a 107/2024. (V. 9.) Korm. rendelet 6. § h)-i) pontja szerint módosított szöveg.
+[^176]: A 14. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § b) pontja, a 29/2020. (II. 28.) Korm. rendelet 1. §-a, a 30/2020. (II. 28.) Korm. rendelet 13. § a) és b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § b) és d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § a) pontja, 2. § a) pontja és 3. §-a, a 107/2024. (V. 9.) Korm. rendelet 6. § h) és i) pontja, a 422/2026. (XI. 6.) Korm. rendelet 1. § 71–78. pontja szerint módosított szöveg.

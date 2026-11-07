@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-218-20-
 | 2024-01-01 | 2009-218-20-22.37 | 591/2023. (XII. 20.) Korm. rendelet |
 | 2024-06-01 | 2009-218-20-22.38 | 107/2024. (V. 9.) Korm. rendelet |
 | 2026-01-14 | 2009-218-20-22.39 | 448/2025. (XII. 29.) Korm. rendelet |
+| 2026-11-07 | 2009-218-20-22.41 | 422/2026. (XI. 6.) Korm. rendelet |
