@@ -10,13 +10,13 @@ a) fogadja és megválaszolja a konzuli tisztviselők által kiállított magyar
 
 b) gondoskodik az a) pontban megjelölt közokiratokra vonatkozó, a Rendelet 22. cikk (1) bekezdés b) és c) pontja szerinti információknak az IMI-rendszerbe történő feltöltéséről.
 
-(3)[^2] Az 1. § (1) bekezdés c) pontjában meghatározott központi hatóság az állampolgársági ügyekért való felelőssége keretében
+(3)[^4] Az 1. § (1) bekezdés c) pontjában meghatározott központi hatóság az állampolgársági ügyekért való felelőssége keretében
 
 a) fogadja és megválaszolja az állampolgárság igazolására szolgáló magyar közokiratokkal kapcsolatban a Rendelet 14. cikk (1) bekezdés b) pontja alapján külföldről érkező megkereséseket, és
 
 b) gondoskodik az a) pontban felsorolt közokiratokra vonatkozó, a Rendelet 22. cikk (1) bekezdés b) és c) pontja szerinti információknak az IMI-rendszerbe történő feltöltéséről.
 
-(3a)[^3] Az 1. § (1) bekezdés d) pontjában meghatározott központi hatóság az anyakönyvi ügyekért való felelőssége keretében
+(3a)[^5] Az 1. § (1) bekezdés d) pontjában meghatározott központi hatóság az anyakönyvi ügyekért való felelőssége keretében
 
 a) fogadja és megválaszolja a születés, a haláleset, a név, a házasságkötés és a bejegyzett élettársi kapcsolat igazolására szolgáló magyar közokiratokkal kapcsolatban a Rendelet 14. cikk (1) bekezdés b) pontja alapján külföldről érkező megkereséseket, és
 
@@ -36,5 +36,5 @@ e) kezdeményezi a Rendelet 24. és 25. cikkében megjelölt, az e rendelet 5. �
 
 f) az IMI rendelet 6. cikke szerinti nemzeti IMI-koordinátornál kezdeményezi magyar bíróság, hatóság vagy más szerv (a továbbiakban együtt: hatóság) regisztrálását az IMI-rendszerben.
 
-[^2]: A 2. § (3) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^3]: A 2. § (3a) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^4]: A 2. § (3) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (3a) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be.

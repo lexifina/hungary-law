@@ -4,14 +4,16 @@
 
 a) a belügyminisztert,
 
-b) a külgazdasági és külügyminisztert,
+b)[^2] a külügyminisztert,
 
 c) a Miniszterelnökséget vezető minisztert,
 
-d) a közigazgatási és területfejlesztési minisztert
+d)[^3] a vidék- és településfejlesztési minisztert
 
 jelöli ki központi hatóságként.
 
 (2) A Kormány a Rendelet 15. cikk (2) bekezdése szerinti központi hatóságként (a továbbiakban: fő központi hatóság) az igazságügyi minisztert jelöli ki.
 
 [^1]: Az 1. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 447/2026. (XI. 6.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés d) pontja a 447/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
