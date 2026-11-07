@@ -1,4 +1,4 @@
-8. § (1)[^29] A fővárosi és vármegyei kormányhivatal által kibocsátott törvényességi felhívás tartalmazza legalább
+8. § (1)[^29] A fővárosi és megyei kormányhivatal által kibocsátott törvényességi felhívás tartalmazza legalább
 
 a) az érintett által elkövetett jogszabálysértés megjelölését,
 
@@ -10,7 +10,7 @@ d) az érintett számára a jogszabálysértés megszüntetésére biztosított 
 
 (2) A jogszabálysértés megszüntetésére biztosított határidőt úgy kell megállapítani, hogy a jogellenes állapot mielőbb megszüntetésre kerüljön és a törvényességi felhívásban foglaltak megvizsgálására a megfelelő idő biztosítva legyen.
 
-(3)[^30] A jogszabálysértés megszüntetésére – amennyiben jogszabályi rendelkezésből adódóan eltérő határidő megadása nem szükséges – a fővárosi és vármegyei kormányhivatal
+(3)[^30] A jogszabálysértés megszüntetésére – amennyiben jogszabályi rendelkezésből adódóan eltérő határidő megadása nem szükséges – a fővárosi és megyei kormányhivatal
 
 a) jogalkotási kötelezettség elmulasztása esetén legfeljebb 60 napos,
 
@@ -20,5 +20,5 @@ határidőt állapíthat meg.
 
 (4) Amennyiben jogszabálysértés megszüntetésére biztosított határidő alatt a jogszabálysértés nem szüntethető meg, a határidő az érintett indokolt kérelmére további 30 nappal meghosszabbítható.
 
-[^29]: A 8. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
-[^30]: A 8. § (3) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^29]: A 8. § (1) bekezdés nyitó szövegrésze a 429/2026. (XI. 6.) Korm. rendelet 1. § 23. pontja szerint módosított szöveg.
+[^30]: A 8. § (3) bekezdés nyitó szövegrésze a 429/2026. (XI. 6.) Korm. rendelet 1. § 24. pontja szerint módosított szöveg.

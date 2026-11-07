@@ -22,9 +22,9 @@ a) kizárólag elektronikus úton, minősített elektronikus aláírás nélkül
 
 b) rövid szöveges üzenet útján.
 
-(5)[^20] A (3) és (4) bekezdésben meghatározott kapcsolattartási formák kizárólag a fővárosi és vármegyei kormányhivatal információkérési jogával és a szakmai segítségnyújtásával összefüggésben alkalmazhatóak.
+(5)[^20] A (3) és (4) bekezdésben meghatározott kapcsolattartási formák kizárólag a fővárosi és megyei kormányhivatal információkérési jogával és a szakmai segítségnyújtásával összefüggésben alkalmazhatóak.
 
-(6)[^21] Az informatikai rendszerbe feltöltött iratról a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium, az érintett helyi önkormányzat vagy a törvényességi felügyeleti eljárást lefolytató fővárosi és vármegyei kormányhivatal hitelesített másolatot adhat ki, mely tanúsítja azt, hogy a másolat az informatikai rendszerbe feltöltött irattal mindenben megegyező.
+(6)[^21] Az informatikai rendszerbe feltöltött iratról a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium, az érintett helyi önkormányzat vagy a törvényességi felügyeleti eljárást lefolytató fővárosi és megyei kormányhivatal hitelesített másolatot adhat ki, mely tanúsítja azt, hogy a másolat az informatikai rendszerbe feltöltött irattal mindenben megegyező.
 
 (7) A (6) bekezdés szerinti hitelesített másolaton a másolatot kiadó szerv a következőket tünteti fel:
 
@@ -41,5 +41,5 @@ e) arra történő utalás, hogy a másolat az eredetivel mindenben megegyező.
 [^17]: Az 5. § a 492/2013. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. §-át.
 [^18]: Az 5. § (1) bekezdése a 61/2015. (III. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^19]: Az 5. § (2) bekezdés nyitó szövegrésze a 61/2015. (III. 24.) Korm. rendelet 7. § a) és b) pontja szerint módosított szöveg.
-[^20]: Az 5. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
-[^21]: Az 5. § (6) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § c) pontja szerint módosított, a 616/2022. (XII. 29.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § (5) bekezdése a 429/2026. (XI. 6.) Korm. rendelet 1. § 17. pontja szerint módosított szöveg.
+[^21]: Az 5. § (6) bekezdése a 61/2015. (III. 24.) Korm. rendelet 7. § c) pontja, a 429/2026. (XI. 6.) Korm. rendelet 1. § 18. pontja szerint módosított szöveg.
