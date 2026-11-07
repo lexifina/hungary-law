@@ -8,7 +8,7 @@
 
 ## 3. A pénztártag állampolgársága
 
-## 4. A pénztártag tartózkodási helye (vármegye)
+## 4. A pénztártag tartózkodási helye (megye)
 
 ## II. 2613 „Mobilcella adatok átvétele”
 
