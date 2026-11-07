@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-215-20-
 | 2023-01-01 | 1996-215-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |
 | 2024-03-01 | 1996-215-20-22.18 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-10-01 | 1996-215-20-22.19 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2026-11-07 | 1996-215-20-22.20 | 70/2015. (III. 30.) Korm. rendelet |
