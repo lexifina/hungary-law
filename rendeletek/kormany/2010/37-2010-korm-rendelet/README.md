@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-37-20-2
 | 2010-04-29 | 2010-37-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-04-06 | 2010-37-20-22.4 | 67/2012. (IV. 5.) Korm. rendelet |
 | 2023-01-01 | 2010-37-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-11-07 | 2010-37-20-22.7 | 424/2026. (XI. 6.) Korm. rendelet |
