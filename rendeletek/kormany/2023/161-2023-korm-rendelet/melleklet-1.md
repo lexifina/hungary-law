@@ -1,4 +1,4 @@
-1. melléklet a 161/2023. (IX. 28.) Korm. rendelethez[^22]
+1. melléklet a 161/2023. (IX. 28.) Korm. rendelethez[^23]
 
 Logisztikai Térségek
 
@@ -190,4 +190,4 @@ Logisztikai Térségek
 
 | 93. | 14. | Budapest | Budapest kerületi beosztásához igazítva kialakított 23 járás |
 
-[^22]: Az 1. mellékletet a 253/2024. (VIII. 22.) Korm. rendelet 10. §-a iktatta be.
+[^23]: Az 1. mellékletet a 253/2024. (VIII. 22.) Korm. rendelet 10. §-a iktatta be.

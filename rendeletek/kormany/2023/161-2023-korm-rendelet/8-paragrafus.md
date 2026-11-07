@@ -1,6 +1,6 @@
 ## 7. Területre vonatkozó követelmények
 
-8. § (1)[^19] Az ipari és technológiai park céljára kialakított területnek legalább 10 hektár nagyságúnak, a logisztikai parknak legalább 3 hektár nagyságúnak, a tudományos és innovációs parknak legalább 1 hektár nagyságúnak kell lennie. Az ipari és a technológiai park törzsterületből vagy törzsterületből és fejlesztési területből áll. Az ipari park törzsterülete egybefüggő területet alkot.
+8. § (1)[^20] Az ipari és technológiai park céljára kialakított területnek legalább 10 hektár nagyságúnak, a logisztikai parknak legalább 3 hektár nagyságúnak, a tudományos és innovációs parknak legalább 1 hektár nagyságúnak kell lennie. Az ipari és a technológiai park törzsterületből vagy törzsterületből és fejlesztési területből áll. Az ipari park törzsterülete egybefüggő területet alkot.
 
 (2) A részterületek a tudományos és innovációs parkok területének megvalósítási ütem szerinti egységei, amelyek elnevezése tükrözi elkészültük megvalósítási ütemét:
 
@@ -10,7 +10,7 @@ b) másodlagos terület: az elsődleges területen kívüli további terület, a
 
 (3) Az ipari parkok és a technológiai parkok vonatkozásában legalább 10 hektár nagyságú, a hatályos településrendezési terv vagy az önkormányzat képviselő-testületének határozata szerinti iparterület, a logisztikai parkok vonatkozásában legalább 3 hektár nagyságú, a hatályos településrendezési terv vagy az önkormányzat képviselő-testületének határozata szerinti ipari, gazdasági terület, amely rendelkezik a termőföld végleges más célú hasznosítására vonatkozó végleges ingatlanügyi hatósági engedéllyel, ha a terület vagy annak egy része termőföldnek minősül.
 
-(4)[^20] A törzsterület a használat szerint lehet
+(4)[^21] A törzsterület a használat szerint lehet
 
 a) betelepített törzsterület, amely esetén a betelepült vállalkozások nyilatkozata szükséges arról, hogy csatlakoznak az ipari park vagy a technológiai park megvalósításához, vagy
 
@@ -30,5 +30,5 @@ d) amelyre iparterületként történt korábbi hasznosítás esetén rendelkez�
 
 (7) Ha a (6) bekezdés d) pontjában megjelölt dokumentáció szerint a terület környezetvédelmi szempontból szennyezett, a pályázónak rendelkeznie kell a környezetvédelmi hatóság által jóváhagyott kármentesítési beavatkozási tervvel, továbbá a pályázónak igazolnia kell, hogy rendelkezik a környezetvédelmi kármentesítés elvégzéséhez szükséges forrásokkal.
 
-[^19]: A 8. § (1) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^20]: A 8. § (4) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^20]: A 8. § (1) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^21]: A 8. § (4) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

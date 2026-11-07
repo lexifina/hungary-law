@@ -24,7 +24,7 @@ c) elsősorban közhasznú jogállású nonprofit gazdasági társasági formáb
 
 (9) A pályázónak a pályázat benyújtásakor rendelkeznie kell a helyi önkormányzat támogató nyilatkozatával az ipari park, a technológiai park és a logisztikai park létrehozásának vonatkozásában.
 
-(10) A pályázónak rendelkeznie kell a területfejlesztés térségi feladatait ellátó, területileg illetékes szervek − a vármegyei önkormányzat, a fővárosi önkormányzat, a regionális területfejlesztési konzultációs fórum, a vármegyei területfejlesztési konzultációs fórum, a térségi fejlesztési tanács, a kiemelt térségi fejlesztési tanács és a hatáskörükben érintett területi államigazgatási szervek − ipari park, technológiai park, logisztikai park vagy tudományos és innovációs park létrehozását támogató nyilatkozatával. A felsorolt szervezetek támogató nyilatkozatait a pályázó kérésére a vármegyei önkormányzat szerzi be, és 30 napon belül továbbítja a pályázó részére.
+(10)[^18] A pályázónak rendelkeznie kell a területfejlesztés térségi feladatait ellátó, területileg illetékes szervek − a megyei önkormányzat, a fővárosi önkormányzat, a regionális területfejlesztési konzultációs fórum, a megyei területfejlesztési konzultációs fórum, a térségi fejlesztési tanács, a kiemelt térségi fejlesztési tanács és a hatáskörükben érintett területi államigazgatási szervek − ipari park, technológiai park, logisztikai park vagy tudományos és innovációs park létrehozását támogató nyilatkozatával. A felsorolt szervezetek támogató nyilatkozatait a pályázó kérésére a megyei önkormányzat szerzi be, és 30 napon belül továbbítja a pályázó részére.
 
 (11) Az Ipari Park és a Technológiai Park esetében a pályázónak rendelkeznie kell betelepülési szerződéssel.
 
@@ -121,3 +121,4 @@ c) azon helyi önkormányzatnak, amely ellen jogerős végzés alapján a helyi 
 [^15]: A 7. § (6) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^16]: A 7. § (7) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^17]: A 7. § (8) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^18]: A 7. § (10) bekezdése a 457/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.

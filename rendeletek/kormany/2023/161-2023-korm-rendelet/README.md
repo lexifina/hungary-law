@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-161-20-
 | 2023-05-07 | 2023-161-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-07-20 | 2023-161-20-22.3 | 331/2023. (VII. 19.) Korm. rendelet |
 | 2024-08-30 | 2023-161-20-22.4 | 253/2024. (VIII. 22.) Korm. rendelet |
+| 2026-11-07 | 2023-161-20-22.5 | 457/2026. (XI. 6.) Korm. rendelet |
