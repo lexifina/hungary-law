@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-95-20-2
 | 2024-10-01 | 2006-95-20-22.15 | 74/2012. (IV. 13.) Korm. rendelet |
 | 2024-11-22 | 2006-95-20-22.16 | 335/2024. (XI. 14.) Korm. rendelet |
 | 2026-01-06 | 2006-95-20-22.17 | 436/2025. (XII. 23.) Korm. rendelet |
+| 2026-11-07 | 2006-95-20-22.18 | 219/2011. (X. 20.) Korm. rendelet |
