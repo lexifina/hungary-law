@@ -152,7 +152,7 @@ l) egyéb fűthető helyiség, ide nem értve a gépjárműtárolót és a pince
 
 22.[^21] lakás: a településrendezési és építési követelményekről szóló kormányrendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-23.[^22] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró, a támogatott lakás fekvése szerint illetékes vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
+23.[^22] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró, a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
 
 24.[^23] összkomfortos lakás: az a lakás, amely legalább
 
@@ -194,7 +194,7 @@ rendelkezik;
 [^19]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^20]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^21]: Az 1. § (1) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 34. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 68. § d) pontja szerint módosított szöveg.
-[^22]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 97. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 134. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 134. § b) pontja szerint módosított szöveg.
+[^22]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 97. § (1) bekezdésével megállapított, a 427/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^23]: Az 1. § (1) bekezdés 24. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
 [^24]: Az 1. § (1) bekezdés 24. pont b) alpontja a 285/2024. (IX. 30.) Korm. rendelet 68. § e) pontja szerint módosított szöveg.
 [^25]: Az 1. § (1) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 66. §-ával megállapított szöveg.

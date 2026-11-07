@@ -56,7 +56,7 @@ kiállított számlákat.
 
 (1d)[^61] Amennyiben az igénylő a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény alapján saját jogú öregségi vagy özvegyi nyugdíjra jogosult, a 3. § (1) bekezdés b) pontja szerinti korszerűsítés esetén a 4. § (1) bekezdés f) pont fa) alpontja szerinti feltétel nem alkalmazandó.
 
-(1e)[^62] Az (1) bekezdés f) pont fa) alpontjában foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és vármegyei kormányhivatal ápolási díjat megállapító végleges határozata alapján ápolási díjban részesül.
+(1e)[^62] Az (1) bekezdés f) pont fa) alpontjában foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal ápolási díjat megállapító végleges határozata alapján ápolási díjban részesül.
 
 (1f)[^63] Az (1) bekezdés f) pont fa) alpontja alkalmazásában biztosítottnak minősül az igénylő, ha az otthonteremtési kamattámogatás iránti kérelem
 
@@ -113,7 +113,7 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 [^59]: A 4. § (1b) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (3) bekezdése iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
 [^60]: A 4. § (1c) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 71. § (3) bekezdése iktatta be.
 [^61]: A 4. § (1d) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 36. § (2) bekezdése iktatta be.
-[^62]: A 4. § (1e) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 376. § a) pontja szerint módosított, a 616/2022. (XII. 29.) Korm. rendelet 134. § a) pontja szerint módosított szöveg.
+[^62]: A 4. § (1e) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 376. § a) pontja szerint módosított, a 427/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^63]: A 4. § (1f) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
 [^64]: A 4. § (1f) bekezdés a) pontja a 284/2020. (VI. 17.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
 [^65]: A 4. § (1f) bekezdés b) pont ba) alpontja a 284/2020. (VI. 17.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
