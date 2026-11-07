@@ -1,4 +1,4 @@
-2. § (1) A tanács székhelye szerint illetékes fővárosi vagy vármegyei kormányhivatal (a továbbiakban: kormányhivatal) a törvényességi felügyelet ellátása során vizsgálja
+2. § (1)[^1] A tanács székhelye szerint illetékes fővárosi vagy megyei kormányhivatal (a továbbiakban: kormányhivatal) a törvényességi felügyelet ellátása során vizsgálja
 
 a) a tanács szervezetének, működésének, döntéshozatali eljárásának jogszerűségét, a vonatkozó jogszabályok és a tanács saját szabályzatainak betartását,
 
@@ -13,3 +13,5 @@ c) a tanács üléséről készített jegyzőkönyv 7. § (1) bekezdésében rö
 (4) A tanács mérlegelési jogkörben hozott döntései esetében a kormányhivatal a döntéshozatali eljárás jogszerűségét vizsgálja.
 
 (5) A kormányhivatal a tanács elnökének vagy munkaszervezete vezetőjének kérésére a tanács által alkalmazandó jogszabályok tartalmával összefüggésben szakmai segítséget nyújt.
+
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 460/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
