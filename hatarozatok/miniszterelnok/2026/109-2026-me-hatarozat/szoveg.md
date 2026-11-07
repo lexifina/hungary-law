@@ -50,22 +50,6 @@ a) dr. Ágostházy Szabolcs Imrét az RRF monitoring bizottsága elnöki tiszts�
 
 b) dr. Nemcsok Dénes Sándort, a VTM európai uniós fejlesztésekért felelős államtitkárát az RRF monitoring bizottsága elnökévé – 2026. november 7-i hatállyal – kinevezem.
 
-5. Visszavonom
+5.[^1]
 
-5.1. a 2007–2013 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek felmentéséről és új elnökök kinevezéséről szóló 112/2014. (IX. 16.) ME határozatot,
-
-5.2. a 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek kinevezéséről szóló 21/2015. (III. 12.) ME határozatot,
-
-5.3. a Versenyképes Közép-Magyarország Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 73/2016. (VII. 4.) ME határozatot,
-
-5.4. a Társadalmi Megújulás Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 9/2017. (I. 17.) ME határozatot,
-
-5.5. a Partnerségi Megállapodás monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 20/2021. (IV. 6.) ME határozatot,
-
-5.6. a Digitális Megújulás Operatív Program Plusz monitoring bizottsága elnökének kinevezéséről szóló 34/2021. (VI. 24.) ME határozatot,
-
-5.7. a Belügyi Alapok monitoring bizottsága elnökének kinevezéséről szóló 74/2021. (XI. 2.) ME határozatot,
-
-5.8. a monitoring bizottságok elnökeinek felmentéséről és monitoring bizottságok elnökeinek kinevezéséről szóló 84/2022. (X. 5.) ME határozatot,
-
-5.9. a monitoring bizottságok elnökeinek kinevezéséről és monitoring bizottságok elnökeinek felmentéséről szóló 22/2023. (III. 13.) ME határozatot.
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
