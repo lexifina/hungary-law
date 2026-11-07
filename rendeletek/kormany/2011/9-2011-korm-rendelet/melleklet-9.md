@@ -160,7 +160,7 @@
 
 |  | P. H. ............................................... | P. H. ............................................... |
 
-|  | A közlekedésért felelős miniszter által vezetett minisztérium részéről: |  | a fővárosi és vármegyei kormányhivatal (építésügyi feladatkörében) |  |
+|  | A közlekedésért felelős miniszter által vezetett minisztérium részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi feladatkörében) |  |
 
 |  | Beosztás: |  | Beosztás: |  |
 

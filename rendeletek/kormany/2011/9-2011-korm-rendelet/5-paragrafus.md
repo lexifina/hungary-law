@@ -32,7 +32,7 @@ b) 93%-ának megfelelő mértékben, ha a település az adott évi központi k�
 
 a) a Kormány által kihirdetett veszélyhelyzet időszakában keletkező védekezési költségek esetében,
 
-b)[^96] a vármegyei önkormányzat tulajdonában lévő, kötelező feladatot szolgáló épületet ért károk helyreállítása esetében,
+b)[^96] a megyei önkormányzat tulajdonában lévő, kötelező feladatot szolgáló épületet ért károk helyreállítása esetében,
 
 c)[^97] a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 1. melléklete szerinti alapvető lakossági szolgáltatások ellátását szolgáló, önkormányzati tulajdonú épületek, építmények, partfal helyreállításával és a védekezéssel összefüggő költségek esetében, ha a helyi önkormányzat a vis maior esemény időpontjában adósságrendezési eljárás alatt áll.
 
@@ -86,7 +86,7 @@ e) a folyó jellegű működési kiadások.
 [^93]: Az 5. § (2) bekezdés c) pontja a 129/2014. (IV. 10.) Korm. rendelet 13. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^94]: Az 5. § (3) bekezdését a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 431/2024. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^95]: Az 5. § (4) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^96]: Az 5. § (4) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 119. §-a szerint módosított szöveg.
+[^96]: Az 5. § (4) bekezdés b) pontja a 426/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^97]: Az 5. § (4) bekezdés c) pontja a 383/2015. (XII. 8.) Korm. rendelet 15. § j) pontja szerint módosított szöveg.
 [^98]: Az 5. § (4) bekezdés d) pontját a 431/2024. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
 [^99]: Az 5. § (5) bekezdés a) pontja a 129/2014. (IV. 10.) Korm. rendelet 12. § 15. pontja szerint módosított szöveg.
