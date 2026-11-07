@@ -2,13 +2,13 @@
 
 a) az anyakönyvi ügyekért felelős minisztert,
 
-b)[^16] a fővárosi és vármegyei kormányhivatalt,
+b)[^16] a fővárosi és megyei kormányhivatalt,
 
 c) a hivatásos konzuli tisztviselőt
 
 jelöli ki.
 
-(2)[^17] E rendelet eltérő rendelkezése hiányában anyakönyvi szervként a fővárosi és vármegyei kormányhivatal jár el.
+(2)[^17] E rendelet eltérő rendelkezése hiányában anyakönyvi szervként a fővárosi és megyei kormányhivatal jár el.
 
-[^16]: A 2. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 257. §-a szerint módosított szöveg.
-[^17]: A 2. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 257. §-a szerint módosított szöveg.
+[^16]: A 2. § (1) bekezdés b) pontja a 442/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^17]: A 2. § (2) bekezdése a 442/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
