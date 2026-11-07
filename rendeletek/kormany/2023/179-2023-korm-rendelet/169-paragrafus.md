@@ -1,6 +1,6 @@
 ## 85. Ingatlan-nyilvántartási térkép
 
-169. §[^155] (1) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról teljes vagy szemlemásolat állítható ki.
+169. §[^156] (1) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról teljes vagy szemlemásolat állítható ki.
 
 (2) A térképmásolat az alábbiakat tartalmazza:
 
@@ -26,4 +26,4 @@ b) teljes másolat esetén a jogerős térképi adatokon túl az előzetes vált
 
 tartalmazza.
 
-[^155]: A 169. § a 287/2024. (IX. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^156]: A 169. § a 287/2024. (IX. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
