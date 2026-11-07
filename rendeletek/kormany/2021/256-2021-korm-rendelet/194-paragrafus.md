@@ -1,9 +1,9 @@
-194. § (1)[^319] A kedvezményezett részére támogatás a támogatási előleg kivételével akkor fizethető ki, ha az NFK a közbeszerzési eljárásra vonatkozóan támogató vagy feltétellel támogató tartalmú, az eljárás megindítására vonatkozó tanúsítványt, támogató tartalmú közbeszerzési záró tanúsítványt vagy utóellenőrzésről szóló jelentést, valamint az irányító hatóság támogató tartalmú nyilatkozatot állított ki.
+194. § (1)[^320] A kedvezményezett részére támogatás a támogatási előleg kivételével akkor fizethető ki, ha az NFK a közbeszerzési eljárásra vonatkozóan támogató vagy feltétellel támogató tartalmú, az eljárás megindítására vonatkozó tanúsítványt, támogató tartalmú közbeszerzési záró tanúsítványt vagy utóellenőrzésről szóló jelentést, valamint az irányító hatóság támogató tartalmú nyilatkozatot állított ki.
 
-(2)[^320]
+(2)[^321]
 
-(3)[^321] Az irányító hatóság az (1) bekezdés szerinti feltételt a támogatási szerződésbe beépíti.
+(3)[^322] Az irányító hatóság az (1) bekezdés szerinti feltételt a támogatási szerződésbe beépíti.
 
-[^319]: A 194. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 114. pontja szerint módosított szöveg.
-[^320]: A 194. § (2) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 3. pontja hatályon kívül helyezte.
-[^321]: A 194. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^320]: A 194. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 114. pontja szerint módosított szöveg.
+[^321]: A 194. § (2) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 3. pontja hatályon kívül helyezte.
+[^322]: A 194. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 44. §-ával megállapított szöveg.

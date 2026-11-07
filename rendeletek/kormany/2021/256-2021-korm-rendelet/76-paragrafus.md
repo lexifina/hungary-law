@@ -8,12 +8,12 @@ c) a szakmai szempontrendszer alapján kiválasztott projekt vagy projektek fels
 
 d) az adott közfeladatban érintett fejlesztés számára projektszinten rendelkezésre álló indikatív támogatási keretet,
 
-e)[^163] a kiemelt projekt tárgyának és támogatást igénylőjének meghatározása során a projektek versenyeztetése mellőzésének jogszabályban vagy kormányhatározatban történt kijelölésen alapuló indokait.
+e)[^164] a kiemelt projekt tárgyának és támogatást igénylőjének meghatározása során a projektek versenyeztetése mellőzésének jogszabályban vagy kormányhatározatban történt kijelölésen alapuló indokait.
 
-(2)[^164]
+(2)[^165]
 
-(3)[^165]
+(3)[^166]
 
-[^163]: A 76. § (1) bekezdés e) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 48. pontja szerint módosított szöveg.
-[^164]: A 76. § (2) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
-[^165]: A 76. § (3) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
+[^164]: A 76. § (1) bekezdés e) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 48. pontja szerint módosított szöveg.
+[^165]: A 76. § (2) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
+[^166]: A 76. § (3) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.

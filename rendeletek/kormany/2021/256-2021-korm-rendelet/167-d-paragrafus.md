@@ -1,4 +1,4 @@
-## 44/C.[^243] Áttérés a projekt Helyreállítási és Ellenállóképességi Terv terhére történő finanszírozására
+## 44/C.[^244] Áttérés a projekt Helyreállítási és Ellenállóképességi Terv terhére történő finanszírozására
 
 167/D. § (1) Az irányító hatóság és a nemzeti hatóság egyetértése esetén a projekt Helyreállítási és Ellenállóképességi Terv felhívása kerete terhére történő finanszírozására lehet áttérni (ezen alcím alkalmazásában a továbbiakban: áttérés), ha
 
@@ -14,4 +14,4 @@ e) az áttérés megfelel az (EU) 2021/1060 európai parlamenti és tanácsi ren
 
 (2) Az áttérést az irányító hatóság kezdeményezi.
 
-[^243]: A 44/C. alcímet (167/D. §-t) a 94/2026. (VI. 18.) Korm. rendelet 6. §-a iktatta be.
+[^244]: A 44/C. alcímet (167/D. §-t) a 94/2026. (VI. 18.) Korm. rendelet 6. §-a iktatta be.

@@ -1,3 +1,3 @@
-176/B. §[^258] Eredménytelen közbeszerzési eljárás esetén az e fejezet szerinti ellenőrzés az eredménytelenség okára terjed ki, kivéve, ha egy későbbi közbeszerzési eljárás jogalapja megfelelőségének megállapítása céljából az azt megelőző eredménytelen közbeszerzési eljárást más szempontból is ellenőrizni szükséges.
+176/B. §[^259] Eredménytelen közbeszerzési eljárás esetén az e fejezet szerinti ellenőrzés az eredménytelenség okára terjed ki, kivéve, ha egy későbbi közbeszerzési eljárás jogalapja megfelelőségének megállapítása céljából az azt megelőző eredménytelen közbeszerzési eljárást más szempontból is ellenőrizni szükséges.
 
-[^258]: A 176/B. §-t a 218/2024. (VII. 31.) Korm. rendelet 55. §-a iktatta be.
+[^259]: A 176/B. §-t a 218/2024. (VII. 31.) Korm. rendelet 55. §-a iktatta be.

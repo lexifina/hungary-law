@@ -2,7 +2,7 @@
 
 389. § Az irányító hatóság szabálytalansági eljárási jegyzőkönyv alapján, de szabálytalansági eljárás mellőzésével állapíthat meg szabálytalanságot és rendelhet el jogkövetkezményt, ha
 
-a)[^582] a szabálytalansággal érintett összeg nem éri el a hatályos támogatási szerződésben meghatározott támogatási összeg 1%-át, de legfeljebb az egymillió forintot,
+a)[^583] a szabálytalansággal érintett összeg nem éri el a hatályos támogatási szerződésben meghatározott támogatási összeg 1%-át, de legfeljebb az egymillió forintot,
 
 b) a kedvezményezett ellen adósságrendezési, felszámolási, végelszámolási, kényszertörlési vagy a megszüntetésére irányuló egyéb eljárás indult,
 
@@ -12,18 +12,18 @@ d) a szabálytalanság még azelőtt derült ki, hogy a kedvezményezett részé
 
 e) az audit hatóság vagy más ellenőrző szervezet által tett szabálytalansági gyanúbejelentés megállapításait elfogadja,
 
-f)[^583] az NFK nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja,
+f)[^584] az NFK nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja,
 
 g) a kedvezményezett nem teljesíti a biztosíték meghosszabbítására vagy cseréjére vonatkozó kötelezettségét,
 
-h)[^584] rendszerszintű szabálytalanság történt,
+h)[^585] rendszerszintű szabálytalanság történt,
 
-i)[^585] a jogkövetkezményt uniós jogszabály határozza meg, vagy
+i)[^586] a jogkövetkezményt uniós jogszabály határozza meg, vagy
 
-j)[^586] a kedvezményezett nem nyújtja be határidőben a záró kifizetési kérelmet, vagy nem teljesíti a záró kifizetési kérelemmel összefüggő hiánypótlási kötelezettséget.
+j)[^587] a kedvezményezett nem nyújtja be határidőben a záró kifizetési kérelmet, vagy nem teljesíti a záró kifizetési kérelemmel összefüggő hiánypótlási kötelezettséget.
 
-[^582]: A 389. § a) pontja a 195/2023. (V. 22.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^583]: A 389. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte, újonnan a 123/2023. (IV. 12.) Korm. rendelet 16. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 181. pontja szerint módosított szöveg.
-[^584]: A 389. § h) pontja a 195/2023. (V. 22.) Korm. rendelet 61. § (2) bekezdésével megállapított szöveg.
-[^585]: A 389. § i) pontja a 195/2023. (V. 22.) Korm. rendelet 61. § (2) bekezdésével megállapított szöveg.
-[^586]: A 389. § j) pontját a 195/2023. (V. 22.) Korm. rendelet 61. § (2) bekezdése iktatta be.
+[^583]: A 389. § a) pontja a 195/2023. (V. 22.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^584]: A 389. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte, újonnan a 123/2023. (IV. 12.) Korm. rendelet 16. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 181. pontja szerint módosított szöveg.
+[^585]: A 389. § h) pontja a 195/2023. (V. 22.) Korm. rendelet 61. § (2) bekezdésével megállapított szöveg.
+[^586]: A 389. § i) pontja a 195/2023. (V. 22.) Korm. rendelet 61. § (2) bekezdésével megállapított szöveg.
+[^587]: A 389. § j) pontját a 195/2023. (V. 22.) Korm. rendelet 61. § (2) bekezdése iktatta be.

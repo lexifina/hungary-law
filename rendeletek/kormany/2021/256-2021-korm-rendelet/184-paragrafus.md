@@ -1,18 +1,18 @@
-184. § (1)[^286] Az NFK a közbeszerzési dokumentumok kézhezvételét követő tizenkét munkanapon belül elvégzi azok közbeszerzési elszámolhatósági ellenőrzését.
+184. § (1)[^287] Az NFK a közbeszerzési dokumentumok kézhezvételét követő tizenkét munkanapon belül elvégzi azok közbeszerzési elszámolhatósági ellenőrzését.
 
-(2)[^287] Ha az (1) bekezdés szerinti dokumentumok hiányosak, hibásak vagy a dokumentumok módosítása közbeszerzési elszámolhatósági szempontból szükséges, az NFK három munkanapos határidő kitűzésével hiánypótlásra hívja fel a kedvezményezettet.
+(2)[^288] Ha az (1) bekezdés szerinti dokumentumok hiányosak, hibásak vagy a dokumentumok módosítása közbeszerzési elszámolhatósági szempontból szükséges, az NFK három munkanapos határidő kitűzésével hiánypótlásra hívja fel a kedvezményezettet.
 
-(3)[^288] A kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat, vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi az NFK részére.
+(3)[^289] A kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat, vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi az NFK részére.
 
-(4)[^289] Az NFK az (1) bekezdés szerinti határidőben vagy – ha ez későbbi időpont – az irányító hatóság nyilatkozata kézhezvételét követő két munkanapon belül a közbeszerzési eljárás megindítására vonatkozó tanúsítványt állít ki.
+(4)[^290] Az NFK az (1) bekezdés szerinti határidőben vagy – ha ez későbbi időpont – az irányító hatóság nyilatkozata kézhezvételét követő két munkanapon belül a közbeszerzési eljárás megindítására vonatkozó tanúsítványt állít ki.
 
-(5)[^290] Az NFK támogató vagy feltétellel támogató tartalmú tanúsítványa kiállításának feltétele az irányító hatóság támogató vagy feltétellel támogató tartalmú nyilatkozatának rendelkezésre állása.
+(5)[^291] Az NFK támogató vagy feltétellel támogató tartalmú tanúsítványa kiállításának feltétele az irányító hatóság támogató vagy feltétellel támogató tartalmú nyilatkozatának rendelkezésre állása.
 
-(6)[^291] Az NFK a tanúsítvány kiállításáról tájékoztatja a kedvezményezettet és az irányító hatóságot.
+(6)[^292] Az NFK a tanúsítvány kiállításáról tájékoztatja a kedvezményezettet és az irányító hatóságot.
 
-[^286]: A 184. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 84. pontja szerint módosított szöveg.
-[^287]: A 184. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 85. pontja szerint módosított szöveg.
-[^288]: A 184. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 86. pontja szerint módosított szöveg.
-[^289]: A 184. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 87. pontja szerint módosított szöveg.
-[^290]: A 184. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 88. pontja szerint módosított szöveg.
-[^291]: A 184. § (6) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 89. pontja szerint módosított szöveg.
+[^287]: A 184. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 84. pontja szerint módosított szöveg.
+[^288]: A 184. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 85. pontja szerint módosított szöveg.
+[^289]: A 184. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 86. pontja szerint módosított szöveg.
+[^290]: A 184. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 87. pontja szerint módosított szöveg.
+[^291]: A 184. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 88. pontja szerint módosított szöveg.
+[^292]: A 184. § (6) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 89. pontja szerint módosított szöveg.

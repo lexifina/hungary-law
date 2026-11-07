@@ -1,3 +1,3 @@
-326. §[^528]
+326. §[^529]
 
-[^528]: A 326. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
+[^529]: A 326. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
