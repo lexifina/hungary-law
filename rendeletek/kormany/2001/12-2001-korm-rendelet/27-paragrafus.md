@@ -6,7 +6,7 @@ a) a települési önkormányzat, ha az adott évben a jövedelemdifferenciáló
 
 b)[^300] a többi települési önkormányzat, valamint az egyházi jogi személyek a bérlakás létesítéséhez szükséges beruházási költség legfeljebb 70%-át igényelhetik,
 
-c)[^301] a vármegyei önkormányzatok az idősek otthona létesítéséhez szükséges beruházási költség legfeljebb 50%-át igényelhetik.
+c)[^301] a megyei önkormányzatok az idősek otthona létesítéséhez szükséges beruházási költség legfeljebb 50%-át igényelhetik.
 
 (3) A fővárosi kerületek esetében a főváros egészére kiszámított differenciálódás mérséklésére vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -14,5 +14,5 @@ c)[^301] a vármegyei önkormányzatok az idősek otthona létesítéséhez szü
 
 [^299]: A 27. § (2) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
 [^300]: A 27. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^301]: A 27. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
+[^301]: A 27. § (2) bekezdés c) pontja a 416/2026. (XI. 6.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
 [^302]: A 27. § (4) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.

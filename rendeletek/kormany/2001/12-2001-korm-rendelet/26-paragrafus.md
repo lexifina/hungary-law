@@ -4,7 +4,7 @@
 
 ## 1. A bérlakásállomány növelése
 
-26. § (1)[^295] A bérlakásállomány növelését szolgáló központi költségvetés Állami Támogatású Bérlakás Program előirányzatából a következő jogcímeken (a továbbiakban: jogcímek) igényelhetnek pályázat útján támogatást az önkormányzatok a d) pont szerinti jogcímre az egyházi jogi személyek, valamint idősek otthona létesítésére vármegyei önkormányzatok
+26. § (1)[^295] A bérlakásállomány növelését szolgáló központi költségvetés Állami Támogatású Bérlakás Program előirányzatából a következő jogcímeken (a továbbiakban: jogcímek) igényelhetnek pályázat útján támogatást az önkormányzatok a d) pont szerinti jogcímre az egyházi jogi személyek, valamint idősek otthona létesítésére megyei önkormányzatok
 
 a) szociális elhelyezés alapján történő bérbeadás céljából,
 
@@ -35,7 +35,7 @@ b) felsőfokú oktatási intézmény nappali tagozatos házas, illetőleg élett
 (8) Az (1) bekezdés b) pontjában meghatározott jogcímen csak akkor igényelhető támogatás, ha az önkormányzat vállalja a pályázati kiírás szerinti költségelvű lakbér alkalmazását.
 
 [^294]: A VIII. cím a 225/2001. (XI. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^295]: A 26. § (1) bekezdése a 207/2001. (X. 30.) Korm. rendelet 7. §-ával, nyitó szövegrésze az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
+[^295]: A 26. § (1) bekezdése a 207/2001. (X. 30.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze az 51/2003. (IV. 9.) Korm. rendelet 5. § (1) bekezdése, a 297/2013. (VII. 29.) Korm. rendelet 17. § b) pontja, a 416/2026. (XI. 6.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
 [^296]: A 26. § (1) bekezdésének d) pontja az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
 [^297]: A 26. § (5) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (3) bekezdésével megállapított szöveg.
 [^298]: A 26. § (6) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
