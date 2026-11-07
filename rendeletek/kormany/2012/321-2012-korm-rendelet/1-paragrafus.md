@@ -10,7 +10,7 @@
 
 4. falugyűlés: Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 98. § (3) bekezdése szerinti falugyűlés, város esetében az érintett településrész lakossági fóruma;
 
-5.[^1] kormányhivatal: a település fekvése szerint illetékes fővárosi vagy vármegyei kormányhivatal;
+5.[^1] kormányhivatal: a település fekvése szerint illetékes fővárosi vagy megyei kormányhivatal;
 
 6. külterület: a település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési, vízgazdálkodási, vagy különleges (pl. bánya, vízmeder, hulladéktelep) célra szolgáló, vagy művelés alatt nem álló természetközeli része;
 
@@ -24,4 +24,4 @@
 
 11. területrész átadása: egymással határos területrész átadása, átvétele, cseréje települési önkormányzatok között.
 
-[^1]: Az 1. § 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 147. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 5. pontja a 430/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

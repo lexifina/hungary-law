@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-321-20-
 | 2016-09-01 | 2012-321-20-22.5 | 136/2016. (VI. 13.) Korm. rendelet |
 | 2020-03-01 | 2012-321-20-22.6 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2012-321-20-22.7 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-11-07 | 2012-321-20-22.8 | 430/2026. (XI. 6.) Korm. rendelet |
