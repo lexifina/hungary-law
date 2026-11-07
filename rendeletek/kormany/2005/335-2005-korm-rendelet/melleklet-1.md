@@ -38,7 +38,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 
 17.[^245] VERITAS Történetkutató Intézet
 
-18.[^246] Fővárosi és vármegyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
+18.[^246] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
 19.[^247] Országos Idegenrendészeti Főigazgatóság
 
@@ -70,7 +70,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 
 33.[^259] Nemzetgazdasági Minisztérium
 
-34.[^260] Közigazgatási és Területfejlesztési Minisztérium
+34.[^260] Vidék- és Településfejlesztési Minisztérium
 
 35. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -108,7 +108,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 [^243]: Az 1. melléklet 15. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^244]: Az 1. melléklet 16. pontját az 573/2020. (XII. 9.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte, újonnan a 314/2023. (VII. 17.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^245]: Az 1. melléklet 17. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
-[^246]: Az 1. melléklet 18. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^246]: Az 1. melléklet 18. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított, a 417/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^247]: Az 1. melléklet 19. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^248]: Az 1. melléklet 20. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^249]: Az 1. melléklet 21. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított, a 239/2022. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
@@ -122,7 +122,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 [^257]: Az 1. melléklet 29. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontja iktatta be, szövege a 137/2019. (VI. 11.) Korm. rendelet 14. § s) pontja szerint módosított szöveg.
 [^258]: Az 1. melléklet 30. pontja a 281/2023. (VI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^259]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
-[^260]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^260]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 417/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^261]: Az 1. melléklet 37. pontját a 107/2024. (V. 9.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte, újonnan a 328/2024. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^262]: Az 1. melléklet 38. pontja az 591/2023. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^263]: Az 1. melléklet 39. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.

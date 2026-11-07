@@ -58,3 +58,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2026-01-06 | 2005-335-20-22.54 | 436/2025. (XII. 23.) Korm. rendelet |
 | 2026-10-01 | 2005-335-20-22.55 | 166/2026. (IX. 21.) Korm. rendelet |
 | 2026-11-01 | 2005-335-20-22.56 | 335/2026. (X. 29.) Korm. rendelet |
+| 2026-11-07 | 2005-335-20-22.57 | 87/2012. (IV. 26.) Korm. rendelet |

@@ -32,7 +32,7 @@
 
 ## b) a Magyar Közlöny Szerkesztőség küldeményei;
 
-## c)[^269] a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és vármegyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését a Magyar Államkincstár végzi;
+## c)[^269] a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését a Magyar Államkincstár végzi;
 
 ## d) diplomáciai és konzuli küldemények, valamint a Magyarországon akkreditált diplomáciai testületek küldeményei;
 
@@ -54,11 +54,11 @@
 
 ## m)[^275] feladóhoz visszaérkezett tértivevények;
 
-## n)[^276] a fővárosi és vármegyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
+## n)[^276] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-## o)[^277] a vármegyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
+## o)[^277] a megyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
 
-## p)[^278] az egészségbiztosítás pénzbeli ellátásaival, a baleset üzemiségének elbírálásával, a baleseti táppénzzel, a méltányosságból igénybe vehető pénzbeli egészségbiztosítási ellátásokkal és egyszeri segéllyel, az utazási költségtérítési támogatással, valamint a foglalkoztatók és társadalombiztosítási kifizetőhelyek felügyeletével kapcsolatos feladatkörükben eljáró fővárosi és vármegyei kormányhivatalok eljárásaiban keletkezett küldemények, amelyeknek a kézbesítését a Magyar Államkincstár végzi.
+## p)[^278] az egészségbiztosítás pénzbeli ellátásaival, a baleset üzemiségének elbírálásával, a baleseti táppénzzel, a méltányosságból igénybe vehető pénzbeli egészségbiztosítási ellátásokkal és egyszeri segéllyel, az utazási költségtérítési támogatással, valamint a foglalkoztatók és társadalombiztosítási kifizetőhelyek felügyeletével kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok eljárásaiban keletkezett küldemények, amelyeknek a kézbesítését a Magyar Államkincstár végzi.
 
 3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^279]
 
@@ -164,16 +164,16 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 [^267]: A 2. melléklet címe a 477/2021. (VIII. 9.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^268]: A 2. melléklet II. Speciális kivételek pont a) alpontja az 597/2023. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^269]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^269]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a, a 417/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^270]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
 [^271]: A 2. melléklet II. pont i) alpontja a 436/2025. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^272]: A 2. melléklet II. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (4) bekezdésével megállapított szöveg.
 [^273]: A 2. melléklet II. pont k) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (5) bekezdésével megállapított szöveg.
 [^274]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
 [^275]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^276]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
-[^277]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
-[^278]: A 2. melléklet II. pont p) alpontját a 286/2023. (VI. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege e módosító rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^276]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése, a 417/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^277]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 417/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^278]: A 2. melléklet II. pont p) alpontját a 286/2023. (VI. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 417/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^279]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^280]: A 3. melléklet 8. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
 [^281]: A 3. melléklet 14. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

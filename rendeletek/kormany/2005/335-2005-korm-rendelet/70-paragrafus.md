@@ -22,7 +22,7 @@ történő bevonásának ütemezéséről.
 
 (5)[^221] E rendeletnek a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 137/2019. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr. 3.) megállapított 61. § (7) bekezdése szerinti, az iratról a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerinti hiteles elektronikus másolat készítésére vonatkozó kötelezettséget az 1. mellékletben és a 3. mellékletben felsorolt szerveknek a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben támasztott követelményekről szóló 3/2018. (II. 21.) BM rendeletnek megfelelő iratkezelő szoftver működtetésének időpontjától kell teljesíteniük, ha a Módr. 3. hatálybalépésekor[^222] még nem rendelkeznek ilyen iratkezelő szoftverrel.
 
-(6)[^223] A fővárosi és vármegyei kormányhivataloknak, valamint járási (fővárosi kerületi) hivatalaiknak a 61. § (7) bekezdése szerinti – az iratról a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerinti hiteles elektronikus másolat készítésére vonatkozó – kötelezettséget 2022. január 1-jétől kell teljesíteniük.
+(6)[^223] A fővárosi és megyei kormányhivataloknak, valamint járási (fővárosi kerületi) hivatalaiknak a 61. § (7) bekezdése szerinti – az iratról a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerinti hiteles elektronikus másolat készítésére vonatkozó – kötelezettséget 2022. január 1-jétől kell teljesíteniük.
 
 [^216]: A 70. §-t újonnan a 346/2014. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 34/2015. (II. 27.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^217]: A 70. § (1) bekezdése a 113/2015. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -31,4 +31,4 @@ történő bevonásának ütemezéséről.
 [^220]: A 70. § (3) bekezdése a 113/2015. (IV. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^221]: A 70. § (5) bekezdését a 137/2019. (VI. 11.) Korm. rendelet 13. §-a iktatta be, szövege a 408/2024. (XII. 20.) Korm. rendelet 6. § 29. pontja szerint módosított szöveg.
 [^222]: A hatálybalépés időpontja 2019. június 19.
-[^223]: A 70. § (6) bekezdését a 255/2020. (VI. 2.) Korm. rendelet 1. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 63. §-a, a 408/2024. (XII. 20.) Korm. rendelet 6. § 30. pontja szerint módosított szöveg.
+[^223]: A 70. § (6) bekezdését a 255/2020. (VI. 2.) Korm. rendelet 1. §-a iktatta be, szövege a 408/2024. (XII. 20.) Korm. rendelet 6. § 30. pontja, a 417/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
