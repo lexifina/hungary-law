@@ -18,7 +18,7 @@ d) a szakpolitikai felelősök;
 
 e)[^248] a területfejlesztésért felelős miniszter;
 
-f)[^249] a vármegyei önkormányzatok érdekképviseleti szerve;
+f)[^249] a megyei önkormányzatok érdekképviseleti szerve;
 
 g) a megyei jogú városok önkormányzatainak érdekképviseleti szerve és a fővárosi közgyűlés;
 
@@ -56,7 +56,7 @@ f)[^254] a (3) bekezdésben fel nem sorolt miniszter.
 [^246]: A 30. § (3) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 42. pontja szerint módosított szöveg.
 [^247]: A 30. § (3) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^248]: A 30. § (3) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^249]: A 30. § (3) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 192. § b) pontja szerint módosított szöveg.
+[^249]: A 30. § (3) bekezdés f) pontja a 435/2026. (XI. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^250]: A 30. § (3) bekezdés h) pontja a 466/2015. (XII. 29.) Korm. rendelet 54. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^251]: A 30. § (3) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 49. pontja szerint módosított szöveg.
 [^252]: A 30. § (3) bekezdés k) pontját a 144/2015. (VI. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be.

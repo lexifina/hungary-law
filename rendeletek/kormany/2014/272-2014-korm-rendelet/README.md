@@ -112,3 +112,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2026-06-19 | 2014-272-20-22.106 | 374/2022. (IX. 30.) Korm. rendelet |
 | 2026-07-02 | 2014-272-20-22.107 | 105/2026. (VII. 1.) Korm. rendelet |
 | 2026-08-08 | 2014-272-20-22.108 | 121/2026. (VIII. 7.) Korm. rendelet |
+| 2026-11-07 | 2014-272-20-22.109 | 435/2026. (XI. 6.) Korm. rendelet |

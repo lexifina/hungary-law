@@ -32,7 +32,7 @@ d) a szakpolitikai felelős,
 
 e)[^237] a területi programok esetében a területfejlesztésért felelős miniszter,
 
-f)[^238] az érintett vármegyei önkormányzatok érdekképviseleti szerve,
+f)[^238] az érintett megyei önkormányzatok érdekképviseleti szerve,
 
 g) az érintett megyei jogú városok önkormányzatai érdekképviseleti szerve és a fővárosi közgyűlés,
 
@@ -73,7 +73,7 @@ f)[^241] az Európai Hálózatfinanszírozási Eszközből származó források 
 [^235]: A 29. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^236]: A 29. § (4) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^237]: A 29. § (4) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^238]: A 29. § (4) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 192. § b) pontja szerint módosított szöveg.
+[^238]: A 29. § (4) bekezdés f) pontja a 435/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^239]: A 29. § (4) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 48. pontja szerint módosított szöveg.
 [^240]: A 29. § (5) bekezdés e) pontja a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 9. pontja szerint módosított szöveg.
 [^241]: A 29. § (5) bekezdés f) pontját a 75/2016. (IV. 5.) Korm. rendelet 56. § (2) bekezdése iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
