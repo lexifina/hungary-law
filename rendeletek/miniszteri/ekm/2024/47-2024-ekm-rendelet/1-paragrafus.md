@@ -2,7 +2,7 @@
 
 (2) A díjakat az eljárás kezdeményezésével egyidejűleg az alábbi keretszámlára kell igazoltan befizetni:
 
-a)[^1] az 1. mellékletben foglalt táblázat 4–7. sorában, 9. és 12. sorában, 19–21. sorában, 23–25. sorában megállapított díjakat, az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárásban, az 1. mellékletben foglalt táblázat 10. és 11. sorában, valamint 13–18. sorában megállapított díjakat, továbbá a 2. és 3. mellékletben megállapított díjakat a közúti közlekedési nyilvántartó szerv (a továbbiakban: Nyilvántartó) Energiaügyi Minisztérium Magyar Államkincstárnál vezetett, 10032000-00290713-06020037 számú bevételek beszedése célelszámolási számlájára;
+a)[^1] az 1. mellékletben foglalt táblázat 4–7. sorában, 9. és 12. sorában, 19–21. sorában, 23–25. sorában megállapított díjakat, az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárásban, az 1. mellékletben foglalt táblázat 10. és 11. sorában, valamint 13–18. sorában megállapított díjakat, továbbá a 2. és 3. mellékletben megállapított díjakat a közúti közlekedési nyilvántartó szerv (a továbbiakban: Nyilvántartó) Tudományos és Technológiai Minisztérium Magyar Államkincstárnál vezetett, 10032000-01425190-06020037 számú bevételek beszedése célelszámolási számlájára;
 
 b) az 1. mellékletben foglalt táblázat 3. sorában, 10. és 11. sorában, valamint 13–18. sorában megállapított díjakat – kivéve az a) pontban meghatározott, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárást, továbbá, ha a Nyilvántartó, illetve ha az 1. mellékletben foglalt táblázat 17. sora esetében a Nemzeti Adó- és Vámhivatal jár el – a fővárosi és vármegyei kormányhivatal előirányzat-felhasználási keretszámlájára;
 
@@ -40,4 +40,4 @@ akkor az a) pont szerinti esetben a különbözet összegét, a b) pont szerinti
 
 (15) A közlekedési hatóság igazolásával engedélyezett rendszámtábla felszerelésekor a hatósági jelzés kiadásával kapcsolatos eljárási díj tartalmazza a regisztrációs matrica egyedi kiadásával kapcsolatos eljárási díjat is.
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 14/2025. (V. 17.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdés a) pontja a 10/2026. (XI. 6.) KBM rendelet 1. § a) és b) pontja szerint módosított szöveg.
