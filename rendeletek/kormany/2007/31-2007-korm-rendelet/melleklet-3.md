@@ -20,7 +20,7 @@
 
 | 9. | MEKH | Energiatermelés | 1.2.1. | frissítést követően | ország | frissítést követő 90. nap |
 
-| 10. | FGSZ | Magyarország nemzetközi és hazai, illetve térségi jelentőségű földgáz szállítóvezetékeinek nyomvonalas térképe | 3.3.3. | évente | ország, kiemelt térség, vármegye | június 1. |
+| 10. | FGSZ | Magyarország nemzetközi és hazai, illetve térségi jelentőségű földgáz szállítóvezetékeinek nyomvonalas térképe | 3.3.3. | évente | ország, kiemelt térség, megye | június 1. |
 
 | 11. | LTK | Magyarország felszínborítottsága adatbázis | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -50,17 +50,17 @@
 
 | 24. | KSH | Általános Mezőgazdasági Összeírás főbb adatkörei | 1.3.1. | a felmérés gyakorisága szerint | település | frissítést követő 90. nap |
 
-| 25. | KSH | MR-STAR-t helyettesítő mutatók. | számos témakör | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
+| 25. | KSH | MR-STAR-t helyettesítő mutatók. | számos témakör | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
 | 26. | KSH | Településstatisztikai Adatbázis Rendszer (T-STAR) | számos témakör | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 27. | KSH | Vállalati K+F tevékenység | 1.1.6. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
+| 27. | KSH | Vállalati K+F tevékenység | 1.1.6. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
 | 28. | KSH | High-tech, medium-high-tech, valamint tudásintenzív üzleti szolgáltatást végző működő vállalkozások adatai | 1.1.5. és 1.1.6. | évente vagy frissítést követően | járás | frissítést követő 90. nap |
 
 | 29. | KSH | Működő ipari vállalkozások száma létszám kategória szerint | 1.1.4. és 1.1.5. | évente vagy frissítést követően | járás | frissítést követő 90. nap |
 
-| 30. | KSH | Ipari alkalmazottak létszám-kategória szerinti adatai | 1.1.4. és 1.1.5. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
+| 30. | KSH | Ipari alkalmazottak létszám-kategória szerinti adatai | 1.1.4. és 1.1.5. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
 | 31. | KSH | Férőhelyek száma a 4 és 5 csillagos szállodákban | 1.3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -86,13 +86,13 @@
 
 | 42. | AM | Élőfa-készlet | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 43. | NÉBIH | Égett erdőterület | 4.6. | frissítést követően | vármegye | frissítést követő 90. nap |
+| 43. | NÉBIH | Égett erdőterület | 4.6. | frissítést követően | megye | frissítést követő 90. nap |
 
 | 44. | SZTNH | Szabadalmi bejegyzések | 1.1.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 45. | ATK TAKI | Agrotopográfiai térkép | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 46. | NGM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
+| 46. | NGM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
 | 47. | NFK | Egységes Monitoring Információs Rendszer (EMIR), Fejlesztéspolitikai Adatbázis és Információs Rendszer (FAIR) | 5.2. | negyedévente | projekt | frissítést követő 15. nap |
 
@@ -108,25 +108,25 @@
 
 | 53. | ONI | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 54. | OMSZ | Sürgősségi betegellátás adatai | 2.4.1. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
+| 54. | OMSZ | Sürgősségi betegellátás adatai | 2.4.1. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
 | 55. | MÁK | Foglalkoztatottak FEÁOR szerinti adatai | 1.1.4. és 2.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 56. | BM | Az állam által nyújtott azonosítási szolgáltatásokra vonatkozó területi statisztikai adatok | 5.1. | évente vagy frissítést követően | regisztráció helyszíne (település) | frissítést követő 90. nap |
 
-| 57. | BM | Közfoglalkoztatási statisztikai adatok | 2.2.2. | havonta | település és vármegye | a referencia időszakot követő második hónap 25-e |
+| 57. | BM | Közfoglalkoztatási statisztikai adatok | 2.2.2. | havonta | település és megye | a referencia időszakot követő második hónap 25-e |
 
-| 58. | KSH | Földhasználat, mű- és szervestrágyával, növényvédőszerrel kezelt területre vonatkozó statisztikai adatok | 4.6. | évente | vármegye | frissítést követő 90. nap |
+| 58. | KSH | Földhasználat, mű- és szervestrágyával, növényvédőszerrel kezelt területre vonatkozó statisztikai adatok | 4.6. | évente | megye | frissítést követő 90. nap |
 
 | 59. | KSH | Hulladékgazdálkodási statisztikai adatok | 3.5. | évente | település | frissítést követő 90. nap |
 
-| 60. | KSH | Oktatáshoz kapcsolódó statisztikai adatok (felsőoktatás, közoktatás, végzettség, nyelvtanulás, férőhelyek) | 2.4.4. | évente | település, vármegye, régió | frissítést követő 90. nap |
+| 60. | KSH | Oktatáshoz kapcsolódó statisztikai adatok (felsőoktatás, közoktatás, végzettség, nyelvtanulás, férőhelyek) | 2.4.4. | évente | település, megye, régió | frissítést követő 90. nap |
 
-| 61. | KSH | Lakáspiaci adatok | 2.3.1. | évente | település, vármegye, régió | frissítést követő 90. nap |
+| 61. | KSH | Lakáspiaci adatok | 2.3.1. | évente | település, megye, régió | frissítést követő 90. nap |
 
-| 62. | KSH | Termelési koncentráció (bruttó hozzáadott érték) nemzetgazdasági áganként | 1.2.1. és 1.2.2. | évente | vármegye | frissítést követő 90. nap |
+| 62. | KSH | Termelési koncentráció (bruttó hozzáadott érték) nemzetgazdasági áganként | 1.2.1. és 1.2.2. | évente | megye | frissítést követő 90. nap |
 
-| 63. | KSH | Építőipari termelési érték megoszlása a kivitelező székhelye és kivitelezés helye szerint | 1.3.3. | évente | vármegye | frissítést követő 90. nap |
+| 63. | KSH | Építőipari termelési érték megoszlása a kivitelező székhelye és kivitelezés helye szerint | 1.3.3. | évente | megye | frissítést követő 90. nap |
 
 | 64. | KSH | Fűtésre, energiaellátásra vonatkozó statisztikai adatok | 3.3. | évente | település | frissítést követő 90. nap |
 
@@ -218,7 +218,7 @@
 
 | 27. | Országos Vízügyi Főigazgatóság | OVF |
 
-| 28. | Pest Vármegyei Kormányhivatal | PMKH |
+| 28. | Pest Megyei Kormányhivatal | PMKH |
 
 | 29. | Nemzeti Szakképzési és Felnőttképzési Hivatal | NSZFH |
 

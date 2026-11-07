@@ -30,7 +30,7 @@ b) térbeli objektum,
 
 c)[^30] település és fővárosi kerület,
 
-d)[^31] a területfejlesztésről szóló 2023. évi CII. törvény 5. § 3–5., 8., 9. és 14. pontja szerinti térségek, a vármegye,
+d)[^31] a területfejlesztésről szóló 2023. évi CII. törvény 5. § 3–5., 8., 9. és 14. pontja szerinti térségek, a megye,
 
 e) az ország és
 
@@ -42,4 +42,4 @@ f) az Európai Unió.
 [^28]: A 4. § (3) bekezdés h) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
 [^29]: A 4. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 3. §-ával megállapított, nyitó szövegrésze a 157/2022. (IV. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^30]: A 4. § (4) bekezdés c) pontja a 157/2022. (IV. 19.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^31]: A 4. § (4) bekezdés d) pontja a 140/2024. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^31]: A 4. § (4) bekezdés d) pontja a 140/2024. (VI. 28.) Korm. rendelet 1. §-ával megállapított, a 419/2026. (XI. 6.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.
