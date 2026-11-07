@@ -46,7 +46,7 @@
 
 Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatal
 
-1. Baranya vármegye
+1.[^119] Baranya megye
 
 |  | A | B |
 
@@ -72,7 +72,7 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 
 | 11. | Szigetvár | Szentlőrinc |
 
-2. Bács-Kiskun vármegye
+2.[^120] Bács-Kiskun megye
 
 |  | A | B |
 
@@ -100,7 +100,7 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 
 | 12. | Tiszakécske | Kecskemét |
 
-3. Békés vármegye
+3.[^121] Békés megye
 
 |  | A | B |
 
@@ -124,7 +124,7 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 
 | 10. | Szeghalom | Gyomaendrőd |
 
-4. Borsod-Abaúj-Zemplén vármegye
+4.[^122] Borsod-Abaúj-Zemplén megye
 
 |  | A | B |
 
@@ -214,7 +214,7 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 
 | 24. | XXIII. kerület | XVIII. kerület |
 
-6. Csongrád-Csanád vármegye
+6.[^123] Csongrád-Csanád megye
 
 |  | A | B |
 
@@ -234,7 +234,7 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 
 | 8. | Szentes | Csongrád |
 
-7. Fejér vármegye
+7.[^124] Fejér megye
 
 |  | A | B |
 
@@ -256,22 +256,9 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 
 | 9. | Székesfehérvár | Enying |
 
-8. Győr-Moson-Sopron vármegye
-
-|  | A | B |
-
-| 1. | Járási hivatal | Helyettesítő járási hivatal |
-
-| 2. | Csorna | Győr |
-
-| 3. | Kapuvár | Sopron |
-
-| 4. | Mosonmagyaróvár | Győr |
-
-| 5. | Pannonhalma | Tét |
-
-| 6. | Sopron | Kapuvár |
-
-| 7. | Tét | Pannonhalma |
-
-| 8. | Győr | Mosonmagyaróvár |
+[^119]: A 3. melléklet 1. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 62. pontja szerint módosított szöveg.
+[^120]: A 3. melléklet 2. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 63. pontja szerint módosított szöveg.
+[^121]: A 3. melléklet 3. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 64. pontja szerint módosított szöveg.
+[^122]: A 3. melléklet 4. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 65. pontja szerint módosított szöveg.
+[^123]: A 3. melléklet 6. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 66. pontja szerint módosított szöveg.
+[^124]: A 3. melléklet 7. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 67. pontja szerint módosított szöveg.

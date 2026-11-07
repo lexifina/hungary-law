@@ -1,4 +1,4 @@
-33. § (1) A főispán minden év február 28. napjáig a kormányhivatal előző évi tevékenységéről, valamint a (2) bekezdésben meghatározott kérdésekről szóló összegző beszámolót készít, amelyet megküld a miniszter részére.
+33. § (1)[^52] A kormánymegbízott minden év február 28. napjáig a kormányhivatal előző évi tevékenységéről, valamint a (2) bekezdésben meghatározott kérdésekről szóló összegző beszámolót készít, amelyet megküld a miniszter részére.
 
 (2) A kormányhivatal beszámolójának tartalmaznia kell különösen:
 
@@ -17,3 +17,5 @@ f) a kormányhivatal, valamint a járási hivatal kormányablakainak, továbbá 
 g) a kormányhivatalhoz benyújtott panaszokkal és közérdekű bejelentésekkel kapcsolatos ügyintézés tapasztalatait, valamint
 
 h) egyéb, a miniszter által meghatározott szempontokat.
+
+[^52]: A 33. § (1) bekezdése a 455/2026. (XI. 6.) Korm. rendelet 1. § 28. pontja szerint módosított szöveg.

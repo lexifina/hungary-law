@@ -1,8 +1,8 @@
 ## 1. Általános rendelkezések
 
-1. § (1) E rendelet alkalmazásában államigazgatási feladatot ellátó, államigazgatási hatáskörrel, hatósági jogkörrel rendelkező helyi önkormányzati szerven a polgármestert, a főpolgármestert, a vármegyei közgyűlés elnökét, a jegyzőt, valamint a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézőjét kell érteni.
+1. § (1)[^1] E rendelet alkalmazásában államigazgatási feladatot ellátó, államigazgatási hatáskörrel, hatósági jogkörrel rendelkező helyi önkormányzati szerven a polgármestert, a főpolgármestert, a megyei közgyűlés elnökét, a jegyzőt, valamint a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézőjét kell érteni.
 
-(2) E rendelet alkalmazásában polgármester alatt a főpolgármestert és a vármegyei közgyűlés elnökét, jegyző alatt a főjegyzőt is érteni kell.
+(2)[^2] E rendelet alkalmazásában polgármester alatt a főpolgármestert és a megyei közgyűlés elnökét, jegyző alatt a főjegyzőt is érteni kell.
 
 (3) E rendelet alkalmazásában központi kormányzati igazgatási szervek területi szerve alatt a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 2. § (2) bekezdésében meghatározott szerv területi szervét kell érteni.
 
@@ -32,7 +32,7 @@ k) kommunikációs és nemzetközi kapcsolatok lebonyolításával kapcsolatos
 
 feladatok.
 
-(5) E rendelet alkalmazásában, a fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) kormánytisztviselőinek és kormányzati ügykezelőinek továbbképzéséhez és előírható képzési és továbbképzési kötelezettségeihez kapcsolódóan
+(5)[^3] E rendelet alkalmazásában, a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) kormánytisztviselőinek és kormányzati ügykezelőinek továbbképzéséhez és előírható képzési és továbbképzési kötelezettségeihez kapcsolódóan
 
 1. belső továbbképzés: a kormányzati igazgatási szerv, felsőoktatási vagy felnőttképző intézmény által folytatott szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
 
@@ -59,3 +59,7 @@ feladatok.
 12. utazási költség: a kormányhivatalok kormánytisztviselői lakóhelye vagy tartózkodási helye, valamint az oktatási esemény helyszíne között – a képzésen, vizsgán történő részvétel céljából – helyközi (távolsági) utazással az oktatási eseményre utazás és hazautazás díja.
 
 (6) E rendelet alkalmazásában módszertani támogatás: a Kit. 40. § (2) bekezdése szerinti szakmai irányító miniszter (a továbbiakban: szakmai irányító miniszter)által a kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
+
+[^1]: Az 1. § (1) bekezdése a 455/2026. (XI. 6.) Korm. rendelet 1. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 455/2026. (XI. 6.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdés nyitó szövegrésze a 455/2026. (XI. 6.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.

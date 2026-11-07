@@ -2,7 +2,7 @@
 
 A járási hivatalok székhelyei és illetékességi területük
 
-1. Baranya vármegye
+1.[^100] Baranya megye
 
 1.1. Bólyi Járási Hivatal
 
@@ -646,7 +646,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 1.10.46. Zádor
 
-2. Bács-Kiskun vármegye
+2.[^101] Bács-Kiskun megye
 
 2.1. Bajai Járási Hivatal
 
@@ -930,7 +930,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 2.11.6. Tiszaug
 
-3. Békés vármegye
+3.[^102] Békés megye
 
 3.1. Békési Járási Hivatal
 
@@ -1118,7 +1118,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 3.9.8. Vésztő
 
-4. Borsod-Abaúj-Zemplén vármegye
+4.[^103] Borsod-Abaúj-Zemplén megye
 
 4.1. Cigándi Járási Hivatal
 
@@ -1900,7 +1900,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 4.16.12. Tokaj
 
-5. Csongrád-Csanád vármegye
+5.[^104] Csongrád-Csanád megye
 
 5.1. Csongrádi Járási Hivatal
 
@@ -2050,7 +2050,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 5.7.9. Szentes
 
-6. Fejér vármegye
+6.[^105] Fejér megye
 
 6.1. Bicskei Járási Hivatal
 
@@ -2300,7 +2300,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 6.8.26. Zámoly
 
-7. Győr-Moson-Sopron vármegye
+7.[^106] Győr-Moson-Sopron megye
 
 7.1. Csornai Járási Hivatal
 
@@ -2696,7 +2696,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 7.7.15. Tét
 
-8. Hajdú-Bihar vármegye
+8.[^107] Hajdú-Bihar megye
 
 8.1. Balmazújvárosi Járási Hivatal
 
@@ -2902,7 +2902,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 8.10.13. Tetétlen
 
-9. Heves vármegye
+9.[^108] Heves megye
 
 9.1. Bélapátfalvai Járási Hivatal
 
@@ -3174,7 +3174,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 9.7.21. Váraszó
 
-10. Jász-Nagykun-Szolnok vármegye
+10.[^109] Jász-Nagykun-Szolnok megye
 
 10.1. Jászapáti Járási Hivatal
 
@@ -3368,7 +3368,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 10.9.8. Törökszentmiklós
 
-11. Komárom-Esztergom vármegye
+11.[^110] Komárom-Esztergom megye
 
 11.1. Esztergomi Járási Hivatal
 
@@ -3546,7 +3546,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 11.6.11. Vértesszőlős
 
-12. Nógrád vármegye
+12.[^111] Nógrád megye
 
 12.1. Balassagyarmati Járási Hivatal
 
@@ -3834,7 +3834,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 12.6.15. Varsány
 
-13. Pest vármegye
+13.[^112] Pest megye
 
 13.1. Aszódi Járási Hivatal
 
@@ -4282,7 +4282,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 13.18.5. Vecsés
 
-14. Somogy vármegye
+14.[^113] Somogy megye
 
 14.1. Barcsi Járási Hivatal
 
@@ -4808,7 +4808,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 14.8.25. Zics
 
-15. Szabolcs-Szatmár-Bereg vármegye
+15.[^114] Szabolcs-Szatmár-Bereg megye
 
 15.1. Baktalórántházai Járási Hivatal
 
@@ -5320,7 +5320,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 15.13.12. Zsurk
 
-16. Tolna vármegye
+16.[^115] Tolna megye
 
 16.1. Bonyhádi Járási Hivatal
 
@@ -5564,7 +5564,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 16.6.5. Tolna
 
-17. Vas vármegye
+17.[^116] Vas megye
 
 17.1. Celldömölki Járási Hivatal
 
@@ -6026,7 +6026,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 17.7.24. Vasvár
 
-18. Veszprém vármegye
+18.[^117] Veszprém megye
 
 18.1. Ajkai Járási Hivatal
 
@@ -6502,7 +6502,7 @@ A járási hivatalok székhelyei és illetékességi területük
 
 18.10.16. Zirc
 
-19. Zala vármegye
+19.[^118] Zala megye
 
 19.1. Keszthelyi Járási Hivatal
 
@@ -7043,3 +7043,23 @@ A járási hivatalok székhelyei és illetékességi területük
 19.6.20. Zalaszentlászló
 
 19.6.21. Zalavég
+
+[^100]: Az 1. melléklet 1. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 43. pontja szerint módosított szöveg.
+[^101]: Az 1. melléklet 2. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 44. pontja szerint módosított szöveg.
+[^102]: Az 1. melléklet 3. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 45. pontja szerint módosított szöveg.
+[^103]: Az 1. melléklet 4. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 46. pontja szerint módosított szöveg.
+[^104]: Az 1. melléklet 5. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^105]: Az 1. melléklet 6. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 48. pontja szerint módosított szöveg.
+[^106]: Az 1. melléklet 7. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 49. pontja szerint módosított szöveg.
+[^107]: Az 1. melléklet 8. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 50. pontja szerint módosított szöveg.
+[^108]: Az 1. melléklet 9. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 51. pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet 10. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 52. pontja szerint módosított szöveg.
+[^110]: Az 1. melléklet 11. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 53. pontja szerint módosított szöveg.
+[^111]: Az 1. melléklet 12. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 54. pontja szerint módosított szöveg.
+[^112]: Az 1. melléklet 13. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 55. pontja szerint módosított szöveg.
+[^113]: Az 1. melléklet 14. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 56. pontja szerint módosított szöveg.
+[^114]: Az 1. melléklet 15. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 57. pontja szerint módosított szöveg.
+[^115]: Az 1. melléklet 16. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 58. pontja szerint módosított szöveg.
+[^116]: Az 1. melléklet 17. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 59. pontja szerint módosított szöveg.
+[^117]: Az 1. melléklet 18. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 60. pontja szerint módosított szöveg.
+[^118]: Az 1. melléklet 19. pontja a 455/2026. (XI. 6.) Korm. rendelet 1. § 61. pontja szerint módosított szöveg.

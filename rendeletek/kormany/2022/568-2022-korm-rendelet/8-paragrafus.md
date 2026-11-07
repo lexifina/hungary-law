@@ -1,6 +1,6 @@
-8. § (1)[^7] A kormányablakok és a Központi Kormányablak működésének szakmai irányítását a miniszter – az informatikai vonatkozású kérdéskörökben az e-közigazgatásért felelős miniszter közreműködésével – látja el.
+8. § (1)[^13] A kormányablakok és a Központi Kormányablak működésének szakmai irányítását a miniszter – az informatikai vonatkozású kérdéskörökben az e-közigazgatásért felelős miniszter közreműködésével – látja el.
 
-(2)[^8] A miniszter szakmai irányítást gyakorol a kormányablakok és a Központi Kormányablak ügyfélszolgálati tevékenysége felett, amelynek keretében ellátja az ügyfélszolgálati működés fejlesztésére, elemzésére és monitoringjára vonatkozó feladatokat.
+(2)[^14] A miniszter szakmai irányítást gyakorol a kormányablakok és a Központi Kormányablak ügyfélszolgálati tevékenysége felett, amelynek keretében ellátja az ügyfélszolgálati működés fejlesztésére, elemzésére és monitoringjára vonatkozó feladatokat.
 
-[^7]: A 8. § (1) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § b) pont ba) alpontja, a 242/2025. (VII. 31.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^8]: A 8. § (2) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § b) pont bb) alpontja, a 242/2025. (VII. 31.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^13]: A 8. § (1) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § b) pont ba) alpontja, a 242/2025. (VII. 31.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § (2) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § b) pont bb) alpontja, a 242/2025. (VII. 31.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ b) belső továbbképzésből (a továbbiakban: Munkába Illesztő Képzés)
 
 áll.
 
-(3)[^18] A kormányablak-ügyintézői képzés és a kormányablak-ügyintézői vizsga tekintetében a miniszter által vezetett minisztérium szakmai iránymutatást nyújt, különösen a
+(3)[^31] A kormányablak-ügyintézői képzés és a kormányablak-ügyintézői vizsga tekintetében a miniszter által vezetett minisztérium szakmai iránymutatást nyújt, különösen a
 
 a) tananyagfejlesztés,
 
@@ -20,7 +20,7 @@ c) vizsgalebonyolítás
 
 tekintetében.
 
-(4)[^19] A kormányablak-ügyintézői képzés
+(4)[^32] A kormányablak-ügyintézői képzés
 
 a) közszolgálati továbbképzési részének megszervezéséért az Egyetem,
 
@@ -28,11 +28,11 @@ b) Munkába Illesztő Képzés részének megszervezéséért a miniszter, lebon
 
 felel.
 
-(5)[^20] A kormányablak-ügyintézői képzés sikeres teljesítését követően a miniszter a 4. melléklet szerinti adattartalommal bizonyítványt állít ki.
+(5)[^33] A kormányablak-ügyintézői képzés sikeres teljesítését követően a miniszter a 4. melléklet szerinti adattartalommal bizonyítványt állít ki.
 
-(6)[^21] A kormányablak-ügyintézői képzés és vizsga részletes követelmény- és szabályrendszerét a miniszter adja ki.
+(6)[^34] A kormányablak-ügyintézői képzés és vizsga részletes követelmény- és szabályrendszerét a miniszter adja ki.
 
-(7)[^22] A kormányablak-ügyintézői képzés Munkába Illesztő Képzés rész
+(7)[^35] A kormányablak-ügyintézői képzés Munkába Illesztő Képzés rész
 
 a) adott tananyagrészének és az ahhoz kapcsolódó vizsgakérdések felülvizsgálatáért és hatályosításáért a szakmai irányító miniszter,
 
@@ -40,8 +40,8 @@ b) tananyagának és a vizsgakérdések teljes körű naprakészen tartásáért
 
 felelős.
 
-[^18]: A 23. § (3) bekezdés nyitó szövegrésze a 402/2024. (XII. 16.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^19]: A 23. § (4) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^20]: A 23. § (5) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^21]: A 23. § (6) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^22]: A 23. § (7) bekezdését a 402/2024. (XII. 16.) Korm. rendelet 3. §-a iktatta be.
+[^31]: A 23. § (3) bekezdés nyitó szövegrésze a 402/2024. (XII. 16.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^32]: A 23. § (4) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 23. § (5) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^34]: A 23. § (6) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^35]: A 23. § (7) bekezdését a 402/2024. (XII. 16.) Korm. rendelet 3. §-a iktatta be.
