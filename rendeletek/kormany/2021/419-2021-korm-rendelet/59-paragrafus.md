@@ -28,7 +28,7 @@ tartalmazó döntése alapozza meg.
 
 (2a)[^126] A településterv, kézikönyv készítését és módosítását, valamint a településképi rendelet módosítását megalapozó, (2) bekezdés szerinti döntések E-TÉR rendszerbe történő feltöltésére indokolt esetben külön-külön is sor kerülhet.
 
-(3)[^127] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
+(3)[^127] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
 
 (4)[^128] A településterv készítése és módosítása a (2) bekezdés szerinti képviselő-testületi döntés megszületésétől tekinthető folyamatban lévőnek.
 
@@ -36,6 +36,6 @@ tartalmazó döntése alapozza meg.
 
 [^125]: Az 59. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 172. § (1) bekezdésével megállapított szöveg.
 [^126]: Az 59. § (2a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 172. § (2) bekezdése iktatta be.
-[^127]: Az 59. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^127]: Az 59. § (3) bekezdése a 451/2026. (XI. 6.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
 [^128]: Az 59. § (4) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 172. § (3) bekezdése iktatta be.
 [^129]: Az 59. § (5) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 19. §-a iktatta be.
