@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-178-20-
 | 2021-01-01 | 2008-178-20-22.23 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2021-07-01 | 2008-178-20-22.24 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2008-178-20-22.25 | 629/2022. (XII. 30.) Korm. rendelet |
+| 2026-11-07 | 2008-178-20-22.26 | 70/2015. (III. 30.) Korm. rendelet |
