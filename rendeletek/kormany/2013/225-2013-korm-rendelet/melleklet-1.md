@@ -2,4 +2,4 @@
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
-[^15]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 37. §-ával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 25. § b) pontja, az 546/2022. (XII. 22.) Korm. rendelet 35. § b) és c) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 84. és 85. §-a szerint módosított szöveg.
+[^15]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 37. §-ával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 25. § b) pontja, az 546/2022. (XII. 22.) Korm. rendelet 35. § b) és c) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 84. és 85. §-a, a 432/2026. (XI. 6.) Korm. rendelet 1. § 4–16. pontja szerint módosított szöveg.
