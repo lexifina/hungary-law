@@ -1,4 +1,4 @@
-1. melléklet a 396/2015. (XII. 12.) Korm. rendelethez[^102]
+1. melléklet a 396/2015. (XII. 12.) Korm. rendelethez[^103]
 
 A 2014–2020 programozási időszakban a transznacionális és interregionális együttműködési programok végrehajtásában érintett szervezetek
 
@@ -22,4 +22,4 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 
 | 9. | az együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | területfejlesztésért felelős miniszter | területfejlesztésért felelős miniszter | területfejlesztésért felelős miniszter | területfejlesztésért felelős miniszter | területfejlesztésért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
 
-[^102]: Az 1. melléklet a 92/2019. (IV. 23.) Korm. rendelet 10. § 13. pontja, a 615/2022. (XII. 29.) Korm. rendelet 13. §-a, az 599/2023. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^103]: Az 1. melléklet a 92/2019. (IV. 23.) Korm. rendelet 10. § 13. pontja, a 615/2022. (XII. 29.) Korm. rendelet 13. §-a, az 599/2023. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.

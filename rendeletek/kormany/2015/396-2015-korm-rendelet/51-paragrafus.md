@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti szervezet vezetője köteles gondoskodni az intézkedési terv – így különösen a szabálytalanságok kezelésével kapcsolatos intézkedések – megvalósításának folyamatos nyomon követéséről.
 
-(3)[^85] Az (1) bekezdés szerinti szervezet vezetője köteles minden évben, november 15-i zárónappal beszámolót készíteni a (2) bekezdés szerinti tevékenységéről és azt, valamint az azt alátámasztó dokumentumokat tizenöt napon belül tájékoztatás céljából megküldeni az audit hatóság részére.
+(3)[^86] Az (1) bekezdés szerinti szervezet vezetője köteles minden évben, november 15-i zárónappal beszámolót készíteni a (2) bekezdés szerinti tevékenységéről és azt, valamint az azt alátámasztó dokumentumokat tizenöt napon belül tájékoztatás céljából megküldeni az audit hatóság részére.
 
-[^85]: Az 51. § (3) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 17. § 14. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^86]: Az 51. § (3) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 17. § 14. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

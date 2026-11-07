@@ -1,4 +1,4 @@
-6/A. §[^21] (1) Ha a hazai kedvezményezett a hitelesítési tevékenységre kijelölt szervezet a 6. § (3) bekezdése szerinti vizsgálatának eredményével vagy a 6. § (6) bekezdése szerinti hitelesítési nyilatkozatának tartalmával nem ért egyet, a kézhezvételétől számított öt munkanapon belül panasszal élhet a hitelesítési tevékenységre kijelölt szervezet felé.
+6/A. §[^22] (1) Ha a hazai kedvezményezett a hitelesítési tevékenységre kijelölt szervezet a 6. § (3) bekezdése szerinti vizsgálatának eredményével vagy a 6. § (6) bekezdése szerinti hitelesítési nyilatkozatának tartalmával nem ért egyet, a kézhezvételétől számított öt munkanapon belül panasszal élhet a hitelesítési tevékenységre kijelölt szervezet felé.
 
 (2) A panaszban meg kell jelölni
 
@@ -12,7 +12,7 @@ c) a panasz indokoltságát igazoló tényeket és körülményeket, amelyek al�
 
 (4) A nemzeti hatóság megvizsgálja a panaszt, és annak kézhezvételét követő tizenöt munkanapon belül tájékoztatja az érintetteket a vizsgálat eredményéről.
 
-(5)[^22] A nemzeti hatóság a panaszt érdemi vizsgálat nélkül elutasítja, ha
+(5)[^23] A nemzeti hatóság a panaszt érdemi vizsgálat nélkül elutasítja, ha
 
 a) azt az arra nyitva álló határidőn túl terjesztették elő,
 
@@ -24,5 +24,5 @@ d) a kérelem nem felel meg a (2) bekezdésben foglaltaknak.
 
 (6) Amennyiben a nemzeti hatóság a panaszt érdemi vizsgálat nélkül nem utasítja el, a hitelesítési tevékenységre kijelölt szervezet panasszal érintett költségre vonatkozó döntését helybenhagyja, vagy azt megsemmisíti és a hitelesítési tevékenységre kijelölt szervezetet a panasszal érintett költségre vonatkozóan új döntés meghozatalára utasítja.
 
-[^21]: A 6/A. §-t a 482/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 339/2023. (VII. 25.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
-[^22]: A 6/A. § (5) bekezdése a 90/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 6/A. §-t a 482/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 339/2023. (VII. 25.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
+[^23]: A 6/A. § (5) bekezdése a 90/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

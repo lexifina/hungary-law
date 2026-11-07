@@ -10,6 +10,6 @@
 
 (5) Az audit hatóság 2016-tól 2024-ig köteles évente felülvizsgálni az audit stratégiát.
 
-(6)[^83] Az audit hatóság az audit stratégiában foglaltaknak megfelelően köteles elkészíteni az éves ellenőrzési tervét, melyet tájékoztatás céljából megküld az irányító hatóság és közös titkárság részére.
+(6)[^84] Az audit hatóság az audit stratégiában foglaltaknak megfelelően köteles elkészíteni az éves ellenőrzési tervét, melyet tájékoztatás céljából megküld az irányító hatóság és közös titkárság részére.
 
-[^83]: A 48. § (6) bekezdése a 92/2019. (IV. 23.) Korm. rendelet 10. § 9. pontja, a 90/2024. (IV. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^84]: A 48. § (6) bekezdése a 92/2019. (IV. 23.) Korm. rendelet 10. § 9. pontja, a 90/2024. (IV. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
