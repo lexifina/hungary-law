@@ -12,7 +12,7 @@ e)[^94] az a)–d) pont szerinti személynek a Polgári Törvénykönyvről szó
 
 f)[^95] tekintetében az irányító hatósághoz érkezett bejelentés alapján vagy hivatalból az irányító hatóság megállapítja, hogy a pártatlan és objektív közreműködése nem biztosítható.
 
-(2)[^96] A támogatásra vonatkozó döntés előkészítésében és meghozatalában nem vehet részt politikai párt vezető tisztségviselője vagy alkalmazottja, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, vármegyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, európai parlamenti képviselő.
+(2)[^96] A támogatásra vonatkozó döntés előkészítésében és meghozatalában nem vehet részt politikai párt vezető tisztségviselője vagy alkalmazottja, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, európai parlamenti képviselő.
 
 (3)[^97] A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor az adott pályázati felhívásra vonatkozó teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) és (2) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy fizetési titkot megőrzi.
 
@@ -30,7 +30,7 @@ f)[^95] tekintetében az irányító hatósághoz érkezett bejelentés alapján
 
 [^94]: A 14. § (1) bekezdés e) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
 [^95]: A 14. § (1) bekezdés f) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 11. pontja szerint módosított szöveg.
-[^96]: A 14. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 8. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 118. §-a szerint módosított szöveg.
+[^96]: A 14. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 8. §-ával megállapított, a 425/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^97]: A 14. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^98]: A 14. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 9. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 12. pontja szerint módosított szöveg.
 [^99]: A 14. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 10. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 13. pontja szerint módosított szöveg.
