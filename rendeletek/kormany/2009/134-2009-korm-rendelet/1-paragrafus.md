@@ -138,7 +138,7 @@ j) a telek ára,
 
 22.[^16] lakás: a településrendezési és építési követelményekről szóló kormányrendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel,
 
-23.[^17] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes fővárosi és vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala,
+23.[^17] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes fővárosi és megyei kormányhivatal, Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala,
 
 24.[^18] összkomfortos lakás: az a lakás, amely legalább
 
@@ -210,7 +210,7 @@ c)[^29] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóa
 [^14]: Az 1. § (2) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^15]: Az 1. § (2) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^16]: Az 1. § (2) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 10. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
-[^17]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 69. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 100. §-a szerint módosított szöveg.
+[^17]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 69. § (1) bekezdésével megállapított, a 421/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^18]: Az 1. § (2) bekezdés 24. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^19]: Az 1. § (2) bekezdés 24. pont b) alpontja a 285/2024. (IX. 30.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
 [^20]: Az 1. § (2) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 27. § e) pontja szerint módosított szöveg.
