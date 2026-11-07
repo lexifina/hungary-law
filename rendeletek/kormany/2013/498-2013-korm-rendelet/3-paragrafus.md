@@ -6,7 +6,7 @@ b) az 1. § b) pontja és a 2. § (2) bekezdés a)–f) pontja tekintetében a s
 
 c) az 1. § c) pontja és a 2. § (3) bekezdése tekintetében az ott felsorolt költségvetési szervek által kiállított igazolvány,
 
-d)[^5] az 1. § c) pontja és a 2. § (4) bekezdése tekintetében a fővárosi és a vármegyei kormányhivatal által kiállított igazolvány,
+d)[^5] az 1. § c) pontja és a 2. § (4) bekezdése tekintetében a fővárosi és a megyei kormányhivatal által kiállított igazolvány,
 
 e) az 1. § d) pontja és a 2. § (5) bekezdése tekintetében a viszonossági megállapodásban részes társaságok által a jogosult kérelmére kiállított igazolás
 
@@ -16,4 +16,4 @@ birtokában veszik igénybe.
 
 (3) A kiállító az (1) bekezdés szerint kiállított igazolvány és igazolás kiadását nyilvántartja.
 
-[^5]: A 3. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 238. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 174. §-a szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 238. § (2) bekezdésével megállapított, a 433/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

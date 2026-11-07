@@ -16,7 +16,7 @@ f)[^2] a közlekedési szolgáltatónál szakképzési munkaszerződés alapján
 
 (3)[^3] A közlekedésért felelős miniszter által vezetett minisztérium, az 1. § c) pontja szerinti közlekedési kedvezményt kormánytisztviselőjének és ügykezelőjének nyújthat.
 
-(4)[^4] A fővárosi és vármegyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
+(4)[^4] A fővárosi és megyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
 
 (5) Az 1. § d) pontja szerinti viszonossági megállapodás alapján közlekedési kedvezményt
 
@@ -35,4 +35,4 @@ társaság a viszonossági megállapodásokban jogosultként meghatározott szem
 [^1]: A 2. § (2) bekezdés d) pontja a 26/2017. (II. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 91. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdése a 230/2016. (VII. 29.) Korm. rendelet 7. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 255. §-a szerint módosított szöveg.
-[^4]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 174. §-a szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított, a 433/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
