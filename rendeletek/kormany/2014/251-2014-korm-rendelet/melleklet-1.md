@@ -16,7 +16,7 @@ a külföldiek mező- és erdőgazdasági hasznosítású földnek nem minősül
 
 | A megszerezni kívánt ingatlan címe: A megszerezni kívánt ingatlan helyrajzi száma: A megszerezni kívánt ingatlan jogi jellege: Az ingatlanon elhelyezkedő épületek fő rendeltetés szerinti jellege: Az ingatlan megszerzésének jogcíme: |
 
-2/B. Árve rés útján kívánok ingatlant vásárolni a fővárosi/vármegyei kormányhivatal illetékességi területén:** □
+2/B. Árve rés útján kívánok ingatlant vásárolni a fővárosi/megyei kormányhivatal illetékességi területén:** □
 
 | ** A 2/B. pont szerinti esetben a 2/A. pontot nem kell kitölteni. |
 
@@ -58,4 +58,4 @@ Aláírás:
 
 …………………………………....
 
-[^25]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 507. § f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 190. § a) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 507. § f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 190. § a) pontja, a 434/2026. (XI. 6.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ d)[^5] megállapítható az ingatlan tulajdonjoga átruházásának szándéka.
 
 (1a)[^6] Az ügyfél nyilatkozata nem pótolhatja a hiányzó bizonyítékot.
 
-(2)[^7] A fővárosi és vármegyei kormányhivatal az engedély megadását az (1) bekezdés a) pontjában meghatározott feltétel teljesülése esetén is megtagadhatja, amennyiben a külföldi honossága szerinti állam nemzetközi szerződés vagy viszonosság alapján nem biztosít a magyar állampolgároknak, valamint a magyarországi székhelyű jogi személyeknek a belföldiekkel legalább azonos elbírálást, kivéve, ha
+(2)[^7] A fővárosi és megyei kormányhivatal az engedély megadását az (1) bekezdés a) pontjában meghatározott feltétel teljesülése esetén is megtagadhatja, amennyiben a külföldi honossága szerinti állam nemzetközi szerződés vagy viszonosság alapján nem biztosít a magyar állampolgároknak, valamint a magyarországi székhelyű jogi személyeknek a belföldiekkel legalább azonos elbírálást, kivéve, ha
 
 a) a tulajdonszerzés célja közös tulajdon megszüntetése vagy
 
@@ -31,5 +31,5 @@ b) a külföldi természetes személy Magyarországon folyamatosan legalább 5 �
 [^4]: A 4. § (1) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 506. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^5]: A 4. § (1) bekezdés d) pontját a 457/2017. (XII. 28.) Korm. rendelet 506. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^6]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 506. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^7]: A 4. § (2) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 190. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdés nyitó szövegrésze a 434/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^8]: A 4. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 506. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-10. §[^23] A fővárosi és vármegyei kormányhivatal nyilvántartást vezet:
+10. §[^23] A fővárosi és megyei kormányhivatal nyilvántartást vezet:
 
 a) a külföldiek magyarországi ingatlanszerzésére vonatkozó eljárásokkal összefüggésben az engedélyt megadó határozatok, a kérelmet elutasító határozatok és az eljárást megszüntető végzések számáról,
 
@@ -10,4 +10,4 @@ d) a külföldiek által megszerzett magyarországi ingatlanokon elhelyezkedő �
 
 e) a külföldiek által megszerzett magyarországi ingatlanok megszerzésének jogcíméről.
 
-[^23]: A 10. § nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 190. § a) pontja szerint módosított szöveg.
+[^23]: A 10. § nyitó szövegrésze a 434/2026. (XI. 6.) Korm. rendelet 1. § j) pontja szerint módosított szöveg.
