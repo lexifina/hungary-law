@@ -28,7 +28,7 @@ jb) a szabálytalanságkezelést.
 
 (3)[^19] A Társaság a Gazdaság-újraindítási Akcióterv keretében részt vesz a kistelepülési üzletek támogatásának lebonyolításában, a 62/2021. (II. 12.) Korm. rendelet 1. § (3) bekezdése alapján.
 
-(4)[^20] A közvetlen irányítású uniós programok tekintetében felmerülő feladatok ellátása érdekében a Közigazgatási és Területfejlesztési Minisztérium mint támogató a Társaság mint lebonyolító szerv közreműködését veheti igénybe.
+(4)[^20] A közvetlen irányítású uniós programok tekintetében felmerülő feladatok ellátása érdekében a Vidék- és Településfejlesztési Minisztérium mint támogató a Társaság mint lebonyolító szerv közreműködését veheti igénybe.
 
 (5)[^21] A Társaság a felnőttképzésről szóló 2013. évi LXXVII. törvény 2/A. § (2) bekezdés b) pontja szerinti engedélyköteles felnőttképzési tevékenységet láthat el.
 
@@ -44,6 +44,6 @@ jb) a szabálytalanságkezelést.
 [^17]: A 6. § (1) bekezdés h) pontját a 242/2025. (VII. 31.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
 [^18]: A 6. § (1) bekezdés i) pontját a 242/2025. (VII. 31.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
 [^19]: A 6. § (3) bekezdését kívül helyezte a 39/2020. (III. 10.) Korm. rendelet 2. §-a, újonnan a 242/2025. (VII. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^20]: A 6. § (4) bekezdését a 242/2025. (VII. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^20]: A 6. § (4) bekezdését a 242/2025. (VII. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 446/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^21]: A 6. § (5) bekezdését a 242/2025. (VII. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^22]: A 6. § (6) bekezdését a 242/2025. (VII. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be.

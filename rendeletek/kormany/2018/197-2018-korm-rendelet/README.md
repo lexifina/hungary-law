@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-197-20-
 | 2021-12-28 | 2018-197-20-22.5 | 798/2021. (XII. 27.) Korm. rendelet |
 | 2022-09-07 | 2018-197-20-22.6 | 335/2022. (IX. 6.) Korm. rendelet |
 | 2025-08-01 | 2018-197-20-22.7 | 242/2025. (VII. 31.) Korm. rendelet |
+| 2026-11-07 | 2018-197-20-22.8 | 242/2025. (VII. 31.) Korm. rendelet |
