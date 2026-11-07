@@ -12,7 +12,7 @@
 
 (7) A miniszter az (5) bekezdés szerinti döntéséről írásban tájékoztatja a kérelmezőt, a meghagyásba vonó területi védelmi bizottságot és a Honvéd Vezérkar főnökét.
 
-(8)[^12] A meghagyási névjegyzéken a Honvédségnél, a rendvédelmi szerveknél és a nemzetbiztonsági szolgálatoknál foglalkoztatott hadkötelesek munkakörét nem kell feltüntetni.
+(8)[^35] A meghagyási névjegyzéken a Honvédségnél, a rendvédelmi szerveknél és a nemzetbiztonsági szolgálatoknál foglalkoztatott hadkötelesek munkakörét nem kell feltüntetni.
 
 (9) Ha a hadköteles
 
@@ -22,4 +22,4 @@ b) a meghagyási névjegyzéken szerepel, de nem dolgozik a meghagyásra kijelö
 
 és a Honvéd Vezérkar főnöke elrendeli a hadköteles törlését a meghagyási névjegyzékből, a meghagyásba bevont szerv az érintett meghagyási névjegyzékben szereplő adatait haladéktalanul, de legkésőbb 30 napon belül törli.
 
-[^12]: A 22. § (8) bekezdése a 212/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^35]: A 22. § (8) bekezdése a 212/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

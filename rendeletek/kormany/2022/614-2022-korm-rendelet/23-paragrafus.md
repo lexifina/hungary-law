@@ -8,11 +8,11 @@
 
 (4) Helyszíni ellenőrzést a Honvéd Vezérkar főnöke vagy a területi védelmi bizottság által kijelölt személy is végezhet. A helyszíni ellenőrzésre kijelölt személy ellenőrzési jogosultságát megbízólevéllel köteles igazolni.
 
-(5)[^13] Ha az ellenőrzés eredményeként megállapításra kerül, hogy a meghagyásba bevont szerv a meghagyás előkészítésével kapcsolatos feladatait nem vagy nem a jogszabályban meghatározott szabályok szerint teljesítette, az általános közigazgatási rendtartásról szóló törvényben foglalt intézkedéseken túl a Honvéd Vezérkar főnöke vagy a (2) bekezdésben meghatározott hatóság rendelkezhet a meghagyásra kijelölt munkakör kijelölésének törléséről. A végleges döntést közölni kell a a Honvédség központi nyilvántartó szervével is.
+(5)[^36] Ha az ellenőrzés eredményeként megállapításra kerül, hogy a meghagyásba bevont szerv a meghagyás előkészítésével kapcsolatos feladatait nem vagy nem a jogszabályban meghatározott szabályok szerint teljesítette, az általános közigazgatási rendtartásról szóló törvényben foglalt intézkedéseken túl a Honvéd Vezérkar főnöke vagy a (2) bekezdésben meghatározott hatóság rendelkezhet a meghagyásra kijelölt munkakör kijelölésének törléséről. A végleges döntést közölni kell a a Honvédség központi nyilvántartó szervével is.
 
-(6)[^14] Ha a területi védelmi bizottság az ellenőrzés során megállapítja, hogy az általa meghagyásba bevont szerv meghagyásba történő bevonásának a jogszabályban meghatározott feltételei nem állnak fenn, a meghagyásba történő bevonás megszüntetéséről dönt. A végleges döntést közölni kell a a Honvédség központi nyilvántartó szervével is.
+(6)[^37] Ha a területi védelmi bizottság az ellenőrzés során megállapítja, hogy az általa meghagyásba bevont szerv meghagyásba történő bevonásának a jogszabályban meghatározott feltételei nem állnak fenn, a meghagyásba történő bevonás megszüntetéséről dönt. A végleges döntést közölni kell a a Honvédség központi nyilvántartó szervével is.
 
 (7) Az (1)–(6) bekezdésben foglaltak nem alkalmazhatók, ha a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § n) pontja szerinti együttműködési megállapodás ettől eltérően rendelkezik.
 
-[^13]: A 23. § (5) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^14]: A 23. § (6) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^36]: A 23. § (5) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^37]: A 23. § (6) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
