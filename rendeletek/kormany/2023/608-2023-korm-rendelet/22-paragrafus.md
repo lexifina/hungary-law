@@ -6,6 +6,6 @@
 
 (4) A megfelelőségértékelő szervezetet érintő jogutódlás esetén, amennyiben a jogutód a megfelelőségértékelési tevékenységet folytatni kívánja, a jogutód az akkreditációs okirat kézhezvételét követő 8 napon belül az akkreditációs okirat másolatának megküldésével értesíti a tanúsító hatóságot, és a nyilvántartásba vételi, vagy az engedélyezési eljárásra vonatkozó szabályok szerint kezdeményezi a nyilvántartásba vételt, vagy az engedélyezés iránti eljárás megindítását. A megfelelőségértékelő szervezet a névváltozásról 8 napon belül értesíti a tanúsító hatóságot.
 
-(5)[^9] A megfelelőségértékelő szervezetet érintő változásról a tanúsító hatóság a nyilvántartásba való bejegyzésről szóló határozat véglegessé válásától számított 15 napon belül – a Kiberbiztonsági tv. 46. § (3) bekezdésére figyelemmel – értesíti a Bizottságot.
+(5)[^11] A megfelelőségértékelő szervezetet érintő változásról a tanúsító hatóság a nyilvántartásba való bejegyzésről szóló határozat véglegessé válásától számított 15 napon belül – a Kiberbiztonsági tv. 46. § (3) bekezdésére figyelemmel – értesíti a Bizottságot.
 
-[^9]: A 22. § (5) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 149. § f) pontja szerint módosított szöveg.
+[^11]: A 22. § (5) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 149. § f) pontja szerint módosított szöveg.

@@ -16,6 +16,8 @@ d) a megfelelőségértékelő szervezet 18. § (1) bekezdés a) pontja szerinti
 
 a) az arra a tanúsítási rendszerre vonatkozó akkreditációról szóló határozatot, amely keretében a kérelmező szervezet a tanúsítási tevékenységet végezni kívánja,
 
-b) a miniszteri rendeletben meghatározott követelmények teljesítésének igazolását és
+b)[^6] a megfelelőségértékelő szervezetekkel szemben jogszabályban támasztott követelmények teljesítésének igazolását, és
 
 c) a miniszteri rendeletben meghatározott igazgatási szolgáltatási díj megfizetésének igazolását.
+
+[^6]: A 9. § (3) bekezdés b) pontja a 466/2026. (XI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
