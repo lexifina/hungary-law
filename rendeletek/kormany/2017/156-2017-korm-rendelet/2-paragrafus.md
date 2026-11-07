@@ -16,7 +16,7 @@ c)[^2] szoftver vagy technológia Európai Unión kívüli országból történ�
 
 4. Belső Megfelelési Program: a vállalkozás megbízhatóságát alátámasztó tájékoztató dokumentum, amely tartalmazza a vállalkozás tevékenységére vonatkozó információkat, a tevékenysége során keletkezett dokumentumok kezelésének és a nyilvántartás leírását; meghatározza az e rendelet hatálya alá eső tevékenységben részt vevő személyek feladatkörét és felelősségét, tartalmazza a vállalkozáson belüli kockázatkezelés leírását, valamint e rendelet előírásainak vállalkozáson belüli végrehajtását, továbbá vállalkozáson belül rendelkezik az esetleges nemmegfelelőségek felszámolásának módjáról;
 
-5. brókertevékenység: a bróker által egy európai uniós tagállam és egy harmadik ország, illetve két harmadik ország vállalkozásai vagy szervei között haditechnikai eszköz vagy szolgáltatás adásvétele céljából végzett tevékenység, ideértve az üzlet megszervezését, a szerződő felek közötti közvetítést, az üzleti lehetőség jelzését a vevő vagy az eladó részére, valamint a saját jogon történő vételt és eladást, feltéve, ha az eszközök nem kerülnek Magyarország területére;
+5.[^5] brókertevékenység: a bróker által egy európai uniós tagállam és egy harmadik ország – ide nem értve az EGT-államokat, az Amerikai Egyesült Államokat, Ausztráliát, Japánt, Kanadát, Nagy-Britannia és Észak-Írország Egyesült Királyságát, Svájcot és Új-Zélandot –, illetve két harmadik ország vállalkozásai vagy szervei között haditechnikai termék szállítása vagy szolgáltatás nyújtása céljából végzett tevékenység, ideértve az üzlet megszervezését, a szerződő felek közötti közvetítést, az üzleti lehetőség jelzését a vevő szolgáltatást igénybe vevő vagy az eladó szolgáltatást nyújtó részére, valamint a saját jogon történő vételt és eladást, feltéve, hogy a termékek nem kerülnek Magyarország területére;
 
 6. devizamentes ügylet: elszámolási kötelezettség nélküli ügylet;
 
@@ -30,11 +30,11 @@ b) amely az árunyilatkozat elfogadásakor a harmadik országbeli címzett szerz
 
 9. felelős vezető: a Httv. 1. § a) pontja szerinti személy;
 
-10.[^5] haditechnikai eszköz: az 1. mellékletben meghatározott termék;
+10.[^6] haditechnikai termék: az 1. mellékletben meghatározott termék;
 
-11. haditechnikai külkereskedelem: haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenység, ideértve az ilyen tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő folytatását is, továbbá a haditechnikai termékkel kapcsolatban végzett brókertevékenység;
+11.[^7] haditechnikai külkereskedelem: haditechnikai termékek és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenység, ideértve az ilyen tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő folytatását is, továbbá a haditechnikai termékkel kapcsolatban végzett brókertevékenység;
 
-12. haditechnikai tevékenység: haditechnikai eszköz gyártása, haditechnikai szolgáltatás nyújtása és haditechnikai külkereskedelem;
+12.[^8] haditechnikai tevékenység: haditechnikai termék gyártása, haditechnikai szolgáltatás nyújtása és haditechnikai külkereskedelem;
 
 13. határon átnyúló szolgáltatásnyújtás: a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 2. § e) pontjában ekként meghatározott fogalom;
 
@@ -48,13 +48,13 @@ b) amely az árunyilatkozat elfogadásakor harmadik országbeli fél szerződő 
 
 16. kivitel:
 
-a)[^6] az Uniós Vámkódex 269. cikkében foglalt kiviteli eljárás,
+a)[^9] az Uniós Vámkódex 269. cikkében foglalt kiviteli eljárás,
 
 b) áruknak az Uniós Vámkódex 259. cikkében foglalt passzív feldolgozás keretében történt ideiglenes kivitele;
 
-c)[^7] szoftver vagy technológia átadása elektronikus eszközök, így különösen fax, telefon, elektronikus levél vagy bármely más elektronikus eszköz útján az Európai Unión kívüli rendeltetési helyre; ez magában foglalja a szoftver vagy technológia hozzáférhetővé tételét is az Európai Unión kívüli természetes vagy jogi személyek számára, vagy
+c)[^10] szoftver vagy technológia átadása elektronikus eszközök, így különösen fax, telefon, elektronikus levél vagy bármely más elektronikus eszköz útján az Európai Unión kívüli rendeltetési helyre; ez magában foglalja a szoftver vagy technológia hozzáférhetővé tételét is az Európai Unión kívüli természetes vagy jogi személyek számára, vagy
 
-d)[^8] technológia szóbeli átadása Európai Unión kívüli természetes vagy jogi személyek számára;
+d)[^11] technológia szóbeli átadása Európai Unión kívüli természetes vagy jogi személyek számára;
 
 17. kiviteli vámhivatal: az a vámhivatal, ahol az Európai Unióból harmadik országba kiszállított áruk tekintetében az Uniós Vámkódex 259., 269. és 270. cikke szerinti vámeljárásokat végzik, beleértve a megfelelő kockázatalapú ellenőrzéseket is;
 
@@ -64,11 +64,11 @@ d)[^8] technológia szóbeli átadása Európai Unión kívüli természetes vag
 
 20. tanúsított vállalat: vállalkozás, amely rendelkezik a külkereskedelmi államigazgatási és hadiipari gyártás- és szolgáltatásfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Hatóság) által kiadott tanúsítással, továbbá az Európai Unió más tagállamában letelepedett, a tagállam hatósága által tanúsított gyártó;
 
-21. transzfer: uniós árunak minősülő haditechnikai eszköz átadása vagy szállítása egy Európai Unió tagállamában lévő szállító és egy valamely másik tagállamban található címzett között, amely lehet:
+21.[^12] transzfer: uniós árunak minősülő haditechnikai termék átadása vagy szállítása egy Európai Unió tagállamában lévő szállító és egy valamely másik tagállamban található címzett között, amely lehet kiszállítás vagy beérkezés;
 
-a)[^9] kiszállítás: kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás Magyarország területéről az Európai Unió valamely tagállamába kerül, beleértve az ideiglenes árumozgást, valamint szoftver vagy technológia Európai Unió tagállamába szóban, írásos formában, elektronikus úton, faxon vagy telefonon történő továbbítását, illetve hozzáférhetővé tételét,
+21a.[^13] kiszállítás: kereskedelmi ügylet, amelynek során a haditechnikai termék vagy szolgáltatás Magyarország területéről az Európai Unió valamely tagállamába kerül, beleértve az ideiglenes árumozgást, valamint szoftvernek vagy technológiának az Európai Unió tagállamába szóban, írásos formában, elektronikus úton, faxon vagy telefonon történő továbbítását, illetve hozzáférhetővé tételét;
 
-b)[^10] beérkezés: kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás az Európai Unió valamely tagállamából érkezik Magyarország területére, beleértve az ideiglenes árumozgást, valamint szoftver vagy technológia Európai Unió tagállamából történő átvételét szóban, írásos formában, elektronikus úton, faxon vagy telefonon;
+21b.[^14] beérkezés: kereskedelmi ügylet, amelynek során a haditechnikai termék vagy szolgáltatás az Európai Unió valamely tagállamából érkezik Magyarország területére, beleértve az ideiglenes árumozgást, valamint szoftvernek vagy technológiának az Európai Unió tagállamából történő átvételét szóban, írásos formában, elektronikus úton, faxon vagy telefonon;
 
 22. transzfert végrehajtó: az a vállalkozás,
 
@@ -78,27 +78,31 @@ b) amely a nyilatkozat elfogadásakor az Európai Unió egyik tagállamában bej
 
 c) amely szoftver vagy technológia szóban, írásos formában, elektronikus úton, faxon vagy telefonon való továbbításáról rendelkezik az Európai Unió vámterületén belül;
 
-23.[^11] tranzit: olyan szállítási folyamat, amelynek során haditechnikai eszközt Magyarország területén keresztül úgy szállítanak át, hogy annak vámjogi helyzetében változás nem történik, továbbá tranzitnak minősül az olyan átrakodásos tranzitügylet is, amely szállítási folyamat során a haditechnikai eszköz nem ugyanazon szállítóeszközön hagyja el Magyarország területét, amelyen Magyarország területére érkezett;
+23.[^15] tranzit: olyan szállítási folyamat, amelynek során haditechnikai terméket Magyarország területén keresztül úgy szállítanak át, hogy annak vámjogi helyzetében változás nem történik, továbbá tranzitnak minősül az olyan átrakodásos tranzitügylet is, amely szállítási folyamat során a haditechnikai termék nem ugyanazon szállítóeszközön hagyja el Magyarország területét, amelyen Magyarország területére érkezett;
 
 24. újrakivitel: az Uniós Vámkódex 270. cikkében foglalt eljárás;
 
-25.[^12] vállalkozás: jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, gazdasági társaság, egyéni cég, egyéni vállalkozó, a költségvetési szerv, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény, valamint határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett vállalkozás;
+25.[^16] vállalkozás: jogi személy vagy jogi személyiség nélküli jogalany, különösen a gazdasági társaság, az egyéni cég, az egyéni vállalkozó, a költségvetési szerv, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény, valamint határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett vállalkozás;
 
-26.[^13] végfelhasználó: a kivitt áruknak a kiviteli engedélykérelem benyújtásakor ismert végső címzettje és tulajdonosa, az ügylet szerződéses feltételeinek megfelelően a 2021. január 15-i (KKBP) 2021/38 tanácsi határozat 3. cikk 1. pontjával összhangban;
+26.[^17] végfelhasználó: a kivitt áruknak a kiviteli engedélykérelem benyújtásakor ismert végső címzettje és tulajdonosa, az ügylet szerződéses feltételeinek megfelelően a 2021. január 15-i (KKBP) 2021/38 tanácsi határozat 3. cikk 1. pontjával összhangban;
 
-27.[^14] Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó vagy a végfelhasználó országának a 13. mellékletben meghatározott adattartalommal benyújtott nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és használatára vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra; tartalmazhat újrakivitelt korlátozó záradékot, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre az eredeti exportőr ország hozzájárulása nélkül.
+27.[^18] Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó vagy a végfelhasználó országának a 13. mellékletben meghatározott adattartalommal benyújtott nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és használatára vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra; tartalmazhat újrakivitelt korlátozó záradékot, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre az eredeti exportőr ország hozzájárulása nélkül.
 
 [^1]: A 2. § 1. pont a) alpontja a 78/2018. (IV. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^2]: A 2. § 1. pont c) alpontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 2. pontja a 78/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § 3. pontja a 78/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § 10. pontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § 16. pont a) alpontja a 165/2019. (VII. 8.) Korm. rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 2. § 16. pont c) alpontját a 165/2019. (VII. 8.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^8]: A 2. § 16. pont d) alpontját a 165/2019. (VII. 8.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § 21. pont a) alpontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^10]: A 2. § 21. pont b) alpontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^11]: A 2. § 23. pontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^12]: A 2. § 25. pontja a 360/2022. (IX. 19.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^13]: A 2. § 26. pontja a 360/2022. (IX. 19.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^14]: A 2. § 27. pontját a 360/2022. (IX. 19.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+[^5]: A 2. § 5. pontja a 465/2026. (XI. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § 10. pontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 465/2026. (XI. 6.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 11. pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § 12. pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 16. pont a) alpontja a 165/2019. (VII. 8.) Korm. rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 2. § 16. pont c) alpontját a 165/2019. (VII. 8.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 2. § 16. pont d) alpontját a 165/2019. (VII. 8.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^12]: A 2. § 21. pontja a 465/2026. (XI. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § 21a. pontját a 465/2026. (XI. 6.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A 2. § 21b. pontját a 465/2026. (XI. 6.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^15]: A 2. § 23. pontja a 465/2026. (XI. 6.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^16]: A 2. § 25. pontja a 465/2026. (XI. 6.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^17]: A 2. § 26. pontja a 360/2022. (IX. 19.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. § 27. pontját a 360/2022. (IX. 19.) Korm. rendelet 25. § (3) bekezdése iktatta be.

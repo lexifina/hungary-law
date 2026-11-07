@@ -8,7 +8,7 @@
 
 ## 5. külföldi szerződő partner neve, címe, székhelye,
 
-## 6. a beszállítani kívánt haditechnikai eszköznek
+## 6.[^142] a beszállítani kívánt haditechnikai terméknek
 
 ## 6.1. az 1. melléklet szerinti besorolása,
 
@@ -43,3 +43,5 @@ A kivitelre, újrakivitelére vagy kiszállításra és szolgáltatás nyújtás
 I.
 
 A kivitelre, újrakivitelére vagy kiszállításra és szolgáltatás nyújtására vonatkozó egyedi forgalmi engedély iránti kérelem kötelező tartalma:
+
+[^142]: A 7. melléklet I. rész 6. pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § j) pontja szerint módosított szöveg.

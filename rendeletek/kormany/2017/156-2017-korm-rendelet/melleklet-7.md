@@ -8,7 +8,7 @@
 
 ## 5. végfelhasználók neve, címe, székhelye,
 
-## 6. a kiszállítani kívánt haditechnikai eszköz
+## 6.[^141] a kiszállítani kívánt haditechnikai termék
 
 ## 6.1. 1. melléklet szerinti besorolása,
 
@@ -39,3 +39,5 @@ A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkoz�
 I.
 
 A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó globális forgalmi engedély iránti kérelem kötelező adattartalma:
+
+[^141]: A 6. melléklet I. rész 6. pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.

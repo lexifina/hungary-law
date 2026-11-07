@@ -1,3 +1,3 @@
-22/A. §[^44] A honvédelemért felelős miniszter a haditechnikai külkereskedelemre vonatkozó tevékenységi engedély, tárgyalási engedély vagy forgalmi engedély megszerzésére irányuló kérelem tárgyát képező védelmi ipari termék vagy szolgáltatás hazai és nemzetközi piacra jutásának stratégiai jelentőségére tekintettel gyorsított eljárás lefolytatását kezdeményezheti a Hatóságnál. Ebben az esetben a Httv. 3. § (7) bekezdésétől eltérően a Hatóság ügyintézési határideje 21 nap.
+22/A. §[^85] A honvédelemért felelős miniszter a tevékenységi engedély, exportszerződés-kötési engedély vagy forgalmi engedély megszerzésére irányuló kérelemre vonatkozóan gyorsított eljárás lefolytatását kezdeményezheti a Hatóságnál, a kérelmezett engedély tárgyát képező védelmi ipari termék vagy szolgáltatás piacra jutásának stratégiai jelentőségére tekintettel. Ebben az esetben a Httv. 3. § (6) és (7) bekezdésétől eltérően az ügyintézési határidő 25 nap.
 
-[^44]: A 22/A. §-t az 551/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 22/A. §-t az 551/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 465/2026. (XI. 6.) Korm. rendelet 15. §-ával megállapított szöveg.

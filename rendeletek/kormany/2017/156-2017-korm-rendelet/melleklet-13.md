@@ -1,56 +1,4 @@
-## A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély iránti kérelem tartalma
-
-## I. A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély iránti kérelem kötelező adattartalma:
-
-## 1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
-
-## 2. a kérelmező adóazonosító száma, EORI száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási száma),
-
-## 3. külföldi szerződő partner neve, címe, székhelye, EORI száma
-
-## 4. a végfelhasználó (amennyiben nem egyezik a külföldi szerződő partnerrel) neve, címe, székhelye, EORI száma
-
-## 5. az ügynök, képviselő (amennyiben nem egyezik meg a kérelmezővel) adóazonosító száma, EORI száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási száma)
-
-## 6. kivitel szerinti országok, és azok két karakteres ISO betűkódja
-
-## 7. behozatal szerinti országok, és azok két karakteres ISO betűkódja
-
-## 8. tranzit harmadik országok, és azok két karakteres ISO betűkódja
-
-## 9. a tervezett kiviteli vámeljárás alá vonást végző EU tagállamok, és azok két karakteres ISO betűkódja
-
-## 10. a kiszállítani kívánt haditechnikai eszköznek
-
-## 10.1. az 1. melléklet szerinti besorolása,
-
-## 10.2. a megnevezése,
-
-## 10.3. a vámtarifaszáma,
-
-## 10.4. a mennyisége,
-
-## 10.5. a mértékegysége,
-
-## 10.6. az euróban meghatározott értéke,
-
-## 10.7. a jelölése,
-
-## 11. a végső felhasználás célja,
-
-## 12. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
-
-## II.[^78] Csatolandó okiratok:
-
-## 1. az importőr harmadik ország beviteli engedélye, valamint
-
-## 2. Végfelhasználói Nyilatkozat vagy Nemzetközi Import Igazolás vagy a végfelhasználás igazolására szolgáló más dokumentum,
-
-## 3. amennyiben a kérelmező nem azonos a tulajdonossal, az áru tulajdonosának meghatalmazása az áru értékesítésére,
-
-## 4. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély vagy a harmadik ország illetékes hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul, vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
-
-13. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^79]
+13. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^147]
 
 A Végfelhasználói Nyilatkozat tartalma
 
@@ -84,5 +32,4 @@ A Végfelhasználói Nyilatkozat tartalma
 
 12. adott esetben a megfelelő kormányzati hatóságok általi igazolás
 
-[^78]: A 12. melléklet II. pontja a 165/2019. (VII. 8.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^79]: A 13. mellékletet a 360/2022. (IX. 19.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^147]: A 13. mellékletet a 360/2022. (IX. 19.) Korm. rendelet 31. § (2) bekezdése iktatta be.

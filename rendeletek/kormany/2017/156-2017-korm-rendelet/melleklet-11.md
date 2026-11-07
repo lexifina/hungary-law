@@ -2,7 +2,7 @@
 
 ## 2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási száma),
 
-## 3. a haditechnikai eszköznek
+## 3.[^145] a haditechnikai terméknek
 
 ## 3.1. az 1. melléklet szerinti besorolása,
 
@@ -39,3 +39,5 @@ A tranzitengedély iránti kérelem tartalma
 I.
 
 A tranzitengedély iránti kérelem kötelező adattartalma:
+
+[^145]: A 10. melléklet I. rész 3. pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § j) pontja szerint módosított szöveg.

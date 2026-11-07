@@ -4,19 +4,23 @@
 
 (2) Engedélyt az alábbi vállalkozás kaphat:
 
-a) a cégbíróság által nyilvántartásba vett egyéni cég, gazdasági társaság, ideértve a külföldi részvétellel működő gazdasági társaságot, valamint a külföldi székhelyű vállalkozás magyarországi fióktelepét, ha az nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban,
+a)[^19] a cégbíróság által nyilvántartásba vett egyéni cég, gazdasági társaság, ideértve a külföldi részvétellel működő gazdasági társaságot, valamint a külföldi székhelyű vállalkozás magyarországi fióktelepét,
 
 b) az egyéni vállalkozók nyilvántartásába bejegyzett egyéni vállalkozó,
 
-c)[^15] a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költségvetési szerv,
+c)[^20] a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költségvetési szerv,
 
-d)[^16] határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás, továbbá
+d)[^21] határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás, továbbá
 
-e)[^17] a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény.
+e)[^22] a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény.
 
-(3)[^18]
+f)[^23] Magyar Nemzeti Bank,
 
-(4)[^19] Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 44. §-án túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
+g)[^24] a HUN-REN Magyar Kutatási Hálózat kutatási intézményei.
+
+(3)[^25]
+
+(4)[^26] Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 44. §-án túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
 
 (5) Az e rendelet szerinti engedélyezési eljárásokban az ügyfél nem pótolhatja a nyilatkozatával a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges.
 
@@ -34,8 +38,11 @@ c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős ve
 
 d) megfelel a Httv. és az e rendeletben meghatározott egyéb feltételeknek.
 
-[^15]: A 3. § (2) bekezdés c) pontja a 360/2022. (IX. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^16]: A 3. § (2) bekezdés d) pontja a 360/2022. (IX. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^17]: A 3. § (2) bekezdés e) pontját a 360/2022. (IX. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^18]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.
-[^19]: A 3. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^19]: A 3. § (2) bekezdés a) pontja a 465/2026. (XI. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § (2) bekezdés c) pontja a 360/2022. (IX. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^21]: A 3. § (2) bekezdés d) pontja a 360/2022. (IX. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^22]: A 3. § (2) bekezdés e) pontját a 360/2022. (IX. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^23]: A 3. § (2) bekezdés f) pontját a 465/2026. (XI. 6.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^24]: A 3. § (2) bekezdés g) pontját a 465/2026. (XI. 6.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^25]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.
+[^26]: A 3. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.

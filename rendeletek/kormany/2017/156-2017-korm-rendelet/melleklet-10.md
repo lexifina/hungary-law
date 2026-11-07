@@ -8,7 +8,7 @@
 
 ## 5. a külföldi szerződő partner neve, címe, székhelye,
 
-## 6. a beszállítani kívánt haditechnikai eszköznek
+## 6.[^144] a beszállítani kívánt haditechnikai terméknek
 
 ## 6.1. az 1. melléklet szerinti besorolása,
 
@@ -45,3 +45,5 @@ Bróker engedély iránti kérelem tartalma
 I.
 
 Bróker engedély iránti kérelem kötelező adattartalma:
+
+[^144]: A 9. melléklet I. rész 6. pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § j) pontja szerint módosított szöveg.

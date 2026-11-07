@@ -1,8 +1,8 @@
-32. § (1)[^53] A Hatóság által az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a, valamint a Httv. 4/A. § (1) bekezdése szerint kiszabható bírság mértéke
+32. § (1)[^114] A Hatóság által az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a, valamint a Httv. 4/A. § (1) bekezdése szerint kiszabható bírság mértéke
 
-a)[^54] a 11. §, a 28. §, a 29. § (3)–(5) bekezdése, valamint a Httv. 4/A. § (1) bekezdés a) pontja szerinti kötelezettség megsértése esetén ötezertől ötvenezer forintig,
+a)[^115] a 11. §, a 28. §, a 29. § (3)–(5) bekezdése, valamint a Httv. 4/A. § (1) bekezdés a) pontja szerinti kötelezettség megsértése esetén ötezertől ötvenezer forintig,
 
-b)[^55] a 22. § (4) bekezdése, a 29. § (6) és (7) bekezdése szerinti kötelezettség, a Httv. 4/A. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés c) és d) pontja szerinti kötelezettség megsértése esetén százezertől egymillió forintig,
+b)[^116] a 22. § (4) bekezdése, a 29. § (6) és (7) bekezdése szerinti kötelezettség, a Httv. 4/A. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés c) és d) pontja szerinti kötelezettség megsértése esetén százezertől egymillió forintig,
 
 c) a 10. § (1) bekezdés c) pontja szerinti kötelezettség megsértése, a 16. § (1) bekezdésében és a 24. § (1) bekezdésében foglaltak megsértése, továbbá a Httv. 4/A. § (1) bekezdés b) pontja szerinti jelölési és nyilvántartási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés e)–g) pontja szerinti kötelezettség megsértése esetén ötszázezertől ötmillió forintig,
 
@@ -12,11 +12,11 @@ e) a 19. § (6) és (7) bekezdése, a 20. § (7) és (8) bekezdése, valamint a 
 
 terjedhet.
 
-(2)[^56] Az (1) bekezdés szerinti véglegessé vált határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
+(2)[^117] Az (1) bekezdés szerinti véglegessé vált határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
 
 (3) Az (1) bekezdés szerinti bírság megfizetése készpénzátutalási megbízással vagy átutalással történhet.
 
-[^53]: A 32. § (1) bekezdése a 443/2021. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^54]: A 32. § (1) bekezdés a) pontja a 309/2022. (VIII. 11.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^55]: A 32. § (1) bekezdés b) pontja a 309/2022. (VIII. 11.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^56]: A 32. § (2) bekezdése a 34. § (3) bekezdése szerint módosított szöveg.
+[^114]: A 32. § (1) bekezdése a 443/2021. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^115]: A 32. § (1) bekezdés a) pontja a 309/2022. (VIII. 11.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^116]: A 32. § (1) bekezdés b) pontja a 309/2022. (VIII. 11.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^117]: A 32. § (2) bekezdése a 34. § (3) bekezdése szerint módosított szöveg.

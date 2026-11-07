@@ -82,34 +82,36 @@
 
 ## 16. Speciális szakmai képzettség: lőszerfeltáró tanfolyam 2. szint és a Magyar Honvédségnél vagy a BM tűzszerész szervezeténél szerzett tűzszerészvizsga és szakmai vezetői gyakorlat.
 
-5. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+5. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^140]
 
-A haditechnikai külkereskedelmi tárgyalási engedély iránti kérelem tartalma
+A haditechnikai külkereskedelmi exportszerződés-kötési engedély iránti kérelem adattartalma
 
-A haditechnikai külkereskedelmi tárgyalási engedély iránti kérelem kötelező adattartalma:
+1. A haditechnikai külkereskedelmi exportszerződés-kötési engedély iránti kérelem adattartalma a következő:
 
-1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+1.1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
 
-2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási száma),
+1.2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási száma),
 
-3. az ügylet jellegére történő utalás (kivitel, újra kivitel, szolgáltatás),
+1.3. az ügylet jellegére történő utalás (kivitel, újra kivitel, szolgáltatás),
 
-4. a haditechnikai eszköznek
+1.4. a haditechnikai terméknek
 
-4.1. az 1. melléklet szerinti besorolása,
+1.4.1. az 1. melléklet szerinti besorolása,
 
-4.2. a vámtarifaszáma,
+1.4.2. a vámtarifaszáma,
 
-4.3. a megnevezése,
+1.4.3. a megnevezése,
 
-4.4. a mennyisége,
+1.4.4. a mennyisége,
 
-4.5. a mértékegysége,
+1.4.5. a mértékegysége,
 
-4.6. az euróban meghatározott értéke,
+1.4.6. az euróban meghatározott értéke,
 
-5. a külföldi szerződő partner neve, címe, székhelye,
+1.5. a külföldi szerződő partner neve, címe, székhelye,
 
-6. a végfelhasználó neve, címe, székhelye,
+1.6. a végfelhasználó neve, címe, székhelye,
 
-7. az áru tulajdonosának (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye.
+1.7. az áru tulajdonosának (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye
+
+[^140]: Az 5. melléklet a 465/2026. (XI. 6.) Korm. rendelet 29. §-ával megállapított szöveg.

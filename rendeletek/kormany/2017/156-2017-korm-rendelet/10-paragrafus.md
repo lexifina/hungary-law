@@ -6,15 +6,15 @@
 
 10. § (1) A vállalkozás tevékenységi engedély birtokában jogosult
 
-a) haditechnikai eszköz gyártására,
+a)[^48] haditechnikai termék gyártására,
 
 b) haditechnikai szolgáltatás nyújtására vagy
 
-c) haditechnikai külkereskedelemmel kapcsolatos előkészítő tevékenység (piackutatás, ajánlattétel, előkészítő tárgyalások) végzésére.
+c)[^49] a haditechnikai külkereskedelemmel kapcsolatos előkészítő tevékenység – különösen piackutatás, ajánlattétel, előkészítő tárgyalások során –, valamint haditechnikai külkereskedelmi tevékenységi engedéllyel rendelkező vállalkozás és külföldi vállalkozás közötti közvetítő tevékenység, továbbá európai uniós tagállamokban letelepedett gazdasági szereplők és EGT-államokban, az Amerikai Egyesült Államokban, Ausztráliában, Japánban, Kanadában, Nagy-Britannia és Észak-Írország Egyesült Királyságában, Svájcban és Új-Zélandon letelepedett gazdasági szereplők közötti üzleti közvetítői tevékenység végzésére, ide értve a saját jogon történő vételt és eladást, feltéve, hogy a termékek nem kerülnek Magyarország területére.
 
 (2) A tevékenységi engedély típusai:
 
-a) általános tevékenységi engedély, amely haditechnikai eszköz gyártására, haditechnikai szolgáltatás nyújtására vagy haditechnikai külkereskedelemmel kapcsolatos előkészítő tevékenység végzésére jogosít;
+a)[^50] általános tevékenységi engedély, amely haditechnikai termék gyártására, haditechnikai szolgáltatás nyújtására vagy haditechnikai külkereskedelemmel kapcsolatos előkészítő tevékenység végzésére jogosít;
 
 b) eseti tevékenységi engedély, amelynek hatálya kizárólag egy haditechnikai külkereskedelmi ügyletre terjed ki.
 
@@ -29,3 +29,7 @@ b) eseti tevékenységi engedély, amelynek hatálya kizárólag egy haditechnik
 (7) A tevékenységi engedéllyel rendelkező gazdasági társaság a szavazatok huszonöt százalékát elérő vagy meghaladó mértékű befolyás szerzése esetén haditechnikai tevékenységet új engedély birtokában folytathat.
 
 (8) Ha a tevékenységi engedély iránti kérelem magában foglalja bármely az 1. melléklet VIII. fejezetében található termék gyártását, gyártási tevékenység során történő felhasználását, illetve tárolását, a Hatóság az engedélyezési eljárás során a 8. § (1) bekezdése szerinti Munkacsoporton túl kikérheti a bányafelügyeleti feladatkörében eljáró, a tevékenység végzésének helye szerint illetékes Kormányhivatal véleményét is, aki 15 napon belül válaszol a megkeresésre.
+
+[^48]: A 10. § (1) bekezdés a) pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^49]: A 10. § (1) bekezdés c) pontja a 465/2026. (XI. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^50]: A 10. § (2) bekezdés a) pontja a 465/2026. (XI. 6.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
