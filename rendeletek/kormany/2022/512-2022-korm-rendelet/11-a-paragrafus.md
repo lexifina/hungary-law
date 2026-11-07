@@ -1,4 +1,4 @@
-## 4/A.[^57] Az összeférhetetlenség
+## 4/A.[^58] Az összeférhetetlenség
 
 11/A. § (1) Jogviszonya létesítésével egyidejűleg vagy a jogviszony alapján végzett tevékenység megkezdését megelőzően általános összeférhetetlenségi nyilatkozatot és – az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről című 2021/C 121/01 európai bizottsági közlemény 6.3. pontja szerinti adatokat is tartalmazó – érdekeltségi nyilatkozatot tesz az 1. § (1) bekezdés szerinti programok esetében
 
@@ -16,4 +16,4 @@ f) a nemzeti kapcsolattartó pont nemzeti kapcsolattartó ponti feladatokat ell�
 
 (2) Az (1) bekezdés a), e) és f) pontja szerinti személy által tett összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot a nemzeti hatóság kezeli és tartja nyilván. Az (1) bekezdés b)–d) pontja szerinti személy által tett összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot az (1) bekezdés b)–d) pontjában megjelölt szervezet kezeli és tartja nyilván.
 
-[^57]: A 4/A. alcímet (11/A–11/E. §-t) a 45/2026. (III. 5.) Korm. rendelet 4. §-a iktatta be.
+[^58]: A 4/A. alcímet (11/A–11/E. §-t) a 45/2026. (III. 5.) Korm. rendelet 4. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 (2) Ha nem lehetséges egyedi módon számszerűsíteni a pénzügyi korrekció mértékét, vagy adott esetben aránytalan lenne, vagy félrevezető eredményre vezetne az érintett kiadás egészének visszavonása, átalányon alapuló korrekciót kell alkalmazni. Az átalányon alapuló korrekció mértékét a szabálytalanság súlya és pénzügyi következményei alapján kell meghatározni.
 
-(3)[^67] A hazai partner a 19. § (2) bekezdés b) pontja szerinti pénzügyi korrekcióval érintett összeget nem használhatja fel, arra további költségelszámolás nem nyújtható be.
+(3)[^68] A hazai partner a 19. § (2) bekezdés b) pontja szerinti pénzügyi korrekcióval érintett összeget nem használhatja fel, arra további költségelszámolás nem nyújtható be.
 
-[^67]: A 21. § (3) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^68]: A 21. § (3) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

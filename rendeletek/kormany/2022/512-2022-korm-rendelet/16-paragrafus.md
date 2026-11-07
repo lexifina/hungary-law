@@ -1,4 +1,4 @@
-16. §[^63] A nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet vezetője szabálytalansági vizsgálat mellőzésével állapíthat meg szabálytalanságot, és rendelhet el az e rendelet szerinti jogkövetkezményt, ha
+16. §[^64] A nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet vezetője szabálytalansági vizsgálat mellőzésével állapíthat meg szabálytalanságot, és rendelhet el az e rendelet szerinti jogkövetkezményt, ha
 
 a) a hazai partner ellen adósságrendezési, felszámolási, végelszámolási, kényszertörlési vagy a megszüntetésére irányuló egyéb eljárás vagy csődeljárás indult,
 
@@ -6,11 +6,11 @@ b) a cégbíróság a hazai partner céget a törvényességi felügyeleti eljá
 
 c) a hazai partner elismeri a szabálytalanság tényét,
 
-d)[^64] az Európai Bizottság, az audit hatóság, az auditor csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg,
+d)[^65] az Európai Bizottság, az audit hatóság, az auditor csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg,
 
 e) rendszerszintű szabálytalanság történt, vagy
 
 f) a szabálytalanság oka kizárólag számítási hiba.
 
-[^63]: A 16. § nyitó szövegrésze a 45/2026. (III. 5.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
-[^64]: A 16. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^64]: A 16. § nyitó szövegrésze a 45/2026. (III. 5.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
+[^65]: A 16. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

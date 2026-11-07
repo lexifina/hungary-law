@@ -14,10 +14,10 @@ e) a termékek és szolgáltatások teljesítésének az uniós támogatási sze
 
 f) a nyilvánosságra és tájékoztatásra vonatkozó szabályok betartását,
 
-g)[^50]
+g)[^51]
 
 h) az állami támogatással, a környezetvédelemmel, az esélyegyenlőséggel és a fenntartható fejlődéssel kapcsolatos követelmények betartását és
 
 i) az elkülönített számviteli nyilvántartás vezetését.
 
-[^50]: A 7. § (2) bekezdés g) pontját a 45/2026. (III. 5.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^51]: A 7. § (2) bekezdés g) pontját a 45/2026. (III. 5.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.

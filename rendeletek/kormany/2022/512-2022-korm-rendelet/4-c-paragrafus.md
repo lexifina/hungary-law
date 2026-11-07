@@ -26,4 +26,6 @@ részesülhet.
 
 (2) Hazai társfinanszírozás esetén a programok keretében meghirdetett pályázatokon nyertes projektek hazai partnere abban az esetben részesülhet költségvetési támogatásban, ha rendelkezik devizaszámlával, és vállalja, hogy ha szabálytalanság esetén az európai uniós hozzájárulás visszafizetendő részét a vezető partner részére – vezető partnerként a programszámlájára – határidőn belül nem fizeti vissza, a visszafizetési kötelezettséggel érintett összeget az Ávr. szerinti késedelmi kamattal növelten fizeti vissza.
 
-(3) Megelőlegezés esetén a programok keretében meghirdetett pályázatokon nyertes projektek hazai partnere – központi költségvetési szerv, vármegyei önkormányzat vagy európai területi társulás kivételével – abban az esetben részesülhet megelőlegezésben, ha a projektrész elszámolható összköltsége eléri vagy meghaladja a háromszázezer eurót.
+(3)[^36] Megelőlegezés esetén a programok keretében meghirdetett pályázatokon nyertes projektek hazai partnere – központi költségvetési szerv, megyei önkormányzat vagy európai területi társulás kivételével – abban az esetben részesülhet megelőlegezésben, ha a projektrész elszámolható összköltsége eléri vagy meghaladja a háromszázezer eurót.
+
+[^36]: A 4/C. § (3) bekezdése a 454/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.

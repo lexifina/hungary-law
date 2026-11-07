@@ -1,4 +1,4 @@
-1. melléklet az 512/2022. (XII. 13.) Korm. rendelethez[^124]
+1. melléklet az 512/2022. (XII. 13.) Korm. rendelethez[^125]
 
 A 2021–2027-es időszakban a transznacionális és interregionális együttműködési programok végrehajtásában részt vevő szervezetek
 
@@ -16,7 +16,7 @@ A 2021–2027-es időszakban a transznacionális és interregionális együttmű
 
 | 6. | hitelesítési tevékenységre kijelölt szervezet | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | – | – | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7.[^125] | nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |  |  |  |
+| 7.[^126] | nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |  |  |  |
 
-[^124]: Az 1. melléklet a 90/2024. (IV. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^125]: Az 1. mellékletben foglalt táblázat 7. sorát a 45/2026. (III. 5.) Korm. rendelet 5. §-a iktatta be.
+[^125]: Az 1. melléklet a 90/2024. (IV. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^126]: Az 1. mellékletben foglalt táblázat 7. sorát a 45/2026. (III. 5.) Korm. rendelet 5. §-a iktatta be.

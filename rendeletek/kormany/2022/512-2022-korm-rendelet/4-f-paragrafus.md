@@ -12,11 +12,11 @@ c) költségvetés csökkentése esetén a korábban kifizetett hazai társfinan
 
 (4) Az (1) bekezdés c) pontja szerinti visszafizetés határideje a módosított hazai társfinanszírozási támogatási szerződés aláírását követően kiküldött fizetési felszólítás kézhezvételétől számított harminc nap.
 
-(4a)[^38] A devizában előírt követeléseket euró devizanemben kell megindítani és teljesíteni a hazai partner fizetési számlájáról.
+(4a)[^39] A devizában előírt követeléseket euró devizanemben kell megindítani és teljesíteni a hazai partner fizetési számlájáról.
 
-(5)[^39] Ha a hazai partner nem vagy csak részben tesz eleget a hazai társfinanszírozás vonatkozásában az e rendeletben meghatározott jogcímen felmerült visszafizetési kötelezettségének, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet a 4/E. § szerinti biztosíték érvényesítésével gondoskodik a vissza nem fizetett összeg behajtásáról. Ha a kikötött biztosíték érvényesítése eredménytelen volt, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet a vissza nem fizetett összeg adók módjára történő behajtása céljából megkeresi az állami adóhatóságot.
+(5)[^40] Ha a hazai partner nem vagy csak részben tesz eleget a hazai társfinanszírozás vonatkozásában az e rendeletben meghatározott jogcímen felmerült visszafizetési kötelezettségének, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet a 4/E. § szerinti biztosíték érvényesítésével gondoskodik a vissza nem fizetett összeg behajtásáról. Ha a kikötött biztosíték érvényesítése eredménytelen volt, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet a vissza nem fizetett összeg adók módjára történő behajtása céljából megkeresi az állami adóhatóságot.
 
-(6)[^40] Ha szabálytalanság esetén a hazai partner nem fizeti vissza határidőre az uniós támogatási összeg visszafizetendő részét a vezető partner vagy az irányító hatóság részére, és így a nemzeti hatóságnak tagállami helytállási kötelezettsége keletkezik, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet a nemzeti hatóság tájékoztatását követően a visszafizetendő uniós támogatási összeget késedelmi kamattal növelten követeli a hazai partnertől.
+(6)[^41] Ha szabálytalanság esetén a hazai partner nem fizeti vissza határidőre az uniós támogatási összeg visszafizetendő részét a vezető partner vagy az irányító hatóság részére, és így a nemzeti hatóságnak tagállami helytállási kötelezettsége keletkezik, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet a nemzeti hatóság tájékoztatását követően a visszafizetendő uniós támogatási összeget késedelmi kamattal növelten követeli a hazai partnertől.
 
 (7) Szabálytalanság esetén a szabálytalanság hazai társfinanszírozási része vonatkozásában az Ávr. szerinti ügyleti- és késedelmikamat-fizetési kötelezettség keletkezik.
 
@@ -40,6 +40,6 @@ c) a hazai társfinanszírozás összege nem éri el a százötvenezer eurót.
 
 (14) A kis összegű követeléseket követelés-jogcímenként, projektrészenként kell érteni, valamint tőkére és a kamatokra külön-külön kell vizsgálni.
 
-[^38]: A 4/F. § (4a) bekezdését a 45/2026. (III. 5.) Korm. rendelet 2. §-a iktatta be.
-[^39]: A 4/F. § (5) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
-[^40]: A 4/F. § (6) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 4. pontja szerint módosított szöveg.
+[^39]: A 4/F. § (4a) bekezdését a 45/2026. (III. 5.) Korm. rendelet 2. §-a iktatta be.
+[^40]: A 4/F. § (5) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^41]: A 4/F. § (6) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 4. pontja szerint módosított szöveg.
