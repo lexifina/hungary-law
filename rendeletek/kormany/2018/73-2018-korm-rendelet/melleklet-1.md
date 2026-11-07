@@ -34,7 +34,7 @@
 
 | 14. | Helységnévtár | A rendszerben kezelt összes adatkör |
 
-| 15. | Személyiadat- és lakcímnyilvántartás | A rendszerben kezelt alábbi statisztikai adatok/aggregátumok: a) Magyarország állandó lakossága településenként, születési évenként, nemek szerinti bontásban, és összesítve is; b) Magyarország lakónépessége településenként, születési évenként, nemek szerinti bontásban, és összesítve is; c) Magyarország 0–17 éves állandó lakossága születési hónaponként, vármegyénként, járási hivatalonként, településenkénti bontásban; d) Magyarország lakosságának speciális statisztikái lakóhely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal, valamint tartózkodási hely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal.[^23] |
+| 15. | Személyiadat- és lakcímnyilvántartás | A rendszerben kezelt alábbi statisztikai adatok/aggregátumok: a) Magyarország állandó lakossága településenként, születési évenként, nemek szerinti bontásban, és összesítve is; b) Magyarország lakónépessége településenként, születési évenként, nemek szerinti bontásban, és összesítve is; c) Magyarország 0–17 éves állandó lakossága születési hónaponként, megyénként, járási hivatalonként, településenkénti bontásban; d) Magyarország lakosságának speciális statisztikái lakóhely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal, valamint tartózkodási hely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal.[^23] |
 
 | 16. | IKVA | A rendszerben kezelt alábbi adatkör: Víziközműadatok |
 
@@ -67,4 +67,4 @@
 | 10. | MEKH Energiainformációs Adattára | A rendszerben kezelt alábbi adatkörök: Földgáz-fogyasztással kapcsolatos adatok Vezetékes PB gázfogyasztással kapcsolatos adatok Villamosenergia-felhasználással kapcsolatos adatok Távhőszolgáltatással kapcsolatos adatok |
 
 [^22]: Az 1. melléklet a 262/2023. (VI. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^23]: Az 1. mellékletben foglalt táblázat B:15 mezője a 616/2022. (XII. 29.) Korm. rendelet 288. §-a szerint módosított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat B:15 mezője a 445/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
