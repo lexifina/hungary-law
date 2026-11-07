@@ -2,4 +2,4 @@
 
 3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^9]
 
-[^9]: A 3. melléklet a 378/2025. (XII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 365/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 3. melléklet a 378/2025. (XII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 365/2026. (X. 29.) Korm. rendelet 1. §-a, a 444/2026. (XI. 6.) Korm. rendelet 1. § 10–11. pontja szerint módosított szöveg.

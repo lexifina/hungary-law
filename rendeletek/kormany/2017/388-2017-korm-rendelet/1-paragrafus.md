@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a Magyarországon gazdasági tevékenységet folytató
+1. § E rendelet hatálya a Magyarországon gazdasági tevékenységet folytató
 
 a) jogi személyekre,
 
