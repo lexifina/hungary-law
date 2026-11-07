@@ -4,7 +4,7 @@
 
 ## 6. A lakcímbejelentési eljárással kapcsolatos különös szabályok
 
-14. § (1) A fővárosi és vármegyei kormányhivatal személyiadat- és lakcímnyilvántartási feladatkörében eljáró járási (fővárosi kerületi) hivatala a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerinti lakcímbejelentési eljárás során a Hövtv. 10. § szabályozási tárgyát érintő lakcímbejelentési kérelmet – az egyéb jogszabályban írt feltételek igazolása esetén – akkor teljesíti,
+14. § (1)[^1] A fővárosi és megyei kormányhivatal személyiadat- és lakcímnyilvántartási feladatkörében eljáró járási (fővárosi kerületi) hivatala a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerinti lakcímbejelentési eljárás során a Hövtv. 10. § szabályozási tárgyát érintő lakcímbejelentési kérelmet – az egyéb jogszabályban írt feltételek igazolása esetén – akkor teljesíti,
 
 a) ha a lakcímbejelentéssel érintett címre vonatkozóan nincs hatályban a Hövtv. 22. § (2) bekezdése szerint megalkotott önkormányzati rendelet (a továbbiakban: önkormányzati rendelet),
 
@@ -15,3 +15,5 @@ c) ha a jegyző igazolja, hogy a kérelmező az érintett címen lakóhelyet vag
 (2) Ha a lakcímbejelentéssel érintett település képviselő-testületének önkormányzati rendelete rendelkezik arról, hogy a betelepülő(k) számára lakcím meghatározott feltétellel létesíthető, akkor a kérelmezőnek a lakcímlétesítési eljárásban a lakcímbejelentési kérelemhez a Hövtv. 10. § (4) bekezdése szerinti önkormányzati hozzájárulást csatolnia kell.
 
 (3) A (2) bekezdésben meghatározottakat a Hövtv. 10. § (5) bekezdésében meghatározott esetben is megfelelően alkalmazni kell.
+
+[^1]: A 14. § (1) bekezdés nyitó szövegrésze a 463/2026. (XI. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
