@@ -2,7 +2,7 @@
 
 Igazolás a magzat elhalásáról a munkáshitel részletszabályairól szóló 372/2024. (XI. 29.) Korm. rendelet szerinti kedvezmények és támogatások igénybevételéhez
 
-I. Az igazolást kérő személyes adatai
+## I. Az igazolást kérő személyes adatai
 
 1. neve
 
@@ -14,7 +14,7 @@ I. Az igazolást kérő személyes adatai
 
 5. lakcíme
 
-II. Az igazolás adatai
+## II. Az igazolás adatai
 
 ## a magzat elhalásának napja
 

@@ -16,7 +16,7 @@ A várandósság igazolása a munkáshitel részletszabályairól szóló 372/20
 
 5. lakcíme
 
-II. A várandósság adatai
+## II. A várandósság adatai
 
 1. a várandósság 12. hete betöltésének napja
 
@@ -24,7 +24,7 @@ II. A várandósság adatai
 
 3. magzatok száma
 
-III. Az igazolást kiállító szülész-nőgyógyász szakorvos adatai
+## III. Az igazolást kiállító szülész-nőgyógyász szakorvos adatai
 
 1. szakorvos orvosi neve
 

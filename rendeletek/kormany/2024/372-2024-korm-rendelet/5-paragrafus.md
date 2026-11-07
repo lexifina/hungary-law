@@ -14,7 +14,7 @@ d) a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepe
 
 e) a saját adóazonosító jelét adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
 
-f) a 3. § (2) bekezdés c) pontjában foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által kiállított igazolással vagy a munkavégzésre vonatkozó szerződéssel,
+f)[^2] a 3. § (2) bekezdés c) pontjában foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított igazolással vagy a munkavégzésre vonatkozó szerződéssel,
 
 g) a 3. § (2) bekezdés d) pontjában foglaltakat érvényes hatósági erkölcsi bizonyítvánnyal,
 
@@ -25,3 +25,5 @@ i) a rendszeres jövedelmet bankszámlakivonattal, munkáltatói igazolással,
 j) a 3. § (2) bekezdés j) és k) pontjában foglalt feltételeket munkáltatói, kifizetői vagy adóhatósági igazolással.
 
 (3) A digitális állampolgár a személyazonosságát, adóazonosító jelét és a lakcímét digitálisan előállított hiteles formában is igazolhatja.
+
+[^2]: Az 5. § (2) bekezdés f) pontja a 461/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
