@@ -8,7 +8,7 @@
 
 (3) A vizsgálóbiztos legalább a kormánytisztviselővel azonos besorolási (előmeneteli) kategóriájú álláshelyen foglalkoztatott személy lehet.
 
-(4)[^36] Ha a kormányzati igazgatási szervnél a (3) bekezdésben foglalt feltételeknek megfelelő személy nincs, a kormányzati igazgatási szerv irányítását, illetve felügyeletét ellátó kormányzati igazgatási szerv vezetője – ilyen szerv hiányában a személyügyi központ vezetője – a (3) bekezdésben foglalt feltételeknek megfelelő kormánytisztviselőt jelöl ki vizsgálóbiztosnak.
+(4)[^37] Ha a kormányzati igazgatási szervnél a (3) bekezdésben foglalt feltételeknek megfelelő személy nincs, a kormányzati igazgatási szerv irányítását, illetve felügyeletét ellátó kormányzati igazgatási szerv vezetője – ilyen szerv hiányában a személyügyi központ vezetője – a (3) bekezdésben foglalt feltételeknek megfelelő kormánytisztviselőt jelöl ki vizsgálóbiztosnak.
 
 (5) Helyettes államtitkár fegyelmi ügyében a vizsgálóbiztos legalább helyettes államtitkár.
 
@@ -16,4 +16,4 @@
 
 (7) Nem lehet vizsgálóbiztos az, akivel szemben a 103. § (6) bekezdésében meghatározott összeférhetetlenségi ok áll fenn.
 
-[^36]: A 96. § (4) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^37]: A 96. § (4) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
