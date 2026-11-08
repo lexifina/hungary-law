@@ -1,3 +1,3 @@
-2. § A hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsításról szóló 608/2023. (XII. 22.) Korm. rendelet 9. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A nyilvántartásba vételi kérelemhez a kérelmező benyújtja)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

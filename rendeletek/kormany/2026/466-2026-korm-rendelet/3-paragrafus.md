@@ -1,3 +1,3 @@
-## „b) a megfelelőségértékelő szervezetekkel szemben jogszabályban támasztott követelmények teljesítésének igazolását, és”
+3. §[^4]
 
-3. § Hatályát veszti a hadiipari kutatás, fejlesztés, gyártás és kereskedelem területén megfelelőségértékelő szervezetek által teljesítendő követelményekről szóló 2/2023. (I. 12.) HM rendelet.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
