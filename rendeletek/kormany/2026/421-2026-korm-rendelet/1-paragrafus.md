@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva a következőket rendeli el:
 
-1. § A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet 1. § (2) bekezdés 23. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg és a „vármegye” szövegrész helyébe a „megye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
