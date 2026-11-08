@@ -4,14 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 37. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A vis maior támogatás felhasználásának részletes szabályairól szóló 9/2011. (II. 15.) Korm. rendelet
+1. §[^2]
 
-a) 2. § 14. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 5. § (4) bekezdés b) pontjában az „a vármegyei” szövegrész helyébe az „a megyei” szöveg,
-
-c) 3. melléklet A) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-d) 8. melléklet B) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
