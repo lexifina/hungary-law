@@ -4,18 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet
+1. §[^2]
 
-a) 29. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 42/A. § (2) bekezdés b) pontjában a „vármegyében” szövegrész helyébe a „megyében” szöveg,
-
-c) 2. mellékletében foglalt táblázat B:30 mezőjében a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-d) 2. mellékletében foglalt táblázat B:31 mezőjében a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-e) 2. mellékletében foglalt táblázat B:32 mezőjében a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-f) 2. mellékletében foglalt táblázat B:35 mezőjében a „vármegye” szövegrész helyébe a „megye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
