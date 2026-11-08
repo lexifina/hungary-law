@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (3) bekezdés 1., 2. és 4. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet
+1. §[^2]
 
-a) 82. § (1) bekezdésében a „vármegyebérletet” szövegrész helyébe a „megyebérletet” szöveg,
-
-b) 83/E. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
