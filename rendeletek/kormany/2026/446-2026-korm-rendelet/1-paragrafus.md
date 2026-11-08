@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló 197/2018. (X. 24.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében a „vármegyékben” szövegrész helyébe a „megyékben” szöveg,
-
-b) 6. § (4) bekezdésében a „Közigazgatási és Területfejlesztési” szövegrész helyébe a „Vidék- és Településfejlesztési” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
