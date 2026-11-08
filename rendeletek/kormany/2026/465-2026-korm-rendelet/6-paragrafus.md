@@ -1,3 +1,3 @@
-6. § Az R. 10. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+6. §[^6]
 
-(A vállalkozás tevékenységi engedély birtokában jogosult)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

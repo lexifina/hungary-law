@@ -1,1 +1,3 @@
-27. § Az R. 2. melléklete helyébe a 2. melléklet lép.
+27. §[^27]
+
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

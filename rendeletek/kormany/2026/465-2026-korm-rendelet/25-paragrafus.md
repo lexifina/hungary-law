@@ -1,7 +1,3 @@
-## „j) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló 2008/944/KKBP tanácsi közös álláspont módosításáról szóló, 2025. április 14-i (KKBP) 2025/779 tanácsi határozat”
+25. §[^25]
 
-## (végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-25. § Az R. 36. § (2) bekezdése a következő n) ponttal egészül ki:
-
-(Ez a rendelet)
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

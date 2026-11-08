@@ -1,1 +1,3 @@
-29. § Az R. 5. melléklete helyébe a 4. melléklet lép.
+29. §[^29]
+
+[^29]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

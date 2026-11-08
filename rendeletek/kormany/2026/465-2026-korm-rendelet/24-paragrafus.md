@@ -1,3 +1,3 @@
-24. § Az R. 36. § (1) bekezdése a következő j) ponttal egészül ki:
+24. §[^24]
 
-(Ez a rendelet)
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
