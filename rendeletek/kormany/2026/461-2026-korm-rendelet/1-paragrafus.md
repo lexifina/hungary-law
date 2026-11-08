@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a munkaügyet érintő rendelkezésekről szóló 2024. évi LVII. törvény 4. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A munkáshitel részletszabályairól szóló 372/2024. (XI. 29.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg és a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-b) 5. § (2) bekezdés f) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
