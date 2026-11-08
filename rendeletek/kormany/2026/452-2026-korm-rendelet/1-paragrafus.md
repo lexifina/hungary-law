@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés a) és d)–f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Tokaj-Zemplén Térség Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 589/2021. (X. 20.) Korm. rendelet 2. §-ában a „főispánként” szövegrész helyébe a „kormánymegbízottként” szöveg, a „Vármegyei” szövegrész helyébe a „Megyei” szöveg és a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
