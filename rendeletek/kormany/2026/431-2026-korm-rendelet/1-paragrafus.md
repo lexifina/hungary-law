@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a területfejlesztésről szóló 2023. évi CII. törvény 35. § (1) bekezdés 4. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A szabad vállalkozási zónák létrehozásának és működésének, valamint a kedvezmények igénybevételének szabályairól szóló 27/2013. (II. 12.) Korm. rendelet 3. § (3) bekezdésében a „vármegye” szövegrészek helyébe a „megye” szöveg és a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
