@@ -1,1 +1,3 @@
-2. § Hatályát veszti az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i (EU) 2016/1191 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 269/2018. (XII. 20.) Korm. rendelet 1. § (1) bekezdés b) pontjában a „külgazdasági és” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
