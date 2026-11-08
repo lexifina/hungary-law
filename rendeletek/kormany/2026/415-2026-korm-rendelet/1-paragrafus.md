@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 41. § (1) bekezdés a)–e) és g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény végrehajtásáról szóló 145/1999. (X. 1.) Korm. rendelet
+1. §[^2]
 
-a) 18. § (8) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 20. § (4) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 59. § (1) bekezdés záró szövegrészében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
