@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 91. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtásáról szóló 179/2023. (V. 15.) Korm. rendelet 156/A. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
