@@ -4,20 +4,6 @@
 
 ## [3] A Kormány a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 66. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A jegyző hatáskörébe tartozó birtokvédelmi eljárásról szóló 17/2015. (II. 16.) Korm. rendelet
+1. §[^2]
 
-a) 10. § (4) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 10. § (5) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 11. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-d) 12. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-e) 24. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-f) 24. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-g) 26. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
