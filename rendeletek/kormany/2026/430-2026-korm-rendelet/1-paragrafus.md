@@ -4,22 +4,6 @@
 
 ## [3] A Kormány a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A területszervezési eljárásról szóló 321/2012. (XI. 16.) Korm. rendelet
+1. §[^2]
 
-a) 1. § 5. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 3. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 6. alcím címében a „vármegyék” szövegrész helyébe a „megyék” szöveg,
-
-d) 12. § (1) bekezdés nyitó szövegrészében a „vármegyéhez” szövegrész helyébe a „megyéhez” szöveg,
-
-e) 12. § (1) bekezdés d) pontjában a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-f) 12. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-g) 12. § (3) bekezdésében a „vármegyehatárt” szövegrész helyébe a „megyehatárt” szöveg,
-
-h) 13. § (2) bekezdés g) pontjában az „a vármegyei” szövegrész helyébe az „a megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
