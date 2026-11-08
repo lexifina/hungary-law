@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a kisajátításról szóló 2007. évi CXXIII. törvény 41. § (3) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet
+1. §[^2]
 
-a) 3. § (4) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 4. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
