@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a helyi önazonosság védelméről szóló 2025. évi XLVIII. törvény 22. § (1) bekezdés a)–c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A helyi önazonosság védelméről szóló törvény jogvédelmi eszközeinek alkalmazására vonatkozó szabályokról szóló 240/2025. (VII. 31.) Korm. rendelet 14. § (1) bekezdés nyitó szövegrészében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
