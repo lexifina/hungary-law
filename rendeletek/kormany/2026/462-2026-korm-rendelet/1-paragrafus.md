@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a területfejlesztésről szóló 2023. évi CII. törvény 35. § (1) bekezdés 11. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Területfejlesztési Szolgálat szervezetrendszerének kialakításáról, feladatainak részletes meghatározásáról és működésének szakmai felügyeletére vonatkozó szabályozásról szóló 429/2024. (XII. 23.) Korm. rendelet
+1. §[^2]
 
-a) 6. § d) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 7. § c) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 7. § d) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg és a „vármegyét” szövegrész helyébe a „megyét” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
