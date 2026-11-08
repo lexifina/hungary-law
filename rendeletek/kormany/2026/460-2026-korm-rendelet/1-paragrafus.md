@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a területfejlesztésről szóló 2023. évi CII. törvény 35. § (1) bekezdés 7. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A térségi fejlesztési tanácsok törvényességi felügyeletének szabályairól szóló 252/2024. (VIII. 22.) Korm. rendelet 2. § (1) bekezdés nyitó szövegrészében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
