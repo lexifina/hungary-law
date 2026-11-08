@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 113. § (1) bekezdés 1. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A helyi közszolgáltatás információs rendszerről szóló 73/2018. (IV. 20.) Korm. rendelet 1. mellékletében foglalt táblázat B:15 mezőjében a „vármegyénként” szövegrész helyébe a „megyénként” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
