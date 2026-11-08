@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló 95/2006. (IV. 18.) Korm. rendelet 19. § (1) bekezdés b) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
