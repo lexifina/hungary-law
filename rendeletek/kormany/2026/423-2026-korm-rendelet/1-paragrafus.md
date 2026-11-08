@@ -4,16 +4,6 @@
 
 ## [3] A Kormány a területfejlesztésről szóló 2023. évi CII. törvény 35. § (1) bekezdés 10. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, megőrzéséről, nyilvántartásáról és hasznosításáról szóló 16/2010. (II. 5.) Korm. rendelet
+1. §[^2]
 
-a) 1. § a) pont aa) alpontjában a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-b) 1. § a) pont ad) alpontjában a „vármegye” szövegrészek helyébe a „megye” szöveg,
-
-c) 1. § g) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-d) 1. § h) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-e) 3. § (3) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
