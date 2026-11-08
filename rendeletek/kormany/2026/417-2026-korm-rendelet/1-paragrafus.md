@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 35/A. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet
+1. §[^2]
 
-a) 67/A. § (2), (3) és (5) bekezdésében, 67/B. § (2) bekezdés nyitó szövegrészében, 70. § (6) bekezdésében, 1. melléklet 18. pontjában, 2. melléklet II. pont c), n), o) és p) alpontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 1. melléklet 34. pontjában a „Közigazgatási és Területfejlesztési” szövegrész helyébe a „Vidék- és Településfejlesztési” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
