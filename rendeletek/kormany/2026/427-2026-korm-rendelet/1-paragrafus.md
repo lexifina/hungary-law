@@ -4,12 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet
+1. §[^2]
 
-a) 1. § (1) bekezdés 23. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg és a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-b) 4. § (1e) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 14. § (1) bekezdés m) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
