@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A szociálpolitikai menetdíj-támogatást nem tartalmazó, adómentes közlekedési kedvezményekről szóló 498/2013. (XII. 29.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (4) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 3. § (1) bekezdés d) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
