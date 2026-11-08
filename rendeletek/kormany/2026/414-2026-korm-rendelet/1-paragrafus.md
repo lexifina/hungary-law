@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény 26. § a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A lakás-előtakarékosság állami támogatásáról szóló 215/1996. (XII. 23.) Korm. rendelet 7/B. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
