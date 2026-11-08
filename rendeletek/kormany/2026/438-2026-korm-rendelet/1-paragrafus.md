@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A helyi önkormányzat által kötött csereügylethez szükséges kormányhivatali jóváhagyás eljárási szabályairól szóló 126/2015. (V. 27.) Korm. rendelet 1. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
