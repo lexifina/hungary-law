@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15d. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A 2021–2027 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 638/2023. (XII. 28.) Korm. rendelet
+1. §[^2]
 
-a) 2. § 128. pontjában a „vármegyében” szövegrész helyébe a „megyében” szöveg,
-
-b) 25. § (4) bekezdésében a „vármegyében” szövegrész helyébe a „megyében” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
