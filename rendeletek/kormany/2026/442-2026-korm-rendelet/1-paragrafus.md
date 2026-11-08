@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az anyakönyvi eljárásról szóló 2010. évi I. törvény 94. § a)–c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről szóló 174/2017. (VI. 30.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdés b) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 2. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
