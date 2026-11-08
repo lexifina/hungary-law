@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés a), c) és d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Sopron-Fertő kiemelt turisztikai térségben megvalósítandó beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a turisztikai térségek és a kiemelt turisztikai fejlesztési térségek meghatározásáról szóló 429/2016. (XII. 15.) Korm. rendelet módosításáról szóló 201/2018. (X. 30.) Korm. rendelet 2. §-ában a „főispánként” szövegrész helyébe a „kormánymegbízottként” szöveg, a „Vármegyei” szövegrész helyébe a „Megyei” szöveg és a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
