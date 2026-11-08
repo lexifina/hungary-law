@@ -4,28 +4,6 @@
 
 ## [3] A Kormány a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 93. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A külföldiek mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokat érintő tulajdonszerzéséről szóló 251/2014. (X. 2.) Korm. rendelet
+1. §[^2]
 
-a) 2. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 4. § (2) bekezdés nyitó szövegrészében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 6. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-d) 7. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-e) 7. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-f) 8. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-g) 9. § (1) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-h) 9. § (4) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-i) 9. § (5) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-j) 10. § nyitó szövegrészében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-k) 1. melléklet 2/B. pontjában a „fővárosi/vármegyei” szövegrész helyébe a „fővárosi/megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
