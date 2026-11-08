@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A 2014–2020 programozási időszakban az európai területi együttműködés célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok végrehajtásáról szóló 396/2015. (XII. 12.) Korm. rendelet 2/D. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
