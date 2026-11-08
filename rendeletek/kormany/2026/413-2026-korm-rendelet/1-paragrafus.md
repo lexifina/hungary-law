@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 24. § (4) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet 2. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
