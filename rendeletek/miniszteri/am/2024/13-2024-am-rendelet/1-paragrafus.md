@@ -40,10 +40,10 @@ a) biztosítottak a rendeltetésszerű működés műszaki, technikai, jogi és 
 
 b) a beruházási eszköz az e rendelet szerinti támogatás kedvezményezettjénél üzembe helyezett tárgyi eszközként van nyilvántartva;
 
-14.[^5] üzemeltetési hely: a 2. § (2) bekezdés a)–d) pontja szerinti beruházási eszköz üzembe helyezésének és rendeltetésszerű használatának helye, valamint a 2. § (2) bekezdés e) pontja szerinti beruházási eszköz tárolási helye.
+14.[^5] üzemeltetési hely: a 2. § (2) bekezdés a)–c) pontja szerinti beruházási eszköz üzembe helyezésének és rendeltetésszerű használatának helye, valamint a 2. § (2) bekezdés e) pontja szerinti beruházási eszköz tárolási helye.
 
 [^1]: Az 1. § 1. pontja a 38/2025. (VIII. 13.) AM rendelet 13. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § 2. pontja a 38/2025. (VIII. 13.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 7a. pontját a 38/2025. (VIII. 13.) AM rendelet 4. § (2) bekezdése iktatta be.
 [^4]: Az 1. § 11a. pontját a 38/2025. (VIII. 13.) AM rendelet 4. § (3) bekezdése iktatta be.
-[^5]: Az 1. § 14. pontja a 38/2025. (VIII. 13.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 14. pontja a 38/2025. (VIII. 13.) AM rendelet 4. § (4) bekezdésével megállapított, a 22/2026. (XI. 6.) AÉM rendelet 1. § a) pontja szerint módosított szöveg.

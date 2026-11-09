@@ -1,6 +1,6 @@
 ## 7. A támogatási kérelem vizsgálata, a támogatási döntés meghozatala és a támogatási döntés módosítása
 
-7. § (1)[^40] Az NKÜ a támogatási kérelmeket beérkezésük sorrendjében bírálja el, és a támogatási kérelmekről – a Nemzeti Irányító Hatóság közreműködő szervezeteként, átruházott feladatkörében a 2025. március 1. és március 20. között benyújtott támogatási kérelmek esetében 2025. július 15-éig, ezt követően a benyújtás pénzügyi évében április 30-áig támogatási döntést hoz.
+7. § (1)[^42] Az NKÜ a támogatási kérelmeket beérkezésük sorrendjében bírálja el, és a támogatási kérelmekről – a Nemzeti Irányító Hatóság közreműködő szervezeteként, átruházott feladatkörében a 2025. március 1. és március 20. között benyújtott támogatási kérelmek esetében 2025. július 15-éig, ezt követően a benyújtás pénzügyi évében április 30-áig támogatási döntést hoz.
 
 (2) Hiányosan vagy hibásan benyújtott támogatási kérelem esetén az elbírálás sorrendjét a hiánypótlás NKÜ-höz történő beérkezésének napja határozza meg.
 
@@ -18,4 +18,4 @@
 
 (9) A kedvezményezett a támogatási döntés módosítását egy alkalommal kérelmezheti az NKÜ-nél. Az NKÜ a módosítás iránti kérelem alapján a támogatási döntés módosításával újra megállapítja az igényelhető támogatás maximális összegét, amely nem haladhatja meg a módosítást megelőzően jóváhagyott támogatási kérelem alapján megállapított támogatás összegét.
 
-[^40]: A 7. § (1) bekezdése a 38/2025. (VIII. 13.) AM rendelet 13. § 14. pontja szerint módosított szöveg.
+[^42]: A 7. § (1) bekezdése a 38/2025. (VIII. 13.) AM rendelet 13. § 14. pontja szerint módosított szöveg.

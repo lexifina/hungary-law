@@ -20,7 +20,7 @@ b) a szőlőfeldolgozáshoz, valamint a borászati technológiához kapcsolódó
 
 c) a borászati üzem üzemeltetését szolgáló új napelem- vagy napkollektorrendszer beszerzése
 
-d)[^8] a borászati üzemben az élet és a vagyon védelmét szolgáló, rögzített biztonsági berendezés beszerzése, telepítése;
+d)[^8]
 
 e)[^9] a szőlőművelés folyamatában a sorköz- és soraljművelés, valamint a szőlőtőke metszésének és ápolásának kézimunka-igényét csökkentő vagy kiváltó eszköz vagy vontatott gép beszerzése
 
@@ -28,7 +28,7 @@ e)[^9] a szőlőművelés folyamatában a sorköz- és soraljművelés, valamint
 
 (3) Támogatás olyan, a (2) bekezdés szerinti támogatható intézkedés megvalósításához igényelhető,
 
-a)[^10] amely nem irányul önállóan a (2) bekezdés c) vagy d) pontjában meghatározott intézkedés megvalósítására,
+a)[^10] amely nem irányul önállóan a (2) bekezdés c) pontjában meghatározott intézkedés megvalósítására,
 
 b) amely nem minősül pótló beruházásnak,
 
@@ -42,6 +42,6 @@ f) amely nem irányul a beruházást kísérő, kiegészítő eszköz beszerzés
 
 [^6]: A 2. § (1) bekezdése a 38/2025. (VIII. 13.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés záró szövegrésze a 38/2025. (VIII. 13.) AM rendelet 13. § 2. pontja szerint módosított szöveg.
-[^8]: A 2. § (2) bekezdés d) pontját a 38/2025. (VIII. 13.) AM rendelet 5. § (2) bekezdése iktatta be.
+[^8]: A 2. § (2) bekezdés d) pontját a 38/2025. (VIII. 13.) AM rendelet 5. § (2) bekezdése iktatta be, a 22/2026. (XI. 6.) AÉM rendelet 2. § a) pontja hatályon kívül helyezte.
 [^9]: A 2. § (2) bekezdés e) pontját a 38/2025. (VIII. 13.) AM rendelet 5. § (2) bekezdése iktatta be.
-[^10]: A 2. § (3) bekezdés a) pontja a 38/2025. (VIII. 13.) AM rendelet 13. § 3. pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdés a) pontja a 38/2025. (VIII. 13.) AM rendelet 13. § 3. pontja, a 22/2026. (XI. 6.) AÉM rendelet 2. § b) pontja szerint módosított szöveg.

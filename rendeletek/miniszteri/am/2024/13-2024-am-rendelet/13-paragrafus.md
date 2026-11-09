@@ -1,6 +1,6 @@
 ## 12. Az üzemeltetési hely változásának bejelentése
 
-13. § (1)[^53] A beruházási eszköz támogatási döntésben jóváhagyott üzemeltetési helyének a fenntartási időszak alatt történő megváltoztatását legalább tíz nappal a beruházási eszköz tervezett átszállításának megkezdése előtt elektronikus úton be kell a jelenteni az NKÜ részére az elektronikus felületen, az NKÜ honlapján közzétett közleményben foglaltak szerint. Új üzemeltetési helyként Budapest közigazgatási területén üzemeltetési hely csak abban az esetben jelölhető meg, ha az adott eszköz tekintetében a támogatást igénylő a támogatási kérelemben budapesti üzemeltetési helyet jelöl meg.
+13. § (1)[^55] A beruházási eszköz támogatási döntésben jóváhagyott üzemeltetési helyének a fenntartási időszak alatt történő megváltoztatását legalább tíz nappal a beruházási eszköz tervezett átszállításának megkezdése előtt elektronikus úton be kell a jelenteni az NKÜ részére az elektronikus felületen, az NKÜ honlapján közzétett közleményben foglaltak szerint. Új üzemeltetési helyként Budapest közigazgatási területén üzemeltetési hely csak abban az esetben jelölhető meg, ha az adott eszköz tekintetében a támogatást igénylő a támogatási kérelemben budapesti üzemeltetési helyet jelöl meg.
 
 (2) Az (1) bekezdés szerinti bejelentés tartalmazza
 
@@ -28,4 +28,4 @@ g) az új üzemeltetési helyre vonatkozó, a beruházási eszköz szabályszer�
 
 (3) Az (1) bekezdés szerinti bejelentéshez csatolni kell a beruházási eszköz nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetén az NKÜ által rendszeresített és a honlapján közzétett, az 5. § (3) bekezdése szerinti adatokat tartalmazó, teljes bizonyító erejű magánokiratba foglalt nyilatkozatot.
 
-[^53]: A 13. § (1) bekezdése a 38/2025. (VIII. 13.) AM rendelet 13. § 22. pontja szerint módosított szöveg.
+[^55]: A 13. § (1) bekezdése a 38/2025. (VIII. 13.) AM rendelet 13. § 22. pontja szerint módosított szöveg.
