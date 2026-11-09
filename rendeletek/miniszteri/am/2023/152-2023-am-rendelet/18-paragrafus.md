@@ -8,7 +8,7 @@ ab) nem Magyarországról származó szaporítóanyag esetén a hazai minőségi
 
 b) a támberendezés létesítését kizárólag új anyagok felhasználásával kivitelezték, és kialakítása legalább a fenntartási kötelezettség alatti rendeltetésszerű művelést biztosítja;
 
-c)[^26] az ültetvény beállottsága a fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése esetén
+c)[^27] az ültetvény beállottsága a fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése esetén
 
 ca) a telepítés évében eléri a 90%-ot, és
 
@@ -22,4 +22,4 @@ db) a végrehajtás évét követő évben eléri a 95%-ot; és
 
 e) régi ültetvény kivágási költségeinek támogatása esetén a régi ültetvény kivágását a támogatási kérelem benyújtása előtt nem kezdték el.
 
-[^26]: A 18. § c) pont nyitó szövegrésze az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 18. § c) pont nyitó szövegrésze az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés b) pontja szerint módosított szöveg.

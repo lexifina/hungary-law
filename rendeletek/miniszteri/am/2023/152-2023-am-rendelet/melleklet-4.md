@@ -1,8 +1,8 @@
 |  | A | B | C | D | E |
 
-| 1. |  | A szaporítóanyag típusa | Hektáronkénti tőszám | Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege fajtaváltás és ültetvény áttelepítés esetén (EUR/hektár)[^43] | Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítés esetén (EUR/hektár)[^44] |
+| 1. |  | A szaporítóanyag típusa | Hektáronkénti tőszám | Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege fajtaváltás és ültetvény áttelepítés esetén (EUR/hektár)[^45] | Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítés esetén (EUR/hektár)[^46] |
 
-| 2. | szőlőültetvény kivágása | – | 1647[^45] | 0[^46] |
+| 2. | szőlőültetvény kivágása | – | 1647[^47] | 0[^48] |
 
 | 3. | talaj-előkészítés | – | 1052 |
 
@@ -38,27 +38,27 @@
 
 | 19. | 3500–3999 tő/hektár között | 810 |
 
-| 20. | a termeléskiesést ellentételező kompenzáció | 1988[^47] | 0[^48] |
+| 20. | a termeléskiesést ellentételező kompenzáció | 1988[^49] | 0[^50] |
 
-| 21.[^49] |  |  |  |
+| 21.[^51] |  |  |  |
 
-| 22.[^50] |  |  |
+| 22.[^52] |  |  |
 
-| 23.[^51] |  |  |
+| 23.[^53] |  |  |
 
-| 24.[^52] |  |  |
+| 24.[^54] |  |  |
 
 4. melléklet a 152/2023. (XII. 21.) AM rendelethez
 
 Hektáronkénti költségátalányok támberendezés létesítése esetén (EUR/ha)
 
-[^43]: A 3. mellékletben foglalt táblázat D:1 mezője az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés g) pontja szerint módosított szöveg.
-[^44]: A 3. mellékletben foglalt táblázat E:1 mezője az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés h) pontja szerint módosított szöveg.
-[^45]: A 3. mellékletben foglalt táblázat D:2 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
-[^46]: A 3. mellékletben foglalt táblázat E:2 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
-[^47]: A 3. mellékletben foglalt táblázat D:20 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
-[^48]: A 3. mellékletben foglalt táblázat E:20 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
-[^49]: A 3. mellékletben foglalt táblázat 21. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
-[^50]: A 3. mellékletben foglalt táblázat 22. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
-[^51]: A 3. mellékletben foglalt táblázat 23. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
-[^52]: A 3. mellékletben foglalt táblázat 24. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^45]: A 3. mellékletben foglalt táblázat D:1 mezője az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés g) pontja szerint módosított szöveg.
+[^46]: A 3. mellékletben foglalt táblázat E:1 mezője az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés h) pontja szerint módosított szöveg.
+[^47]: A 3. mellékletben foglalt táblázat D:2 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
+[^48]: A 3. mellékletben foglalt táblázat E:2 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
+[^49]: A 3. mellékletben foglalt táblázat D:20 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
+[^50]: A 3. mellékletben foglalt táblázat E:20 mezője az 1/2025. (II. 11.) AM rendelet 18. § (14) bekezdésével megállapított szöveg.
+[^51]: A 3. mellékletben foglalt táblázat 21. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^52]: A 3. mellékletben foglalt táblázat 22. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^53]: A 3. mellékletben foglalt táblázat 23. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^54]: A 3. mellékletben foglalt táblázat 24. sorát az 1/2025. (II. 11.) AM rendelet 19. § d) pontja hatályon kívül helyezte.

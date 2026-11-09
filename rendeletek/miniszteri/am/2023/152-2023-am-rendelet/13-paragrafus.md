@@ -4,6 +4,10 @@ a) szerepel a KAP tv. 10. § (2) bekezdése szerinti Kedvezményezetti Nyilvánt
 
 b) a támogatási kérelemben foglaltak szerint vállalja az intézkedés végrehajtását.
 
+(1a)[^21] Az (1) bekezdésben meghatározottakon kívül támogatási kérelmet nyújthat be – az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 40. cikk (3) bekezdés c) pontja alapján – az (1) bekezdésben meghatározott feltételeket teljesítő, szőlőtermesztést is végző szőlészeti és borászati oktatási intézmény.
+
 (2) Nem nyújthat be támogatási kérelmet három borpiaci éven belül az a támogatást igénylő, akivel szemben az NKÜ határozatban megállapította, hogy művelési kötelezettségének nem tett eleget. A három borpiaci évet a művelési kötelezettség elmaradásának megállapítása napjának borpiaci évétől kell számítani.
 
 (3) Az őstermelők családi gazdaságának tagja által benyújtott támogatási kérelem esetében a 10. § szerinti jogosultsági feltételeket és kiválasztási szempontokat az őstermelők családi gazdaságának támogatási kérelemben megjelölt bármely tagja teljesítheti.
+
+[^21]: A 13. § (1a) bekezdését a 21/2026. (XI. 6.) AÉM rendelet 1. §-a iktatta be.
