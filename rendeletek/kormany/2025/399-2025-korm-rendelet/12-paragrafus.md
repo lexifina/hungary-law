@@ -1,0 +1,1 @@
+12. § A függő közvetítő vagy a közvetítői alvállalkozó legkésőbb 2026. november 10-éig igazolja megbízója felé az 5. §-ban meghatározott követelményeknek való megfelelést. Amennyiben a függő közvetítő vagy közvetítői alvállalkozó ennek nem tesz eleget, a megbízó 2026. november 20-áig törölteti a Felügyelet által vezetett nyilvántartásból.
