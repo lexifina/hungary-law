@@ -1,0 +1,3 @@
+3. § A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 34. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a rendőrnek tudomására jut, hogy az elővezetendő személy a Magyar Honvédség tényleges katonai állományú tagja, rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat hivatásos állományú tagja, az elővezetést nem hajthatja végre, azonban erről jelentést ír, és az elővezetendő személy szolgálati elöljáróját az elővezetés foganatosítása érdekében megkeresi. E rendelkezés alkalmazásának nincs helye a polgári nemzetbiztonsági szolgálat hivatásos állományú tagjával mint együttműködésre kötelezettel szemben az Országgyűlésről szóló törvény alapján elrendelt elővezetés foganatosítása során.”
