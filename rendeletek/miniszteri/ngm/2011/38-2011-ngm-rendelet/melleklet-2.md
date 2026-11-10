@@ -1,3 +1,3 @@
-2. melléklet a 38/2011. (X. 5.) NGM rendelethez[^35]
+2. melléklet a 38/2011. (X. 5.) NGM rendelethez[^36]
 
-[^35]: A 2. melléklet a 26/2012. (VIII. 23.) NGM rendelet 3–4. §-a, a 7/2016. (II. 22.) NGM rendelet 10. § (2) bekezdése, a 6/2017. (V. 5.) NGM rendelet 10. § (2) bekezdése, a 14/2018. (IX. 4.) ITM rendelet 8. § (1)–(5) bekezdése, a 25/2020. (VII. 3.) ITM rendelet 4. § (3) bekezdése, a 29/2021. (VI. 30.) ITM rendelet 2. § (1)–(3) bekezdése, a 30/2022. (XII. 30.) GFM rendelet 2. §-szerint módosított szöveg. [A 7/2016. (II. 22.) NGM rendelet 4. melléklet 2. pontjával elrendelt módosítás nem vezethető át.]
+[^36]: A 2. melléklet a 26/2012. (VIII. 23.) NGM rendelet 3–4. §-a, a 7/2016. (II. 22.) NGM rendelet 10. § (2) bekezdése, a 6/2017. (V. 5.) NGM rendelet 10. § (2) bekezdése, a 14/2018. (IX. 4.) ITM rendelet 8. § (1)–(5) bekezdése, a 25/2020. (VII. 3.) ITM rendelet 4. § (3) bekezdése, a 29/2021. (VI. 30.) ITM rendelet 2. § (1)–(3) bekezdése, a 30/2022. (XII. 30.) GFM rendelet 2. §-a, a 10/2026. (XI. 2.) GEM rendelet 2. §-a szerint módosított szöveg. [A 7/2016. (II. 22.) NGM rendelet 4. melléklet 2. pontjával elrendelt módosítás nem vezethető át.]

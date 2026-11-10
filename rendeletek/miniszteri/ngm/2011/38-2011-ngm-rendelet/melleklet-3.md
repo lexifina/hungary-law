@@ -468,9 +468,13 @@
 
 ## A CMR-anyagok és engedélyezett felhasználási módjaik jegyzéke a III. rész 4., 5. és 6. pontja szerint
 
-|  | Anyag | Besorolás | Engedélyezett felhasználási mód |
+|  | A | B | C |
 
-|  | Nikkel | 2. kategóriájú CMR | Rozsdamentes acélban |
+| 1. | Anyag | Besorolás | Engedélyezett felhasználási mód |
+
+| 2. | Nikkel | 2. kategóriájú CMR | Rozsdamentes acélban |
+
+| 3. | Kobalt | 1B. kategóriájú CMR | Rozsdamentes acélból készült játékokban és játékalkatrészekben, a rozsdamentes acélban található nikkel szennyeződéseként. Elektromos áram vezetésére tervezett játékalkotórészekben. Játékokban használt neodímiumalapú mágnesekben, ha ezeket a mágneseket nem lehet lenyelni vagy belélegezni. |
 
 ## B. függelék
 

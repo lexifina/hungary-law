@@ -40,6 +40,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (19)[^33] Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelvnek az egyes játékokban található anilinre vonatkozó egyedi határértékek tekintetében történő módosításáról szóló, 2021. június 3-i (EU) 2021/903 bizottsági irányelvnek való megfelelést szolgálja.
 
+(20)[^34] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete A. függelékének a kobalt tekintetében történő módosításáról szóló, 2026. január 28-i (EU) 2026/192 európai bizottsági irányelvnek való megfelelést szolgálja.
+
 [^17]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
 [^18]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^19]: A 25. § (5) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
@@ -57,3 +59,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^31]: A 25. § (17) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (3) bekezdése iktatta be.
 [^32]: A 25. § (18) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (4) bekezdése iktatta be.
 [^33]: A 25. § (19) bekezdését a 30/2022. (XII. 30.) GFM rendelet 1. §-a iktatta be.
+[^34]: A 25. § (20) bekezdését a 10/2026. (XI. 2.) GEM rendelet 1. §-a iktatta be.
