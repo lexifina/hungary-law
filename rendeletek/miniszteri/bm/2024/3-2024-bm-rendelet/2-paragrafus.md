@@ -14,7 +14,7 @@
 
 7. hivatalos vagy szolgálati ügyben eljáró személy:
 
-a) a köztársasági elnök, a miniszterelnök, a külpolitikáért felelős miniszter, az Alkotmánybíróság elnöke, a Kúria elnöke és a legfőbb ügyész (a továbbiakban: állandó személyvédelemben részesülő személy) és a védelmét ellátó személy,
+a)[^1] a köztársasági elnök, a miniszterelnök, a külpolitikáért felelős miniszter, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke és nyomozati elnökhelyettese, továbbá velük együttesen a jogszabályban meghatározott személyvédelmüket ellátó személy,
 
 b) az alapvető jogok biztosa és helyettesei, továbbá az általuk írásban megbízott személy,
 
@@ -24,7 +24,7 @@ d) az országgyűlési képviselő, a nemzetiségi szószóló, az európai parl
 
 e) a bíró, az ügyész, az igazságügyi és az ügyészségi alkalmazott, a pártfogó felügyelő, a közjegyző,
 
-f) a hatósági eljárást folytató, nyomozási cselekményt végző, bűnügyi felderítő tevékenység keretében eljáró vagy megbízhatósági vizsgálatot végző személy,
+f)[^2] a hatósági eljárást folytató, nyomozási cselekményt végző, bűnügyi felderítő tevékenység keretében eljáró vagy megbízhatósági vizsgálatot végző személy, az NVVH személyi állományának az NVVH feladat- és hatáskörében eljáró – az a) alpont hatálya alá nem tartozó – tagja, továbbá velük együttesen a jogszabályban meghatározott személyvédelmüket ellátó személy,
 
 g) az elítélt vagy az egyéb jogcímen fogvatartott bv. szervbe vagy onnan történő előállítását, elővezetését, szállítását végző személy,
 
@@ -39,3 +39,6 @@ k) a bv. szervezet felett irányítási, felügyeleti jogot gyakorló szerv szem
 l) a bv. szerv területén tartózkodó személyek sürgősségi vagy egyéb egészségügyi ellátását biztosító személy,
 
 m) a bv. szerv területén rendkívüli esemény megelőzése, megszakítása, felszámolása érdekében hivatalos vagy szolgálati feladatot ellátó személy.
+
+[^1]: A 2. § 7. pont a) alpontja a 30/2026. (XI. 9.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 7. pont f) alpontja a 30/2026. (XI. 9.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.

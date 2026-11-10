@@ -6,4 +6,6 @@
 
 (4) A Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központja területére szabadidős tevékenység, üdülés céljából történő belépés esetén külön engedély nélkül bevihető infokommunikációs eszköz és alkohol.
 
-(5) A hatósági eljárást folytató, nyomozási cselekményt végző vagy a bv. szerv vezetőjének megbízása alapján ellenőrzést végző személy a feladata elvégzéséhez szükséges infokommunikációs eszközök bevitelére – a belépéskor történő bejelentés mellett – külön engedély nélkül is jogosult.
+(5)[^3] A hatósági eljárást folytató, nyomozási cselekményt végző személy és vele együttesen a jogszabályban meghatározott személyvédelmét ellátó személy, vagy a bv. szerv vezetőjének megbízása alapján ellenőrzést végző személy a feladata elvégzéséhez szükséges infokommunikációs eszközök bevitelére – a belépéskor történő bejelentés mellett – külön engedély nélkül is jogosult.
+
+[^3]: A 4. § (5) bekezdése a 30/2026. (XI. 9.) BM rendelet 3. § a) pontja szerint módosított szöveg.

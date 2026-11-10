@@ -16,7 +16,7 @@ g) a védő és a megbízása alapján eljáró nyelvi megértést segítő szem
 
 h) az elítélt és az egyéb jogcímen fogvatartott államának diplomáciai vagy konzuli képviselője,
 
-i) a hatósági eljárást folytató, nyomozási cselekményt végző, bűnügyi felderítő tevékenység keretében eljáró vagy megbízhatósági vizsgálatot végző személy,
+i)[^11] a hatósági eljárást folytató, nyomozási cselekményt végző, bűnügyi felderítő tevékenység keretében eljáró vagy megbízhatósági vizsgálatot végző személy, az NVVH személyi állományának az NVVH feladat- és hatáskörében eljáró tagja, továbbá velük együttesen a jogszabályban meghatározott személyvédelmüket ellátó személy,
 
 j) a tolmács,
 
@@ -27,3 +27,5 @@ l) a bv. szervezet személyi állományának tagja, valamint az elítélt és az
 m) a bv. szerv területén rendkívüli esemény megelőzése, megszakítása, felszámolása érdekében hivatalos vagy szolgálati feladatot ellátó személy,
 
 n) a futárszolgálatot teljesítő rendvédelmi szerv dolgozója.
+
+[^11]: A 15. § i) pontja a 30/2026. (XI. 9.) BM rendelet 2. §-ával megállapított szöveg.

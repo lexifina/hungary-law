@@ -14,8 +14,10 @@ a) akit a bíróság az adott büntetőeljárásban a védőként történő elj
 
 b) akinek az elítélttel vagy az egyéb jogcímen fogvatartottal való kapcsolattartását
 
-ba) a bíróság vagy az ügyészség a büntetőeljárás eredményessége érdekében korlátozta vagy kizárta, vagy
+ba)[^4] a bíróság, az ügyészség vagy az NVVH a büntetőeljárás eredményessége érdekében korlátozta vagy kizárta, vagy
 
 bb) a végrehajtásért felelős szerv vezetője a Bv. tv. 11. § (5a) bekezdése vagy 177. § (4) bekezdése alapján kizárta.
 
 (5) A bv. szerv területére belépő személyt a belépési engedélyre utaló, ruházaton elhelyezhető jelzéssel lehet ellátni.
+
+[^4]: Az 5. § (4) bekezdés b) pont ba) alpontja a 30/2026. (XI. 9.) BM rendelet 3. § b) pontja szerint módosított szöveg.
