@@ -1,7 +1,7 @@
-## VIII/A. Fejezet[^208]
+## VIII/A. Fejezet[^211]
 
 ## AZ ISKOLAŐRÖKRE VONATKOZÓ SZABÁLYOK
 
 ## 75. Általános szabályok
 
-[^208]: A VIII/A. fejezetet (102/A–102/U. §) a 27/2020. (VII. 17.) BM rendelet 43. §-a iktatta be.
+[^211]: A VIII/A. fejezetet (102/A–102/U. §) a 27/2020. (VII. 17.) BM rendelet 43. §-a iktatta be.

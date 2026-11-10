@@ -8,7 +8,7 @@
 
 (4) A rendőr az intézkedés megkezdésekor a vegyi eszközt, elektromos sokkoló eszközt készenlétbe helyezi, a rendőrbotot, a kardot kézbefogja, és felkészül a támadás elhárítására, az ellenszegülés megtörésére.
 
-(5)[^99] Ha műszaki jellemzőiből más nem következik, az elektromos sokkoló eszköz használata elsősorban a végtagokra irányulhat.
+(5)[^102] Ha műszaki jellemzőiből más nem következik, az elektromos sokkoló eszköz használata elsősorban a végtagokra irányulhat.
 
 (6) A rendőrbot vagy a vele egy tekintet alá eső bármely más eszköz alkalmazásakor az ütés lehetőleg a támadó végtagot érje, kerülni kell, hogy az ütés súlyos sérülést okozzon.
 
@@ -16,4 +16,4 @@
 
 (8) A csapaterő alkalmazásával egyidejűleg, valamint tömegoszlatás során a tömeg oszlatására vagy zárt térben kialakult ellenállási góc felszámolására vegyi eszköz alkalmazható.
 
-[^99]: A 42. § (5) bekezdése a 61/2015. (XI. 24.) BM rendelet 10. §-ával megállapított szöveg.
+[^102]: A 42. § (5) bekezdése a 61/2015. (XI. 24.) BM rendelet 10. §-ával megállapított szöveg.

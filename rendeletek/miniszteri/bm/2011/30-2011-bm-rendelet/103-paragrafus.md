@@ -4,6 +4,6 @@
 
 103. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^214]
+(2)[^217]
 
-[^214]: A 103. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^217]: A 103. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

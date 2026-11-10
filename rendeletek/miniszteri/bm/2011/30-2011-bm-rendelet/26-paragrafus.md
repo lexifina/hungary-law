@@ -1,6 +1,6 @@
 ## 22. Fokozott ellenőrzés
 
-26. §[^59] (1) A fokozott ellenőrzés előre meghatározott céllal elrendelt, korlátozott időtartamon belül és az arra kijelölt földrajzi területen összehangoltan végrehajtott rendőri tevékenység.
+26. §[^60] (1) A fokozott ellenőrzés előre meghatározott céllal elrendelt, korlátozott időtartamon belül és az arra kijelölt földrajzi területen összehangoltan végrehajtott rendőri tevékenység.
 
 (2) A meghatározott földrajzi területre elrendelt fokozott ellenőrzés nem akadálya annak, hogy ugyanarra a területre vagy annak egy részére – az eredeti elrendelés időtartamán belül – más célból újabb fokozott ellenőrzést rendeljenek el, ha az elrendelésre okot adó információk, körülmények merülnek fel.
 
@@ -14,11 +14,11 @@ c) a Készenléti Rendőrség parancsnoka,
 
 d) a Repülőtéri Rendőr Igazgatóság igazgatója,
 
-e)[^60] a vármegyei (fővárosi) rendőrfőkapitány,
+e)[^61] a vármegyei (fővárosi) rendőrfőkapitány,
 
 f) a rendőrkapitány, illetve a határrendészeti kirendeltség vezetője, valamint
 
-g)[^61] a Terrorelhárítási Központ parancsnoka
+g)[^62] a Terrorelhárítási Központ parancsnoka
 
 rendelheti el legfeljebb két hónapra.
 
@@ -30,6 +30,6 @@ rendelheti el legfeljebb két hónapra.
 
 (7) A fokozott ellenőrzés keretében foganatosított rendőri intézkedés vagy kényszerítő eszköz alkalmazása során az Rtv.-nek és e rendeletnek a rendőri intézkedés vagy kényszerítő eszköz alkalmazásával kapcsolatos szabályait alkalmazni kell. A fokozott ellenőrzés elrendelésének ténye nem mentesíti a rendőrt az alól, hogy jogszabályi kötelezettségeit teljesítse.
 
-[^59]: A 26. § a 46/2021. (XII. 22.) BM rendelet 3. §-ával megállapított szöveg.
-[^60]: A 26. § (3) bekezdés e) pontja a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.
-[^61]: A 26. § (3) bekezdés g) pontja a 23/2026. (IX. 30.) BM rendelet 12. §-ával megállapított szöveg.
+[^60]: A 26. § a 46/2021. (XII. 22.) BM rendelet 3. §-ával megállapított szöveg.
+[^61]: A 26. § (3) bekezdés e) pontja a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.
+[^62]: A 26. § (3) bekezdés g) pontja a 23/2026. (IX. 30.) BM rendelet 12. §-ával megállapított szöveg.

@@ -1,16 +1,16 @@
-97/B. § (1)[^185] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
+97/B. § (1)[^188] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
 
-a)[^186] az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vagy
+a)[^189] az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vagy
 
-b)[^187] a Nemzeti Védelmi Szolgálat
+b)[^190] a Nemzeti Védelmi Szolgálat
 
-c)[^188]
+c)[^191]
 
 vezetője írásban engedélyezi.
 
-(1a)[^189] Az (1) bekezdés szerinti engedélyt annak a rendőri szervnek a vezetője adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.
+(1a)[^192] Az (1) bekezdés szerinti engedélyt annak a rendőri szervnek a vezetője adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.
 
-(2)[^190] Ha az engedélyezési hatáskör az (1a) bekezdés alapján nem állapítható meg, a behozatalt az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vezetője engedélyezi.
+(2)[^193] Ha az engedélyezési hatáskör az (1a) bekezdés alapján nem állapítható meg, a behozatalt az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vezetője engedélyezi.
 
 (3) Az engedélynek tartalmaznia kell
 
@@ -32,9 +32,9 @@ b) a Magyarország területére beléptetett, illetve az onnan kiléptetett szol
 
 c) az engedélyben előírttól eltérő helyen vagy időpontban történő behozatalt vagy kivitelt.
 
-[^185]: A 97/B. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^186]: A 97/B. § (1) bekezdés a) pontja a 23/2026. (IX. 30.) BM rendelet 14. § 19. pontja szerint módosított szöveg.
-[^187]: A 97/B. § (1) bekezdés b) pontja a 23/2026. (IX. 30.) BM rendelet 15. § 17. pontja szerint módosított szöveg.
-[^188]: A 97/B. § (1) bekezdés c) pontját a 23/2026. (IX. 30.) BM rendelet 15. § 18. pontja hatályon kívül helyezte.
-[^189]: A 97/B. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 2. § (2) bekezdése iktatta be.
-[^190]: A 97/B. § (2) bekezdése a 65/2022. (XII. 27.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^188]: A 97/B. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^189]: A 97/B. § (1) bekezdés a) pontja a 23/2026. (IX. 30.) BM rendelet 14. § 19. pontja szerint módosított szöveg.
+[^190]: A 97/B. § (1) bekezdés b) pontja a 23/2026. (IX. 30.) BM rendelet 15. § 17. pontja szerint módosított szöveg.
+[^191]: A 97/B. § (1) bekezdés c) pontját a 23/2026. (IX. 30.) BM rendelet 15. § 18. pontja hatályon kívül helyezte.
+[^192]: A 97/B. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^193]: A 97/B. § (2) bekezdése a 65/2022. (XII. 27.) BM rendelet 4. § a) pontja szerint módosított szöveg.
