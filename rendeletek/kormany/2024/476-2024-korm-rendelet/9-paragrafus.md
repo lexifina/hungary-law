@@ -1,12 +1,12 @@
-## 5. A tudomásulvételi eljárás szabályai
+## 5.[^29] A reklámeszközök településképi bejelentésének tartalmára és a bejelentési eljárás során vizsgált szempontokra vonatkozó szabályok
 
-9. § (1) A reklámeszköz elhelyezésével, átépítésével, valamint korszerűsítésével kapcsolatos, a Méptv. 104. § (7) bekezdése szerinti eljárásra a reklámeszköz helye szerinti járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) illetékes.
+9. § (1)[^30] A reklámeszköz elhelyezésével, átépítésével, valamint korszerűsítésével kapcsolatos, a Méptv. 104. § (7) bekezdése szerinti eljárásra a reklámeszköz helye szerinti települési önkormányzat illetékes.
 
-(2) A tudomásulvételi eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit az e kormányrendeletben meghatározott kiegészítésekkel kell alkalmazni.
+(2)[^31] A településképi bejelentési eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit az e kormányrendeletben meghatározott kiegészítésekkel kell alkalmazni, és ha az eljárás során szükséges adattal nem rendelkezik, megkeresi az illetékes járási (fővárosi kerületi) hivatalt.
 
 (3) A tudomásulvétel iránti kérelmet és azok mellékleteit a reklámeszköz leendő tulajdonosa a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton köteles benyújtani a hatósághoz a kihelyezés kérelmezett időtartamának megjelölésével.
 
-(4) A tudomásulvételi eljárás megindítására irányuló kérelemben az alábbi adatokat kell megadni, valamint a következő mellékleteket kell csatolni:
+(4)[^32] A településképi bejelentési eljárás megindítására irányuló kérelemben az alábbi adatokat kell megadni, valamint a következő mellékleteket kell csatolni:
 
 a) a reklámeszköz típusterve, egyedi reklámeszköz esetén műszaki tervdokumentáció,
 
@@ -14,7 +14,7 @@ b) műszaki leírás, külön bemutatva a reklámhordozót tartó berendezés é
 
 c) település megnevezése, cím (a helyrajzi szám vagy a helyszín pontos EOV koordináták megadásával), és a helyszín azonosításához szükséges egyéb adatok,
 
-d) a telepítés környezetébe – így különösen az utcaképbe – illesztett látványterv,
+d)[^33] a telepítés környezetébe – így különösen az utcaképbe – illesztett látványterv, valamint annak igazolása, hogy a reklámeszköz elhelyezése vagy átalakítása nem jár a reklámzaj mértékének nem kívánt növekedésével, és nem jelent közlekedésbiztonsági kockázatot,
 
 e) helyszínrajz méretezett jelöléssel, az érintett közterületen már meglévő reklámeszközök feltüntetésével és a tőlük való távolság megjelölésével,
 
@@ -22,19 +22,13 @@ f) az ingatlan tulajdonosának hozzájárulása,
 
 g) tetőreklám elhelyezése esetén statikai terv és műszaki leírás a tetőszerkezethez történő rögzítés bemutatásával és az állékonyság igazolásával,
 
-h) építési reklámháló elhelyezése esetén az érintett építmény
-
-ha) mindazon szintjének alaprajza, mely szintek elé az építési reklámháló elhelyezésre kerül,
-
-hb) metszete az építési reklámhálónak a homlokzati falsíktól tervezett távolságának meghatározásával, valamint
-
-hc) homlokzatfelújítására vonatkozó örökségvédelmi bejelentési vagy településképi bejelentési eljárásban hozott döntés, valamint
+h)[^34]
 
 i) külterületi világörökségi területen történő elhelyezés esetén a területi építészeti tervtanács véleménye.
 
-(5) A hiánypótlás teljesítésére legfeljebb 15 nap állapítható meg.
+(5)[^35]
 
-(6) A tudomásulvételi eljárás során a hatóság vizsgálja
+(6)[^36] A településképi bejelentési eljárás során a hatóság vizsgálja
 
 a) a reklámeszköz jogszabályban foglalt előírásoknak – különösen az Méptv. 102–104. §-ának, valamint az e rendeletnek – való megfelelését, valamint
 
@@ -46,17 +40,17 @@ a) a kérelemben megjelölt helyszín műemléki, régészeti, természetvédelm
 
 b) az építészeti örökség védett elemeinek feltárulását,
 
-c) meglévő reklámhordozót tartó berendezésen új típusú reklámhordozó elhelyezése esetén a reklámhordozót tartó berendezés műszaki és esztétikai állapotát,
+c)[^37]
 
 d) a reklámeszköz méretét,
 
-e) reklámháló és építési reklámháló esetén a tűzvédelmi előírásokat,
+e)[^38]
 
 f) digitális reklám esetén a fényszennyezés mértékét, valamint
 
 g) a közúton történő szabályos és biztonságos közlekedés feltételeit.
 
-(8) A (7) bekezdésben foglaltak tekintetében a reklámeszköz tudomásulvételi eljárásában vizsgálandó szakkérdéseket az 1. melléklet tartalmazza.
+(8)[^39]
 
 (9) A (6) bekezdés b) pontjában foglaltak mérlegelése során figyelembe kell venni az érintett közterületen már szabályosan elhelyezett reklámeszközök
 
@@ -74,4 +68,17 @@ a) által készített országos reklámzaj-térképet, illetve
 
 b) reklámzaj mértékének megállapítására és értékelésére összeállított módszertanát.
 
-(11) A tudomásulvétel időbeli hatálya a kérelemben megjelölt időtartam, de legfeljebb a reklámeszköz elhelyezésére kötött szerződés maximális időbeli hatályára vonatkozó, az Méptv. szerinti időtartam.
+(11)[^40]
+
+[^29]: Az 5. alcím címe a 409/2026. (XI. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^30]: A 9. § (1) bekezdése a 409/2026. (XI. 3.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^31]: A 9. § (2) bekezdése a 409/2026. (XI. 3.) Korm. rendelet 17. § d) és e) pontja szerint módosított szöveg.
+[^32]: A 9. § (4) bekezdés nyitó szövegrésze a 409/2026. (XI. 3.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^33]: A 9. § (4) bekezdés d) pontja a 409/2026. (XI. 3.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^34]: A 9. § (4) bekezdés h) pontját a 409/2026. (XI. 3.) Korm. rendelet 18. § 8. pontja hatályon kívül helyezte.
+[^35]: A 9. § (5) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 9. pontja hatályon kívül helyezte.
+[^36]: A 9. § (6) bekezdés nyitó szövegrésze a 409/2026. (XI. 3.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^37]: A 9. § (7) bekezdés c) pontját a 409/2026. (XI. 3.) Korm. rendelet 18. § 10. pontja hatályon kívül helyezte.
+[^38]: A 9. § (7) bekezdés e) pontját a 409/2026. (XI. 3.) Korm. rendelet 18. § 10. pontja hatályon kívül helyezte.
+[^39]: A 9. § (8) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 11. pontja hatályon kívül helyezte.
+[^40]: A 9. § (11) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 11. pontja hatályon kívül helyezte.

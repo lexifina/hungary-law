@@ -4,11 +4,15 @@
 
 1. backlight: hátulról megvilágított, frontoldalán fólia vagy feszített ponyva kihelyezésére alkalmas vagy digitális reklámeszköz, amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, magában vagy csoportban álló;
 
+1a.[^1] cityboard: önálló tartószerkezeten, magában vagy csoportban álló, legfeljebb 9 m2 méretű reklámeszköz;
+
 2. digitális billboard: digitális megjelenítésre alkalmas, az e rendeletben meghatározott formájú és méretű, önállóan tartószerkezeten, magában vagy csoportban álló reklámeszköz;
+
+2a.[^2] hanghatásos reklámeszköz: olyan reklámeszköz, amely hang útján a reklámot közvetíti;
 
 3. irányítótábla: elsődleges rendeltetését tekintve reklámeszköznek nem minősülő, kereskedelmi, szolgáltatási tevékenység helyéről tájékoztató, a megközelítés irányára, illetve távolságára utaló, legfeljebb 2 m² méretű eszköz;
 
-4. kisméretű egyedi reklámeszköz: citylight reklámeszköznél kisebb méretű reklámeszköz, amelynek frontoldalán papír vagy fólia alapú reklám helyezhető el ragasztásos, festett vagy digitális technológiával, és amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló;
+4.[^3] kisméretű egyedi reklámeszköz: citylight reklámeszköznél kisebb méretű reklámeszköz, amelynek frontoldalán papír vagy fólia alapú reklám helyezhető el ragasztásos, festett vagy digitális technológiával, és amely lehet falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló;
 
 5. közforgalmú személyszállítási szolgáltatás: a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 2. § 14. pontja szerinti szolgáltatás;
 
@@ -22,7 +26,11 @@
 
 10. kulturális intézmény: a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvény, valamint a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény szerinti intézmény, így különösen muzeális intézmény, könyvtár, közművelődési intézmény és közösségi színtér, levéltár, színház;
 
-11. nagyméretű egyedi reklámeszköz: óriásplakátnál nagyobb méretű – reklámhálónak, építési reklámhálónak vagy tetőreklámnak nem minősülő –, közterületen vagy közterületről látható magánterületen elhelyezett reklámeszköz, amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló;
+10a.[^4] kültéri vendéglátóipari reklámeszköz: vendéglátóipari egység kültéren, teraszon elhelyezett, reklámot tartalmazó napernyője, asztala, széke, valamint a reklám elhelyezésére alkalmas egyéb tartozéka;
+
+10b.[^5] midilight: utasváróval egybeépített, egy- vagy kétoldalas, legfeljebb 2 m2 méretű reklámeszköz;
+
+11.[^6] nagyméretű egyedi reklámeszköz: óriásplakátnál nagyobb méretű – reklámhálónak, építési reklámhálónak nem minősülő –, közterületen vagy közterületről látható magánterületen elhelyezett reklámeszköz, amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló;
 
 12. óriásplakát: olyan, legalább 5,04 m × 2,38 m, legfeljebb 15 m2 méretű reklámeszköz, amelynek frontoldalán papír vagy fólia alapú reklám helyezhető el ragasztásos, festett, feszített ponyva vagy digitális technológiával, és amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló;
 
@@ -36,6 +44,17 @@
 
 17. reklámzaj: adott területen elhelyezett reklámeszközök és reklámok összességének a vizuális környezetre gyakorolt hatása és a vizuális környezet terhelése a reklám tartalmától függetlenül;
 
-18. rollup citylight: háttér megvilágítással rendelkező, frontoldalán legfeljebb öt reklám megjelenítésére alkalmas reklámeszköz, amelyen papír vagy fólia alapú reklám helyezhető el, görgős továbbítással, és amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló;
+18.[^7] rollup citylight: utcabútorra telepített, háttérvilágítással rendelkező reklámeszköz, amelynek frontoldalán legfeljebb öt nem digitális reklám egymást váltva jeleníthető meg;
 
 19. rollup óriásplakát: legfeljebb öt reklám megjelenítésére alkalmas reklámeszköz, amelyen papír vagy fólia alapú reklám helyezhető el görgős továbbítással, és amely lehet önállóan tartószerkezeten álló vagy falra, kerítésre, építményre szerelt, egyedül vagy csoportban álló.
+
+20.[^8] tetőszerkezethez rögzített reklámhordozót tartó berendezés: tetőreklám elhelyezését biztosító szerkezet, amely nagyméretű egyedi reklámeszköz, óriásplakát vagy kizárólag betűkből, számokból vagy grafikai jelekből álló, azok külső határvonala által határolt reklámeszköz elhelyezésére szolgál.
+
+[^1]: Az 1. § 1a. pontját a 409/2026. (XI. 3.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 2a. pontját a 409/2026. (XI. 3.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 4. pontja a 409/2026. (XI. 3.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § 10a. pontját a 409/2026. (XI. 3.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^5]: Az 1. § 10b. pontját a 409/2026. (XI. 3.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^6]: Az 1. § 11. pontja a 409/2026. (XI. 3.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.
+[^7]: Az 1. § 18. pontja a 409/2026. (XI. 3.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. § 20. pontját a 409/2026. (XI. 3.) Korm. rendelet 8. § (5) bekezdése iktatta be.

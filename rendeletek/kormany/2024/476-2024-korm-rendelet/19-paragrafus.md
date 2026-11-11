@@ -2,9 +2,9 @@
 
 a) meglévő reklámeszközre és azon reklám elhelyezésére e rendelet előírásait a jelen alcímben meghatározott eltérésekkel kell alkalmazni,
 
-b) új reklámeszköz – az utasváróhoz tartozó reklámeszköz, a 2. § (2) bekezdése szerinti területen elhelyezett reklámeszköz, valamint a hirdetőoszlop kivételével – nem telepíthető és arra tudomásulvétel iránti kérelem nem nyújtható be.
+b)[^50] új reklámeszköz – az utasváróhoz tartozó reklámeszköz, valamint a hirdetőoszlop kivételével – nem telepíthető és arra tudomásulvétel iránti kérelem nem nyújtható be.
 
-(2) Az Méptv. 24. alcímének hatálybalépését követően megindult és az e rendelet hatálybalépésekor folyamatban lévő, új reklámeszköz elhelyezésére irányuló tudomásulvételi eljárásokat a hatóság – az utasváróhoz tartozó reklámeszköz, a 2. § (2) bekezdése szerinti területen elhelyezett reklámeszköz, valamint a hirdetőoszlop tudomásulvétele kivételével – megszünteti.
+(2)[^51] Az Méptv. 24. alcímének hatálybalépését követően megindult és az e rendelet hatálybalépésekor folyamatban lévő, új reklámeszköz elhelyezésére irányuló tudomásulvételi eljárásokat a hatóság – az utasváróhoz tartozó reklámeszköz, valamint a hirdetőoszlop tudomásulvétele kivételével – megszünteti.
 
 (3) Az országos reklámkataszterbe bejegyzett, a 17. § (1) bekezdés a) pont aa) alpontja szerinti meglévő reklámeszköz esetében az Méptv. 230. § (5) bekezdése szerinti eljárás lefolytatása iránti kérelemben az általános közigazgatási rendtartásról szóló törvényben meghatározottakon felül kizárólag a reklámeszköz egyedi azonosítóját kell megadni. A kérelemhez kizárólag nyilatkozatot kell mellékelni, amelyben a kérelmező nyilatkozik arról, hogy a reklámeszköz megfelel az Méptv.-nek, valamint e rendelet előírásainak.
 
@@ -24,6 +24,11 @@ c) ugyanazon kérelmező valamennyi reklámeszközére kiterjedő tudomásulvét
 
 (8) Az országos reklámkataszterbe bejegyzett, a 17. § (1) bekezdés a) pont ab) és ac) alpontja szerinti meglévő reklámeszköz esetében nem kell alkalmazni az 5. alcím reklámzaj-mérésre és -értékelésre, valamint a szakkérdés-vizsgálatra vonatkozó rendelkezéseit. A 17. § (1) bekezdés a) pont ab) és ac) alpontja szerinti esetekben a tudomásulvétel iránti kérelem nem utasítható el azon az alapon, hogy az adott helyszínen reklámeszköz nem helyezhető ki.
 
-(9) Ha a reklámeszköz tulajdonosa az Méptv. 230. § (4) bekezdésében meghatározott eltávolítási kötelezettségének nem tesz eleget, a járási hivatal legkésőbb 2025. október 1-jéig felhívja a reklámeszköz tulajdonosát, illetve az ingatlan tulajdonosát a reklámeszköz haladéktalan eltávolítására, amelynek eredménytelensége esetén végrehajtási eljárást kezdeményez, továbbá a hatáskörébe tartozó jogkövetkezményeket alkalmazza.
+(9)[^52]
 
-(10) A hatóság a tudomásulvételi eljárásokban hozott érdemi döntéséről a fővárosi és vármegyei kormányhivatal útján tájékoztatja a Nemzeti Média- és Hírközlési Hatóságot.
+(10)[^53]
+
+[^50]: A 19. § (1) bekezdés b) pontja a 409/2026. (XI. 3.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.
+[^51]: A 19. § (2) bekezdése a 409/2026. (XI. 3.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.
+[^52]: A 19. § (9) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 15. pontja hatályon kívül helyezte.
+[^53]: A 19. § (10) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 15. pontja hatályon kívül helyezte.

@@ -2,6 +2,9 @@
 
 (2) Ha az önkormányzat reklámrendszergazda-szerződést kötött, az adott település teljes közigazgatási területén alkalmazott, egységes megjelenésű irányítótáblákat kizárólag a reklám rendszergazda helyezhet el. Ha egyidejűleg több reklámrendszergazda-szerződés van hatályban, az irányítótáblák elhelyezésére a szerződés szerinti reklám rendszergazda jogosult.
 
-(3) Az építési reklámháló esetében átmenetileg, az építési tevékenység időtartamára, de legfeljebb tíz éves időszak alatt – megszakításokkal vagy egybefüggően – megengedett a reklámcélú használat és hasznosítás a Méptv. 104. § (11) bekezdésében meghatározott időtartamban, az országos reklámkataszterbe történő bejegyzés mellett.
+(3)[^22]
 
-(4) A reklámháló, az építési reklámháló, a tetőreklám, valamint a tűzfalfestés legfeljebb 800 m²-es felületű reklámfelülettel rendelkezhet.
+(4)[^23]
+
+[^22]: A 4. § (3) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 6. pontja hatályon kívül helyezte.
+[^23]: A 4. § (4) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 18. § 6. pontja hatályon kívül helyezte.
