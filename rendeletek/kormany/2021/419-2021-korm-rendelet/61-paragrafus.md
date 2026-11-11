@@ -1,6 +1,6 @@
 ## 38. A településterv, a kézikönyv és a településképi rendelet készítéséhez, módosításához szükséges adatszolgáltatás biztosítása
 
-61. § (1)[^135] A polgármester a településterv, kézikönyv készítését vagy módosítását, településképi rendelet módosítását – a 62. § szerinti egyeztetési eljárást megelőzően – az E-TÉR felületen a megfelelő tervezési folyamat indításával kezdeményezi, amelynek részeként
+61. § (1)[^143] A polgármester a településterv, kézikönyv készítését vagy módosítását, településképi rendelet módosítását – a 62. § szerinti egyeztetési eljárást megelőzően – az E-TÉR felületen a megfelelő tervezési folyamat indításával kezdeményezi, amelynek részeként
 
 a) megnevezi a tervezési feladatot, a településterv, kézikönyv, településképi rendelet készítését vagy módosítását,
 
@@ -16,12 +16,12 @@ e) nyilatkozik arról, hogy a kérelmezett adatbázisokat és az adatokat kizár
 
 a) – a b) pontban foglalt kivétellel – a Lechner Tudásközpont, vagy
 
-b)[^136] a 10. melléklet 26–27. és 119–121. sorában szereplő adatok tekintetében az adott sorban meghatározott szerv
+b)[^144] a 10. melléklet 26–27. és 119–121. sorában szereplő adatok tekintetében az adott sorban meghatározott szerv
 
-(2a)[^137] A település szegregált és szegregációval veszélyeztetett területeinek lehatárolásához és térképi ábrázolásához szükséges adatokat – amelyek a 10. melléklet 122. pontjában meghatározott szerv adatszolgáltatásának alapját képezik – a 14. melléklet tartalmazza.
+(2a)[^145] A település szegregált és szegregációval veszélyeztetett területeinek lehatárolásához és térképi ábrázolásához szükséges adatokat – amelyek a 10. melléklet 122. pontjában meghatározott szerv adatszolgáltatásának alapját képezik – a 14. melléklet tartalmazza.
 
 (3) A polgármester és az (1) bekezdés b) pontjában meghatározott tervező az egyeztetési eljárás végéig hozzáférést kap a 10. melléklet szerinti adatszolgáltatáshoz.
 
-[^135]: A 61. § (1) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 40. pontja szerint módosított szöveg.
-[^136]: A 61. § (2) bekezdés b) pontja a 253/2023. (VI. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^137]: A 61. § (2a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 173. §-a iktatta be.
+[^143]: A 61. § (1) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 40. pontja szerint módosított szöveg.
+[^144]: A 61. § (2) bekezdés b) pontja a 253/2023. (VI. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^145]: A 61. § (2a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 173. §-a iktatta be.

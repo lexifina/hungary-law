@@ -10,13 +10,13 @@ b) a fás szárú növényfaj vagy növényfajok vonatkozásában csak a telepí
 
 c) területi építészeti követelmény nem állapítható meg, és
 
-d)[^51] a cégérekre, cég- és üzletjelzésekre, a Berendezések épületeken való elhelyezhetőségére vonatkozó településképi követelmény meghatározható.
+d)[^53] a cégérekre, cég- és üzletjelzésekre, a Berendezések épületeken való elhelyezhetőségére vonatkozó településképi követelmény meghatározható.
 
 (4) Honvédelmi és katonai rendeltetésű területet érintően, az érintett államigazgatási szerv egyetértésével, kizárólag a közterületi telekkel azonos telekhatáron álló vagy azzal érintkező épületre határozható meg egyedi építészeti követelmény.
 
-(5)[^52] A településképi követelmény a világörökségi területre, világörökségi várományos területre, a nemzeti emléknek minősülő műemlékre és telkére, a műemléki környezetre és műemléki területre, a tájképvédelmi területre, tájképvédelmi szempontból kiemelten kezelendő területre a vonatkozó területrendezési jogszabályban vagy hatósági döntésben foglaltnál szigorúbb helyi követelményt is előírhat, de azokkal nem lehet ellentétes.
+(5)[^54] A településképi követelmény a világörökségi területre, világörökségi várományos területre, a nemzeti emléknek minősülő műemlékre és telkére, a műemléki környezetre és műemléki területre, a tájképvédelmi területre, tájképvédelmi szempontból kiemelten kezelendő területre a vonatkozó területrendezési jogszabályban vagy hatósági döntésben foglaltnál szigorúbb helyi követelményt is előírhat, de azokkal nem lehet ellentétes.
 
 (6) A településképi rendelet a rendezési tervben meghatározható követelményeket, jogokat és kötelezettségeket nem tartalmazhat.
 
-[^51]: A 28. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 157. §-ával megállapított szöveg.
-[^52]: A 28. § (5) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 88. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^53]: A 28. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 157. §-ával megállapított szöveg.
+[^54]: A 28. § (5) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 88. § (2) bekezdés a) pontja szerint módosított szöveg.

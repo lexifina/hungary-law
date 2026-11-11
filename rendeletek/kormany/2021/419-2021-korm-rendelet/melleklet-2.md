@@ -16,7 +16,7 @@ c) Javaslat az épített környezet fejlesztésére és az építészeti öröks
 
 d) Tájrendezési és zöldinfrastruktúra-fejlesztési javaslat, csapadékvíz-gazdálkodás
 
-e)[^244] Közművesítés, elektronikus hírközlési javaslat, közlekedési javaslat
+e)[^256] Közművesítés, elektronikus hírközlési javaslat, közlekedési javaslat
 
 f) Védelmi és korlátozóelemek (veszélyeztetett, illetve veszélyeztető tényezőjű területek; védőterületek, védősávok; a táj, a természeti és az épített környezet, a környezeti elemek védelmével kapcsolatos korlátozások területei)
 
@@ -24,9 +24,9 @@ g) A módosítással érintett területek bemutatása
 
 h) A területrendezési követelményekkel való összhang igazolása
 
-i)[^245] Az új beépítésre szánt terület kijelölésére irányuló módosítással érintett területekre a biológiai aktivitásérték számítása és eredménye
+i)[^257] Az új beépítésre szánt terület kijelölésére irányuló módosítással érintett területekre a biológiai aktivitásérték számítása és eredménye
 
-j)[^246] A műemlékvédelmi hatástanulmányt, ha a Méptv. 146. §-a alapján ilyen készül
+j)[^258] A műemlékvédelmi hatástanulmányt, ha a Méptv. 146. §-a alapján ilyen készül
 
 2. Ha az SKVr. szerint szükséges környezeti értékelés, az alátámasztó javaslat részeként települési környezeti értékelés készül, amely a következőket tartalmazza:
 
@@ -40,13 +40,13 @@ j)[^246] A műemlékvédelmi hatástanulmányt, ha a Méptv. 146. §-a alapján 
 
 a) A településterv egészének általános értékelése, a tervi elemek, intézkedések összevetése a releváns környezet- és természetvédelmi célokkal (nemzetközi, közösségi, országos és helyi), illetve annak bemutatása, hogy a településterv kidolgozása során miképpen vették figyelembe ezeket, illetve bármely egyéb környezeti szempontot
 
-b)[^247] A településterv részletes értékelése, a településtervben foglaltak megvalósulása esetén a környezeti következmények feltárása, értékelése:
+b)[^259] A településterv részletes értékelése, a településtervben foglaltak megvalósulása esetén a környezeti következmények feltárása, értékelése:
 
 ba) a településterv egésze szempontjából meghatározó környezeti állapotjellemzők bemutatása,
 
 bb) a településrendezési és szakági javaslatok környezetvédelmi összefüggéseinek bemutatása, a várható (közvetlen és közvetett) környezeti hatások, beleértve a biológiai sokféleségre, a lakosságra, az emberi egészségre, az állat- és növényvilágra, a talajra, a vízre, az éghajlati tényezőkre, az anyagi javakra, a kulturális örökségre (beleértve az építészeti és régészeti örökséget), a tájra, valamint a fenti tényezők közötti kölcsönhatásokra gyakorolt hatásokat; környezeti feltételek, a feltárt konfliktusok alapján szükséges intézkedések meghatározása: környezeti elemenként, hatótényezőnként és környezeti rendszerenként, melyet a ba) pont esetén a Megalapozó vizsgálatnak, e pont esetén az Alátámasztó javaslatnak a releváns (természeti, táji, örökségvédelmi és a környezet védelmével kapcsolatos) szakági munkarészei tartalmazhatnak, és amelyeket a környezeti értékelés hivatkozással mutat be.
 
-c)[^248] Tervi elemek részletes értékelése, a 2.1. pontban azonosított tervi elemek tekintetében feltárásra és értékelésre kerülnek a megvalósulásuk esetén a várható jelentős környezeti (közvetlen és közvetett) hatások, beleértve a biológiai sokféleségre, a lakosságra, az emberi egészségre, az állat- és növényvilágra, a talajra, a vízre, az éghajlati tényezőkre, az anyagi javakra, az épített környezetre, a kulturális örökségre (beleértve az építészeti és régészeti örökséget), a tájra és a települési zöldinfrastruktúrára, valamint ezen tényezők közötti kölcsönhatásokra gyakorolt hatásokat, a közvetett módon hatást kiváltó tényezők miatt fellépő hatások – a tervi elem települési szintű jellege által megkövetelt részletezettséggel.
+c)[^260] Tervi elemek részletes értékelése, a 2.1. pontban azonosított tervi elemek tekintetében feltárásra és értékelésre kerülnek a megvalósulásuk esetén a várható jelentős környezeti (közvetlen és közvetett) hatások, beleértve a biológiai sokféleségre, a lakosságra, az emberi egészségre, az állat- és növényvilágra, a talajra, a vízre, az éghajlati tényezőkre, az anyagi javakra, az épített környezetre, a kulturális örökségre (beleértve az építészeti és régészeti örökséget), a tájra és a települési zöldinfrastruktúrára, valamint ezen tényezők közötti kölcsönhatásokra gyakorolt hatásokat, a közvetett módon hatást kiváltó tényezők miatt fellépő hatások – a tervi elem települési szintű jellege által megkövetelt részletezettséggel.
 
 2.5. A településterv és a tervi elemek részletes értékeléséből levont következtetések
 
@@ -60,11 +60,11 @@ b) azon fejlesztések, tervi elemek azonosítása, amelyek környezeti szempontb
 
 2.8. A 2.1–2.7. pontokban megadott valamennyi információra kiterjedő közérthető összefoglaló.
 
-3.[^249] Aláíró lap, az önkormányzati főépítész, a felelős tervező és a szakági tervezők aláírásával
+3.[^261] Aláíró lap, az önkormányzati főépítész, a felelős tervező és a szakági tervezők aláírásával
 
-[^244]: A 2. melléklet 1. pont 1.2. alpont e) pontja a 10/2023. (I. 19.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
-[^245]: A 2. melléklet 1. pont 1.2. alpont i) pontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (2) bekezdésével megállapított szöveg.
-[^246]: A 2. melléklet 1. pont 1.2. alpont j) pontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (2) bekezdése iktatta be.
-[^247]: [A 2. melléklet 2.4. pont b) alpontjában a 285/2024. (IX. 30.) Korm. rendelet 187. § 60. pontja által elrendelt módosítás, amely szerint a „javakra, a” szövegrész helyébe a „javakra, az épített környezetre, a” szöveg és a „tájra,” szövegrész helyébe a „tájra és a települési zöldinfrastruktúrára,” szöveg lép, nem vezethető át.]
-[^248]: A 2. melléklet 2.4. pont c) alpontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 61. pontja szerint módosított szöveg.
-[^249]: A 2. melléklet 3. pontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (2) bekezdése iktatta be.
+[^256]: A 2. melléklet 1. pont 1.2. alpont e) pontja a 10/2023. (I. 19.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^257]: A 2. melléklet 1. pont 1.2. alpont i) pontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (2) bekezdésével megállapított szöveg.
+[^258]: A 2. melléklet 1. pont 1.2. alpont j) pontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (2) bekezdése iktatta be.
+[^259]: [A 2. melléklet 2.4. pont b) alpontjában a 285/2024. (IX. 30.) Korm. rendelet 187. § 60. pontja által elrendelt módosítás, amely szerint a „javakra, a” szövegrész helyébe a „javakra, az épített környezetre, a” szöveg és a „tájra,” szövegrész helyébe a „tájra és a települési zöldinfrastruktúrára,” szöveg lép, nem vezethető át.]
+[^260]: A 2. melléklet 2.4. pont c) alpontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 61. pontja szerint módosított szöveg.
+[^261]: A 2. melléklet 3. pontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (2) bekezdése iktatta be.

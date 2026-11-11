@@ -12,7 +12,7 @@ A KÖZTERÜLET-ALAKÍTÁSI TERV RÉSZLETES TARTALMI KÖVETELMÉNYEI
 
 5. Közlekedési és parkolófelületek kialakítása
 
-6.[^263] Köztárgyak, berendezések elhelyezése (beleértve az utcabútorzatot, az ivó- és a szökőkutakat, reklámeszközöket)
+6.[^275] Köztárgyak, berendezések elhelyezése (beleértve az utcabútorzatot, az ivó- és a szökőkutakat, reklámeszközöket)
 
 7. Közműhálózat és műtárgyai kialakítása (beleértve a közművek műtárgyait, tűzcsapokat, egyéb berendezéseket)
 
@@ -26,4 +26,4 @@ A KÖZTERÜLET-ALAKÍTÁSI TERV RÉSZLETES TARTALMI KÖVETELMÉNYEI
 
 12. Ütemezett megvalósítás esetén a megvalósítás ütemeinek lehatárolása
 
-[^263]: A 8. melléklet 6. pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 64. pontja szerint módosított szöveg.
+[^275]: A 8. melléklet 6. pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 64. pontja szerint módosított szöveg.

@@ -1,8 +1,10 @@
 ## 28. A településképi bejelentési eljárás
 
-46. § (1)[^89] Az önkormányzat településképi bejelentési eljárást köteles lefolytatni az építmények rendeltetésének megváltoztatása – így az önálló rendeltetési egység rendeltetésének módosítása vagy az építmény rendeltetési egységei számának megváltozása – esetén, az országos és a helyi építési követelmények érvényesítése érdekében. A Méptv. 33. alcíme szerinti egyes kereskedelmi építményekkel összefüggő rendeltetésváltozás esetén településképi bejelentési eljárás nem folytatható le.
+46. § (1)[^92] Az önkormányzat településképi bejelentési eljárást köteles lefolytatni az építmények rendeltetésének megváltoztatása – így az önálló rendeltetési egység rendeltetésének módosítása vagy az építmény rendeltetési egységei számának megváltozása – esetén, az országos és a helyi építési követelmények érvényesítése érdekében. A Méptv. 33. alcíme szerinti egyes kereskedelmi építményekkel összefüggő rendeltetésváltozás esetén településképi bejelentési eljárás nem folytatható le.
 
-(2)[^90] Az önkormányzat településképi bejelentési eljárást folytathat le
+(1a)[^93] Az önkormányzat – a kiemelt településkép-védelmi környezetben tervezett reklámeszköz kivételével – településképi bejelentési eljárást köteles lefolytatni a reklámeszközök elhelyezése és átalakítása tekintetében. Ha az önkormányzat másként nem rendelkezik, a településképi bejelentés tartalmára, továbbá a bejelentési eljárás során vizsgált szempontokra a reklám és a reklámeszköz elhelyezésének szabályairól szóló kormányrendelet előírásai irányadóak.
+
+(2)[^94] Az önkormányzat településképi bejelentési eljárást folytathat le
 
 a) az építésügyi hatósági engedélyhez, egyszerű bejelentéshez, örökségvédelmi engedélyhez vagy örökségvédelmi bejelentéshez nem kötött építési tevékenységek, valamint zöldfelület elhelyezés, területhasználat megkezdését megelőzően, és
 
@@ -10,7 +12,7 @@ b) a cégérek, cég- és üzletjelzések, valamint Berendezések épületeken v
 
 ha a tevékenységek, épületeken való elhelyezések köre szerepel a 13. mellékletben, és e tevékenységek megkezdését, illetve az elhelyezést a települési önkormányzat rendeletében településképi bejelentési eljárás lefolytatásához kötötte.
 
-(3)[^91]
+(3)[^95]
 
 (4) A bejelentési eljárás során
 
@@ -28,13 +30,13 @@ a) a bejelentő nevét,
 
 b) a bejelentő lakcímét, szervezet esetén székhelyét,
 
-c)[^92] a folytatni kívánt építési tevékenység, cégér, cég- és üzletjelzés, Berendezések elhelyezése vagy rendeltetésváltoztatás megjelölését,
+c)[^96] a folytatni kívánt építési tevékenység, cégér, cég- és üzletjelzés, Berendezések elhelyezése vagy rendeltetésváltoztatás megjelölését,
 
-d)[^93] a tervezett építési tevékenység, cégér, cég- és üzletjelzés, Berendezések vagy rendeltetésváltoztatás helyét, a telek helyrajzi számát és
+d)[^97] a tervezett építési tevékenység, cégér, cég- és üzletjelzés, Berendezések vagy rendeltetésváltoztatás helyét, a telek helyrajzi számát és
 
-e)[^94] az építési tevékenység elvégzése, a rendeltetésváltozás megvalósítása vagy a cégér, cég- és üzletjelzés, Berendezések elhelyezésének tervezett időtartamát.
+e)[^98] az építési tevékenység elvégzése, a rendeltetésváltozás megvalósítása vagy a cégér, cég- és üzletjelzés, Berendezések elhelyezésének tervezett időtartamát.
 
-(6)[^95] A bejelentéshez
+(6)[^99] A bejelentéshez
 
 a) a településképi követelményeknek való megfelelést igazoló építészeti-műszaki tervet, vagy
 
@@ -42,17 +44,19 @@ b) rendeltetésváltozás esetén a településrendezési és építési követe
 
 kell mellékelni.
 
-(7)[^96] Az önkormányzat a bejelentés beérkezését követően haladéktalanul bekéri az önkormányzati főépítész szakmai álláspontját.
+(7)[^100] Az önkormányzat a bejelentés beérkezését követően haladéktalanul bekéri az önkormányzati főépítész szakmai álláspontját.
 
-(8) A településképi bejelentési eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti jogszerű hallgatásnak van helye.
+(8)[^101] A településképi bejelentési eljárásban – kivéve a reklámeszközök elhelyezésére vagy átalakítására irányuló eljárást – az általános közigazgatási rendtartásról szóló törvény szerinti jogszerű hallgatásnak van helye.
 
 (9) A bejelentési eljárásban az eljárás szünetelésének nincs helye.
 
-[^89]: A 46. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (1) bekezdésével megállapított szöveg.
-[^90]: A 46. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (1) bekezdésével megállapított szöveg.
-[^91]: A 46. § (3) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 10. pontja hatályon kívül helyezte.
-[^92]: A 46. § (5) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 27. pontja szerint módosított szöveg.
-[^93]: A 46. § (5) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 28. pontja szerint módosított szöveg.
-[^94]: A 46. § (5) bekezdés e) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 29. pontja szerint módosított szöveg.
-[^95]: A 46. § (6) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^96]: A 46. § (7) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (2) bekezdésével megállapított szöveg.
+[^92]: A 46. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (1) bekezdésével megállapított szöveg.
+[^93]: A 46. § (1a) bekezdését a 409/2026. (XI. 3.) Korm. rendelet 3. §-a iktatta be.
+[^94]: A 46. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (1) bekezdésével megállapított szöveg.
+[^95]: A 46. § (3) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 10. pontja hatályon kívül helyezte.
+[^96]: A 46. § (5) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 27. pontja szerint módosított szöveg.
+[^97]: A 46. § (5) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 28. pontja szerint módosított szöveg.
+[^98]: A 46. § (5) bekezdés e) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 29. pontja szerint módosított szöveg.
+[^99]: A 46. § (6) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^100]: A 46. § (7) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (2) bekezdésével megállapított szöveg.
+[^101]: A 46. § (8) bekezdése a 409/2026. (XI. 3.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

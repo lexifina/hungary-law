@@ -8,7 +8,7 @@
 
 a) államigazgatási szerv esetében a feladat- és hatáskörébe tartozó követelmények megállapítását,
 
-b)[^143] területi önkormányzat esetében a megyei területrendezési terveknek való megfelelés megállapítását, továbbá
+b)[^151] területi önkormányzat esetében a megyei területrendezési terveknek való megfelelés megállapítását, továbbá
 
 c) települési önkormányzat esetében a közigazgatási területét érintő infrastrukturális kapcsolatokra, valamint egyéb környezeti hatásokra vonatkozó észrevételeket.
 
@@ -20,16 +20,16 @@ c) települési önkormányzat esetében a közigazgatási területét érintő 
 
 a) az egyeztetési eljárás során véleményét határidőn belül nem tölti fel az E-TÉR által biztosított digitális egyeztető felületre,
 
-b)[^144] az egyeztető tárgyaláson a szabályos meghívás ellenére nem vesz részt, vagy
+b)[^152] az egyeztető tárgyaláson a szabályos meghívás ellenére nem vesz részt, vagy
 
 c) az egyeztető tárgyaláson nem képviselteti magát, és levelében kifogást emelő véleményének fenntartását nem jelzi,
 
 az adott eljárási szakaszban kifogást nem emelő véleményezőnek kell tekinteni.
 
-(6a)[^145] Az egyeztető tárgyaláson a véleményezésre jogosult szerv és az önkormányzat akkor képviselteti magát, ha a megjelent, nyilatkozattételre jogosult képviselője az egyeztetésen felmerült új tények és szempontok alapján jogosult újraértékelni a korábban írásban megküldött véleményét, és az érintett szakkérdés, illetve a szükségessé vált tervmódosítás tekintetében nyilatkozatot tud tenni.
+(6a)[^153] Az egyeztető tárgyaláson a véleményezésre jogosult szerv és az önkormányzat akkor képviselteti magát, ha a megjelent, nyilatkozattételre jogosult képviselője az egyeztetésen felmerült új tények és szempontok alapján jogosult újraértékelni a korábban írásban megküldött véleményét, és az érintett szakkérdés, illetve a szükségessé vált tervmódosítás tekintetében nyilatkozatot tud tenni.
 
 (7) Abban az esetben, ha az összevont telepítési eljárással egyidejűleg a településterv módosítása is szükséges, az eljárásba bevont szakhatóságok véleménye kiváltja a településterv egyeztetési eljárásában való részvételüket.
 
-[^143]: A 64. § (3) bekezdés b) pontja a 451/2026. (XI. 6.) Korm. rendelet 1. § 4. pontja szerint módosított szöveg.
-[^144]: A 64. § (6) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 44. pontja szerint módosított szöveg.
-[^145]: A 64. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 175. §-a iktatta be.
+[^151]: A 64. § (3) bekezdés b) pontja a 451/2026. (XI. 6.) Korm. rendelet 1. § 4. pontja szerint módosított szöveg.
+[^152]: A 64. § (6) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 44. pontja szerint módosított szöveg.
+[^153]: A 64. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 175. §-a iktatta be.

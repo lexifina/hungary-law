@@ -6,7 +6,7 @@ a) a 11. melléklet szerinti érintett államigazgatási, önkormányzati és eg
 
 b) a lakossággal, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (a továbbiakban együtt: partnerek).
 
-(2)[^138] Ha a településterv készítése vagy módosítása esetén környezeti értékelés készül, a tervet és az alátámasztó javaslat részét képező környezeti értékelést
+(2)[^146] Ha a településterv készítése vagy módosítása esetén környezeti értékelés készül, a tervet és az alátámasztó javaslat részét képező környezeti értékelést
 
 a) az E-TÉR felületen véleményeztetni kell az SKVr. 3. számú melléklete szerinti környezet védelméért felelős szervekkel is, és
 
@@ -16,10 +16,10 @@ b) az önkormányzat a) pont szerinti véleményeztetéssel egyidejűleg az SKVr
 
 (4) A fejlesztési terv és a rendezési terv készítése vagy módosítása egy egyeztetési eljárásban történik, kivéve, ha törvény alapján egy településen több rendezési terv is lehet. A fejlesztési tervről szóló döntés megelőzi a rendezési tervről szóló döntést.
 
-(5)[^139]
+(5)[^147]
 
-(6)[^140] Kézikönyv és településképi rendelet egyidejű módosítása egy egyeztetési eljárásban történhet. A kézikönyvről szóló döntés megelőzi a településképi rendeletről szóló döntést.
+(6)[^148] Kézikönyv és településképi rendelet egyidejű módosítása egy egyeztetési eljárásban történhet. A kézikönyvről szóló döntés megelőzi a településképi rendeletről szóló döntést.
 
-[^138]: A 62. § (2) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 41. pontja szerint módosított szöveg.
-[^139]: A 62. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 17. pontja hatályon kívül helyezte.
-[^140]: A 62. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 188. § 18. pontja szerint módosított szöveg.
+[^146]: A 62. § (2) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 41. pontja szerint módosított szöveg.
+[^147]: A 62. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 17. pontja hatályon kívül helyezte.
+[^148]: A 62. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 188. § 18. pontja szerint módosított szöveg.
