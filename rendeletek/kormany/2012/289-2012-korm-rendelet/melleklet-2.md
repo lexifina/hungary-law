@@ -1,52 +1,44 @@
-## 1.[^104] Valamennyi építményre, alrendszerre, rendszerelemre vonatkozóan:
+## 1.[^113] Valamennyi építményre, alrendszerre, rendszerelemre vonatkozóan:
 
-## a) igazolni kell
+## 1.1. igazolni kell
 
-## aa) a műszaki és hatósági előírások megtartását és a tervezői jogosultságot,
+## 1.1.1. a műszaki és hatósági előírások megtartását és a tervezői jogosultságot,
 
-## ab) a független tanúsító szervezet tanúsításának megtörténtét,
+## 1.1.2. ha azt jogszabály előírja, a független tanúsító szervezet tanúsításának megtörténtét,
 
-## ac) amennyiben a beruházás fejlesztési közreműködővel történik, a várható üzemeltető és fejlesztési közreműködő közti feladatmegosztásról szóló szerződés megkötését,
+## 1.1.3. ha a beruházás fejlesztési közreműködővel történik, a várható üzemeltető és fejlesztési közreműködő közti feladatmegosztásról szóló szerződés megkötését,
 
-## ad) amennyiben a beruházó és az üzemeltető nem azonos, a tervdokumentáció üzemeltetői záradékolásának megtörténtét, valamint a szöveges hozzájárulás meglétét,
+## 1.1.4. ha a beruházó és az üzemeltető nem azonos, a tervdokumentáció üzemeltetői záradékolásának megtörténtét, valamint a szöveges hozzájárulás meglétét,
 
-## ae) az érintett közművekkel összefüggésben a közműkezelők részéről adott, 6 hónapnál nem régebbi hozzájárulás meglétét,
+## 1.1.5. az érintett közművekkel összefüggésben a közműkezelők részéről adott, 6 hónapnál nem régebbi hozzájárulás meglétét,
 
-## af) amennyiben a beruházás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet alapján arra kötelezett, annak megtörténtét, hogy megvizsgálták a környezeti hatások jelentőségét,
+## 1.1.6. ha a beruházás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet alapján arra kötelezett, annak megtörténtét, hogy megvizsgálták a környezeti hatások jelentőségét;
 
-## ag)[^105]
+## 1.2. ha a beruházás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet alapján arra kötelezett, az előzetes vizsgálati eljárást lezáró végleges döntés vagy végleges környezetvédelmi engedély azonosításához szükséges adatokat;
 
-## b) meg kell adni
+## 1.3. be kell mutatni a hatásterületet az érintett ügyfelek megjelölésével;
 
-## ba)[^106]
+## 1.4. a tervezői nyilatkozatnak tartalmaznia kell, hogy a kérelmezett létesítmények, alrendszerek tervezett megvalósítása vonatkozásában a tervek tekintetében
 
-## bb) amennyiben a beruházás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet alapján arra kötelezett, az előzetes vizsgálati eljárást lezáró végleges döntés vagy végleges környezetvédelmi engedély
+## 1.4.1. az átjárhatósági műszaki előírások teljesülnek,
 
-## azonosításához szükséges adatokat;
+## 1.4.2. az átjárhatósági műszaki előírások teljesülése alól felmentést, derogációt adott ki a tagállamra az Európai Unió illetékes szervezete,
 
-## c) be kell mutatni a hatásterületet az érintett ügyfelek megjelölésével.
+## 1.4.3. az előrehaladott fejlesztési stádiumban lévő projekt megvalósítására a hatályos átjárhatósági műszaki előírások alkalmazása alóli mentesülés alapján nem a hatályos átjárhatósági műszaki előírások teljesülnek,
 
-## d)[^107] a tervezői nyilatkozatnak tartalmaznia kell, hogy a kérelmezett létesítmények, alrendszerek tervezett megvalósítása vonatkozásában az alábbi műszaki előírások közül mely megfelelési szint teljesül:
+## 1.4.4. az átjárhatósági műszaki előírások teljesülése alól felmentést, derogációt adott ki az Európai Unió illetékes szervezete,
 
-## 1. az átjárhatósági műszaki előírások teljesülnek;
+## 1.4.5. az átjárhatósági műszaki előírások teljesülése a hozzáférhetőség meglévő akadályainak azonosításával és fokozatos megszüntetésével érhető el,
 
-## 2. az átjárhatósági műszaki előírások teljesülése alól felmentést, derogációt adott ki a tagállamra az Európai Unió illetékes szervezete;
+## 1.4.6. a vasúti építmény nem az átjárhatósági műszaki előírások hatálya alá tartozik,
 
-## 3. az előrehaladott fejlesztési stádiumban lévő projekt megvalósítására a hatályos átjárhatósági műszaki előírások alkalmazása alóli mentesülés alapján nem hatályos átjárhatósági műszaki előírások teljesülnek;
+## 1.4.7. a nemzeti szabályok előírásai teljesülnek, vagy
 
-## 4. az átjárhatósági műszaki előírások teljesülése alól felmentést, derogációt adott ki az Európai Unió illetékes szervezete;
-
-## 5. az átjárhatósági műszaki előírások teljesülése a hozzáférhetőség meglévő akadályainak azonosításával és fokozatos megszüntetésével érhető el;
-
-## 6. a rendszerintegritási nemzeti ajánlások vagy a hatályos vasúti műszaki előírások, Országos Vasúti Szabályzat előírásai teljesülnek;
-
-## 7. az Országos Vasúti Szabályzat előírások teljesülése alól felmentést adott ki a vasúti közlekedési hatóság;
-
-## 8. a rendszerintegritási nemzeti ajánlásokban meghatározott megoldással azonos biztonsági szintek teljesülnek.
+## 1.4.8. ha a vasúti közlekedési hatóság a nemzeti szabályok teljesülése alól felmentést adott ki, akkor a felmentés meghatározott szabályai teljesülnek.
 
 ## 2. Vasúti pálya engedélyezési terve
 
-## 2.1.[^108] Vasúti pálya:
+## 2.1.[^114] Vasúti pálya:
 
 ## a) átnézeti helyszínrajz (1:10000 vagy 1:25000 méretarányban);
 
@@ -72,7 +64,7 @@
 
 ## l) közúti vasutaknál forgalomtechnikai terv.
 
-## 2.2.[^109]
+## 2.2.[^115]
 
 ## 3. Vasúti pálya tartozékai
 
@@ -142,7 +134,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3.[^110] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
+## 3.3.[^116] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) torzított helyszínrajz;
 
@@ -160,19 +152,19 @@
 
 ## f) végleges alkalmassági tanúsítvánnyal nem rendelkező berendezések esetében előzetes alkalmassági tanúsítvány, legkésőbb a létesítés megkezdéséig;
 
-## g)[^111] a berendezésben megvalósítani tervezett szoftverfrissítés műszaki leírása;
+## g)[^117] a berendezésben megvalósítani tervezett szoftverfrissítés műszaki leírása;
 
-## h)[^112] a különleges kezeléseket érintő szoftverfrissítéshez tartozóan korábban kiadott hatósági engedélyek;
+## h)[^118] a különleges kezeléseket érintő szoftverfrissítéshez tartozóan korábban kiadott hatósági engedélyek;
 
-## i)[^113] a meglévő SIL0 szintű funkció javításáról kiállított előzetes vagy közbenső tanúsítói nyilatkozat;
+## i)[^119] a meglévő SIL0 szintű funkció javításáról kiállított előzetes vagy közbenső tanúsítói nyilatkozat;
 
-## j)[^114] az új SIL0 szintű funkció első alkalmazásakor, vagy meglévő funkció jelentősebb módosításakor, a tanúsító előzetes nyilatkozata, valamint kockázatelemzés és biztonságértékelés;
+## j)[^120] az új SIL0 szintű funkció első alkalmazásakor, vagy meglévő funkció jelentősebb módosításakor, a tanúsító előzetes nyilatkozata, valamint kockázatelemzés és biztonságértékelés;
 
-## k)[^115] a SIL1, SIL2, SIL3, SIL4 szintű biztonsági funkciókat érintő szoftverfrissítés esetén tanúsító bevonásával megvalósult független biztonságértékelési eljárás eredménye, amelyben igazolni kell, hogy a biztonság integritási szint (SIL) nem csökken;
+## k)[^121] a SIL1, SIL2, SIL3, SIL4 szintű biztonsági funkciókat érintő szoftverfrissítés esetén tanúsító bevonásával megvalósult független biztonságértékelési eljárás eredménye, amelyben igazolni kell, hogy a biztonság integritási szint (SIL) nem csökken;
 
-## l)[^116] a szoftverfrissítést követő üzemi próba kiértékelésének kritériumai, amelynél az egyes szoftverfrissítésekhez tartozó elegendő üzemi próbaidőt a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen kell meghatároznia;
+## l)[^122] a szoftverfrissítést követő üzemi próba kiértékelésének kritériumai, amelynél az egyes szoftverfrissítésekhez tartozó elegendő üzemi próbaidőt a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen kell meghatároznia;
 
-## m)[^117] a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen tett nyilatkozata arra vonatkozóan, hogy az üzemi próba
+## m)[^123] a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen tett nyilatkozata arra vonatkozóan, hogy az üzemi próba
 
 ## ma) a teljes rendszerre,
 
@@ -182,7 +174,7 @@
 
 ## vonatkozott;
 
-## n)[^118] szoftvermódosítási utasítás.
+## n)[^124] szoftvermódosítási utasítás.
 
 ## 3.4. Villamos felsővezeték:
 
@@ -310,7 +302,7 @@
 
 ## i) a berendezések és környezetük megvilágításának terve.
 
-## 4.5.[^119] Egyéb vasútgépészeti berendezés (vágányba épített vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+## 4.5.[^125] Egyéb vasútgépészeti berendezés (vágányba épített vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
 
 ## a) helyszínrajz;
 
@@ -348,22 +340,19 @@
 
 2. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
-A vasúti építmények használatbavételi engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^120]
+A vasúti építmények használatbavételi engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^126]
 
-[^104]: Az 1. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (4) bekezdésével megállapított, nyitó szövegrésze a 204/2024. (VII. 29.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^105]: Az 1. melléklet 1. pont a) alpont ag) alpontját az 570/2021. (X. 6.) Korm. rendelet 4. § 1. pontja hatályon kívül helyezte.
-[^106]: Az 1. melléklet 1. pont b) alpont ba) alpontját az 570/2021. (X. 6.) Korm. rendelet 4. § 2. pontja hatályon kívül helyezte.
-[^107]: Az 1. melléklet 1. pont d) alpontját a 204/2024. (VII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^108]: Az 1. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
-[^109]: Az 1. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
-[^110]: Az 1. melléklet 3.3. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
-[^111]: Az 1. melléklet 3.3. pont g) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^112]: Az 1. melléklet 3.3. pont h) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^113]: Az 1. melléklet 3.3. pont i) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^114]: Az 1. melléklet 3.3. pont j) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^115]: Az 1. melléklet 3.3. pont k) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^116]: Az 1. melléklet 3.3. pont l) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^117]: Az 1. melléklet 3.3. pont m) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^118]: Az 1. melléklet 3.3. pont n) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^119]: Az 1. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^120]: A 2. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg.
+[^113]: Az 1. melléklet 1. pontja a 489/2026. (XI. 11.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^114]: Az 1. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^115]: Az 1. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^116]: Az 1. melléklet 3.3. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^117]: Az 1. melléklet 3.3. pont g) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^118]: Az 1. melléklet 3.3. pont h) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^119]: Az 1. melléklet 3.3. pont i) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^120]: Az 1. melléklet 3.3. pont j) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^121]: Az 1. melléklet 3.3. pont k) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^122]: Az 1. melléklet 3.3. pont l) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^123]: Az 1. melléklet 3.3. pont m) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^124]: Az 1. melléklet 3.3. pont n) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^125]: Az 1. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^126]: A 2. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg.

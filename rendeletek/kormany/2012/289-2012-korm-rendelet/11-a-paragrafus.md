@@ -1,21 +1,25 @@
-11/A. §[^23] (1) A kérelmező az építési engedély iránti kérelmének benyújtásával egyidejűleg nyilatkozik arról, hogy a rendszerintegritás biztosítása érdekében
+11/A. §[^26] (1)[^27] A kérelmező az építési engedély iránti kérelmének benyújtásával egyidejűleg nyilatkozik arról, hogy a rendszerintegritás biztosítása érdekében
 
-a) részben vagy egészben a Vtv. 2. § 1.16. pontja szerinti nemzeti ajánlásokban (a továbbiakban: rendszerintegritási nemzeti ajánlások) foglaltak szerint jár el, vagy
+a) részben vagy egészben a vonatkozó nemzeti ajánlásokban foglaltak szerint jár el, vagy
 
-b) a rendszerintegritási nemzeti ajánlásokban foglaltaktól részben vagy egészben el kíván térni.
+b) a nemzeti ajánlásokban foglaltaktól részben vagy egészben el kíván térni.
 
-(2) Amennyiben a kérelmező a rendszerintegritási nemzeti ajánlásokban foglaltak szerint jár el, úgy a vasúti közlekedési hatóság részére benyújtja a rendszerintegritási megfelelőségértékelési szervezet által kiállított közbenső megfelelési nyilatkozatot annak igazolására, hogy a vasúti építmény tervezése során a rendszerintegritási nemzeti ajánlásokban meghatározott, a kérelmező által alkalmazni kívánt feltételek teljesülnek.
+(2)[^28]
 
-(3) Mindazon szempontokra vonatkozóan, amelyekben a rendszerintegráció érdekében a kérelmező a rendszerintegritási nemzeti ajánlásokban foglaltaktól eltérő megoldást kíván alkalmazni (a továbbiakban: alternatív megoldás), az építési engedély iránti kérelméhez mellékelten benyújtja
+(3)[^29] Mindazon szempontokra vonatkozóan, amelyekben a kérelmező a nemzeti ajánlásokban foglaltaktól eltérő megoldást kíván alkalmazni (a továbbiakban: alternatív megoldás), az építési engedély iránti kérelméhez mellékelten benyújtja
 
 a) az alternatív megoldás részletes leírását, az alternatív megoldás kivitelezése során alkalmazandó paramétereket és azok követelményeit,
 
-b) az üzemeltetés, fenntartás során alkalmazandó fenntartási követelmények meghatározását,
+b) az üzemeltetés, fenntartás során alkalmazandó követelmények meghatározását,
 
-c) a kockázatértékelő szervezet igazolását arra vonatkozóan, hogy a kérelmező által alkalmazni kívánt alternatív megoldás legalább a rendszerintegritási nemzeti ajánlásokban meghatározott megoldással azonos biztonsági szintet biztosít, és
+c) az üzemeltető nyilatkozatát arra vonatkozóan, hogy a kérelmező által alkalmazni kívánt alternatív megoldás alkalmazásával, az üzemeltetés, fenntartás során alkalmazandó követelményekkel egyetért, és
 
-d) a rendszerintegritási megfelelőségértékelési szervezet által kiállított közbenső megfelelési nyilatkozatot annak igazolására, hogy a vasúti építmény tervezése során a kérelmező által alkalmazni kívánt alternatív megoldásban meghatározott feltételek teljesülnek.
+d) azon nyilatkozatot, amelyben a kérelmező rögzíti, hogy az alternatív megoldás legalább a nemzeti ajánlásokban meghatározott megoldással azonos biztonsági szintet biztosít.
 
-(4) Az alternatív megoldás alkalmazását a vasúti közlekedési hatóság az építési engedély megadása által akkor engedélyezi, ha az alternatív megoldás legalább a rendszerintegritási nemzeti ajánlásokban meghatározott megoldással azonos biztonsági szintet biztosít.
+(4)[^30] Az alternatív megoldás alkalmazását a vasúti közlekedési hatóság az építési engedélyezési eljárás során vizsgálja meg.
 
-[^23]: A 11/A. §-t a 632/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 11/A. §-t a 632/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 11/A. § (1) bekezdése a 489/2026. (XI. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^28]: A 11/A. § (2) bekezdését a 489/2026. (XI. 11.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^29]: A 11/A. § (3) bekezdése a 489/2026. (XI. 11.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 11/A. § (4) bekezdése a 489/2026. (XI. 11.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

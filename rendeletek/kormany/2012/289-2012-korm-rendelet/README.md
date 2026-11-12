@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-289-20-
 | 2024-07-01 | 2012-289-20-22.20 | 141/2024. (VI. 28.) Korm. rendelet |
 | 2024-08-29 | 2012-289-20-22.21 | 204/2024. (VII. 29.) Korm. rendelet |
 | 2024-10-01 | 2012-289-20-22.22 | 358/2013. (X. 9.) Korm. rendelet |
+| 2026-11-12 | 2012-289-20-22.23 | 489/2026. (XI. 11.) Korm. rendelet |
