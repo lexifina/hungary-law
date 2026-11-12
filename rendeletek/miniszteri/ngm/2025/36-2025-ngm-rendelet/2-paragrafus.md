@@ -18,11 +18,11 @@
 
 8. Nemzeti Kiválóság Díj;
 
-9. Szlávy József Díj;
+9.[^1]
 
 10. Állami Vagyongazdálkodásért Érdemérem;
 
-11. Foglalkoztatáspolitikáért Érdemérem;
+11.[^2]
 
 12. Fogyasztóvédelemért Érdemérem;
 
@@ -33,3 +33,6 @@
 15. Heller Farkas Elismerő Oklevél;
 
 16. Klauzál Gábor Elismerő Oklevél.
+
+[^1]: A 2. § (2) bekezdés 9. pontját a 3/2026. (XI. 11.) SZCSM rendelet 25. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (2) bekezdés 11. pontját a 3/2026. (XI. 11.) SZCSM rendelet 25. § (4) bekezdés a) pontja hatályon kívül helyezte.

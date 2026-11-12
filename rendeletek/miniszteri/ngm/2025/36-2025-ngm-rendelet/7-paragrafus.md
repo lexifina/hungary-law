@@ -1,4 +1,4 @@
-7. § (1)[^1] A (2) bekezdésben foglaltak kivételével a miniszter által adományozható elismerésekkel összefüggő kiadások fedezetét a minisztérium igazgatási költségvetésében kell megtervezni.
+7. § (1)[^3] A (2) bekezdésben foglaltak kivételével a miniszter által adományozható elismerésekkel összefüggő kiadások fedezetét a minisztérium igazgatási költségvetésében kell megtervezni.
 
 (2) A jutalmazás fedezetét
 
@@ -8,4 +8,4 @@ b) a miniszter tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazda
 
 c) a békéltető testületek, a fogyasztói érdekek képviseletét ellátó egyesületek, továbbá a kutatóműhely által miniszteri elismerésre jelölt személy esetén az a szerv biztosítja, amelynek vezetője a jutalmazást kezdeményezi.
 
-[^1]: A 7. § (1) bekezdése a 8/2026. (X. 22.) PM rendelet 16. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 15. §-át.
+[^3]: A 7. § (1) bekezdése a 8/2026. (X. 22.) PM rendelet 16. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 15. §-át.
