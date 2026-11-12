@@ -10,10 +10,10 @@ ca) az 1698/2005/EK tanácsi rendelet 37. cikke, 38. cikke, 39. cikk (1)–(5) b
 
 cb) az 1305/2013/EU európai parlamenti és tanácsi rendelet 21. cikk (1) bekezdés a) és b) pontja, 28–31. cikke, 33. és 34. cikke alapján nyújtott támogatások, kivéve a 28. cikk (9) bekezdésében említett támogatások,
 
-d)[^3] hatáskörrel rendelkező hatóság: a Magyar Államkincstár, az 1. mellékletben foglaltak szerinti fővárosi és vármegyei kormányhivatal, illetve a fővárosi és vármegyei kormányhivatal járási hivatala,
+d)[^3] hatáskörrel rendelkező hatóság: a Magyar Államkincstár, az 1. mellékletben foglaltak szerinti megyei kormányhivatal, illetve a megyei kormányhivatal járási hivatala,
 
 e) közvetlen kifizetések: az 1306/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés e) pontjában meghatározott, közvetlenül a kedvezményezett részére nyújtott támogatás.
 
 [^1]: Az 1. § a 94/2015. (IV. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § a) pontját a 473/2016. (XII. 27.) Korm. rendelet 4. § (6) bekezdés a) pontja hatályon kívül helyezte.
-[^3]: Az 1. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 54. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 85. §-a, a 257/2024. (VIII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 54. § (1) bekezdésével megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 11. § a) pontja, a 470/2026. (XI. 11.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
