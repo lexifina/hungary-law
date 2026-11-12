@@ -32,4 +32,6 @@ b) az ajánlati árak ismeretében készítsen előterjesztést a Kormány rész
 
 6. az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 106. § (7) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi, hogy a közlekedési és beruházási miniszter az 1. pont szerinti közútfejlesztési beruházás 2. pontban meghatározott feladatai megvalósítása érdekében a 2027–2028. években összesen legfeljebb 24 500 000 000 forint összegben kötelezettséget vállaljon az Állami beruházások fejezet, állami közútfejlesztési beruházások finanszírozását szolgáló előirányzat terhére;
 
-7. visszavonja a Budapest Liszt Ferenc Nemzetközi Repülőtérről a fővárosba irányuló közúti fejlesztések megvalósításáról szóló 1323/2024. (X. 24.) Korm. határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

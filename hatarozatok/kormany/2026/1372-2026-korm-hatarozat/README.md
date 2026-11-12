@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-1372-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-11-11 | 2026-1372-30-22.1 | 1372/2026. (XI. 11.) Korm. határozat |
+| 2026-11-12 | 2026-1372-30-22.2 | 2010. évi CXXX. törvény |
