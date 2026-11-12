@@ -4,13 +4,13 @@
 
 11. § (1)[^7] A Vt. 121. §-a (1) bekezdésének b) pontjában meghatározott ellenőrző hatóságként a Kormány
 
-a)[^8] élelmiszerek esetében – külön jogszabályban foglaltak szerint – a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal) és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+a)[^8] élelmiszerek esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal) és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-b)[^9] szeszes italok esetében – külön jogszabályban foglaltak szerint – a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+b)[^9] szeszes italok esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-c)[^10] zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a növény- és talajvédelmi feladatkörében eljáró vármegyei kormányhivatalt és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+c)[^10] zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatalt és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-d)[^11] mezőgazdasági termékek esetében – külön jogszabályban foglaltak szerint – a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
+d)[^11] mezőgazdasági termékek esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
 
 (a továbbiakban együtt: ellenőrző hatóság) jelöli ki.
 
@@ -25,7 +25,7 @@ d)[^11] mezőgazdasági termékek esetében – külön jogszabályban foglaltak
 (6) A földrajzi árujelzővel ellátott termék elnevezése, megjelölése, illetve szimbóluma használata megsértésének észlelése esetén az ellenőrző hatóság, illetve a fogyasztóvédelmi hatóság egymást haladéktalanul értesíti az eljárás megindításáról az eljárás tárgyát képező tényállás ismertetésével, melynek során az ügy érdemi azonosíthatóságához szükséges adatokat – így különösen az érintett vállalkozás azonosításához szükséges adatokat, valamint az ellenőrzés helyére és idejére vonatkozó adatokat – a másik fél rendelkezésére bocsátja. Ha a jogsértés miatt mindkét hatóság jogosult eljárni, a továbbiakban az a hatóság jár el, amely az ügyben az eljárást korábban indította meg.
 
 [^7]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 247. §-ával megállapított szöveg.
-[^8]: A 11. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 138. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
-[^9]: A 11. § (1) bekezdés b) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
-[^10]: A 11. § (1) bekezdés c) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 70. §-a, a 616/2022. (XII. 29.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
-[^11]: A 11. § (1) bekezdés d) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 101. § b) pontja szerint módosított szöveg.
+[^8]: A 11. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 138. § a) pontja, a 473/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 11. § (1) bekezdés b) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § b) pontja, a 473/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 11. § (1) bekezdés c) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 70. §-a, a 473/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdés d) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § d) pontja, a 473/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.

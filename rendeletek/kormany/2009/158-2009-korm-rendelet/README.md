@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-158-20-
 | 2017-01-01 | 2009-158-20-22.9 | 23/2012. (II. 29.) Korm. rendelet |
 | 2020-03-01 | 2009-158-20-22.10 | 23/2012. (II. 29.) Korm. rendelet |
 | 2023-01-01 | 2009-158-20-22.11 | 23/2012. (II. 29.) Korm. rendelet |
+| 2026-11-12 | 2009-158-20-22.12 | 23/2012. (II. 29.) Korm. rendelet |
