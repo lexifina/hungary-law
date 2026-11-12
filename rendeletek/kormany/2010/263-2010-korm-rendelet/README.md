@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-263-20-
 | 2021-07-16 | 2010-263-20-22.13 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2024-06-01 | 2010-263-20-22.14 | 107/2024. (V. 9.) Korm. rendelet |
 | 2025-07-06 | 2010-263-20-22.15 | 188/2025. (VII. 3.) Korm. rendelet |
+| 2026-11-12 | 2010-263-20-22.16 | 107/2024. (V. 9.) Korm. rendelet |

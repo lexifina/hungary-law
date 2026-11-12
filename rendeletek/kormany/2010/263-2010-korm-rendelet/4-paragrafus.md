@@ -6,10 +6,10 @@
 
 a)[^12] amely a tulajdonában álló földek területnagyságának több mint 50%-át vagyonkezelésbe vagy haszonbérbe adta;
 
-b)[^13] amellyel szemben a vagyonkezelésbe adás napját megelőző két évben a területileg illetékes ingatlanügyi hatóság földvédelmi bírságot szabott ki, valamint a vármegyei kormányhivatal parlagfű elleni közérdekű védekezést elrendelő határozatot hozott, vagy növényvédelmi, illetve erdőgazdálkodási bírságot szabott ki.
+b)[^13] amellyel szemben a vagyonkezelésbe adás napját megelőző két évben a területileg illetékes ingatlanügyi hatóság földvédelmi bírságot szabott ki, valamint a megyei kormányhivatal parlagfű elleni közérdekű védekezést elrendelő határozatot hozott, vagy növényvédelmi, illetve erdőgazdálkodási bírságot szabott ki.
 
 [^9]: A 4. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (2) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
 [^11]: A 4. § (3) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
 [^12]: A 4. § (3) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^13]: A 4. § (3) bekezdés b) pontja a 107/2024. (V. 9.) Korm. rendelet 10. § b) pontja, a 188/2025. (VII. 3.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (3) bekezdés b) pontja a 107/2024. (V. 9.) Korm. rendelet 10. § b) pontja, a 188/2025. (VII. 3.) Korm. rendelet 18. § a) pontja, a 476/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
