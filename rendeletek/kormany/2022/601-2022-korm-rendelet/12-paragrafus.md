@@ -1,4 +1,4 @@
-12. § A Nemzeti Kifizető Ügynökség a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a vármegyei kormányhivatalra az alábbi feladatokat ruházhatja át:
+12. §[^34] A Nemzeti Kifizető Ügynökség a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a megyei kormányhivatalra az alábbi feladatokat ruházhatja át:
 
 a) a szőlőterületek szerkezet-átalakításának és -átállításának támogatásával kapcsolatos helyszíni ellenőrzése;
 
@@ -30,12 +30,13 @@ dc) évelő, lágy szárú energiaültetvények telepítése és
 
 dd) fiatal erdők állománynevelése.
 
-de)[^33] erdészeti genetikai erőforrások megőrzése,
+de)[^35] erdészeti genetikai erőforrások megőrzése,
 
-df)[^34] erdészeti genetikai erőforrások fejlesztése és
+df)[^36] erdészeti genetikai erőforrások fejlesztése és
 
-dg)[^35] a ritka és veszélyeztetett növényfajták genetikai erőforrásainak és a mikroorganizmusok ex situ megőrzése.
+dg)[^37] a ritka és veszélyeztetett növényfajták genetikai erőforrásainak és a mikroorganizmusok ex situ megőrzése.
 
-[^33]: A 12. § d) pont de) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
-[^34]: A 12. § d) pont df) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
-[^35]: A 12. § d) pont dg) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^34]: A 12. § nyitó szövegrésze a 484/2026. (XI. 11.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^35]: A 12. § d) pont de) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A 12. § d) pont df) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^37]: A 12. § d) pont dg) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
