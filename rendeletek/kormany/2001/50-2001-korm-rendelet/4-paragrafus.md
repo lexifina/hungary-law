@@ -1,6 +1,6 @@
 4. §[^17] (1)[^18] A mezőgazdasági területen az e rendeletnek megfelelő szennyvíz, szennyvíziszap és szennyvíziszap komposzt, továbbá az (EU) 2020/741 európai parlamenti és tanácsi rendeletben meghatározott D. minőségi osztályú terménykategória szerinti, nem élelmezési és nem takarmányozási célú ipari növények, energianövények és vetőmagkultúrák öntözésére visszanyert víz használható fel.
 
-(2)[^19] A szennyvíz, szennyvíziszap és szennyvíziszap komposzt mezőgazdasági felhasználása engedélyhez kötött tevékenység, amit a talajvédelmi hatáskörében eljáró talajvédelmi feladatkörében eljáró vármegyei kormányhivatal (a továbbiakban: talajvédelmi hatóság) engedélyez.
+(2)[^19] A szennyvíz, szennyvíziszap és szennyvíziszap komposzt mezőgazdasági felhasználása engedélyhez kötött tevékenység, amit a talajvédelmi hatáskörében eljáró talajvédelmi feladatkörében eljáró megyei kormányhivatal (a továbbiakban: talajvédelmi hatóság) engedélyez.
 
 (3)[^20]
 
@@ -20,7 +20,7 @@
 
 [^17]: A 4. § a 40/2008. (II. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^18]: A 4. § (1) bekezdése a 7/2023. (I. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^19]: A 4. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 80. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 21. §-a, a 616/2022. (XII. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 80. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 21. §-a, a 467/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^20]: A 4. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 53. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^21]: A 4. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^22]: A 4. § (5) bekezdése a 99/2008. (IV. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
