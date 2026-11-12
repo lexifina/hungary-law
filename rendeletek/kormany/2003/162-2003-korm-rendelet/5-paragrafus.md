@@ -1,6 +1,6 @@
 5. § (1) A termesztető köteles
 
-a)[^16] a földművelésügyi feladatkörében eljáró vármegyei kormányhivatallal (a továbbiakban: kormányhivatal) a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatványon az alábbi aa)–ah) pontokban meghatározott adatokat tavaszi vetésű ipari mák esetén a vetési évben április 30-ig, őszi vetésű ipari mák esetén a vetési évben november 30-ig, az ai) pont szerinti adatot pedig november 30-áig közölni:
+a)[^16] a földművelésügyi feladatkörében eljáró megyei kormányhivatallal (a továbbiakban: kormányhivatal) a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatványon az alábbi aa)–ah) pontokban meghatározott adatokat tavaszi vetésű ipari mák esetén a vetési évben április 30-ig, őszi vetésű ipari mák esetén a vetési évben november 30-ig, az ai) pont szerinti adatot pedig november 30-áig közölni:
 
 aa) a termesztető neve, címe,
 
@@ -44,7 +44,7 @@ j)[^25] a vetőmaggal kapcsolatos számlák másolatát a kormányhivatalnak az 
 
 (3)[^28]
 
-[^16]: Az 5. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés a) pontja, a 468/2026. (XI. 11.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^17]: Az 5. § (1) bekezdés a) pont ah) alpontját a 19/2015. (II. 16.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^18]: Az 5. § (1) bekezdés a) pont ai) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
 [^19]: Az 5. § (1) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 332/2016. (XI. 8.) Korm. rendelet 8. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § a) pontja, a 331/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

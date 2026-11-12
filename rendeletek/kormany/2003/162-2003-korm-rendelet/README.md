@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-162-20-
 | 2023-01-01 | 2003-162-20-22.29 | 332/2016. (XI. 8.) Korm. rendelet |
 | 2023-08-01 | 2003-162-20-22.30 | 62/2010. (III. 18.) Korm. rendelet |
 | 2026-11-01 | 2003-162-20-22.31 | 62/2010. (III. 18.) Korm. rendelet |
+| 2026-11-12 | 2003-162-20-22.32 | 62/2010. (III. 18.) Korm. rendelet |
