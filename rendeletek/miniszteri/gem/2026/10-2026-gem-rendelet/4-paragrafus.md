@@ -1,1 +1,0 @@
-4. § Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete A. függelékének a kobalt tekintetében történő módosításáról szóló, 2026. január 28-i (EU) 2026/192 európai bizottsági irányelvnek való megfelelést szolgálja.
