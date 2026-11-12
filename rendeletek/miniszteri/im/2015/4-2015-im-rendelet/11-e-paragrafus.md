@@ -1,4 +1,4 @@
-11/E. §[^26] (1) Az Év Jogi Segítője díj a tartósan magas színvonalú, kiváló jogi segítői tevékenységet végző ügyvéd részére adományozható.
+11/E. §[^25] (1) Az Év Jogi Segítője díj a tartósan magas színvonalú, kiváló jogi segítői tevékenységet végző ügyvéd részére adományozható.
 
 (2) A díj adományozását – a 3. § (1) bekezdésében foglaltaktól eltérően – a Magyar Ügyvédi Kamara elnöke kezdeményezheti a miniszternél.
 
@@ -8,7 +8,7 @@
 
 (5) A díjazott emlékérmét és az adományozást igazoló oklevelet kap.
 
-(6)[^27] A díjhoz nettó 200 000 Ft összegű pénzjutalom jár.
+(6)[^26] A díjhoz nettó 200 000 Ft összegű pénzjutalom jár.
 
-[^26]: A 11/E. §-t a 14/2021. (XI. 25.) IM rendelet 2. §-a iktatta be.
-[^27]: A 11/E. § (6) bekezdése a 2/2025. (III. 14.) IM rendelet 1. § d) pontja szerint módosított szöveg.
+[^25]: A 11/E. §-t a 14/2021. (XI. 25.) IM rendelet 2. §-a iktatta be.
+[^26]: A 11/E. § (6) bekezdése a 2/2025. (III. 14.) IM rendelet 1. § d) pontja szerint módosított szöveg.

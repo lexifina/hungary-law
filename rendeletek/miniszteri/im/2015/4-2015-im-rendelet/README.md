@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-4-20-06
 | 2022-09-27 | 2015-4-20-06.8 | 19/2022. (IX. 26.) IM rendelet |
 | 2024-11-20 | 2015-4-20-06.9 | 15/2024. (XI. 19.) IM rendelet |
 | 2025-03-15 | 2015-4-20-06.10 | 2/2025. (III. 14.) IM rendelet |
+| 2026-11-12 | 2015-4-20-06.11 | 3/2026. (XI. 11.) SZCSM rendelet |
