@@ -8,7 +8,7 @@ a) termőhelyi kataszterbe sorolás vagy kataszteri besorolás módosítása ese
 
 b) termőhelyi kataszterből történő törlés esetén a földterület fekvése szerint illetékes hegyközség hozzájárulását,
 
-c)[^8] a földterület fekvése szerint illetékes települési önkormányzat jegyzőjének igazolását arról, hogy a termőhelyi kataszterbe sorolás, módosítás vagy törlés a földterületet érintő országos, kiemelt térségi, vármegyei területrendezési tervvel és településrendezési tervvel nem ellentétes, és
+c)[^8] a földterület fekvése szerint illetékes települési önkormányzat jegyzőjének igazolását arról, hogy a termőhelyi kataszterbe sorolás, módosítás vagy törlés a földterületet érintő országos, kiemelt térségi, megyei területrendezési tervvel és településrendezési tervvel nem ellentétes, és
 
 d) a Magyar Agrár- és Élettudományi Egyetem Szőlészeti és Borászati Intézet (a továbbiakban: MATE SZBI) szakvéleményét
 
@@ -26,12 +26,12 @@ dc) a földterület szőlő termőhelyi kataszterből történő törlése
 
 a) amely a MATE SZBI által adott szakvélemény alapján a miniszteri rendelet szerinti ökológiai minősítés során 190 értékpontot nem ér el,
 
-b)[^9] amelynek kataszterbe sorolása a területet érintő országos, kiemelt térségi vagy vármegyei területrendezési tervvel vagy településrendezési tervvel ellentétes,
+b)[^9] amelynek kataszterbe sorolása a területet érintő országos, kiemelt térségi vagy megyei területrendezési tervvel vagy településrendezési tervvel ellentétes,
 
 c) amely az ingatlan-nyilvántartásban nem szántó, szőlő, gyümölcsös, kert, rét, legelő művelési ágban van nyilvántartva, vagy
 
 d) amely tekintetében – az érintett földrajzi árujelzőt kezelő hegyközségi szervezet véleménye alapján – a kataszterbe sorolás az adott földrajzi árujelző hírnevét veszélyeztetheti.
 
 [^7]: A 3. § (2) bekezdése a 339/2025. (X. 31.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^8]: A 3. § (3) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 318. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § (5) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 318. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés c) pontja a 486/2026. (XI. 11.) Korm. rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdés b) pontja a 486/2026. (XI. 11.) Korm. rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
