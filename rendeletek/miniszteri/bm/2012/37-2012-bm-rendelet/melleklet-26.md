@@ -46,7 +46,7 @@
 
 ## * A hivatkozott kizáró ok tekintetében foglalkoztatott esetén a munkáltatói jog gyakorlója tesz nyilatkozatot, egyéb esetben nem kell kitölteni!
 
-26. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^172]
+26. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^162]
 
 Nyilatkozat
 
@@ -64,4 +64,4 @@ Dátum
 
 elismerésre javasolt aláírása
 
-[^172]: A 26. melléklet az 51/2014. (XI. 26.) BM rendelet 16. § k) pontja, a 62/2024. (XII. 30.) BM rendelet 9. § n) pontja szerint módosított szöveg.
+[^162]: A 26. melléklet az 51/2014. (XI. 26.) BM rendelet 16. § k) pontja, a 62/2024. (XII. 30.) BM rendelet 9. § n) pontja szerint módosított szöveg.

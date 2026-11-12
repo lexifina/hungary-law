@@ -1,3 +1,3 @@
-5. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^161]
+5. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^151]
 
-[^161]: Az 5. mellékletet a 71/2023. (XII. 23.) BM rendelet 5. § 14. pontja hatályon kívül helyezte.
+[^151]: Az 5. mellékletet a 71/2023. (XII. 23.) BM rendelet 5. § 14. pontja hatályon kívül helyezte.

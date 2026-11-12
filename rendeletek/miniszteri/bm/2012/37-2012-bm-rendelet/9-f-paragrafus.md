@@ -1,4 +1,4 @@
-## 9/F.[^27] Védőnői Szolgálatért díj
+## 9/F.[^25] Védőnői Szolgálatért díj
 
 9/F. § (1) A Védőnői Szolgálatért díj annak a természetes személynek adományozható, aki a területi védőnői munkában és a védőnők oktatásában egyaránt kivételesen magas színvonalú, példaértékű eredményt ért el, és tevékenységével jelentősen hozzájárult ilyen eredmény eléréséhez.
 
@@ -8,7 +8,7 @@
 
 (4) A Védőnői Szolgálatért díjjal díjazott az adományozást igazoló oklevelet kap.
 
-(5)[^28] A Védőnői Szolgálatért díjhoz pénzjutalom adható. A Védőnői Szolgálatért díjjal adható pénzjutalom összege kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
+(5)[^26] A Védőnői Szolgálatért díjhoz pénzjutalom adható. A Védőnői Szolgálatért díjjal adható pénzjutalom összege kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
 
-[^27]: A 9/F. alcímet (9/F. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
-[^28]: A 9/F. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 6. §-ával megállapított szöveg.
+[^25]: A 9/F. alcímet (9/F. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^26]: A 9/F. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 6. §-ával megállapított szöveg.

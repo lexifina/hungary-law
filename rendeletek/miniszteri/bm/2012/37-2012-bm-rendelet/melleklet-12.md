@@ -1,3 +1,3 @@
-12. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^163]
+12. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^153]
 
-[^163]: A 12. mellékletet a 2/2023. (II. 3.) MK rendelet 42. § b) pont bj) alpontja hatályon kívül helyezte.
+[^153]: A 12. mellékletet a 2/2023. (II. 3.) MK rendelet 42. § b) pont bj) alpontja hatályon kívül helyezte.

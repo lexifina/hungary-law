@@ -1,4 +1,4 @@
-## 9/G.[^29] Elige Vitam díj
+## 9/G.[^27] Elige Vitam díj
 
 9/G. § (1) Az Elige Vitam díj a szenvedélybetegségek elleni küzdelem területén végzett kiemelkedő tevékenység elismerésére adományozható.
 
@@ -8,7 +8,7 @@
 
 (4) Az Elige Vitam díjjal díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 70 milliméter. Az emlékérem Szabó Géza ötvösmester alkotása, egyoldalas, térben kétfelé megosztott fát ábrázol, és rajta az „ELIGE VITAM” felirat található.
 
-(5)[^30] Az Elige Vitam díjhoz pénzjutalom adható. Az Elige Vitam díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
+(5)[^28] Az Elige Vitam díjhoz pénzjutalom adható. Az Elige Vitam díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
 
-[^29]: A 9/G. alcímet (9/G. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
-[^30]: A 9/G. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 7. §-ával megállapított szöveg.
+[^27]: A 9/G. alcímet (9/G. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^28]: A 9/G. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 7. §-ával megállapított szöveg.

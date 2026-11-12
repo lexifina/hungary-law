@@ -1,3 +1,3 @@
-60. §[^153]
+60. §[^143]
 
-[^153]: A 60. §-t újonnan a 4/2018. (II. 23.) BM rendelet 6. §-a iktatta be, a 71/2023. (XII. 23.) BM rendelet 5. § 13. pontja hatályon kívül helyezte.
+[^143]: A 60. §-t újonnan a 4/2018. (II. 23.) BM rendelet 6. §-a iktatta be, a 71/2023. (XII. 23.) BM rendelet 5. § 13. pontja hatályon kívül helyezte.

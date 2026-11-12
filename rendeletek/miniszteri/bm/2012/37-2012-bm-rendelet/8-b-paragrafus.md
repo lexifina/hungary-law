@@ -1,17 +1,5 @@
-## 8/B. [^12] Balázs János-díj
+## 8/B.[^12]
 
-8/B. § (1) A Balázs János-díj a hátrányos helyzetű emberek, közösségek – főleg romák – társadalmi felzárkózásáért, oktatásáért, foglalkoztatásuk elősegítéséért, társadalmi beilleszkedésük és megbecsülésük segítéséért végzett magas színvonalú szakmai munkáért, valamint a jövő generációjának példaképet adó, a roma identitás, roma kultúra megőrzéséért, gyarapításáért munkálkodó, a romák és nem romák egymás megismerését, társadalmi párbeszédét támogató, a békés társadalmi együttélést előmozdító kiemelkedő munkáért adományozható.
+8/B. §
 
-(2) A Balázs János-díj természetes személyeknek, egyházi vagy civil szervezeteknek adományozható.
-
-(3) A Balázs János-díj átadására a Nemzetközi Roma Nap (április 8.) alkalmából kerül sor.
-
-(4) A Balázs János-díjból évente legfeljebb három adományozható.
-
-(5)[^13] A Balázs János-díjjal díjazott emlékérmet és az adományozást igazoló oklevelet kap. A Balázs János-díj emlékérem kerek alakú, bronzból készült, átmérője 95 mm, vastagsága 5-6 mm, „Balázs János Díj” félkörívű, továbbá „1905–1977” felirattal, Balázs János fényképével. A hátlapon Magyarország címere és az adományozás éve vésett felirattal.
-
-(6)[^14] A Balázs János-díjhoz pénzjutalom adható. A Balázs János-díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
-
-[^12]: A 8/B. alcímet (8/B. §) a 25/2019. (VI. 18.) BM rendelet 1. §-a iktatta be.
-[^13]: A 8/B. § (5) bekezdése a 24/2023. (VI. 30.) BM rendelet 21. §-ával megállapított szöveg.
-[^14]: A 8/B. § (6) bekezdése a 84/2023. (XII. 28.) BM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 8/B. alcímet (8/B. §-t) a 25/2019. (VI. 18.) BM rendelet 1. §-a iktatta be, a 3/2026. (XI. 11.) SZCSM rendelet 25. § (1) bekezdés a) pontja hatályon kívül helyezte.

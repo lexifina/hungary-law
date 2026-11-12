@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-37-20-0
 | 2024-12-31 | 2012-37-20-0A.30 | 21/2014. (III. 10.) BM rendelet |
 | 2026-10-01 | 2012-37-20-0A.31 | 51/2014. (XI. 26.) BM rendelet |
 | 2026-10-23 | 2012-37-20-0A.32 | 39/2022. (XI. 22.) BM rendelet |
+| 2026-11-12 | 2012-37-20-0A.33 | 39/2022. (XI. 22.) BM rendelet |
