@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-188-20-
 | 2020-12-16 | 2019-188-20-22.6 | 564/2020. (XII. 8.) Korm. rendelet |
 | 2023-01-01 | 2019-188-20-22.7 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2024-01-01 | 2019-188-20-22.8 | 596/2023. (XII. 21.) Korm. rendelet |
+| 2026-11-12 | 2019-188-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
