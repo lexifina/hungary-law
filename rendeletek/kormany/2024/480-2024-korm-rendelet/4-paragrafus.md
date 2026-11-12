@@ -1,6 +1,6 @@
 ## 2. A gazdaságátadási szerződés hatósági jóváhagyása iránti eljárás
 
-4. § (1)[^9] A gazdaságátadási szerződés jóváhagyása iránti kérelmet a gazdaságátadó az arra rendszeresített formanyomtatványon elektronikus vagy postai úton vagy személyesen eljárva nyújtja be a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet 43/A. § (1) bekezdése szerinti földügyi igazgatási feladatkörében eljáró vármegyei kormányhivatalhoz (a továbbiakban: vármegyei kormányhivatal).
+4. § (1)[^9] A gazdaságátadási szerződés jóváhagyása iránti kérelmet a gazdaságátadó az arra rendszeresített formanyomtatványon elektronikus vagy postai úton vagy személyesen eljárva nyújtja be a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet 43/A. § (1) bekezdése szerinti földügyi igazgatási feladatkörében eljáró megyei kormányhivatalhoz (a továbbiakban: megyei kormányhivatal).
 
 (2) A gazdaságátadási szerződés jóváhagyása iránti kérelemhez csatolni kell
 
@@ -58,7 +58,7 @@ b) a tevékenység tíz éves időtartamának nem kell összefüggőnek lennie, 
 
 (5) A gazdaságátadási szerződés Gtv. 12/A. §-a szerinti módosításának jóváhagyása iránti kérelemhez kizárólag a gazdaságátadási szerződés módosításával érintett mellékleteket kell benyújtani.
 
-(6)[^16] Ha a gazdaságátadási szerződés tartalmaz a Gtv. 7. § e) vagy f) pontja szerinti adatokat, a vármegyei kormányhivatal elektronikus úton értesíti a Magyar Államkincstárt a gazdaságátadási szerződés vagy annak módosítása jóváhagyása iránti kérelem beérkezéséről
+(6)[^16] Ha a gazdaságátadási szerződés tartalmaz a Gtv. 7. § e) vagy f) pontja szerinti adatokat, a megyei kormányhivatal elektronikus úton értesíti a Magyar Államkincstárt a gazdaságátadási szerződés vagy annak módosítása jóváhagyása iránti kérelem beérkezéséről
 
 a) a gazdaságátadó neve,
 
@@ -68,11 +68,11 @@ c) az 1. § (2) bekezdés b) pontja szerinti adat
 
 megküldésével.
 
-[^9]: A 4. § (1) bekezdése a 416/2025. (XII. 23.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdése a 416/2025. (XII. 23.) Korm. rendelet 7. § d) pontja, a 487/2026. (XI. 11.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (2) bekezdés c) pontja a 416/2025. (XII. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdés g) pontja a 416/2025. (XII. 23.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
 [^12]: A 4. § (2) bekezdés i) pontját a 416/2025. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^13]: A 4. § (2) bekezdés j) pontját a 416/2025. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^14]: A 4. § (2) bekezdés k) pontját a 416/2025. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^15]: A 4. § (3) bekezdés a) pontja a 416/2025. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^16]: A 4. § (6) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^16]: A 4. § (6) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be, nyitó szövegrésze a 487/2026. (XI. 11.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

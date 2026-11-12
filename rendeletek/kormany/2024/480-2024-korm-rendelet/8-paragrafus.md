@@ -1,6 +1,6 @@
-## 4. A vármegyei kormányhivatal által vezetett nyilvántartás
+## 4.[^26] A megyei kormányhivatal által vezetett nyilvántartás
 
-8. § A vármegyei kormányhivatal által a Gtv. 12/C. §-a szerint a jóváhagyott gazdaságátadási szerződésekről vezetett nyilvántartás – az ott meghatározott adatokon kívül – tartalmazza
+8. §[^27] A megyei kormányhivatal által a Gtv. 12/C. §-a szerint a jóváhagyott gazdaságátadási szerződésekről vezetett nyilvántartás – az ott meghatározott adatokon kívül – tartalmazza
 
 a) ha a gazdaság rendelkezik vele, a családi gazdaság nyilvántartási azonosítóját;
 
@@ -35,3 +35,6 @@ ed) folyamatban lévő támogatási jogviszonyokat, a támogatási összegek meg
 f) a Gtv. 10. §-a szerinti együttműködés időtartamát és
 
 g) a gazdaság átszállásának naptári napját.
+
+[^26]: A 4. alcím címe a 487/2026. (XI. 11.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^27]: A 8. § nyitó szövegrésze a 487/2026. (XI. 11.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
