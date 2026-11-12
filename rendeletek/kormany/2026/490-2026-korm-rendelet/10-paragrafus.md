@@ -1,0 +1,1 @@
+10. § A Beruházás tekintetében a 3. § (1) és (2) bekezdésében meghatározott közigazgatási hatósági eljárásokra vonatkozó ügyintézési határidő – a környezetvédelmi, valamint természetvédelmi hatósági eljárások kivételével, illetve ha jogszabály rövidebb határidőt nem állapít meg – harminc nap.

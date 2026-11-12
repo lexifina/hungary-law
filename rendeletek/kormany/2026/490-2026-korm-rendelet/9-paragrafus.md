@@ -1,0 +1,1 @@
+9. § Ha a 2. mellékletben foglalt táblázat szerinti ingatlanok helyrajzi száma e rendelet hatálybalépését követően változik meg, akkor a 3. § (1) bekezdésében foglaltakat valamennyi olyan új helyrajzi számmal rendelkező ingatlanra alkalmazni kell, amelyet az 1. mellékletben foglalt táblázat szerinti nyomvonallal érintett területsáv érint.
