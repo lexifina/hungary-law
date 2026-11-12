@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-262-20-
 | 2025-01-01 | 2010-262-20-22.34 | 827/2021. (XII. 28.) Korm. rendelet |
 | 2025-07-06 | 2010-262-20-22.35 | 188/2025. (VII. 3.) Korm. rendelet |
 | 2025-08-01 | 2010-262-20-22.36 | 188/2025. (VII. 3.) Korm. rendelet |
+| 2026-11-12 | 2010-262-20-22.37 | 159/2019. (VI. 28.) Korm. rendelet |
