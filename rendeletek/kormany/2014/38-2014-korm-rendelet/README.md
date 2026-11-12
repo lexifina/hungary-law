@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-38-20-2
 | 2026-01-01 | 2014-38-20-22.23 | 342/2025. (X. 31.) Korm. rendelet |
 | 2026-08-28 | 2014-38-20-22.25 | 129/2026. (VIII. 25.) Korm. rendelet |
 | 2026-10-01 | 2014-38-20-22.26 | 129/2026. (VIII. 25.) Korm. rendelet |
+| 2026-11-12 | 2014-38-20-22.27 | 70/2015. (III. 30.) Korm. rendelet |
