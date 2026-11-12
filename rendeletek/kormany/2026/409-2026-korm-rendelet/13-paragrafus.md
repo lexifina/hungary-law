@@ -1,3 +1,3 @@
-13. § Az R2. 5. alcím címe helyébe a következő alcímcím lép:
+13. §[^14]
 
-„5. A reklámeszközök településképi bejelentésének tartalmára és a bejelentési eljárás során vizsgált szempontokra vonatkozó szabályok”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

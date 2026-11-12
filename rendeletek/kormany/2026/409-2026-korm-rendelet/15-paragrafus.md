@@ -1,3 +1,3 @@
-15. § Az R2. 11. § (4) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(4) Ha az ellenőrzés sikeres lezárásához a Nemzeti Média- és Hírközlési Hatóság megkeresése szükséges, a helyi önkormányzat a döntése meghozatala előtt megkeresi a szervet.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -6,20 +6,6 @@
 
 ## 1. A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet módosítása
 
-1. § (1) A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet (a továbbiakban: R1.) 27. § (3) bekezdése a következő d) ponttal egészül ki:
+1. §[^2]
 
-(A településképi követelmény lehet)
-
-## „d) a reklám és a reklámeszköz elhelyezésének szabályairól szóló kormányrendelet szerint elhelyezhető és ott meghatározott kisméretű egyedi reklámeszközre, tűzfalon elhelyezett festett reklámra, kültéri vendéglátóipari reklámeszközre és az ezen megjelenített reklámra vonatkozó”
-
-## (követelmény.)
-
-(2) Az R1. 27. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A településképi rendelet az önkormányzat döntésétől függően
-
-a) tartalmazza a Méptv. 103. § (1) bekezdés f) pontja és 104. § (5) bekezdése szerinti reklám- és reklámeszköz-elhelyezési tilalommal érintett egyéb bel- és külterületek megállapítását, továbbá azon reklámeszközök körének meghatározását, amelyeken reklám nem helyezhető el, és
-
-b) kizárja a településképi szempontból meghatározó területen kívül is a reklámok közvilágítási, villany- és telefonoszlopon, illetve segélykérő telefonon vagy annak tartószerkezetén történő elhelyezését,
-
-azzal, hogy a fővárosi kerületi önkormányzat a fővárosi önkormányzat által nem tiltott esetekben határozhat meg kizárást.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
