@@ -4,7 +4,7 @@ A kockázatbecslés tartalma
 
 1. Az eltávolításra tervezett mederiszap helye:
 
-1.1. a vármegye megnevezése,
+1.1.[^3] a megye megnevezése,
 
 1.2. a vízfolyás, állóvíz megnevezése,
 
@@ -135,3 +135,5 @@ A kockázatbecslés tartalma
 16. Összefoglaló szakvélemény.
 
 17. A kockázatbecslést végző neve, szakértői, illetve tervezői jogosultsága és aláírása.
+
+[^3]: Az 1. melléklet 1. pont 1.1. alpontja a 485/2026. (XI. 11.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

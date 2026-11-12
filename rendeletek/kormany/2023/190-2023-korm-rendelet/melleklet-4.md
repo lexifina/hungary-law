@@ -62,7 +62,7 @@ A talajjavító mederanyag és a kezelt mederiszap vizsgálandó komponensei és
 
 |  | A | B | C | D |
 
-| 1. | Vizsgálandó paraméter | Kezelt mederiszap | Talajjavító mederanyag | Vizsgálati szabvány[^2] |
+| 1. | Vizsgálandó paraméter | Kezelt mederiszap | Talajjavító mederanyag | Vizsgálati szabvány[^4] |
 
 | 2. | Mintavétel |  |  | MSZ EN ISO 5667-13:2000 |
 
@@ -110,7 +110,7 @@ A talajjavító mederanyag és a kezelt mederiszap vizsgálandó komponensei és
 
 | 24. | Humán parazita bélféreg pete |  | + |  |
 
-2. Kiegészítő szabványlista[^3]
+2. Kiegészítő szabványlista[^5]
 
 2.1. K+ és Na+: MSZ 260-38:1986
 
@@ -170,5 +170,5 @@ A talajjavító mederanyag és a kezelt mederiszap vizsgálandó komponensei és
 
 2.9.14. As: MSZ 318-28:1992
 
-[^2]: A paraméterek ellenőrzésekor az ott megjelölt vagy azzal egyenértékű vizsgálati módszereket kell alkalmazni. A szabványtól eltérő vizsgálati módszer alkalmazása esetén az alkalmazott eljárásról leírást kell csatolni.
-[^3]: A paraméterek ellenőrzésekor az ott megjelölt vagy azzal egyenértékű vizsgálati módszereket kell alkalmazni. A szabványtól eltérő vizsgálati módszer alkalmazása esetén az alkalmazott eljárásról leírást kell csatolni.
+[^4]: A paraméterek ellenőrzésekor az ott megjelölt vagy azzal egyenértékű vizsgálati módszereket kell alkalmazni. A szabványtól eltérő vizsgálati módszer alkalmazása esetén az alkalmazott eljárásról leírást kell csatolni.
+[^5]: A paraméterek ellenőrzésekor az ott megjelölt vagy azzal egyenértékű vizsgálati módszereket kell alkalmazni. A szabványtól eltérő vizsgálati módszer alkalmazása esetén az alkalmazott eljárásról leírást kell csatolni.
