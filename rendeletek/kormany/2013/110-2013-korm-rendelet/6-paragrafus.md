@@ -34,7 +34,7 @@ a) I. szakasza A., B. és C. részébe, IV.,V. és XI. szakaszába a kibocsátó
 
 b) II. szakaszába a tulajdonos, illetve a tulajdonos megbízásából az állat tartója és az eljáró állatorvos,
 
-c)[^23] III. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal és a NÉBIH (a továbbiakban együtt: élelmiszerlánc-biztonsági és állategészségügyi hatóság),
+c)[^23] III. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal és a NÉBIH (a továbbiakban együtt: élelmiszerlánc-biztonsági és állategészségügyi hatóság),
 
 d) VI. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság, a kezelő állatorvos, valamint az ellenőrzés helyéül szolgáló rendezvény rendezéséért felelős szakmai szervezet,
 
@@ -48,4 +48,4 @@ jogosult bejegyzést tenni.
 
 [^21]: A 6. § (3) bekezdése a 320/2016. (X. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^22]: A 6. § (4) bekezdése a 320/2016. (X. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^23]: A 6. § (4) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 159. §-a szerint módosított szöveg.
+[^23]: A 6. § (4) bekezdés c) pontja a 477/2026. (XI. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
