@@ -6,6 +6,6 @@ A Miniszter Elismerő Oklevele
 
 2. Az oklevél átadására minden évben nemzeti ünnepeink alkalmából, illetve kiemelkedő szakmai eseményekhez kötötten kerülhet sor.
 
-3.[^19] Az oklevélhez – a miniszter döntése alapján – pénzjutalom adható, amelynek mértéke legfeljebb az illetményalap tizenháromszorosának megfelelő összeg.
+3.[^15] Az oklevélhez – a miniszter döntése alapján – pénzjutalom adható, amelynek mértéke legfeljebb az illetményalap tizenháromszorosának megfelelő összeg.
 
-[^19]: A 2. melléklet 3. pontja a 7/2025. (VII. 7.) KIM rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet 3. pontja a 7/2025. (VII. 7.) KIM rendelet 2. §-a szerint módosított szöveg.

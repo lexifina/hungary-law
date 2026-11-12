@@ -2,51 +2,7 @@
 
 A kultúráért és innovációért felelős miniszter által adományozható díjak és adományozásuk feltételei egyes ágazatonként
 
-1. Családügyi ágazat
-
-1.1.[^11]
-
-1.2. Családokért díj
-
-1.2.1. A családalapítás és a gyermeknevelés támogatása, a családok jólétének növelése érdekében, továbbá a családvédelem és az örökbefogadás területén kifejtett kiemelkedő szakmai vagy közszolgálati tevékenység elismerésére, valamint az idősek emberi méltósága, az idősek családi kapcsolatainak fenntartása, erősítése érdekében végzett kiemelkedő tevékenység elismerésére Családokért díj adományozható.
-
-1.2.2. A díj átadására a család nemzetközi napja (május 15.) alkalmából kerül sor.
-
-## 1.2.3 A díjból évente legfeljebb tíz adományozható.
-
-1.2.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kör alakú, bronzból készült, átmérője 102 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, háromtagú családot ábrázol egész alakos figurákkal, a köriratban a „CSALÁDOKÉRT DÍJ” felirat található.
-
-1.2.5. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
-
-1.3. Emberi méltóság védelméért díj
-
-1.3.1. Az esélyteremtés területén elért kiemelkedő eredmények, az emberi méltóság védelmében való fellépés, valamint a kapcsolati erőszak és az emberkereskedelem elleni küzdelem területén végzett tevékenység elismeréseként Emberi méltóság védelméért díj adományozható.
-
-## 1.3.2 A díj jogi személyeknek is adományozható.
-
-1.3.3. A díj átadására a nők elleni erőszak megszüntetésének világnapja (november 25.) alkalmából kerül sor.
-
-1.3.4. A díjból évente legfeljebb nyolc adományozható.
-
-1.3.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérmen a díj szellemiségét jelképező motívum és az „EMBERI MÉLTÓSÁG VÉDELMÉÉRT DÍJ” felirat található.
-
-1.3.6. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
-
-1.4.[^12]
-
-1.5. Monspart Sarolta-díj az idősekért
-
-1.5.1. Az időskorúak fizikai és szellemi aktivitásának, jóllétének megőrzése, valamint az idősek iránti szolidaritás erősítése érdekében végzett kiemelkedő tevékenység elismerésére Monspart Sarolta-díj az idősekért adományozható.
-
-1.5.2. A díj átadására az idősek világnapja (október 1.) alkalmából kerül sor.
-
-## 1.5.3 A díjból évente legfeljebb három adományozható.
-
-1.5.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérmen a díj szellemiségét jelképező motívum és a „MONSPART SAROLTA-DÍJ AZ IDŐSEKÉRT” felirat található.
-
-1.5.5. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
-
-1.6.[^13]
+1.[^9]
 
 2. Kulturális ágazat
 
@@ -144,7 +100,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 2.7.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-2.7.5.[^14] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Szanyi Péter szobrászművész alkotása, egyoldalas, és Gérecz Attila domború arcképét ábrázolja „GÉRECZ ATTILA-DÍJ” felirat kíséretében.
+2.7.5.[^10] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Szanyi Péter szobrászművész alkotása, egyoldalas, és Gérecz Attila domború arcképét ábrázolja „GÉRECZ ATTILA-DÍJ” felirat kíséretében.
 
 2.7.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hússzorosának megfelelő összeg.
 
@@ -234,7 +190,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 2.14. Máté Péter-díj
 
-2.14.1.[^15] A díj kiemelkedő könnyűzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
+2.14.1.[^11] A díj kiemelkedő könnyűzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
 
 2.14.2. A díj átadására március 15-e alkalmából kerül sor.
 
@@ -504,7 +460,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 2.31.10. A díj posztumusz is adományozható, amely esetben a díj és a díjjal járó járadék átvételére az elhunyt díjazott házastársa, annak hiányában a miniszter döntése szerinti leszármazója jogosult.
 
-2.32.[^16] Szakcsi Lakatos Béla-díj
+2.32.[^12] Szakcsi Lakatos Béla-díj
 
 2.32.1. A díj kiemelkedő jazz előadó-művészeti tevékenység elismerésére adományozható természetes személyek részére.
 
@@ -518,7 +474,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 2.32.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke a központi költségvetésről szóló törvényben meghatározott köztisztviselői illetményalap harmincszorosának megfelelő összeg.
 
-3.[^17]
+3.[^13]
 
 4. Innovációs ágazat
 
@@ -550,13 +506,11 @@ d) Ipar 4.0 eredetű jelentős kutatást, fejlesztést vagy innovációt megval�
 
 4.2.4. A díjazottak emlékérmet és az adományozást igazoló oklevelet kapnak. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérmen a díj szellemiségét jelképező motívum és az „A(z) …. évi Társadalmi Innovációja Díj” felirat található.
 
-5.[^18]
+5.[^14]
 
-[^11]: Az 1. melléklet 1. pont 1.1. alpontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
-[^12]: Az 1. melléklet 1. pont 1.4. alpontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
-[^13]: Az 1. melléklet 1. pont 1.6. alpontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
-[^14]: Az 1. melléklet 2. pont 2.7. alpont 2.7.5. pontja a 2/2026. (II. 12.) KIM rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 1. melléklet 2. pont 2.14. alpont 2.14.1. pontja a 2/2026. (II. 12.) KIM rendelet 4. §-a szerint módosított szöveg.
-[^16]: Az 1. melléklet 2. pont 2.32. alpontját a 2/2026. (II. 12.) KIM rendelet 3. §-a iktatta be.
-[^17]: Az 1. melléklet 3. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
-[^18]: Az 1. melléklet 5. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^9]: Az 1. melléklet 1. pontját a 3/2026. (XI. 11.) SZCSM rendelet 25. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^10]: Az 1. melléklet 2. pont 2.7. alpont 2.7.5. pontja a 2/2026. (II. 12.) KIM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet 2. pont 2.14. alpont 2.14.1. pontja a 2/2026. (II. 12.) KIM rendelet 4. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet 2. pont 2.32. alpontját a 2/2026. (II. 12.) KIM rendelet 3. §-a iktatta be.
+[^13]: Az 1. melléklet 3. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^14]: Az 1. melléklet 5. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.

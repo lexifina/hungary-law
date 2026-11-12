@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-2-20-8O
 | 2025-07-15 | 2023-2-20-8O.3 | 7/2025. (VII. 7.) KIM rendelet |
 | 2026-02-13 | 2023-2-20-8O.4 | 2/2026. (II. 12.) KIM rendelet |
 | 2026-10-23 | 2023-2-20-8O.5 | 4/2026. (X. 22.) OGYM rendelet |
+| 2026-11-12 | 2023-2-20-8O.6 | 3/2026. (XI. 11.) SZCSM rendelet |
