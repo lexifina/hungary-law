@@ -4,14 +4,9 @@
 
 ## [3] A Kormány a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 23. § (1) bekezdés 1. és 19. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet
+1. § (1)[^1]
 
-a) 3. § (3) bekezdés c) pontjában és 3. § (5) bekezdés b) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
+(2)[^2]
 
-b) 92. § (2) bekezdésében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
-
-(2)[^1]
-
-[^1]: Az 1. § (2) bekezdése a 3. § (2) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (2) bekezdése a 3. § (2) bekezdése alapján 2027. július 1-jén lép hatályba.
