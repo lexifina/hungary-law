@@ -1,4 +1,4 @@
-4/K. §[^65] (1) A 2. melléklet 140. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:140 mezőjében megjelölt ingatlanokra és az azokból telekalakítással kialakításra kerülő ingatlanokra a beépítés és a telekalakítás egyedi szabályait, valamint az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
+4/K. §[^62] (1) A 2. melléklet 140. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:140 mezőjében megjelölt ingatlanokra és az azokból telekalakítással kialakításra kerülő ingatlanokra a beépítés és a telekalakítás egyedi szabályait, valamint az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(6) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -108,4 +108,4 @@ b) az azzal összefüggésben létesített épületekre, építményekre vonatko
 
 (6) A 2. mellékletben foglalt táblázat 140. sora szerinti beruházás tekintetében az építési engedélyezési eljárás során a 2. mellékletben foglalt táblázat 140. sorában megjelölt telkeket rendezettnek kell tekinteni abban az esetben is, ha a telekalakításnak az ingatlan-nyilvántartásban történő átvezetése még nem történt meg.
 
-[^65]: A 4/K. §-t a 302/2025. (X. 6.) Korm. rendelet 4. §-a iktatta be.
+[^62]: A 4/K. §-t a 302/2025. (X. 6.) Korm. rendelet 4. §-a iktatta be.

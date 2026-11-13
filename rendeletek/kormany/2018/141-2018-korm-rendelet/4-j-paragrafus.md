@@ -1,4 +1,4 @@
-4/J. §[^64] (1) A 2. mellékletben foglalt táblázat B:113 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+4/J. §[^61] (1) A 2. mellékletben foglalt táblázat B:113 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA, valamint a 384/2016. (XII. 2.) Korm. rendelet előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -22,4 +22,4 @@ g) a hatályos településrendezési terv szerinti szabályozási vonalat nem ke
 
 (3) A 2. mellékletben foglalt táblázat B:113 mezőjében megjelölt ingatlanra és az abból telekalakítással kialakításra kerülő ingatlanokra vonatkozó sajátos beépítési szabály, hogy a helyi építési szabályzat részét képező szabályozási terven jelölt építési övezethatár és övezethatár jelölést nem kell alkalmazni.
 
-[^64]: A 4/J. §-t a 220/2025. (VII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^61]: A 4/J. §-t a 220/2025. (VII. 24.) Korm. rendelet 1. §-a iktatta be.

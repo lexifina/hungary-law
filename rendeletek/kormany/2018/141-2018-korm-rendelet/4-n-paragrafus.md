@@ -1,4 +1,4 @@
-4/N. §[^68] (1) A 2. mellékletben foglalt táblázat 143. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+4/N. §[^65] (1) A 2. mellékletben foglalt táblázat 143. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -34,13 +34,13 @@ c) a személygépkocsi-várakozóhelyeket elektromos gépjármű töltőállomá
 
 (4) A beruházással összefüggésben a telken belüli és telken kívüli földmunkák régészeti megfigyelés mellett végezhetők.
 
-(5)[^69] A 2. mellékletben foglalt táblázat 143. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:143 mezőjében megjelölt ingatlanok esetében a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+(5)[^66] A 2. mellékletben foglalt táblázat 143. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:143 mezőjében megjelölt ingatlanok esetében a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
-(6)[^70] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építészeti-műszaki dokumentációjának az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet 1. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+(6)[^67] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építészeti-műszaki dokumentációjának az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet 1. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
 
-(7)[^71] Az (5) bekezdés szerint engedélyezett ütemre külön használatbavételi eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építményre vonatkozó használatbavételi eljárásban kell igazolni.
+(7)[^68] Az (5) bekezdés szerint engedélyezett ütemre külön használatbavételi eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építményre vonatkozó használatbavételi eljárásban kell igazolni.
 
-[^68]: A 4/N. §-t a 333/2025. (X. 30.) Korm. rendelet 1. §-a iktatta be.
-[^69]: A 4/N. § (5) bekezdését az 56/2026. (III. 12.) Korm. rendelet 1. §-a iktatta be.
-[^70]: A 4/N. § (6) bekezdését az 56/2026. (III. 12.) Korm. rendelet 1. §-a iktatta be.
-[^71]: A 4/N. § (7) bekezdését az 56/2026. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^65]: A 4/N. §-t a 333/2025. (X. 30.) Korm. rendelet 1. §-a iktatta be.
+[^66]: A 4/N. § (5) bekezdését az 56/2026. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^67]: A 4/N. § (6) bekezdését az 56/2026. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^68]: A 4/N. § (7) bekezdését az 56/2026. (III. 12.) Korm. rendelet 1. §-a iktatta be.

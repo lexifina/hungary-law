@@ -1,4 +1,4 @@
-4/Q. §[^74] (1) A 2. mellékletben foglalt táblázat B:147 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(6) bekezdés állapítja meg, azzal, hogy
+4/Q. §[^71] (1) A 2. mellékletben foglalt táblázat B:147 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(6) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(6) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -24,4 +24,4 @@ e) a szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
 
 (6) Az (5) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
-[^74]: A 4/Q. §-t a 476/2025. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^71]: A 4/Q. §-t a 476/2025. (XII. 31.) Korm. rendelet 1. §-a iktatta be.

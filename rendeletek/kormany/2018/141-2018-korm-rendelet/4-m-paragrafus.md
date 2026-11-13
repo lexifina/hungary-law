@@ -1,4 +1,4 @@
-4/M. §[^67] (1) A 2. mellékletben foglalt táblázat B:142 mezőjében megjelölt ingatlanokra a sajátos településrendezési és építési követelményeket a (2)–(7) bekezdés állapítja meg, azzal, hogy
+4/M. §[^64] (1) A 2. mellékletben foglalt táblázat B:142 mezőjében megjelölt ingatlanokra a sajátos településrendezési és építési követelményeket a (2)–(7) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervet és az OTÉK, valamint a TÉKA előírásait a (2)–(7) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -106,4 +106,4 @@ i) a területen kötelezően kialakítandó zöld védősáv vagy zóna nem lét
 
 j) a telken szálláshely és kollégium funkciót magába foglaló épület is építhető.
 
-[^67]: A 4/M. §-t a 318/2025. (X. 17.) Korm. rendelet 1. §-a iktatta be.
+[^64]: A 4/M. §-t a 318/2025. (X. 17.) Korm. rendelet 1. §-a iktatta be.

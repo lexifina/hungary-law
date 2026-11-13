@@ -169,3 +169,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2026-04-10 | 2018-141-20-22.161 | 82/2026. (IV. 9.) Korm. rendelet |
 | 2026-09-02 | 2018-141-20-22.162 | 73/2022. (III. 2.) Korm. rendelet |
 | 2026-10-01 | 2018-141-20-22.163 | 222/2026. (IX. 30.) Korm. rendelet |
+| 2026-11-13 | 2018-141-20-22.164 | 555/2023. (XII. 12.) Korm. rendelet |

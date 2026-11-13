@@ -1,4 +1,4 @@
-4/U. §[^78] (1) A 2. mellékletben foglalt táblázat 152. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:152 mezőjében megjelölt ingatlanokon a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek és azok kiszolgáló építményei elhelyezhetők. A 2. mellékletben foglalt táblázat 152. sora szerinti beruházással érintett ingatlanok telkére a beépítés egyedi szabályait és egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg, azzal, hogy
+4/U. §[^75] (1) A 2. mellékletben foglalt táblázat 152. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:152 mezőjében megjelölt ingatlanokon a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek és azok kiszolgáló építményei elhelyezhetők. A 2. mellékletben foglalt táblázat 152. sora szerinti beruházással érintett ingatlanok telkére a beépítés egyedi szabályait és egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -92,4 +92,4 @@ rendeltetésű épületek önállóan és vegyesen is elhelyezhetőek.
 
 (10) A 2. mellékletben foglalt táblázat B:152 mezőjében megjelölt ingatlanok esetében kerítés, valamint közlekedési és közműcélú építmények korlátozás nélkül helyezhetőek el, azzal, hogy a tereprendezés mértéke nem korlátozott.
 
-[^78]: A 4/U. §-t a 74/2026. (III. 26.) Korm. rendelet 1. §-a iktatta be.
+[^75]: A 4/U. §-t a 74/2026. (III. 26.) Korm. rendelet 1. §-a iktatta be.

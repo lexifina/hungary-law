@@ -1,4 +1,3 @@
-139. §[^526] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 502/2023. (XI. 13.) Korm. rendelettel (a továbbiakban: Módr131.) módosított 4. § (1) és (2) bekezdését, 6/G. § (2) bekezdését, valamint megállapított 5/X. §-át és 2. mellékletében foglalt táblázat 126. sorát a Módr131. hatálybalépésekor[^527] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+139. §[^517]
 
-[^526]: A 139. §-t az 502/2023. (XI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^527]: A hatálybalépés időpontja 2023. november 14.
+[^517]: A 139. §-t az 502/2023. (XI. 13.) Korm. rendelet 2. §-a iktatta be, a 491/2026. (XI. 12.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.

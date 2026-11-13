@@ -1,4 +1,3 @@
-141. §[^530] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 555/2023. (XII. 12.) Korm. rendelettel (a továbbiakban: Módr133.) módosított 3. § (4) bekezdését, valamint megállapított 1. § (2a) bekezdését, 2/A. §-át, 3. § (8) bekezdését, 4. § (10) és (11) bekezdését, 5/Y. §-át és 2. mellékletében foglalt táblázat 127. sorát a Módr133. hatálybalépésekor[^531] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+141. §[^520]
 
-[^530]: A 141. §-t az 555/2023. (XII. 12.) Korm. rendelet 6. §-a iktatta be.
-[^531]: A hatálybalépés időpontja 2023. december 13.
+[^520]: A 141. §-t az 555/2023. (XII. 12.) Korm. rendelet 6. §-a iktatta be, a 491/2026. (XI. 12.) Korm. rendelet 3. § 19. pontja hatályon kívül helyezte.

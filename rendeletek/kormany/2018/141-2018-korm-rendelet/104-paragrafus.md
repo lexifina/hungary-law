@@ -1,4 +1,0 @@
-## 103. §[^453] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 211/2022. (VI. 14.) Korm. rendelettel (a továbbiakban: Módr95.) módosított 3. § (3) bekezdését, valamint megállapított 5/K. §-át és 2. mellékletében foglalt táblázat 101. sorát a Módr95. hatálybalépésekor[^454] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-[^453]: A 103. §-t a 211/2022. (VI. 14.) Korm. rendelet 2. §-a iktatta be.
-[^454]: A hatálybalépés időpontja 2022. június 17.

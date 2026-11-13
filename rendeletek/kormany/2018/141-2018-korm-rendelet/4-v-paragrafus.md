@@ -1,4 +1,4 @@
-4/V. §[^79] (1) A 2. mellékletben foglalt táblázat B:72 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) bekezdés állapítja meg, azzal, hogy
+4/V. §[^76] (1) A 2. mellékletben foglalt táblázat B:72 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltéréssel kell alkalmazni,
 
@@ -18,4 +18,4 @@ d) a zöldfelület megengedett legkisebb mértéke 30%,
 
 e) a legnagyobb épületmagasság 28 méter, ahol a megengedett legnagyobb homlokzatmagasság 30 méter, azonban technológiához kötött speciális építmények, különösen tornyok, szárítók, tárolók, automata-magasraktár esetén a legnagyobb épületmagasság legfeljebb 40 méter.
 
-[^79]: A 4/V. §-t a 82/2026. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
+[^76]: A 4/V. §-t a 82/2026. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
