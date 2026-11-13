@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet 1. § (1) bekezdésében, 3. § e) pontjában, 5. § (3) bekezdésében és (4) bekezdés d) pontjában, 12. § (3) és (4) bekezdésében, valamint 13. § (1) bekezdés c) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
