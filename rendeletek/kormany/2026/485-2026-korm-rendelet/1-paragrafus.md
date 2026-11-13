@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (1a) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A talajjavító mederanyag és a kezelt mederiszap termőföldön történő felhasználásának szabályairól szóló 190/2023. (V. 22.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 1. melléklet 1. pont 1.1. alpontjában a „vármegye” szövegrész helyébe a „megye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
