@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A csemegeszőlő és alanyszőlő ültetvény telepítésének engedélyezéséről szóló 231/2010. (VIII. 18.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 2. § (1) bekezdésében és 6. § (2) bekezdésében a „Pest Vármegyei Kormányhivatal” szövegrész helyébe a „NÉBIH” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
