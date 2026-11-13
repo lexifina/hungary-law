@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 9. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A termelőszövetkezeti földhasználati jog alatt álló ingatlanok állami tulajdonba kerülésével kapcsolatban a részarány-tulajdonosok kártalanításának szabályairól szóló 560/2020. (XII. 7.) Korm. rendelet 1. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
