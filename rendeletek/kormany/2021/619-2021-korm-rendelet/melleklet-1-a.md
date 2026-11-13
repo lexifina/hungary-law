@@ -18,17 +18,17 @@
 
 | 9. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3830/4 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Ipari épületek bontását követően a terület rendezésével, parkosítással több ütemben megvalósuló lakóingatlan-fejlesztésre, lakóingatlanok kialakítására irányuló beruházás | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3830/4 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 10. | Budapest XIV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 31267/140, 31267/141, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149, 31267/150 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Komplex ingatlanfejlesztésre és ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás | Budapest XIV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 31267/140, 31267/141, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149, 31267/150 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 10. |  |  |  |  |  |
 
 | 11. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25953/4, 25953/5, 25953/6, 25953/7, 25953/9, 25953/10, 25953/11, 25953/12, 25953/13, 25953/15, 25953/16, 25953/17, 25953/18, 25953/19, 25953/20, 25953/21, 25953/22, 25964/19, 25964/21, 25964/31, 25964/32, 25964/33, 25964/34 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Új integrált városfejlesztés megvalósítása, közterületek és zöldfelületek kialakításával, vízpart-rehabilitációval, okos város és okos otthonok fejlesztése | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25953/4, 25953/5, 25953/6, 25953/7, 25953/9, 25953/10, 25953/11, 25953/12, 25953/13, 25953/15, 25953/16, 25953/17, 25953/18, 25953/19, 25953/20, 25953/21, 25953/22, 25964/19, 25964/21, 25964/31, 25964/32, 25964/33, 25964/34 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
 | 12. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25930, 25935/2 és 25934 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Multifunkcionális, lakó-, iroda-, kereskedelmi, szolgáltató és egyéb közösségi rendeltetéseket is magába foglaló ingatlanegyüttes megvalósítására irányuló beruházás | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25930, 25935/2 és 25934 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 13. | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38086/1 helyrajzi számú ingatlan és Budapest XX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 170009 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Új Duna-parti komplex városnegyed kialakítására irányuló beruházás lakások, szálloda, szolgáltató-helyiségek, kiskereskedelmi és rekreációs létesítmények, alapfokú oktatási létesítmény kialakításával | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 38086/1 helyrajzi számú ingatlan és Budapest XX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 170009 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 13. |  |  |  |  |  |
 
 | 14. | Budapest VII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 33405, 33413, 33414 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Funkcióvegyes, lakóterületi fejlesztés megvalósítása szállásjellegű (kollégium, szálloda) illetve iroda, kiskereskedelem, szolgáltatás, vendéglátás funkciókkal kiegészítve. | Budapest VII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 33405, 33413, 33414 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 15. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3822/29 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi, szolgáltató és irodafunkciókkal kiegészített lakóterület megvalósítása. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3822/29 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 15. |  |  |  |  |  |
 
 | 16. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25904/32 és 25904/33 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | A volt ipartelep helyén iroda- és kereskedelmi funkciókkal kiegészített lakóterület fejlesztése. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25904/32 és 25904/33 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
@@ -36,7 +36,7 @@
 
 | 18. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25873/8 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi funkciókkal kiegészített lakóterület fejlesztése. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25873/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 19. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 27293/1 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Lakóterületi fejlesztés megvalósítása a jelenlegi szolgáltatóház és munkásszálló funkcionális átalakításával és megújításával. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 27293/1 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 19. |  |  |  |  |  |
 
 | 20. | Budapest XIX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 162119/4, 162119/5, 162119/6, 162119/7 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Iroda- és szállodafunkciókkal kiegészített, döntően lakóterületi fejlesztés megvalósítása. | Budapest XIX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 162119/4, 162119/5, 162119/6, 162119/7 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
@@ -50,13 +50,13 @@
 
 | 25. | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38161 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi és vendéglátó funkciókkal kiegészített lakóterület létrehozása | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38161 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 26. | Budapest X. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38440/47, 38440/63, 38440/64, 38440/65 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Zöldfelületi fejlesztésekkel kialakított, kiskereskedelmi, szolgáltató, vendéglátó, szálláshely funkciókkal kiegészített lakóterület létrehozása | Budapest X. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38440/47, 38440/63, 38440/64, 38440/65 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 26. |  |  |  |  |  |
 
 | 27. | Budapest X. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 41028/5, 41028/6, 41028/7 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Kereskedelmi, szálláshely funkciókkal kiegészített, valamint nyugdíjasotthon kialakításával egybekötött lakóterület fejlesztése | Budapest X. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 41028/5, 41028/6, 41028/7 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
 | 28. | Budapest XIII. kerületközigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 27231 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Egykori gazdasági telephely területén irodai funkciókkal kiegészített lakóterület kialakítása | Budapest XIII. kerületközigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 27231 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 29. | Budapest XIV. kerületközigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 40366/7 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi funkciókkal kiegészített lakódomináns terület fejlesztése | Budapest XIV. kerületközigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 40366/7 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 29. |  |  |  |  |  |
 
 | 30. | Debrecen Megyei Jogú Város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 20105/1 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Irodai, kereskedelmi és szolgáltató rendeltetésekkel kiegészített lakóterület kialakítása | Debrecen Megyei Jogú Város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 20105/1 helyrajzi számú ingatlan | Hajdú-Bihar Megye Kormányhivatalát vezető kormánymegbízott |
 
@@ -74,7 +74,7 @@
 
 | 37. | Budapest X. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 41729/1, 41737 és 41738 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Rekreációs célú zöldfelületekkel kiegészített lakóterületi fejlesztésre irányuló beruházás | Budapest X. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 41729/1, 41737 és 41738 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 38. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 4021/6 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi funkciókkal kiegészített lakóterület kialakítására irányuló fejlesztés | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 4021/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 38. |  |  |  |  |  |
 
 | 39. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 4031/8 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi és szolgáltató funkciókkal kiegészített, intenzív minőségi zöldfelületbe ágyazott lakóterület kialakítására irányuló beruházás | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 4031/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
@@ -84,7 +84,7 @@
 
 | 42. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3995/14, 3995/15, 3995/21, 3995/22 és 3995/23 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Zöldfelületekkel tarkított, döntő mértékben lakófunkciójú terület kialakítását célzó beruházás | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3995/14, 3995/15, 3995/21, 3995/22 és 3995/23 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 43. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 43587/11 és 43587/17 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Közösségi terekkel, iroda és kereskedelmi, szolgáltató funkciókkal kiegészített lakóterület létrehozására irányuló fejlesztés | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 43587/11 és 43587/17 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 43. |  |  |  |  |  |
 
 | 44. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 28096/2 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi, szolgáltató és irodafunkciókkal kiegészített lakóterület létrehozására irányuló fejlesztés | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 28096/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
@@ -138,8 +138,8 @@
 
 | 69. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/4 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Szolgáltató és kereskedelmi funkciókat is tartalmazó lakóterület kialakítására irányuló fejlesztés | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/4 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-1a. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^57]
+1a. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^60]
 
 Rozsdaövezeti akcióterületek lehatárolása és a rozsdaövezeti akcióterületen megvalósuló beruházások
 
-[^57]: Az 1a. mellékletet a 334/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.
+[^60]: Az 1a. mellékletet a 334/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.

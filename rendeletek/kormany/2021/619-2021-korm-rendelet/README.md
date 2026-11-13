@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-619-20-
 | 2026-03-13 | 2021-619-20-22.19 | 56/2026. (III. 12.) Korm. rendelet |
 | 2026-09-02 | 2021-619-20-22.20 | 140/2026. (IX. 1.) Korm. rendelet |
 | 2026-11-07 | 2021-619-20-22.21 | 777/2021. (XII. 23.) Korm. rendelet |
+| 2026-11-13 | 2021-619-20-22.22 | 491/2026. (XI. 12.) Korm. rendelet |
