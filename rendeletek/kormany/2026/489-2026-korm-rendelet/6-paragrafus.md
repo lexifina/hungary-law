@@ -1,1 +1,3 @@
-6. § A 289/2012. (X. 11.) Korm. rendelet 13. § (3a) bekezdésében az „és a tanúsító által” szövegrész helyébe az „és – ha azt jogszabály előírja – a megfelelőségértékelő szervezet által” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
