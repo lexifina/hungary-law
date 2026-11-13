@@ -1,0 +1,1 @@
+11. § A 314/2022. (VIII. 11.) Korm. rendelet és a 671/2023. (XII. 29.) Korm. rendelet rendelkezéseit az e rendelet hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben sem lehet alkalmazni.
