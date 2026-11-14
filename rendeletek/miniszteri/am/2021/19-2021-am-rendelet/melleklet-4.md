@@ -8,6 +8,6 @@
 
 | 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-4. melléklet a 19/2021. (V. 5.) AM rendelethez[^102]
+4. melléklet a 19/2021. (V. 5.) AM rendelethez[^103]
 
-[^102]: A 4. mellékletet a 3/2025. (II. 27.) AM rendelet 17. § 10. pontja hatályon kívül helyezte.
+[^103]: A 4. mellékletet a 3/2025. (II. 27.) AM rendelet 17. § 10. pontja hatályon kívül helyezte.

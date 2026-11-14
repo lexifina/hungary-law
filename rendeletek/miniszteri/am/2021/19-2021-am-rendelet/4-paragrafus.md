@@ -34,7 +34,7 @@ h)[^11] „III. ömlesztett sajt”: a MÉ 13. melléklet B. rész 7.1.1. vagy 7
 
 (3)[^12] A kiszállított terméket közvetlenül a végső kedvezményezett részére kell kiosztani. A kiosztásra kerülő terméket az intézmény más célra – különösen továbbfeldolgozási, kereskedelmi, közétkeztetésben ételkészítési alapanyagul – nem használhatja fel.
 
-(4)[^13] A program keretében egy héten legfeljebb három tanítási vagy nevelési napon, végső kedvezményezettenként és tanítási vagy nevelési naponként legfeljebb 0,25 liter tejegyenértéknek megfelelő, az e rendeletben meghatározott és kiosztott termék után igényelhető támogatás.
+(4)[^13] A program keretében egy héten legfeljebb négy tanítási vagy nevelési napon, végső kedvezményezettenként és tanítási vagy nevelési naponként legfeljebb 0,25 liter tejegyenértéknek megfelelő, az e rendeletben meghatározott és kiosztott termék után igényelhető támogatás.
 
 (5)[^14] A (4) bekezdés szerinti 0,25 liter tejegyenértéknek megfelelő mennyiségi korlát figyelembevételekor az intézménybe beiratkozott és ellátott végső kedvezményezettek létszámát kell figyelembe venni.
 
@@ -58,6 +58,6 @@ tejegyenértéknek felel meg.
 [^10]: A 4. § (1) bekezdés g) pontja a 3/2025. (II. 27.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^11]: A 4. § (1) bekezdés h) pontja a 3/2025. (II. 27.) AM rendelet 16. § 3. pontja szerint módosított szöveg.
 [^12]: A 4. § (3) bekezdése a 3/2025. (II. 27.) AM rendelet 16. § 4. pontja szerint módosított szöveg.
-[^13]: A 4. § (4) bekezdése a 22/2023. (V. 9.) AM rendelet 41. §-a szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdése a 22/2023. (V. 9.) AM rendelet 41. §-a, a 23/2026. (XI. 13.) AÉM rendelet 2. § a) pontja szerint módosított szöveg.
 [^14]: A 4. § (5) bekezdése a 3/2025. (II. 27.) AM rendelet 16. § 5. pontja szerint módosított szöveg.
 [^15]: A 4. § (6) bekezdés a) pontja a 3/2025. (II. 27.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.

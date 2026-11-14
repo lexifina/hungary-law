@@ -44,7 +44,7 @@ nc) a kérelemben megadott és a csatolt dokumentumokban szereplő adatok a val�
 
 (3)[^45] A Kincstár a megkötött szállítási szerződések adatai alapján a következő tanévben várható költségvetési forrásigényről évente július 25-éig tájékoztatja a minisztert.
 
-(4)[^46] A kérelmező tanévenként – az (5) és (5a) bekezdésben, valamint a 28. §-ban foglalt kivétellel – egy szállítási szerződés jóváhagyása iránti kérelmet nyújthat be.
+(4)[^46] A kérelmező tanévenként – az (5) és (5a) bekezdésben, valamint a 28. §-ban és a 29. §-ban foglalt kivétellel – egy szállítási szerződés jóváhagyása iránti kérelmet nyújthat be.
 
 (5)[^47] A (4) bekezdésben foglaltaktól eltérően, ha
 
@@ -74,7 +74,7 @@ a szállítási szerződésben szereplő intézményekre vonatkozóan a fenntart
 [^43]: A 14. § (2) bekezdése a 3/2025. (II. 27.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^44]: A 14. § (2) bekezdés l) pontja a 3/2025. (II. 27.) AM rendelet 17. § 7. pontja szerint módosított szöveg.
 [^45]: A 14. § (3) bekezdése a 3/2025. (II. 27.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^46]: A 14. § (4) bekezdése a 2/2026. (I. 22.) AM rendelet 12. §-ával megállapított szöveg.
+[^46]: A 14. § (4) bekezdése a 2/2026. (I. 22.) AM rendelet 12. §-ával megállapított, a 23/2026. (XI. 13.) AÉM rendelet 2. § c) pontja szerint módosított szöveg.
 [^47]: A 14. § (5) bekezdése a 42/2025. (IX. 30.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^48]: A 14. § (5a) bekezdését a 42/2025. (IX. 30.) AM rendelet 9. § (1) bekezdése iktatta be.
 [^49]: A 14. § (7) bekezdése a 3/2025. (II. 27.) AM rendelet 17. § 2. pontja szerint módosított szöveg.
