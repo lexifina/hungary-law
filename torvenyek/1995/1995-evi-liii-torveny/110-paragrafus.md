@@ -18,6 +18,8 @@
 
 (6b) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 106. § (3)–(3c) bekezdésében foglaltakat hatálybalépésüket követően indult ügyekben kell alkalmazni.
 
+(6c) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosításáról szóló 2026. évi LXXI. törvénnyel (a továbbiakban: Módtv.) megállapított 91. § (7) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
 (7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 1. a települési önkormányzat polgármesterének és jegyzőjének részletes környezetvédelmi államigazgatási hatáskörét;
