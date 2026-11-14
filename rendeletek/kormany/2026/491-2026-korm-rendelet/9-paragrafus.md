@@ -1,7 +1,5 @@
 ## 3. Egyes kormányrendeletek hatályon kívül helyezése
 
-9. § Hatályát veszti
+9. §[^9]
 
-a) a Budapest XIV. kerületében komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 314/2022. (VIII. 11.) Korm. rendelet [a továbbiakban: 314/2022. (VIII. 11.) Korm. rendelet] és
-
-b) az Üllői Lövész Központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 671/2023. (XII. 29.) Korm. rendelet [a továbbiakban: 671/2023. (XII. 29.) Korm. rendelet].
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

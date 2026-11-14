@@ -14,8 +14,6 @@
 
 ## 1. Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosítása
 
-1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet [a továbbiakban: 141/2018. (VII. 27.) Korm. rendelet] a következő 187. §-sal egészül ki:
+1. §[^1]
 
-„187. § (1) E rendeletnek az egyes építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításának hatályon kívül helyezéséről szóló 491/2026. (XI. 12.) Korm. rendelettel (a továbbiakban: Módr179.) módosított 1. § (2a) bekezdése, 3. § (2a), (3), (4) és (8) bekezdése, 4. § (1) és (2) bekezdése, 6/G. § (2) bekezdése, valamint 143. §-a rendelkezéseit a Módr179. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-(2) A Módr179.-cel hatályon kívül helyezett 2/A. §, 4. § (10) és (11) bekezdése, 4/G. §, 5/H. §, 5/K. §, 5/X. §, 5/Y. §, 6/S. §, 68. §, 93. §, 101. §, 103. §, 139. §, 141. §, 158. § rendelkezéseit és 2. mellékletben foglalt táblázat 73., 93., 99., 101., 126., 127. és 136. sorát a Módr179. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben nem lehet alkalmazni.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
