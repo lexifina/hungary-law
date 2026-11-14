@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-52-00-00
 | 2026-07-11 | 2026. évi XXVI. törvény | 2023-52-00-00.18 |
 | 2026-08-20 | 2026. évi XLVII. törvény | 2023-52-00-00.19 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 2023-52-00-00.20 |
+| 2026-11-14 | 2026. évi LXXII. törvény | 2023-52-00-00.21 |
