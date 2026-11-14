@@ -1,6 +1,6 @@
 ## Eljárás kibocsátó félként
 
-13. § (1)[^153] A 12. § (1)–(3) bekezdésében meghatározott esetekben a tevékenység előzetes vizsgálati eljárása vagy az előzetes konzultáció során, ha a tevékenységgel kapcsolatban országhatáron átterjedő jelentős környezeti hatás bekövetkezése – különösen az egyezmény III. függelékében szereplő ismérvek alapján – feltételezhető, a környezetvédelmi hatóság tájékoztatja erről a Minisztériumot és a környezethasználót.
+13. § (1)[^153] A 12. § (1)–(3) bekezdésében meghatározott esetekben a tevékenység előzetes vizsgálati eljárása vagy az előzetes konzultáció során, ha a tevékenységgel kapcsolatban országhatáron átterjedő jelentős környezeti hatás bekövetkezése – különösen az egyezmény III. függelékében szereplő ismérvek alapján – feltételezhető, a környezetvédelmi hatóság haladéktalanul tájékoztatja erről a Minisztériumot és a környezethasználót.
 
 (2)[^154] A Minisztérium tájékoztatásához a környezetvédelmi hatóság mellékeli:
 
@@ -24,7 +24,7 @@ d)[^156] az előzetes vizsgálati dokumentációnak vagy az előzetes konzultác
 
 (6)[^160] Ha a hatásviselő fél az értesítésre adott válaszában bejelenti, hogy részt kíván venni a környezeti hatásvizsgálati eljárásban, akkor ezt a környezetvédelmi hatóság és a Minisztérium honlapján közzé kell tenni, és az eljárást az egyezmény előírásai és a 12–15. §-ok szerinti rendelkezések figyelembevételével kell továbbfolytatni.
 
-[^153]: A 13. § (1) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 9. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja, a 477/2016. (XII. 27.) Korm. rendelet 33. § (3) bekezdés b) pontja, a 60/2023. (II. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^153]: A 13. § (1) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 9. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja, a 477/2016. (XII. 27.) Korm. rendelet 33. § (3) bekezdés b) pontja, a 60/2023. (II. 28.) Korm. rendelet 12. §-a, a 492/2026. (XI. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^154]: A 13. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^155]: A 13. § (2) bekezdés a) pontja a 60/2023. (II. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^156]: A 13. § (2) bekezdés d) pontja a 151/2009. (VII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.

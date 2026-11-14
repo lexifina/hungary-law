@@ -1,4 +1,4 @@
-## 29/F. §[^267] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 371/2012. (XII. 17.) Korm. rendelettel (a továbbiakban: Mkr8.) megállapított rendelkezéseit az Mkr8. hatálybalépését[^268] követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.
+## 29/F. §[^268] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 371/2012. (XII. 17.) Korm. rendelettel (a továbbiakban: Mkr8.) megállapított rendelkezéseit az Mkr8. hatálybalépését[^269] követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.
 
-[^267]: A 29/F. §-t a 371/2012. (XII. 17.) Korm. rendelet 14. §-a iktatta be.
-[^268]: A hatálybalépés időpontja 2013. január 1.
+[^268]: A 29/F. §-t a 371/2012. (XII. 17.) Korm. rendelet 14. §-a iktatta be.
+[^269]: A hatálybalépés időpontja 2013. január 1.

@@ -6,9 +6,12 @@
 
 (4) A hatásviselő féllel való konzultáción kapott, valamint a hatásviselő fél nyilvánossága által adott észrevételek mérlegelése alapján a környezetvédelmi hatóság az érintett szakhatóságok bevonásával a környezeti hatástanulmány kiegészítését rendelheti el.
 
-(5)[^164] A környezetvédelmi hatóság a környezeti hatásvizsgálati eljárásban, valamint az egységes környezethasználati engedélyezési eljárásban hozott döntését közli a Minisztériummal, amely azt továbbítja a hatásviselő félnek. Amennyiben az ügyben jogorvoslat folytán további döntések születnek, azokat hasonló módon kell továbbítani.
+(4a)[^164] A hatásviselő féllel való konzultáció lezárását követően a Minisztérium a nemzetközi eljárás lezárásáról és annak eredményéről haladéktalanul tájékoztatja a környezetvédelmi hatóságot, valamint – a döntéshozatalban való figyelembevétel érdekében – megküldi részére a hatásviselő felektől beérkezett észrevételeket és a lefolytatott konzultációk eredményét.
+
+(5)[^165] A környezetvédelmi hatóság a környezeti hatásvizsgálati eljárásban, valamint az egységes környezethasználati engedélyezési eljárásban hozott döntését közli a Minisztériummal, amely azt továbbítja a hatásviselő félnek. Amennyiben az ügyben jogorvoslat folytán további döntések születnek, azokat hasonló módon kell továbbítani.
 
 [^161]: A 14. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^162]: A 14. § (1) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 10. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 33. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^163]: A 14. § (3) bekezdése a 60/2023. (II. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^164]: A 14. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^164]: A 14. § (4a) bekezdését a 492/2026. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^165]: A 14. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
