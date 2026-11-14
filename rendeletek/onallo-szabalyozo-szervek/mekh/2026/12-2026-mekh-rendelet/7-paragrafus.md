@@ -1,0 +1,1 @@
+7. § A nyilvános egyeztetésről az átviteli rendszerirányító elektronikus úton megküldött, külön értesítéssel tájékoztatja az energiapolitikáért felelős minisztert, az üzemi szabályzat szerinti Szabályzati Bizottság tagjait, a kereskedelmi szabályzat szerinti Szabályzati Bizottság tagjait és a földgázellátásról szóló törvény szerinti szállítási rendszerüzemeltetőt.
