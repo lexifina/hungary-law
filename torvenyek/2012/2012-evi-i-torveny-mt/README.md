@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2025-02-28 | 1/2025. (II. 27.) AB határozat | 2012-1-00-00.38 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2012-1-00-00.39 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 2012-1-00-00.40 |
+| 2026-11-14 | 2026. évi LXXII. törvény | 2012-1-00-00.41 |
