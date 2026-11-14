@@ -1,6 +1,6 @@
 ### 55. § [A munkaszüneti napokra vonatkozó rendelkezések]
 
-(1) Munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
+(1) Munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 24–26.
 
 (2) Munkaszüneti napra rendes munkaidő
 
