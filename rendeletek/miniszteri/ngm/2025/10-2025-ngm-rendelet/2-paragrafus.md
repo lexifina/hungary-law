@@ -8,6 +8,6 @@ b) 2026. augusztus 8., szombat munkanap
 
 2026. augusztus 21., péntek pihenőnap
 
-c) 2026. december 12., szombat munkanap
+c)[^2]
 
-2026. december 24., csütörtök pihenőnap
+[^2]: A 2. § c) pontját a 4/2026. (XI. 13.) SZCSM rendelet 1. §-a hatályon kívül helyezte.
