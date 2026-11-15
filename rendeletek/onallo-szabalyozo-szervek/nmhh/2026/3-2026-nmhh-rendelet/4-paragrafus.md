@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a ... alapján 2026. november 15-én lép hatályba.
+4. § Az R. 8. melléklete a 8. melléklet szerint módosul.

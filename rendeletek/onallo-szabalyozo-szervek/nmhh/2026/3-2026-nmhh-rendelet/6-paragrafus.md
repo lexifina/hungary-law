@@ -1,6 +1,5 @@
-6. § (1)[^6]
+6. § (1)[^5]
 
-(2)[^7]
+(2) Hatályát veszti az R. 8. melléklet 7.1. pontjában foglalt táblázat 110. sora.
 
-[^6]: A 6. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 6. § (2) bekezdése a 8. § (2) bekezdése alapján 2026. november 15-én lép hatályba.
+[^5]: A 6. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
