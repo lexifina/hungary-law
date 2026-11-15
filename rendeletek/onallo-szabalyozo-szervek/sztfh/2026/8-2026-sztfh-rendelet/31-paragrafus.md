@@ -1,5 +1,5 @@
 ## 9. A zárt területté nyilvánításról szóló 3/2023. (II. 8.) SZTFH rendelet módosítása
 
-31. §[^31]
+31. §[^30]
 
-[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
