@@ -1,4 +1,4 @@
-2. § (1)[^5] A Hatóság a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi
+2. § (1)[^7] A Hatóság a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi
 
 a) a kóros játékszenvedéllyel élő személyek pszichiátriai ellátását biztosító szolgáltatók elnevezését és elérhetőségi adatait megyénként és településenként,
 
@@ -24,4 +24,4 @@ j) az ajánlott felelős játékszervezői minősítéssel rendelkező szervező
 
 (3) Az (1) bekezdés a)–i) pontja szerinti tájékoztatók tartalmát készítője a közzétételt követően félévente felülvizsgálja.
 
-[^5]: A 2. § (1) bekezdés nyitó szövegrésze a 6/2025. (VII. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés nyitó szövegrésze a 6/2025. (VII. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.

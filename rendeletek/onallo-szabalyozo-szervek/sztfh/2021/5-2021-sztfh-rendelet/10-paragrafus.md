@@ -6,6 +6,6 @@
 
 (3) Az (1) bekezdés szerinti szervező a személyazonosításhoz nem kötött játékfajtára az egyéb sérülékeny személynek minősülő személyek részére biztosított játékosvédelmi intézkedést a játéktervben és a részvételi szabályzatban meghatározza.
 
-(4)[^10]
+(4)[^12]
 
-[^10]: A 10. § (4) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 11. § a) pontja hatályon kívül helyezte.
+[^12]: A 10. § (4) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 11. § a) pontja hatályon kívül helyezte.

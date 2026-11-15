@@ -22,6 +22,10 @@ bb) „A túlzásba vitt szerencsejáték ártalmas, függőséget okozhat! Élj
 
 (1c)[^4] A szervező a kereskedelmi kommunikációját megjelenítő rendezvény helyét és idejét annak kezdő időpontja előtt legkésőbb 1 munkanappal bejelenti a Szabályozott Tevékenységek Felügyeleti Hatóságához (a továbbiakban: Hatóság).
 
+(1d)[^5] Az értékesítőhelyen feltüntetett, az (1a) bekezdés a) és b) pontjában meghatározott figyelmeztetések esetében alkalmazandó formai és tartalmi követelményeket, valamint annak mintáját a Hatóság a honlapján közzéteszi.
+
+(1e)[^6] Az értékesítőhelyen elhelyezett figyelmeztetést nem takarhatja el egyéb elem. A figyelmeztetésekhez nem lehet megjegyzést fűzni vagy azokat átfogalmazni.
+
 (2) A szervező az Szjtv. hatálya alá tartozó tevékenysége során a sérülékeny személyek szerencsejátékhoz való hozzáférésének korlátozására vonatkozó figyelmeztetést alkalmaz, valamint felhívja a játékos figyelmét a sérülékeny személynek nem minősülő személyek részére biztosított önkorlátozó és önkizáró intézkedések igénybevételének lehetőségére.
 
 (3) A szervező a játéktervben és a részvételi szabályzatban meghatározza a sérülékeny személyek fokozott védelmének, valamint a sérülékeny személynek nem minősülő játékosok részére biztosított önkorlátozó, önkizáró intézkedések igénybevételének rendjét, továbbá a szervező által alkalmazott egyéb játékosvédelmi intézkedéseket.
@@ -30,3 +34,5 @@ bb) „A túlzásba vitt szerencsejáték ártalmas, függőséget okozhat! Élj
 [^2]: Az 1. § (1a) bekezdését a 6/2025. (VII. 31.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
 [^3]: Az 1. § (1b) bekezdését a 6/2025. (VII. 31.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (1c) bekezdését a 6/2025. (VII. 31.) SZTFH rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2025. (XII. 22.) SZTFH rendelet 4. §-a szerint módosított szöveg.
+[^5]: Az 1. § (1d) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 10. §-a iktatta be.
+[^6]: Az 1. § (1e) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 10. §-a iktatta be.
