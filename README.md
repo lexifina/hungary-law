@@ -21,3 +21,10 @@ These are volunteer projects. Reconcile any of them against the official text be
 All sources, with their status, are in [SOURCES.md](SOURCES.md). How these files were made is in [REPRODUCE.md](REPRODUCE.md).
 
 This repository describes sources; it is not legal advice and holds no legal text yet.
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
+
+## How it is checked
+
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
