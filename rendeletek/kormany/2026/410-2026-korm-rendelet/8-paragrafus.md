@@ -1,0 +1,5 @@
+## „a) a külpolitikáért felelős miniszter, valamint – a Honvédség külképviseletek őrzésével kapcsolatos feladataira tekintettel – a honvédelemért felelős miniszter,”
+
+8. § A Magyar Köztársaság területén működő, a nemzetközi jog alapján sérthetetlenséget élvező diplomáciai és konzuli képviseletek, továbbá sérthetetlenséget élvező tagjaik védelmének, valamint a nemzetközi szervezetek objektumai őrzésének rendjéről szóló 63/2011. (IV. 13.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A külképviseletek biztonsága érdekében meghatározott feladatoknak biztosítaniuk kell az I. kategóriába sorolt külképviseletek állandó, kombinált módon végrehajtott honvédségi őrzését és a diplomáciai mentességet élvező személyek védelmét, a II. kategóriába sorolt külképviseletek állandó honvédségi őrzését, illetve a III. kategóriába sorolt külképviseletek körzetének visszatérő rendőri ellenőrzését. A visszatérő rendőri ellenőrzés gyakoriságát a miniszter egyidejű tájékoztatása mellett az országos rendőrfőkapitány határozza meg.”
