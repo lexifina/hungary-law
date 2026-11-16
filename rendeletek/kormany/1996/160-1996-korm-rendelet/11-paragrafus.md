@@ -1,27 +1,17 @@
 ## A létesítmények védelme
 
-11. §[^92] (1)[^93] A kijelölt létesítmények folyamatos őrzését és védelmét a Készenléti Rendőrség végzi.
+11. §[^93] A kijelölt létesítmény védelme
 
-(2) A kijelölt létesítmény védelme
-
-a) a létesítmény technikai biztosítására,
+a) a kijelölt létesítmény technikai biztosítására,
 
 b) a be- és kilépő személyek, valamint csomagjaik ellenőrzésére,
 
-c) a létesítmény közvetlen környezetének, továbbá az érkező szállítmányok és küldemények biztonsági ellenőrzésére, és
+c) a kijelölt létesítmény közvetlen környezetének, továbbá az érkező szállítmányok és küldemények biztonsági ellenőrzésére,
 
-d) a külső-belső őrzésre
+d) a kijelölt létesítmény belső őrzésére, valamint
+
+e) a kijelölt létesítmény külső őrzésére
 
 terjed ki.
 
-(3)[^94] A kijelölt létesítményt a létesítmény kezelője (használója) az őrzés biztonságához szükséges biztonságtechnikai eszközökkel és berendezésekkel szerelteti fel, és biztosítja az őrzést ellátó állomány megfelelő szintű elhelyezését. A létesítmény kezelője (használója) költségére a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét a Készenléti Rendőrség végzi.
-
-(4) Az Információs Hivatal központi objektuma esetében
-
-a) a létesítmény technikai biztosítása kizárólag a külső biztosításra terjed ki, továbbá
-
-b) a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét az Információs Hivatal végzi.
-
-[^92]: A 11. § a 63/2010. (III. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^93]: A 11. § (1) bekezdése a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^94]: A 11. § (3) bekezdése a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^93]: A 11. § a 410/2026. (XI. 3.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-13/A. §[^109] E rendelet alkalmazásában a gépjárművek kategóriába sorolását a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendelet alapján kell elvégezni.
+13/A. §[^112] E rendelet alkalmazásában a gépjárművek kategóriába sorolását a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendelet alapján kell elvégezni.
 
-[^109]: A 13/A. §-t a 63/2010. (III. 18.) Korm. rendelet 10. §-a iktatta be.
+[^112]: A 13/A. §-t a 63/2010. (III. 18.) Korm. rendelet 10. §-a iktatta be.

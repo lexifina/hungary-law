@@ -34,7 +34,8 @@ h) az (1) bekezdésben meghatározott állandó személyvédelemben részesülő
 
 [az a)–h) pontban meghatározottak a továbbiakban együtt: védett személy].
 
-(3) A Készenléti Rendőrség megszervezi és végrehajtja az 1. melléklet 2. pontjában létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek (a továbbiakban: kijelölt létesítmény) védelmét.
+(3)[^3]
 
 [^1]: Az 1. § a 161/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés g) pontját a 274/2026. (X. 9.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (3) bekezdését a 410/2026. (XI. 3.) Korm. rendelet 6. §-a hatályon kívül helyezte.
