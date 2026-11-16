@@ -8,6 +8,6 @@
 
 (5) A miniszter a kiadott előzetes engedélyt a kérelem jóváhagyását követő 5 munkanapon belül a nyilvántartó szerv által meghatározott módon megküldi a nyilvántartó szervnek.
 
-(6) Az előzetes engedély egyszeri alkalommal biztosítja az abban meghatározott adatszolgáltatók tényleges tulajdonosi adatainak a megismerését, abban az esetben is, ha az adatigénylés nem az előzetes engedélyben megjelölt minden adatszolgáltató tényleges tulajdonosainak megismerésére vonatkozik.
+(6) Az előzetes engedély egyszeri alkalommal biztosítja az abban meghatározott nyilvántartott szervezetek tényleges tulajdonosi adatainak a megismerését, abban az esetben is, ha az adatigénylés nem az előzetes engedélyben megjelölt minden nyilvántartott szervezet tényleges tulajdonosainak megismerésére vonatkozik.
 
 (7) A nyilvántartó szerv a 8. § (6) és (7) bekezdése szerinti egyedi adatszolgáltatást az előzetes engedélyt alapul véve teljesíti.

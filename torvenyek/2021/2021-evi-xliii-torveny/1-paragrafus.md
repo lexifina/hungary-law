@@ -58,7 +58,7 @@
 
 26. egyesület – a párt, a szakszervezet és a kölcsönös biztosító egyesület kivételével;
 
-27. az alapítvány – a közalapítvány és a pártalapítvány kivételével;
+27. az alapítvány, ideértve a vagyonkezelő alapítványt – a közalapítvány és a pártalapítvány kivételével;
 
 28. köztestület és
 

@@ -4,21 +4,21 @@
 
 ## 3. A tényleges tulajdonosi nyilvántartás általános szabályai
 
-4. § (1) A tényleges tulajdonosi nyilvántartás az adatszolgáltatók alábbi adatait tartalmazza:
+4. § (1) A tényleges tulajdonosi nyilvántartás a nyilvántartott szervezetek alábbi adatait tartalmazza:
 
-a) az adatszolgáltató nemzeti nyilvántartási száma;
+a) a nyilvántartott szervezet nemzeti nyilvántartási száma;
 
-b) az adatszolgáltató neve, rövidített neve;
+b) a nyilvántartott szervezet neve, rövidített neve;
 
-c) az adatszolgáltató székhelye, természetes személy bizalmi vagyonkezelő esetén lakcíme, ennek hiányában tartózkodási helye;
+c) a nyilvántartott szervezet székhelye, természetes személy bizalmi vagyonkezelő esetén lakcíme, ennek hiányában tartózkodási helye;
 
-d) ha ilyennel rendelkezik, az adatszolgáltató adószáma;
+d) ha ilyennel rendelkezik, a nyilvántartott szervezet adószáma;
 
-e) cégbírósági nyilvántartásban szereplő adatszolgáltató cégjegyzékszáma, egyéb adatszolgáltató esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
+e) cégbírósági nyilvántartásban szereplő adatszolgáltató cégjegyzékszáma, egyéb nyilvántartott szervezet esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
 
-f) ha ilyennel rendelkezik, az adatszolgáltató európai egyedi azonosítója;
+f) ha ilyennel rendelkezik, a nyilvántartott szervezet európai egyedi azonosítója;
 
-g) az adatszolgáltató tényleges tulajdonosának vagy tulajdonosainak
+g) a nyilvántartott szervezet tényleges tulajdonosának vagy tulajdonosainak
 
 ga) családi és utóneve;
 

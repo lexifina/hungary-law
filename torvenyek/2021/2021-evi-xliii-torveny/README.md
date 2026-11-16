@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-43-00-00
 | 2026-07-31 | 2026. évi XXXV. törvény | 2021-43-00-00.21 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2021-43-00-00.20 |
 | 2026-10-01 | 2026. évi XLVI. törvény | 2021-43-00-00.22 |
+| 2026-11-16 | 2026. évi LXVIII. törvény | 2021-43-00-00.23 |

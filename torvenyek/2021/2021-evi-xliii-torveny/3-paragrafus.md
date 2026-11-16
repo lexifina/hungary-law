@@ -16,7 +16,9 @@
 
 7. központi nyilvántartások: a tényleges tulajdonosi nyilvántartás és a központi bankszámla- és széfnyilvántartás;
 
-8. nemzeti nyilvántartási szám: a tényleges tulajdonosi nyilvántartásban az adatszolgáltatóhoz hozzárendelt egyedi azonosító;
+8. nemzeti nyilvántartási szám: a tényleges tulajdonosi nyilvántartásban a nyilvántartott szervezethez hozzárendelt egyedi azonosító;
+
+8a. nyilvántartott szervezet: az adatszolgáltató, a bizalmi vagyonkezelési jogviszony és a vagyonkezelő alapítványokról szóló törvény szerint létrejött tartós vagyonkezelési jogviszony;
 
 9. pénzügyi információs egységként működő hatóság: a Pmt. 3. § 27. pontjában meghatározott hatóság;
 
@@ -28,6 +30,6 @@
 
 13. tényleges tulajdonos: az adatszolgáltató Pmt. 3. § 38. pont a) és b), valamint d)–g) alpontja szerint meghatározott tényleges tulajdonosa;
 
-14. tényleges tulajdonosi nyilvántartás: az e törvény hatálya alá tartozó adatszolgáltatók és a bizalmi vagyonkezelési jogviszonyok Pmt. szerinti tényleges tulajdonosi adatait tartalmazó nyilvántartás;
+14. tényleges tulajdonosi nyilvántartás: a nyilvántartott szervezetek Pmt. szerinti tényleges tulajdonosi adatait tartalmazó nyilvántartás;
 
-15. TT index: a tényleges tulajdonosi központi nyilvántartásban az adatszolgáltató tényleges tulajdonosi adatához rendelt, annak megbízhatósági szintjét jelző, 1–10 közötti értékű mutatószám.
+15. TT index: a tényleges tulajdonosi központi nyilvántartásban a nyilvántartott szervezet tényleges tulajdonosi adatához rendelt, annak megbízhatósági szintjét jelző, 1–10 közötti értékű mutatószám.
