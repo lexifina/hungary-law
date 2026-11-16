@@ -42,4 +42,4 @@
 
 lép.
 
-(2) Az Afad-tv. 8. § (6) bekezdésében az „a 4. § (1) bekezdés b) pontja” szövegrész helyébe az „a 4. § (1) bekezdés b) vagy d) pontja” szöveg lép.
+(2)
