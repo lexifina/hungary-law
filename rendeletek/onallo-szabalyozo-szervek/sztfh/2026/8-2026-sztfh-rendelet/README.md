@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-8-20-8K
 | 2026-09-17 | 2026-8-20-8K.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2026-09-18 | 2026-8-20-8K.4 | 2010. évi CXXX. törvény |
 | 2026-11-15 | 2026-8-20-8K.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-11-16 | 2026-8-20-8K.6 | 2010. évi CXXX. törvény |
