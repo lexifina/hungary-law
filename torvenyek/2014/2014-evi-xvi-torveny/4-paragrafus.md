@@ -100,7 +100,7 @@ c) bármely olyan természetes személy, aki harmadik fél részére szóló, Á
 
 33. értékpapír: a Tpt.-ben meghatározott fogalom;
 
-34. értékpapírtitok: a Tpt.-ben meghatározott fogalom;
+34. értékpapírtitok: a Bszt.-ben meghatározott fogalom;
 
 35. felosztott hozam: a tőkenövekmény azon része, amelyet a befektetési alapkezelő a kezelési szabályzat szerint a befektetési alapkezelés eredményeképpen a befektetési jegyek után fizet;
 

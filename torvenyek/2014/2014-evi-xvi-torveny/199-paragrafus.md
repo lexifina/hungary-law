@@ -48,6 +48,8 @@ b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha a Felügye
 
 (6) A 198. § (1) bekezdésében meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha a befektetési alapkezelő az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(7) A befektetési alapkezelő a 198. § (2) bekezdésében, e § (1)–(2) és (6) bekezdésében, valamint a 200. § (1) bekezdésében foglalt esetekben az értékpapírtitok kiadását – a 198. § (1) bekezdésére történő hivatkozással – nem tagadhatja meg.
+(6a) Nem minősül az értékpapírtitok megsértésének, ha a befektetési alapkezelő kollektív portfóliókezelési tevékenységének végzése során az általa kezelt zártkörű befektetési alap Pmt. szerinti tényleges tulajdonosára vonatkozóan a Pmt.-ben vagy a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló törvényben előírtak szerint szolgáltat adatot.
+
+(7) A befektetési alapkezelő a 198. § (2) bekezdésében, e § (1)–(2) és (6)–(6a) bekezdésében, valamint a 200. § (1) bekezdésében foglalt esetekben az értékpapírtitok kiadását – a 198. § (1) bekezdésére történő hivatkozással – nem tagadhatja meg.
 
 (8) Befektetési alapkezelő jogutód nélküli megszűnése esetén az általuk kezelt értékpapírtitkot tartalmazó irat a keletkezésétől számított 60 év múlva a levéltári kutatások céljára felhasználható.
