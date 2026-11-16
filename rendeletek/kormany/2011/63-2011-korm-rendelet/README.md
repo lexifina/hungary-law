@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-63-20-2
 | 2023-01-01 | 2011-63-20-22.3 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2026-10-01 | 2011-63-20-22.4 | 180/2026. (IX. 21.) Korm. rendelet |
 | 2026-10-07 | 2011-63-20-22.5 | 240/2026. (X. 6.) Korm. rendelet |
+| 2026-11-16 | 2011-63-20-22.6 | 410/2026. (XI. 3.) Korm. rendelet |
