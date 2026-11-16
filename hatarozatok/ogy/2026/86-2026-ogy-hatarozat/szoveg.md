@@ -1,0 +1,1 @@
+Az Országgyűlés elfogadja az Európai Unió irányítása alatt végrehajtott balkáni katonai békefenntartó műveletben (ALTHEA) való magyar katonai szerepvállalásról szóló 1561/2023. (XII. 14.) Korm. határozat módosításáról szóló beszámolót.
