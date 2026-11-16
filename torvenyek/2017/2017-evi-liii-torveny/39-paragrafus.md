@@ -2,7 +2,7 @@
 
 a) összeveti a nemzeti kockázatértékelésben meghatározott kockázatok figyelembevételével a 40. §-ban meghatározottak szerint kapott információkat az elemző-értékelő tevékenység céljából kezelt adatokkal, és automatizált kockázatelemzést végez;
 
-b) összeveti az e törvény, valamint az Unió területére belépő, illetve az Unió területét elhagyó készpénz ellenőrzéséről és az 1889/2005/EK rendelet hatályon kívül helyezéséről szóló 2018/1672 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2021. évi XLI. törvény (továbbiakban: készpénz ellenőrzéséről szóló törvény) alapján tudomására jutott információt, azon adatbázisok adatait, amelyekhez közvetlen hozzáféréssel rendelkezik, a nyilvános vagy bárki számára hozzáférhető adatokat, valamint az e törvény alapján beszerezhető adatokat, valamint az azok között fennálló összefüggéseket feltárja, értelmezi;
+b) összeveti az e törvény, valamint a készpénz ellenőrzéséről szóló törvény alapján tudomására jutott információt, azon adatbázisok adatait, amelyekhez közvetlen hozzáféréssel rendelkezik, a nyilvános vagy bárki számára hozzáférhető adatokat, valamint az e törvény alapján beszerezhető adatokat, valamint az azok között fennálló összefüggéseket feltárja, értelmezi;
 
 c) nyomon követi az a) pontban meghatározott adatokkal összefüggő pénzügyi műveleteket, folyamatokat, valamint az üzleti kapcsolatokat, ügyleti megbízásokat megvizsgálja;
 

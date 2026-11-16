@@ -4,11 +4,15 @@
 
 (3) A biztosító a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén az üzleti kapcsolat létesítését megelőzően az ügyfél és a tényleges tulajdonos azonosításán és személyazonosságának igazoló ellenőrzésén túlmenően köteles
 
-a) a szerződés megkötésekor ismert kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult nevét megállapítani, továbbá
+a) a szerződés megkötésekor ismert kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult nevét megállapítani,
 
-b) a szerződés megkötésekor nem ismert kedvezményezettre, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultra vonatkozó, a későbbi azonosításhoz szükséges valamennyi információt rögzíteni;
+b) a szerződés megkötésekor nem ismert kedvezményezettre, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultra vonatkozó, a későbbi azonosításhoz szükséges valamennyi információt rögzíteni, továbbá
+
+c) a kedvezményezettre, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultra vonatkozó információkat az ügyfél kockázati szintbe történő besorolása során figyelembe venni.
 
 (4) Ha a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítás kedvezményezettje, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultak személye, továbbá a kedvezményezett által meghatározott teljesítés elfogadására jogosult személye a szerződés megkötésekor még nem ismert, a kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult, továbbá a kedvezményezett által meghatározott teljesítés elfogadására jogosult személyazonosságának igazoló ellenőrzését legkésőbb a kifizetéssel egyidejűleg vagy a szerződésből (kötvényből) eredő jogoknak a jogosult általi érvényesítéséig lefolytatja.
+
+(4a) Amennyiben a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítás kedvezményezettje, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult magas kockázatú jogi személy, a szolgáltató a kifizetés előtt a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően kockázatérzékenységi alapon további ügyfél-átvilágítási intézkedéseket végez, amelyek minden esetben magukban foglalják a kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult tényleges tulajdonosának azonosítását és személyazonosságának ellenőrzését.
 
 (5) A fizetési számlanyitásra jogosult szolgáltató, valamint az ügyfélszámla, értékpapírszámla és értékpapír letéti számlanyitásra jogosult szolgáltató – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult a számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél, valamint annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője nem végezhet műveletet.
 

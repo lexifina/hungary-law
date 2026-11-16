@@ -16,7 +16,7 @@ f) az 5. §-ban meghatározott felügyeletet ellátó szerv által kiadott útmu
 
 (2) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
 
-a) az üzleti kapcsolat létesítésére kizárólag a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerül sor,
+a) az üzleti kapcsolat létesítésére vagy fenntartására kizárólag a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerül sor,
 
 b) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban hajtja végre.
 

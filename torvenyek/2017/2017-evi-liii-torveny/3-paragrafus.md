@@ -86,7 +86,7 @@ b) kapcsolat kettő vagy több hasonló szolgáltatást nyújtó hitelintézet v
 
 23a. megfelelési vezető: a szolgáltató 65. §-ban meghatározott belső szabályzatában kijelölt vezető beosztású foglalkoztatottja, aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelményeknek és elvárásoknak a szolgáltató foglalkoztatottjai általi végrehajtásáért felel;
 
-24. nemzeti kockázatértékelés: az a nemzeti szintű értékelés, amely alkalmas a pénzmosás és a terrorizmus finanszírozása kockázatainak feltárására, értékelésére, értelmezésére, azok folyamatos felülvizsgálatára, valamint a nemzeti kockázatkezelési eljárások meghatározására;
+24. nemzeti kockázatértékelés: az a nemzeti szintű értékelés, amely alkalmas a pénzmosás és a terrorizmus finanszírozása kockázatainak, valamint a proliferáció finanszírozásával kapcsolatos pénzügyi és vagyoni korlátozó intézkedések esetleges megsértése, megkerülése vagy végrehajtásának elmaradása kockázatainak feltárására, értékelésére, értelmezésére, azok folyamatos felülvizsgálatára, valamint a nemzeti kockázatkezelési eljárások meghatározására;
 
 25. pénzforgalmi intézmény: az Fsztv.-ben meghatározott pénzforgalmi intézmény, valamint a Posta Elszámoló Központot működtető intézmény;
 
@@ -182,17 +182,17 @@ dc) aki tagja az alapítvány kezelő szervének, vagy meghatározó befolyást 
 
 dd) a da)–dc) alpontban meghatározott természetes személy hiányában aki az alapítvány képviseletében eljár,
 
-e) bizalmi vagyonkezelési szerződés esetében az alábbi személyek:
+e) bizalmi vagyonkezelési szerződés és a vagyonkezelő alapítványokról szóló törvény szerint létrejött tartós vagyonkezelési jogviszony esetében az alábbi személyek:
 
-ea) a vagyonrendelő(k); nem természetes személy vagyonrendelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa,
+ea) a vagyonrendelő(k); az alapító(k); nem természetes személy vagyonrendelő vagy alapító esetén annak tényleges tulajdonosa,
 
-eb) a vagyonkezelő(k); nem természetes személy vagyonkezelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa,
+eb) a vagyonkezelő(k); nem természetes személy vagyonkezelő esetén annak tényleges tulajdonosa, az alapítvány ügyvezetését ellátó kuratórium tagja,
 
-ec) a kedvezményezett vagy a kedvezményezettek csoportja; nem természetes személy kedvezményezett esetén annak a) vagy b) pont szerinti tényleges tulajdonosa,
+ec) a kedvezményezett vagy a kedvezményezettek csoportja; nem természetes személy kedvezményezett esetén annak tényleges tulajdonosa,
 
 ed) az a természetes személy, aki a kezelt vagyon felett egyéb módon ellenőrzést, irányítást gyakorol, valamint
 
-ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes személy vagyonkezelést ellenőrző személy esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, továbbá
+ee) adott esetben a vagyonkezelést vagy vagyongazdálkodást ellenőrző személy(ek); nem természetes személy vagyonkezelést ellenőrző személy esetén annak tényleges tulajdonosa,
 
 f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
 

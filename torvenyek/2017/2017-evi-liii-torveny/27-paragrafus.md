@@ -2,6 +2,8 @@
 
 27. § (1) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányos – a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok feltárása és a feltárt kockázathoz társított intézkedés meghatározása céljából belső kockázatértékelést készíteni.
 
+(1a) A szolgáltató az (1) bekezdésben foglaltakon túl köteles az új termék, szolgáltatás, üzleti gyakorlat, alkalmazott eszköz és technológia bevezetése vagy használata előtt a kockázatértékelést elvégezni, és annak eredményét rögzíteni a belső kockázatértékelésben.
+
 (2) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez a szolgáltató köteles a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok megállapítása és értékelése céljából feltárni és értékelni az üzleti kapcsolat vagy ügyleti megbízás jellegével és összegével, az ügyféllel, termékkel, szolgáltatással, földrajzi területtel és alkalmazott eszközzel kapcsolatos kockázati tényezőket.
 
 (3) Az (1) bekezdésben meghatározott belső kockázatértékelést a szolgáltató köteles írásban rögzíteni, naprakészen tartani és az illetékes hatóságok rendelkezésére bocsátani az engedélyezési, illetve a felügyeleti tevékenység gyakorlása során.
