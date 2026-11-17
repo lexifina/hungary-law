@@ -1,1 +1,3 @@
-5. § Az R. 58. §-a az „az e rendelet kihirdetését követő 16. napot megelőzően” szövegrész helyett az „a 2026. november 16. napját megelőzően” szöveggel lép hatályba.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
