@@ -1,1 +1,3 @@
-6. § Hatályát veszti a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. § (3) bekezdése.
+6. §[^9]
+
+[^9]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

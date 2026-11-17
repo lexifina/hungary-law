@@ -1,3 +1,3 @@
-10. §[^3]
+10. §[^13]
 
-[^3]: A 10. § a 14. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^13]: A 10. § a 14. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.

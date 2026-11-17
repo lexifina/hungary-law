@@ -16,18 +16,6 @@
 
 ## 1. A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet módosítása
 
-1. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 11. §-a helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„11. § A kijelölt létesítmény védelme
-
-a) a kijelölt létesítmény technikai biztosítására,
-
-b) a be- és kilépő személyek, valamint csomagjaik ellenőrzésére,
-
-c) a kijelölt létesítmény közvetlen környezetének, továbbá az érkező szállítmányok és küldemények biztonsági ellenőrzésére,
-
-d) a kijelölt létesítmény belső őrzésére, valamint
-
-e) a kijelölt létesítmény külső őrzésére
-
-terjed ki.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
