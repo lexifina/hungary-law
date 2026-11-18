@@ -12,7 +12,7 @@
 
 5. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
 
-6.
+6. a közéletben részt vevő személyeknek a nyilvánvalóan megalapozatlan keresetekkel vagy visszaélésszerű bírósági eljárásokkal („közéleti részvételt akadályozó stratégiai perekkel”) szembeni védelméről szóló, 2024. április 11-i (EU) 2024/1069 európai parlamenti és tanácsi irányelvnek,
 
 7. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -49,3 +49,7 @@ való megfelelést szolgálja.
 6. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
 
 7. az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
+
+8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
+
+9. a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,

@@ -4,9 +4,11 @@
 
 (1) Ha az Alkotmánybíróság
 
-a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható, vagy
+a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható,
 
-b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti,
+b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti, vagy
+
+c) alkotmányjogi panasz eljárásban megállapítja, hogy a korábban megsemmisített jogszabály vagy jogszabályi rendelkezés meghatározott ügyben nem alkalmazható,
 
 az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Kúria állapítja meg.
 

@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-130-00-00
 | 2026-03-01 | 2025. évi XCII. törvény | 2016-130-00-00.33 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2016-130-00-00.35 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 2016-130-00-00.36 |
+| 2026-11-18 | 2026. évi LIII. törvény | 2016-130-00-00.37 |
