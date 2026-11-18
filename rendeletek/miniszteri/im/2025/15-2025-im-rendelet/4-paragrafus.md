@@ -1,1 +1,0 @@
-4. § Ha az eljáró bíróságon az online tárgyaláshallgatáshoz szükséges technikai feltételek rendelkezésre állnak, a bíróság elnöke köteles gondoskodni arról, hogy az arra alkalmas tárgyalótermek kihasználtsága az online tárgyaláshallgatás lehetőségének biztosítása érdekében – üzemszünet fennállásának, illetve üzemzavar bekövetkezésének kivételével – folyamatos legyen.
