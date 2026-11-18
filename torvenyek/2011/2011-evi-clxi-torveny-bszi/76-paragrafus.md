@@ -152,6 +152,18 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (11) Az OBH elnöke az OBT-nek az OBT által a (3) bekezdés a) pontja szerint meghatározott költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, változtatás nélkül rögzíti a bíróságok költségvetésére vonatkozó javaslatában és az annak végrehajtására vonatkozó beszámolójában.
 
+(11a) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva minden év március 31. napjáig adatokat szolgáltat az igazságügyért felelős miniszter részére a megelőző naptári évben a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárásokban alkalmazható eljárási biztosítékok tárgyában előterjesztett kérelmekről, és meghozott határozatokról összesített formában a következők szerint:
+
+a) a vizsgált tárgyévben indított, a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárások száma,
+
+b) az érintett bírósági eljárások száma aszerinti bontásban, hogy
+
+ba) a felperes természetes vagy a polgári perrendtartásról szóló törvény szerinti nem természetes személy,
+
+bb) az alperes természetes vagy a polgári perrendtartásról szóló törvény szerinti nem természetes személy, valamint
+
+c) a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárásokban előterjesztett keresetek jogcímei.
+
 (12) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva, az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából egyedi, meghatározott célú statisztikai adatgyűjtés keretében tájékoztatja az igazságügyért felelős minisztert azokról az adatokról, amelyekből megállapítható a bíróságon folyamatban lévő és befejezett eljárás teljes időtartama az eljárás megindításától annak jogerős befejeződéséig, ideértve a bírósági eljárást megelőző, más szerv által lefolytatott hatósági vagy egyéb közhatalmi eljárás (a továbbiakban: megelőző eljárás), a rendes és a rendkívüli jogorvoslati eljárás, valamint a jogorvoslati eljárás alapján megismételt eljárás időtartamát is. Ezen adatgyűjtés alapján az eljárás teljes időtartama mellett annak is megállapíthatónak kell lennie, hogy annak kezdetétől a jogerős vagy végleges befejeződéséig meddig tartott a megelőző eljárás, illetve a bírósági eljárás.
 
 (12a) Az OBH elnöke a (8) bekezdés d) pontja szerinti feladatkörében az OBH kezelésében található összes anonimizált bírósági határozatot, ideértve azok teljes strukturált szövegét és az azokhoz kapcsolódó valamennyi metainformációt, az igazságügyért felelős miniszter részére folyamatosan, elektronikus úton, közvetlen rendszerkapcsolat biztosításával rendelkezésre bocsátja.
