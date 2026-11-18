@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-89-00-00
 | 2026-07-24 | 2026. évi XXXIII. törvény | 2018-89-00-00.27 |
 | 2026-09-01 | 2025. évi XCV. törvény | 2018-89-00-00.26 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 2018-89-00-00.28 |
+| 2026-11-18 | 2026. évi LIII. törvény | 2018-89-00-00.29 |

@@ -190,4 +190,4 @@ d) a honosítási határozat sorszáma.
 
 (39) Az oktatási nyilvántartás működéséért felelős szerv a felsőoktatási alkalmazotti személyi törzsben szereplő elektronikus levélcím használatával teljesítheti a miniszter által elrendelt kutatást.
 
-(40) Az oktatási nyilvántartás vezetéséért felelős szerv a felsőoktatási információs rendszerből adatot szolgáltat az Országos Bírósági Hivatal részére a felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatójának hallgatói, valamint a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatójának, illetve kutatójának oktatói vagy kutatói jogviszonya igazolása érdekében, a bírósági tárgyaláson online hallgatóságként történő elsőbbségi részvétel biztosítása céljából.
+(40)
