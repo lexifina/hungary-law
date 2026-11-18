@@ -7,15 +7,3 @@ b) 4. § (1) bekezdése a részvényeiket multilaterális kereskedési rendszerb
 c) 4. § (2) bekezdése és 15. §-a a hibás termékekért való felelősségről és a 85/374/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2024. október 23-i (EU) 2024/2853 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-|
-
-Dr. Baka András s. k.,
-
-köztársasági elnök
-
-|
-
-Forsthoffer Ágnes s. k.,
-
-az Országgyűlés elnöke
