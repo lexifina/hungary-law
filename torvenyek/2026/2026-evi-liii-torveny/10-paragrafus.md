@@ -1,0 +1,7 @@
+## 4. A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény módosítása
+
+10. § A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény a következő 94/A. §-sal egészül ki:
+
+„94/A. § (1) Ha az Európai Unión kívül lakóhellyel vagy székhellyel rendelkező felperes a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárást indít valamely harmadik állam bírósága előtt egy Magyarországon lakóhellyel vagy székhellyel rendelkező természetes vagy jogi személlyel szemben, a magyar bíróság eljárhat az utóbbi személy által a harmadik állam bírósága előtti eljárással összefüggésben felmerült károk és költségek megtérítésére indított eljárásban.
+
+(2) Ha az (1) bekezdés szerinti, harmadik állam bírósága előtt indított eljárás még folyamatban van, a bíróság az eljárását mindaddig felfüggeszti, amíg a harmadik államban az eljárás jogerősen be nem fejeződött.”

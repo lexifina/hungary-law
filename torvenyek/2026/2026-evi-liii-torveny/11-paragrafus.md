@@ -1,0 +1,3 @@
+11. § A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény a következő 113/A. §-sal egészül ki:
+
+„113/A. § Az Európai Unió valamely tagállamában lakóhellyel vagy székhellyel rendelkező természetes vagy a Pp. szerinti nem természetes személy ellen indított, a közéletben való részvételt akadályozó bírósági eljárásban hozott harmadik állambeli határozat nem ismerhető el és nem hajtható végre, ha az említett eljárás nyilvánvalóan megalapozatlannak vagy visszaélésszerűnek minősül a magyar jog szerint, kivéve, ha az elismerés vagy a végrehajtás megtagadása a harmadik állam és az Európai Unió vagy Magyarország közötti, 2024. május 6. előtt kötött két- vagy többoldalú nemzetközi szerződést sértené.”
