@@ -2,6 +2,7 @@
 
 (2) Az óvoda e rendeletnek a Módr.1. által megállapított 1. mellékletének rendelkezései alapján felülvizsgálja a helyi pedagógiai programot, és azt 2025. szeptember 1-jéig módosítja.
 
-(3) A pedagógus-továbbképzési jegyzéken – tartalmi megújító képzésként – elérhetőnek kell lennie az óvoda-iskola átmenetet segítő továbbképzésnek az óvodák igazgatói és az óvodapedagógusok részére. A továbbképzés hozzájárul a gyermekek hatékony és gördülékeny óvoda-iskola átmenetének biztosításához és a sikeres iskolakezdéshez.
+(3)[^4] A pedagógus-továbbképzési jegyzéken elérhetőnek kell lennie az óvoda-iskola átmenetet segítő továbbképzésnek az óvodák igazgatói és az óvodapedagógusok részére. A továbbképzés hozzájárul a gyermekek hatékony és gördülékeny óvoda-iskola átmenetének biztosításához és a sikeres iskolakezdéshez.
 
 [^3]: A 4. §-t a 77/2025. (IV. 15.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 4. § (3) bekezdése a 405/2026. (XI. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
