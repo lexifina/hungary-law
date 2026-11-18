@@ -16,4 +16,4 @@ c) a bűncselekményre a törvény tízévi szabadságvesztésnél súlyosabb b�
 
 d) a bizonyítási eszközök nem állnak rendelkezésre.
 
-(5) Bíróság elé állítás esetén a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+(5)

@@ -10,4 +10,4 @@
 
 (3) Aki a nyilvánosság tájékoztatása céljából a bíróságtól, ügyészségtől vagy nyomozó hatóságtól tájékoztatást kér – ideértve a kép-, hang-, vagy a kép- és hangfelvétel készítésére vonatkozó engedélyt is –, indítványában köteles közölni a nevét, nem természetes személy esetén megnevezését, valamint elérhetőségét és azt, hogy a nyilvánosságot hogyan – különösen mely médiatartalom-szolgáltató vagy egyéb, az információs társadalommal összefüggő szolgáltatás útján – tájékoztatja.
 
-(4) A nyilvánosság tájékoztatására, illetve a büntetőeljárásról történő tájékoztatásra vonatkozó szabályok nem érintik a tárgyalás nyilvánosságára és a tárgyalás telekommunikációs eszköz útján történő nyomon követésére vonatkozó szabályok alkalmazását.
+(4)

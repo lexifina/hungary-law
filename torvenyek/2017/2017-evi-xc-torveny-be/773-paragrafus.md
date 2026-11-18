@@ -30,4 +30,4 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 
 (6) A magánvádló és − ha a magánvádló jogi képviselete kötelező – a magánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
-(7) Magánvádas eljárásban a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+(7)
