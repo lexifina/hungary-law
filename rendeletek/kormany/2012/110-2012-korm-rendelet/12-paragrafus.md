@@ -544,7 +544,7 @@ Az óraszámok 80%-át a kerettantervben meghatározott törzsanyag tanításár
 
 A magyar nyelv és irodalom tantárgyak kötelező törzsanyagában csak lezárt, biztosan értékelhető életművek szerepelnek. Ezen felül, a választható órakeret terhére a tanár szabadon beilleszthet kortárs alkotókat, műveket a tananyagba.
 
-A magyar nyelv és irodalom tantárgyi követelményei igazodnak a Nat alapelveihez és céljaihoz. A Nat-ban meghatározott, illetve a kerettantervben részletesen szabályozott követelmények a középszintű érettségi vizsgához szükséges szaktárgyi elvárásokat rögzítik. A magyar nyelv és irodalom tantárgyak tanítása öt nagy szempont köré csoportosítható: a kompetenciafejlesztés, a műveltségközvetítés, a személyiségfejlesztés, a morális és az érzelmi nevelés.
+A magyar nyelv és irodalom tantárgyi követelményei igazodnak a Nat alapelveihez és céljaihoz. A magyar nyelv és irodalom tantárgyak tanítása öt nagy szempont köré csoportosítható: a kompetenciafejlesztés, a műveltségközvetítés, a személyiségfejlesztés, a morális és az érzelmi nevelés.
 
 Célok
 
@@ -5058,6 +5058,6 @@ Az etika tanterv főbb pedagógiai alapelvei:
 
 [^31]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
 [^32]: A hatálybalépés időpontja 2020. február 8.
-[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja, a 201/2024. (VII. 29.) Korm. rendelet 3. §-a, a 86/2025. (IV. 24.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja, a 201/2024. (VII. 29.) Korm. rendelet 3. §-a, a 86/2025. (IV. 24.) Korm. rendelet 8. §-a, a 404/2026. (XI. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^34]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
 [^35]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.

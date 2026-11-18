@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-110-20-
 | 2022-07-01 | 2012-110-20-22.7 | 5/2020. (I. 31.) Korm. rendelet |
 | 2024-09-01 | 2012-110-20-22.8 | 73/2013. (III. 8.) Korm. rendelet |
 | 2025-04-27 | 2012-110-20-22.9 | 73/2013. (III. 8.) Korm. rendelet |
+| 2026-11-18 | 2012-110-20-22.10 | 73/2013. (III. 8.) Korm. rendelet |
