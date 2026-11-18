@@ -1,0 +1,3 @@
+4. § Az R. 7. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A képzések megszervezését)

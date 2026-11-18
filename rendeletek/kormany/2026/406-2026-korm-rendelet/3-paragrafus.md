@@ -1,0 +1,3 @@
+3. § Az R. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A pedagógus-továbbképzés ötéves ciklusonként összesen legalább százhúsz kredit értékű intézményi belső továbbképzéssel, választható képzéssel, valamint az (5) bekezdés alapján beszámítható egyéb képzés vagy szakmai tevékenység teljesítésével valósul meg. E rendelet alkalmazásában egy kredit hatvan perc tanulmányi munkaórát jelent. A tanulmányi munkaórába a tematika feldolgozásához, a követelmények teljesítéséhez, a feladatok elkészítéséhez szükséges, valamint a tanulásra fordított idő, továbbá a vizsga vagy dolgozat elkészítésének időtartama számítható be.”
