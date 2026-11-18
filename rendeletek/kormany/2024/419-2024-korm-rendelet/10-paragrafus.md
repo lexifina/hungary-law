@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerint az adott tanévben, nevelési évben megszervezésre kerülő pedagógus-továbbképzési programokról a következő adatokat kell közzétenni:
 
-1. azt, hogy a pedagógus-továbbképzést tartalmi megújító képzésként, választható képzésként vagy hitéleti képzésként szervezik,
+1.[^27] azt, hogy a pedagógus-továbbképzést választható képzésként vagy hitéleti képzésként szervezik,
 
 2. a pedagógus-továbbképzési program megnevezését és célját,
 
@@ -31,3 +31,5 @@
 13. nyilvántartási számát.
 
 (3) Hitéleti képzés esetén csak a (2) bekezdés 1–3. pontja szerinti adatokat kell közzétenni.
+
+[^27]: A 10. § (2) bekezdés 1. pontja a 406/2026. (XI. 3.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.

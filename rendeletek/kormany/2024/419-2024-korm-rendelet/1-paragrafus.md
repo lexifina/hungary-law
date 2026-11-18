@@ -14,8 +14,9 @@
 
 1. § (1) Az e rendeletben foglaltakat kell alkalmazni a pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púétv.) 70. §-ában meghatározott pedagógus-továbbképzés (a továbbiakban: pedagógus-továbbképzés) megtervezésére, megszervezésére.
 
-(2) A pedagógus a pedagógus-munkakör betöltésére jogosító oklevél megszerzését követő ötödik év szeptember hónap első munkanapjától – a (3) bekezdésben foglalt kivétellel – öt éves ciklusokban vesz részt a pedagógus-továbbképzésben.
+(2)[^1] A pedagógus a pedagógus-munkakör betöltésére jogosító oklevél megszerzését követő ötödik év szeptember hónap első munkanapjától öt éves ciklusokban vesz részt a pedagógus-továbbképzésben.
 
-(3)[^1] A pedagógus előmeneteli rendszerben a „Gyakornok” fokozatba besorolt pedagógus a gyakornoki ideje alatt két alkalommal gyakornoki továbbképzést teljesít.
+(3)[^2]
 
-[^1]: Az 1. § (3) bekezdése a 182/2025. (VI. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdése a 406/2026. (XI. 3.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdését a 406/2026. (XI. 3.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.

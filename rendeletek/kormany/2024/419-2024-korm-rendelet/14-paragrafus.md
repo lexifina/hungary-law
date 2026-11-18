@@ -1,3 +1,5 @@
-## 10. Pénzügyi rendelkezések
+## 10.[^29]
 
-14. § Az igazgató által kijelölt tartalmi megújító képzéseket az NKE díjmentesen biztosítja.
+14. §
+
+[^29]: A 10. alcímet (14. §-t) a 406/2026. (XI. 3.) Korm. rendelet 7. § h) pontja hatályon kívül helyezte.
