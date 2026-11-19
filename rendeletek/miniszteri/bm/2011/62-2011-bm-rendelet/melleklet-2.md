@@ -76,44 +76,44 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 | 2. | KATASZTRÓFAVÉDELEM | 5050. | Fővárosi Katasztrófavédelmi Igazgatóság |
 
-| 3. | KATASZTRÓFAVÉDELEM | 5100. | Baranya Vármegyei Katasztrófavédelmi Igazgatóság |
+| 3. | KATASZTRÓFAVÉDELEM | 5100. | Baranya Megyei Katasztrófavédelmi Igazgatóság |
 
-| 4. | KATASZTRÓFAVÉDELEM | 5110. | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság |
+| 4. | KATASZTRÓFAVÉDELEM | 5110. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság |
 
-| 5. | KATASZTRÓFAVÉDELEM | 5120. | Békés Vármegyei Katasztrófavédelmi Igazgatóság |
+| 5. | KATASZTRÓFAVÉDELEM | 5120. | Békés Megyei Katasztrófavédelmi Igazgatóság |
 
-| 6. | KATASZTRÓFAVÉDELEM | 5130. | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság |
+| 6. | KATASZTRÓFAVÉDELEM | 5130. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
-| 7. | KATASZTRÓFAVÉDELEM | 5140. | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság |
+| 7. | KATASZTRÓFAVÉDELEM | 5140. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság |
 
-| 8. | KATASZTRÓFAVÉDELEM | 5150. | Fejér Vármegyei Katasztrófavédelmi Igazgatóság |
+| 8. | KATASZTRÓFAVÉDELEM | 5150. | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| 9. | KATASZTRÓFAVÉDELEM | 5160. | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság |
+| 9. | KATASZTRÓFAVÉDELEM | 5160. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
 
-| 10. | KATASZTRÓFAVÉDELEM | 5170. | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság |
+| 10. | KATASZTRÓFAVÉDELEM | 5170. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság |
 
-| 11. | KATASZTRÓFAVÉDELEM | 5180. | Heves Vármegyei Katasztrófavédelmi Igazgatóság |
+| 11. | KATASZTRÓFAVÉDELEM | 5180. | Heves Megyei Katasztrófavédelmi Igazgatóság |
 
-| 12. | KATASZTRÓFAVÉDELEM | 5190. | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság |
+| 12. | KATASZTRÓFAVÉDELEM | 5190. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság |
 
-| 13. | KATASZTRÓFAVÉDELEM | 5200. | Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság |
+| 13. | KATASZTRÓFAVÉDELEM | 5200. | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság |
 
-| 14. | KATASZTRÓFAVÉDELEM | 5210. | Nógrád Vármegyei Katasztrófavédelmi Igazgatóság |
+| 14. | KATASZTRÓFAVÉDELEM | 5210. | Nógrád Megyei Katasztrófavédelmi Igazgatóság |
 
-| 15. | KATASZTRÓFAVÉDELEM | 5220. | Pest Vármegyei Katasztrófavédelmi Igazgatóság |
+| 15. | KATASZTRÓFAVÉDELEM | 5220. | Pest Megyei Katasztrófavédelmi Igazgatóság |
 
-| 16. | KATASZTRÓFAVÉDELEM | 5230. | Somogy Vármegyei Katasztrófavédelmi Igazgatóság |
+| 16. | KATASZTRÓFAVÉDELEM | 5230. | Somogy Megyei Katasztrófavédelmi Igazgatóság |
 
-| 17. | KATASZTRÓFAVÉDELEM | 5240. | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság |
+| 17. | KATASZTRÓFAVÉDELEM | 5240. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság |
 
-| 18. | KATASZTRÓFAVÉDELEM | 5250. | Tolna Vármegyei Katasztrófavédelmi Igazgatóság |
+| 18. | KATASZTRÓFAVÉDELEM | 5250. | Tolna Megyei Katasztrófavédelmi Igazgatóság |
 
-| 19. | KATASZTRÓFAVÉDELEM | 5260. | Vas Vármegyei Katasztrófavédelmi Igazgatóság |
+| 19. | KATASZTRÓFAVÉDELEM | 5260. | Vas Megyei Katasztrófavédelmi Igazgatóság |
 
-| 20. | KATASZTRÓFAVÉDELEM | 5270. | Veszprém Vármegyei Katasztrófavédelmi Igazgatóság |
+| 20. | KATASZTRÓFAVÉDELEM | 5270. | Veszprém Megyei Katasztrófavédelmi Igazgatóság |
 
-| 21. | KATASZTRÓFAVÉDELEM | 5280. | Zala Vármegyei Katasztrófavédelmi Igazgatóság |
+| 21. | KATASZTRÓFAVÉDELEM | 5280. | Zala Megyei Katasztrófavédelmi Igazgatóság |
 
 5. Az igazolvány színe: kék
 
-[^63]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a, a 45/2022. (XII. 20.) BM rendelet 61. § c) pontja szerint módosított szöveg.
+[^63]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a, a 42/2026. (XI. 18.) BM rendelet 1. § c) pontja szerint módosított szöveg.

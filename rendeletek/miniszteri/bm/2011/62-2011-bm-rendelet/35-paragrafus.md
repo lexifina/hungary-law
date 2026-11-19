@@ -14,6 +14,6 @@ b) a feladatok elhúzódó jellege az adott területen működő polgári védel
 
 c) a mentési munkálatok elvégzésére más erők nem állnak rendelkezésre, és a késedelem életveszéllyel vagy jelentős anyagi kárral járhat.
 
-(2)[^32] Amennyiben a területi polgári védelmi szervezet alkalmazására a szervezése alapjául szolgáló közigazgatási egység határán kívül kerül sor, irányításáért és a mentési tevékenység feltételeinek biztosításáért azon vármegye területi védelmi bizottságának elnöke felelős, ahol a polgári védelmi szervezet a tevékenységet kifejti.
+(2)[^32] Amennyiben a területi polgári védelmi szervezet alkalmazására a szervezése alapjául szolgáló közigazgatási egység határán kívül kerül sor, irányításáért és a mentési tevékenység feltételeinek biztosításáért azon megye területi védelmi bizottságának elnöke felelős, ahol a polgári védelmi szervezet a tevékenységet kifejti.
 
-[^32]: A 35. § (2) bekezdése a 41/2022. (XII. 9.) BM rendelet 10. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 61. § b) pontja szerint módosított szöveg.
+[^32]: A 35. § (2) bekezdése a 41/2022. (XII. 9.) BM rendelet 10. § b) pontja, a 42/2026. (XI. 18.) BM rendelet 1. § b) pontja szerint módosított szöveg.
