@@ -1,4 +1,4 @@
-## 8.[^30] A külképviseletek közreműködése más szervek feladatellátásában
+## 8.[^33] A külképviseletek közreműködése más szervek feladatellátásában
 
 38/A. § (1) A kihelyező szerv felkérés esetén a külképviseletek útján közreműködik a kihelyező szervtől eltérő költségvetési szervek és az irányításuk, felügyeletük vagy tulajdonosi joggyakorlásuk alá tartozó egyéb szervezetek (ezen alcím alkalmazásában a továbbiakban együtt: kiküldő szervezet) külföldi kiküldetéseinek, valamint az azokkal összefüggésben szervezett rendezvények és egyéb reprezentációs kiadással járó események helyszíni lebonyolításában (ezen alcím alkalmazásában a továbbiakban: közreműködés).
 
@@ -18,4 +18,4 @@ történhet.
 
 (6) A (4) bekezdés b) pontja szerinti kötelezettségvállalási nyilatkozat alapján a kihelyező szerv jogosult a ténylegesen felmerült kiadások összegének a Kormány hatáskörében történő átcsoportosítását kezdeményezni az államháztartásért felelős miniszter által vezetett minisztérium útján.
 
-[^30]: A 8. alcímet (38/A. §-t) a 444/2024. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^33]: A 8. alcímet (38/A. §-t) a 444/2024. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

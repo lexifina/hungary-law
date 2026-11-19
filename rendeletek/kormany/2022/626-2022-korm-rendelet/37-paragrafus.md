@@ -1,6 +1,6 @@
 37. § (1) A külképviseleti hálózat devizában vezetett fizetési számláihoz kapcsolódó kiadásokra és bevételekre vonatkozó árfolyamszámítási műveletek a külképviseletek havi zárási folyamata során kerülnek forintra átszámításra.
 
-(1a)[^27] A külképviseleti hálózat devizában vállalt kötelezettségállományából fakadó árfolyamkockázatok minimalizálása, valamint a felelős gazdálkodás megteremtése, a vezetői információs rendszer kiszolgálása és a felelős vezetői döntések meghozatalának elősegítése érdekében a tárgyhónapot megelőző hónap utolsó napján érvényes, MNB által közzétett árfolyam alapján a külképviselet a tárgyhavi devizában nyilvántartott kötelezettségvállalások esetében havi árfolyamkorrekciót végezhet.
+(1a)[^30] A külképviseleti hálózat devizában vállalt kötelezettségállományából fakadó árfolyamkockázatok minimalizálása, valamint a felelős gazdálkodás megteremtése, a vezetői információs rendszer kiszolgálása és a felelős vezetői döntések meghozatalának elősegítése érdekében a tárgyhónapot megelőző hónap utolsó napján érvényes, MNB által közzétett árfolyam alapján a külképviselet a tárgyhavi devizában nyilvántartott kötelezettségvállalások esetében havi árfolyamkorrekciót végezhet.
 
 (2) Az (1) bekezdésre tekintettel az Ávr. 126. §-ában foglaltakat a külképviseletek gazdálkodásával összefüggésben – a Magyar Államkincstár szabályzatától eltérő módon –, a Központi Költségvetés Végrehajtását Támogató Rendszer (a továbbiakban: KKVTR) működéséhez kapcsolódóan a következők szerint kell alkalmazni:
 
@@ -8,4 +8,4 @@ a) a Külképviseletek igazgatása cím az egységes rovat azonosító és ÁHT-
 
 b) a Külképviseletek igazgatása cím a kincstári körön belül, illetve a kincstári körön kívül vezetett fizetési számláin, valamint a házipénztáraiban, illetve valutapénztáraiban keletkezett közvetlen bevételekről és kiadásokról a kincstári körön kívüli pénzforgalom bejelentésére szolgáló űrlapon tájékoztatja a Magyar Államkincstárt, a KKVTR-en keresztül a tárgyhónap vonatkozásában a tárgyhónapot követő hónap 15. napjáig, vagy ha ezen dátumig nem áll rendelkezésre a fogadó országban vezetett fizetési számlára vonatkozó számlakivonat, a fizetési számlákon keletkezett pénzforgalom esetében a számlakivonat kézhezvételét követő 5 munkanapon belül, december hónap vonatkozásában a költségvetési évet követő év január 31-éig.
 
-[^27]: A 37. § (1a) bekezdését a 444/2024. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^30]: A 37. § (1a) bekezdését a 444/2024. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
