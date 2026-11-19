@@ -2,7 +2,7 @@
 
 (2) A fogvatartott tényleges elhelyezése az előállító egységen belül az előállító helyiségben történik.
 
-(3)[^79] A rendőrkapitányság, a határrendészeti kirendeltség, valamint a rendőrőrs vezetője köteles a fogvatartott személy biztonságos elhelyezésére szolgáló előállító egységet kijelölni. A Repülőtéri Rendőr Igazgatóság, a Készenléti Rendőrség, a Nemzeti Nyomozó Iroda és a vármegyei (fővárosi) rendőr-főkapitányság esetében előállító egység kijelölésére indokolt esetben a szerv vezetője jogosult.
+(3)[^79] A rendőrkapitányság, a határrendészeti kirendeltség, valamint a rendőrőrs vezetője köteles a fogvatartott személy biztonságos elhelyezésére szolgáló előállító egységet kijelölni. A Repülőtéri Rendőr Igazgatóság, a Készenléti Rendőrség, a Nemzeti Nyomozó Iroda és a megyei (fővárosi) rendőr-főkapitányság esetében előállító egység kijelölésére indokolt esetben a szerv vezetője jogosult.
 
 (4) Az előállító egységben történő elhelyezés, őrzés végrehajtásának feltételeit a (3) bekezdésben meghatározott rendőri szerv vezetője biztosítja.
 
@@ -33,7 +33,7 @@ d)[^82] az étkeztetésre, valamint a fogvatartott ellátásával – különös
 (13)[^85] A büntetés-végrehajtási intézetből kikért és a rendőrség épületébe átkísért személyek biztonságos őrzésére a (2) bekezdésben meghatározott előállító helyiségben vagy a rendőrségi fogda ideiglenes elhelyezésre szolgáló helyiségében kerülhet sor, a helyiségben történő tartózkodás időtartama nem haladhatja meg a 12 órát.
 
 [^78]: A 31. § (1) bekezdése az 50/2016. (XII. 14.) BM rendelet 10. §-ával megállapított szöveg.
-[^79]: A 31. § (3) bekezdése a 43/2012. (VIII. 23.) BM rendelet 13. § (1) bekezdése, a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja, a 23/2026. (IX. 30.) BM rendelet 14. § 7. pontja szerint módosított szöveg.
+[^79]: A 31. § (3) bekezdése a 43/2012. (VIII. 23.) BM rendelet 13. § (1) bekezdése, a 23/2026. (IX. 30.) BM rendelet 14. § 7. pontja, a 38/2026. (XI. 18.) BM rendelet 1. § 6. pontja szerint módosított szöveg.
 [^80]: A 31. § (8) bekezdése a 18/2013. (V. 9.) BM rendelet 18. §-a szerint módosított szöveg.
 [^81]: A 31. § (10) bekezdése a 18/2013. (V. 9.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^82]: A 31. § (10) bekezdés d) pontja a 61/2015. (XI. 24.) BM rendelet 6. §-ával megállapított szöveg.

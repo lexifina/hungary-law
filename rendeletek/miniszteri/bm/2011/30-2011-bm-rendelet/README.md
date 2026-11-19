@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-30-20-0
 | 2026-04-10 | 2011-30-20-0A.32 | 46/2021. (XII. 22.) BM rendelet |
 | 2026-10-01 | 2011-30-20-0A.41 | 23/2026. (IX. 30.) BM rendelet |
 | 2026-11-10 | 2011-30-20-0A.42 | 29/2026. (XI. 9.) BM rendelet |
+| 2026-11-19 | 2011-30-20-0A.43 | 38/2026. (XI. 18.) BM rendelet |

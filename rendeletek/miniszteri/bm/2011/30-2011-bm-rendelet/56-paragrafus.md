@@ -32,7 +32,7 @@ a) Budapest, valamint a Budapest Liszt Ferenc Nemzetközi Repülőtér terület�
 
 b)[^129] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
 
-c)[^130] egyéb esetben a vármegyei rendőr-főkapitányság állományának erre kiképzett tagja (a továbbiakban: vármegyei bombakutató)
+c)[^130] egyéb esetben a megyei rendőr-főkapitányság állományának erre kiképzett tagja (a továbbiakban: megyei bombakutató)
 
 végzi.
 
@@ -45,6 +45,6 @@ végzi.
 [^127]: Az 56. § (1) bekezdés g) pont gd) alpontja az 50/2016. (XII. 14.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^128]: Az 56. § (1) bekezdés h) pontját az 50/2016. (XII. 14.) BM rendelet 12. § (2) bekezdése iktatta be.
 [^129]: Az 56. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 10. § (1) bekezdésével megállapított, a 23/2026. (IX. 30.) BM rendelet 14. § 11. pontja szerint módosított szöveg.
-[^130]: Az 56. § (2) bekezdés c) pontja a 45/2022. (XII. 20.) BM rendelet 54. § b) pontja szerint módosított szöveg.
+[^130]: Az 56. § (2) bekezdés c) pontja a 38/2026. (XI. 18.) BM rendelet 1. § 9. pontja szerint módosított szöveg.
 [^131]: Az 56. § (3) bekezdése a 31/2012. (VI. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^132]: Az 56. § (4) bekezdését a 31/2012. (VI. 28.) BM rendelet 11. §-a iktatta be, a 23/2026. (IX. 30.) BM rendelet 15. § 12. pontja hatályon kívül helyezte.

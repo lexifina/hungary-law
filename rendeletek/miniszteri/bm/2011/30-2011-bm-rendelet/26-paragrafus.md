@@ -14,7 +14,7 @@ c) a Készenléti Rendőrség parancsnoka,
 
 d) a Repülőtéri Rendőr Igazgatóság igazgatója,
 
-e)[^61] a vármegyei (fővárosi) rendőrfőkapitány,
+e)[^61] a megyei (fővárosi) rendőrfőkapitány,
 
 f) a rendőrkapitány, illetve a határrendészeti kirendeltség vezetője, valamint
 
@@ -31,5 +31,5 @@ rendelheti el legfeljebb két hónapra.
 (7) A fokozott ellenőrzés keretében foganatosított rendőri intézkedés vagy kényszerítő eszköz alkalmazása során az Rtv.-nek és e rendeletnek a rendőri intézkedés vagy kényszerítő eszköz alkalmazásával kapcsolatos szabályait alkalmazni kell. A fokozott ellenőrzés elrendelésének ténye nem mentesíti a rendőrt az alól, hogy jogszabályi kötelezettségeit teljesítse.
 
 [^60]: A 26. § a 46/2021. (XII. 22.) BM rendelet 3. §-ával megállapított szöveg.
-[^61]: A 26. § (3) bekezdés e) pontja a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.
+[^61]: A 26. § (3) bekezdés e) pontja a 38/2026. (XI. 18.) BM rendelet 1. § 4. pontja szerint módosított szöveg.
 [^62]: A 26. § (3) bekezdés g) pontja a 23/2026. (IX. 30.) BM rendelet 12. §-ával megállapított szöveg.

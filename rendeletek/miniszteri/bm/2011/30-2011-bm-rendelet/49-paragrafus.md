@@ -18,10 +18,10 @@ d)[^112] az Országos Idegenrendészeti Főigazgatóságnál szolgálatot teljes
 
 öt munkanappal meghosszabbíthatja,
 
-(4)[^113] Ha a lőfegyverhasználatra fogvatartottal szemben került sor, erről a fogvatartásért felelős haladéktalanul értesíti a lőfegyvert használó rendőr szolgálati helye szerinti rendőri szerv székhelye szerint illetékes vármegyei (fővárosi) főügyészség büntetés-végrehajtási felügyeleti ügyészét, valamint a fogvatartottal szemben eljáró szerv vezetőjét. A lőfegyverhasználattal összefüggésben lefolytatott vizsgálatot lezáró jelentést az iratokkal együtt meg kell küldeni az ügyésznek.
+(4)[^113] Ha a lőfegyverhasználatra fogvatartottal szemben került sor, erről a fogvatartásért felelős haladéktalanul értesíti a lőfegyvert használó rendőr szolgálati helye szerinti rendőri szerv székhelye szerint illetékes megyei (fővárosi) főügyészség büntetés-végrehajtási felügyeleti ügyészét, valamint a fogvatartottal szemben eljáró szerv vezetőjét. A lőfegyverhasználattal összefüggésben lefolytatott vizsgálatot lezáró jelentést az iratokkal együtt meg kell küldeni az ügyésznek.
 
 [^109]: A 49. § (3) bekezdése a 18/2013. (V. 9.) BM rendelet 11. §-ával megállapított szöveg.
 [^110]: A 49. § (3) bekezdés b) pontja a 27/2019. (VI. 28) BM rendelet 15. §-a, a 23/2026. (IX. 30.) BM rendelet 14. § 10. pontja szerint módosított szöveg.
 [^111]: A 49. § (3) bekezdés c) pontját a 23/2026. (IX. 30.) BM rendelet 15. § 7. pontja hatályon kívül helyezte.
 [^112]: A 49. § (3) bekezdés d) pontját a 27/2019. (VI. 28.) BM rendelet 13. §-a iktatta be.
-[^113]: A 49. § (4) bekezdése a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.
+[^113]: A 49. § (4) bekezdése a 38/2026. (XI. 18.) BM rendelet 1. § 8. pontja szerint módosított szöveg.
