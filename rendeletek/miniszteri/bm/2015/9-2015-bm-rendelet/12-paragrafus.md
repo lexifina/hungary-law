@@ -4,7 +4,7 @@
 
 (2)[^36]
 
-(3)[^37] A tűzoltó alaptanfolyamot a KOK és a vármegyei (fővárosi) katasztrófavédelmi igazgatóságok (a továbbiakban: katasztrófavédelmi igazgatóságok) szervezik, és a tanfolyam eredményes elvégzését követően kiadják a képzés elvégzését igazoló okiratot.
+(3)[^37] A tűzoltó alaptanfolyamot a KOK és a megyei (fővárosi) katasztrófavédelmi igazgatóságok (a továbbiakban: katasztrófavédelmi igazgatóságok) szervezik, és a tanfolyam eredményes elvégzését követően kiadják a képzés elvégzését igazoló okiratot.
 
 (4) A tűzoltásvezető I. tanfolyamot és a tűzoltásvezető II. tanfolyamot a KOK és a katasztrófavédelmi igazgatóságok szervezik, a képzés elvégzését igazoló okiratot a tanfolyam szervezője adja ki.
 
@@ -34,7 +34,7 @@
 
 [^35]: A 12. § a 14/2021. (VI. 16.) BM rendelet 12. §-ával megállapított szöveg.
 [^36]: A 12. § (2) bekezdését a 20/2026. (IX. 15.) BM rendelet 3. §-a hatályon kívül helyezte.
-[^37]: A 12. § (3) bekezdése a 45/2022. (XII. 20.) BM rendelet 80. §-a szerint módosított szöveg.
+[^37]: A 12. § (3) bekezdése az 50/2026. (XI. 18.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^38]: A 12. § (8) bekezdését a 9/2022. (IV. 21.) BM rendelet 5. §-a hatályon kívül helyezte.
 [^39]: A 12. § (9) bekezdését a 9/2022. (IV. 21.) BM rendelet 5. §-a hatályon kívül helyezte.
 [^40]: A 12. § (10) bekezdése a 20/2026. (IX. 15.) BM rendelet 2. §-a szerint módosított szöveg.
