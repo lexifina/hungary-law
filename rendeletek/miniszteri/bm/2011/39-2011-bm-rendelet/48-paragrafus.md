@@ -6,6 +6,6 @@
 
 (3) Az utómunkálatok befejezését követően gondoskodni kell a helyszín vagyonvédelmi biztosításáról. A tulajdonos, használó, bérlő távollétében a rendőrséget vagy az önkormányzatot kell igénybe venni.
 
-(4)[^23] Azokban az esetekben, amelyekben a tűzeset olyan területet érintett, ahol gyártottak, felhasználtak vagy tároltak veszélyes anyagokat, hulladékokat – és ezen körülményekről a tűzoltásvezető tudomással bír – a tűz eloltása utáni tevékenységek körében a környezeti károk helyszíni felmérése, nyilvántartásba vétele érdekében a tűzoltásvezető értesíti a környezetvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt.
+(4)[^25] Azokban az esetekben, amelyekben a tűzeset olyan területet érintett, ahol gyártottak, felhasználtak vagy tároltak veszélyes anyagokat, hulladékokat – és ezen körülményekről a tűzoltásvezető tudomással bír – a tűz eloltása utáni tevékenységek körében a környezeti károk helyszíni felmérése, nyilvántartásba vétele érdekében a tűzoltásvezető értesíti a környezetvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatalt.
 
-[^23]: A 48. § (4) bekezdése a 11/2015. (III. 31.) BM rendelet 9. §-a, a 45/2022. (XII. 20.) BM rendelet 55. § a) pontja szerint módosított szöveg.
+[^25]: A 48. § (4) bekezdése a 11/2015. (III. 31.) BM rendelet 9. §-a, a 39/2026. (XI. 18.) BM rendelet 1. § h) pontja szerint módosított szöveg.

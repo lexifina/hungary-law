@@ -2,7 +2,7 @@
 
 40. § (1) A tűzoltás előkészítésekor a helyszínre riasztott rajok elsődleges feladatait kell megszervezni és végrehajtani, a tűzoltás megkezdése és a folyamatos tűzoltás biztosítása érdekében.
 
-(2)[^22] A tűzoltásvezetőnek a tűzjelzés – amennyiben van Tűzoltási Műszaki Mentési Terv (a továbbiakban: TMMT) annak adatai –, a helyismeret, valamint a vonulás közben szerzett információk alapján döntenie kell
+(2)[^24] A tűzoltásvezetőnek a tűzjelzés – amennyiben van Tűzoltási Műszaki Mentési Terv (a továbbiakban: TMMT) annak adatai –, a helyismeret, valamint a vonulás közben szerzett információk alapján döntenie kell
 
 a) a szükséges védőfelszerelések használatának elrendeléséről,
 
@@ -48,4 +48,4 @@ c) a táplálásszerelést, ha az elsődleges információk az előbbi módozato
 
 (6) A tűzoltás előkészítése akkor fejeződik be, amikor az (5) bekezdésben meghatározott szerelések megtörténtek és a folyamatos – a tűzoltáshoz szükséges – oltóanyag-ellátás biztosított.
 
-[^22]: A 40. § (2) bekezdése a 24/2012. (V. 8.) BM rendelet 4. §-a szerint módosított szöveg.
+[^24]: A 40. § (2) bekezdése a 24/2012. (V. 8.) BM rendelet 4. §-a szerint módosított szöveg.

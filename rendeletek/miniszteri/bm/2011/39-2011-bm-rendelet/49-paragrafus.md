@@ -2,6 +2,6 @@
 
 (2) Törekedni kell a tűz keletkezési helyét, idejét, okát alátámasztó bizonyítékok megőrzésére.
 
-(3)[^24] Bűncselekmény gyanúja esetén a Ttv.-ben meghatározottak szerint kell eljárni.
+(3)[^26] Bűncselekmény gyanúja esetén a Ttv.-ben meghatározottak szerint kell eljárni.
 
-[^24]: A 49. § (3) bekezdése a 9/2014. (II. 7.) BM rendelet 7. § g) pontja szerint módosított szöveg.
+[^26]: A 49. § (3) bekezdése a 9/2014. (II. 7.) BM rendelet 7. § g) pontja szerint módosított szöveg.
