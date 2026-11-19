@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-44-20-0
 | 2023-01-01 | 1998-44-20-0A.16 | 39/2004. (VI. 29.) BM rendelet |
 | 2023-04-28 | 1998-44-20-0A.17 | 9/2023. (IV. 13.) BM rendelet |
 | 2023-09-01 | 1998-44-20-0A.18 | 35/2023. (VIII. 31.) BM rendelet |
+| 2026-11-19 | 1998-44-20-0A.19 | 31/2026. (XI. 18.) BM rendelet |

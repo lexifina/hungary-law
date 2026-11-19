@@ -2,7 +2,7 @@
 
 12. § (1) A küldemények nyilvántartási és átadás-átvételi bizonylata a futárjegyzék. A futárjegyzék kiállítója küldemény felvételekor a feladó szerv, kézbesítéskor a futárszolgálat.
 
-(2)[^23] A futárjegyzéket
+(2)[^25] A futárjegyzéket
 
 a) a futárszolgálatnál rendszeresített futárprogramban,
 
@@ -14,9 +14,9 @@ d) – az a)–c) pontban meghatározott informatikai rendszer hiánya vagy műk
 
 kell elkészíteni.
 
-(3)[^24] A felhasznált futárjegyzékeket sorszám szerint irattározva, a bekapcsolt szerv iratkezelési szabályzatában meghatározott ideig kell megőrizni.
+(3)[^26] A felhasznált futárjegyzékeket sorszám szerint irattározva, a bekapcsolt szerv iratkezelési szabályzatában meghatározott ideig kell megőrizni.
 
-(4)[^25] A feladó által kiállított futárjegyzék tartalmazza
+(4)[^27] A feladó által kiállított futárjegyzék tartalmazza
 
 a) a futárjegyzék sorszámát,
 
@@ -34,7 +34,7 @@ g) nyilvántartási szám nélküli küldemények esetében azok darabszámát,
 
 h) az átadó személy nevét, saját kezű aláírását, az átadás dátumát, időpontját, valamint a feladó szerv bélyegzőlenyomatát.
 
-(5)[^26] A futárszolgálat által kézbesítéshez kiállított futárjegyzék tartalmazza
+(5)[^28] A futárszolgálat által kézbesítéshez kiállított futárjegyzék tartalmazza
 
 a) a futárjegyzék sorszámát,
 
@@ -50,27 +50,27 @@ f) nyilvántartási szám nélküli küldemények esetében azok darabszámát,
 
 g) a kézbesítő személy nevét, saját kezű aláírását, az átadás dátumát, időpontját, valamint a futárszerv bélyegzőlenyomatát.
 
-(6)[^27] A futárjegyzéken a nyilvántartási számmal feladott küldeményeket darabonként felülről lefelé sorszámozva kell szerepeltetni. Ha a küldemény több nyilvántartási számmal ellátott, vagy a minősített adatot tartalmazó küldemény több iktatószámon nyilvántartott adathordozót tartalmaz, akkor a küldemény címoldalán valamennyi nyilvántartási számot, vagy minősített adatot tartalmazó küldemény esetén valamennyi iktatószámot, példánysorszámot és minősítési szintet fel kell tüntetni. A futárjegyzékbe minősített adatot nem tartalmazó küldemény esetén az első (bal felső) nyilvántartási számot kell a küldemény azonosíthatósága végett beírni.
+(6)[^29] A futárjegyzéken a nyilvántartási számmal feladott küldeményeket darabonként felülről lefelé sorszámozva kell szerepeltetni. Ha a küldemény több nyilvántartási számmal ellátott, vagy a minősített adatot tartalmazó küldemény több iktatószámon nyilvántartott adathordozót tartalmaz, akkor a küldemény címoldalán valamennyi nyilvántartási számot, vagy minősített adatot tartalmazó küldemény esetén valamennyi iktatószámot, példánysorszámot és minősítési szintet fel kell tüntetni. A futárjegyzékbe minősített adatot nem tartalmazó küldemény esetén az első (bal felső) nyilvántartási számot kell a küldemény azonosíthatósága végett beírni.
 
-(6a)[^28] Ha a minősített adatot tartalmazó küldemény több külön iktatószámmal ellátott adathordozót tartalmaz, és a küldeményen a feladó valamennyi iktatószámot, példánysorszámot, minősítési szintet feltünteti, a bejövő és kimenő futárjegyzéken a küldemény sorszáma mellett valamennyi iktatószámot, példánysorszámot, minősítési szintet fel kell tüntetni, egymás alá írva, a küldeményen szereplő sorrendben.
+(6a)[^30] Ha a minősített adatot tartalmazó küldemény több külön iktatószámmal ellátott adathordozót tartalmaz, és a küldeményen a feladó valamennyi iktatószámot, példánysorszámot, minősítési szintet feltünteti, a bejövő és kimenő futárjegyzéken a küldemény sorszáma mellett valamennyi iktatószámot, példánysorszámot, minősítési szintet fel kell tüntetni, egymás alá írva, a küldeményen szereplő sorrendben.
 
-(7)[^29] A futárjegyzéken a „Szigorúan titkos!” minősítési szint „SZT!”, a „Titkos!” minősítési szint „T!”, a „Bizalmas!” minősítési szint „B!”, a „Korlátozott terjesztésű!” minősítési szint „KT!” betűkkel rövidíthető.
+(7)[^31] A futárjegyzéken a „Szigorúan titkos!” minősítési szint „SZT!”, a „Titkos!” minősítési szint „T!”, a „Bizalmas!” minősítési szint „B!”, a „Korlátozott terjesztésű!” minősítési szint „KT!” betűkkel rövidíthető.
 
 (8) Küldemény felvételekor és kézbesítéskor a futárjegyzéket két példányban kell kiállítani, amelynek az eredeti példánya az átvétel igazolása után a futárszolgálatnál, a másik a bekapcsolt szervnél marad.
 
 (9) Futárzsák alkalmazása esetén
 
-a)[^30] a futárzsák felvételekor és kézbesítésekor a futárjegyzéken a (4) bekezdés d)–g) pontjában, valamint az (5) bekezdés d)–f) pontjában meghatározott adatok helyett a futárzsák azonosítási számát kell feltüntetni,
+a)[^32] a futárzsák felvételekor és kézbesítésekor a futárjegyzéken a (4) bekezdés d)–g) pontjában, valamint az (5) bekezdés d)–f) pontjában meghatározott adatok helyett a futárzsák azonosítási számát kell feltüntetni,
 
 b) a futárzsákban el kell helyezni a futárjegyzék (4), illetve (5) bekezdésben meghatározottak szerint kiállított két példányát, az eredeti példányt a futárzsák tartalmának tételes ellenőrzése és az átvétel igazolása után az átvevő a feladónak visszaküldi, a másik nála marad,
 
 c) az a)–b) pontban szereplő futárjegyzékeket együtt kell megőrizni.
 
-[^23]: A 12. § (2) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^24]: A 12. § (3) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^25]: A 12. § (4) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^26]: A 12. § (5) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^27]: A 12. § (6) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^28]: A 12. § (6a) bekezdését a 9/2023. (IV. 13.) BM rendelet 3. § (2) bekezdése iktatta be.
-[^29]: A 12. § (7) bekezdése a 39/2004. (VI. 29.) BM rendelet 3. §-ával megállapított, a 9/2023. (IV. 13.) BM rendelet 8. § b) pontja szerint módosított szöveg.
-[^30]: A 12. § (9) bekezdés a) pontja a 9/2023. (IV. 13.) BM rendelet 8. § c) pontja szerint módosított szöveg.
+[^25]: A 12. § (2) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^26]: A 12. § (3) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^27]: A 12. § (4) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^28]: A 12. § (5) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^29]: A 12. § (6) bekezdése a 9/2023. (IV. 13.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^30]: A 12. § (6a) bekezdését a 9/2023. (IV. 13.) BM rendelet 3. § (2) bekezdése iktatta be.
+[^31]: A 12. § (7) bekezdése a 39/2004. (VI. 29.) BM rendelet 3. §-ával megállapított, a 9/2023. (IV. 13.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^32]: A 12. § (9) bekezdés a) pontja a 9/2023. (IV. 13.) BM rendelet 8. § c) pontja szerint módosított szöveg.
