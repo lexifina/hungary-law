@@ -1,3 +1,3 @@
-9. §[^42]
+9. §[^40]
 
-[^42]: A 9. § a 349/2012. (XII. 12.) Korm. rendelet 67. §-a alapján nem lép hatályba.
+[^40]: A 9. § a 349/2012. (XII. 12.) Korm. rendelet 67. §-a alapján nem lép hatályba.

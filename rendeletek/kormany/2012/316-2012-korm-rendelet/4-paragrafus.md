@@ -46,7 +46,7 @@ g)[^13] az utógondozói ellátásban részesülő fiatal felnőtt kérelmére d
 
 (5) A kirendeltség feladatainak ellátása során a főigazgató egyetértése szükséges az intézményi térítési díj összegének meghatározásához.
 
-(6)[^14] A Főigazgatóság – az 1. melléklet 8. pontja szerinti kivétellel – ellátja a fenntartott intézmények gazdálkodással összefüggő feladatait.
+(6)[^14] A Főigazgatóság – az 1. melléklet 8. pontja szerinti kivétellel – ellátja a fenntartott intézmények tekintetében a gazdasági szervezet feladatait.
 
 (7)[^15] A Főigazgatóság ellátja a jogszabály alapján átvett vagyon és integrált intézményi vagyon tekintetében a vagyonkezelői feladatokat.
 
@@ -55,5 +55,5 @@ g)[^13] az utógondozói ellátásban részesülő fiatal felnőtt kérelmére d
 [^11]: A 4. § (2) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^12]: A 4. § (3) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 211. § (4) bekezdése szerint módosított szöveg.
 [^13]: A 4. (4) bekezdés g) pontját a 384/2017. (XII. 12.) Korm. rendelet 9. §-a iktatta be.
-[^14]: A 4. § (6) bekezdését a 610/2020. (XII. 18.) Korm. rendelet 15. §-a iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^14]: A 4. § (6) bekezdését a 610/2020. (XII. 18.) Korm. rendelet 15. §-a iktatta be, szövege a 495/2026. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 4. § (7) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 11. § (2) bekezdése iktatta be.
