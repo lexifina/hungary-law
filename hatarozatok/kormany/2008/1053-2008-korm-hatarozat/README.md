@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-1053-30
 | 2022-11-03 | 2008-1053-30-22.10 | 1521/2022. (XI. 2.) Korm. határozat |
 | 2023-08-01 | 2008-1053-30-22.11 | 1340/2023. (VII. 31.) Korm. határozat |
 | 2024-12-16 | 2008-1053-30-22.12 | 1399/2024. (XII. 16.) Korm. határozat |
+| 2026-11-19 | 2008-1053-30-22.13 | 1377/2026. (XI. 18.) Korm. határozat |
