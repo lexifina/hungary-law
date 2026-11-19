@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-1
 | 2013-07-01 | 2009-19-20-1U.4 | 34/2013. (VI. 30.) BM rendelet |
 | 2021-08-01 | 2009-19-20-1U.5 | 23/2021. (VII. 29.) BM rendelet |
 | 2023-01-01 | 2009-19-20-1U.6 | 23/2021. (VII. 29.) BM rendelet |
+| 2026-11-19 | 2009-19-20-1U.7 | 23/2021. (VII. 29.) BM rendelet |
