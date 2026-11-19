@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-52-20-1
 | 2019-07-01 | 2007-52-20-1U.17 | 35/2018. (XII. 21.) BM rendelet |
 | 2020-07-16 | 2007-52-20-1U.18 | 26/2020. (VII. 15.) BM rendelet |
 | 2023-01-01 | 2007-52-20-1U.19 | 23/2016. (VI. 29.) BM rendelet |
+| 2026-11-19 | 2007-52-20-1U.20 | 23/2016. (VI. 29.) BM rendelet |
