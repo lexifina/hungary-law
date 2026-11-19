@@ -1,6 +1,6 @@
-## Elszámoláshoz kapcsolódó egyéb rendelkezések[^74]
+## Elszámoláshoz kapcsolódó egyéb rendelkezések[^79]
 
-5/C. §[^75] (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője minden hónap 5. munkanapjáig megküldi a finanszírozó részére a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató által az EESZT-ben rögzített, általa nyújtott előző havi ellátási eseményre vonatkozóan a 14. számú melléklet szerint definiáltak szerint az alábbi adatokat:
+5/C. §[^80] (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője minden hónap 5. munkanapjáig megküldi a finanszírozó részére a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató által az EESZT-ben rögzített, általa nyújtott előző havi ellátási eseményre vonatkozóan a 14. számú melléklet szerint definiáltak szerint az alábbi adatokat:
 
 a) az intézmény nevét,
 
@@ -10,16 +10,16 @@ c) az ellátott beteg TAJ-számát, annak hiányában egyéb személyazonosító
 
 d) a felvétel és a távozás időpontját és
 
-e)[^76]
+e)[^81]
 
 (2) A finanszírozó ellenőrzi, hogy az elszámolásra jelentett ellátási esemény az (1) bekezdés szerinti adatok között szerepel-e. Az ellenőrzés szempontja az (1) bekezdésben szereplő adatok egyezősége.
 
-(3)[^77] Ha a finanszírozó megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel az EESZT-ben, úgy az ellátási eseményre vonatkozó finanszírozási díjat a mindenkori alapdíj 20%-ának megfelelő összeggel csökkenti.
+(3)[^82] Ha a finanszírozó megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel az EESZT-ben, úgy az ellátási eseményre vonatkozó finanszírozási díjat a mindenkori alapdíj 20%-ának megfelelő összeggel csökkenti.
 
-(4)[^78] A (3) bekezdésben foglaltakon túlmenően, ha a finanszírozó az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló miniszteri rendeletben meghatározott asszisztált reprodukciós beavatkozások esetén megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszterben, vagy az EESZT-be vagy a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszterbe jelentett adatok hiányosak, az ellátási eseményre vonatkozó finanszírozási díjat visszavonja.
+(4)[^83] A (3) bekezdésben foglaltakon túlmenően, ha a finanszírozó az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló miniszteri rendeletben meghatározott asszisztált reprodukciós beavatkozások esetén megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszterben, vagy az EESZT-be vagy a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszterbe jelentett adatok hiányosak, az ellátási eseményre vonatkozó finanszírozási díjat visszavonja.
 
-[^74]: Az „Elszámoláshoz kapcsolódó egyéb rendelkezések” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^75]: Az 5/C. §-t a 154/2020. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
-[^76]: Az 5/C. § (1) bekezdés e) pontját az 557/2020. (XII. 4.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^77]: Az 5/C. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^78]: Az 5/C. § (4) bekezdését az 532/2023. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^79]: Az „Elszámoláshoz kapcsolódó egyéb rendelkezések” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^80]: Az 5/C. §-t a 154/2020. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^81]: Az 5/C. § (1) bekezdés e) pontját az 557/2020. (XII. 4.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^82]: Az 5/C. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^83]: Az 5/C. § (4) bekezdését az 532/2023. (XII. 5.) Korm. rendelet 1. §-a iktatta be.

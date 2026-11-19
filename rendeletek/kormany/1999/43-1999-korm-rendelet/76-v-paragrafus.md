@@ -1,6 +1,6 @@
-## 76/U. §[^634] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet és az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosításáról szóló 184/2018. (X. 8.) Korm. rendelettel megállapított 26. § (6) bekezdését a 2018. augusztus havi teljesítmények elszámolásától kell alkalmazni.
+## 76/U. §[^639] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet és az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosításáról szóló 184/2018. (X. 8.) Korm. rendelettel megállapított 26. § (6) bekezdését a 2018. augusztus havi teljesítmények elszámolásától kell alkalmazni.
 
-76/V. §[^635]
+76/V. §[^640]
 
-[^634]: A 76/U. §-t a 184/2018. (X. 8.) Korm. rendelet 1. §-a iktatta be.
-[^635]: A 76/V. §-t a 236/2018. (XII. 10.) Korm. rendelet 2. §-a iktatta be, a 463/2024. (XII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^639]: A 76/U. §-t a 184/2018. (X. 8.) Korm. rendelet 1. §-a iktatta be.
+[^640]: A 76/V. §-t a 236/2018. (XII. 10.) Korm. rendelet 2. §-a iktatta be, a 463/2024. (XII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

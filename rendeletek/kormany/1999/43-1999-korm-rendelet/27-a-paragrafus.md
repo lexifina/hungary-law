@@ -1,6 +1,6 @@
-## Tervezett éves keret módosítása[^319]
+## Tervezett éves keret módosítása[^324]
 
-27/A. §[^320] (1) A 27. § szerinti tervezett éves keretet módosítani kell:
+27/A. §[^325] (1) A 27. § szerinti tervezett éves keretet módosítani kell:
 
 a) az Eftv. és az Eftv. vhr. alapján engedélyezett, ellátási forma megváltozásával járó kapacitásátcsoportosítás esetén a kapacitásegységre jutó szakma szerinti országos átlag figyelembevételével,
 
@@ -30,22 +30,22 @@ g) az Eftv. 2. § (3) bekezdése szerinti megállapodás, illetve szerződéskö
 
 (8) Ha váratlan esemény vagy előre nem látható módon bekövetkezett ellátási szükséglet feladatnövekedéssel jár, az egészségügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével, az országos tisztifőorvos kérelme alapján a 28. számú melléklet szerinti tartalék terhére engedélyezheti az ennek megfelelő, országos alapdíjjal történő díjazás kifizetését. Ha a tartalékban meghatározott forrás túllépése szükséges, az egészségügyért felelős miniszter döntéséhez az államháztartásért felelős miniszter hozzájárulása szükséges.
 
-(9)[^321] Az Eftv. 7. § (3) bekezdése szerinti kapacitás-átcsoportosítás abban az esetben jár tervezett éves keret átcsoportosítással, ha
+(9)[^326] Az Eftv. 7. § (3) bekezdése szerinti kapacitás-átcsoportosítás abban az esetben jár tervezett éves keret átcsoportosítással, ha
 
 a) az átcsoportosítással az adott egészségügyi szolgáltató érvényes finanszírozási szerződésében szereplő szakma megszűnik, a megszűnő szakmához tartozó ellátási területet ezután ellátó egészségügyi szolgáltató részére a feladatra jutó tervezett éves keretet megállapítása a (6) bekezdés alapján történik,
 
 b) az átcsoportosítással az adott egészségügyi szolgáltató érvényes finanszírozási szerződésében az egészségügyi szolgáltatónál új szakma kerül kialakításra, és az egészségügyi szolgáltató fenntartója az e szakmához meghatározott ellátási területet korábban ellátó egészségügyi szolgáltató fenntartójával tervezett éves keret meghatározott részének átadásáról és annak mértékéről is megállapodik.
 
-(10)[^322] A (9) bekezdés b) pontjában foglaltak irányadók arra az esetre is, amikor a járóbeteg-szakellátás és a fekvőbeteg-szakellátás ellátási szintjei között történik a területi ellátási kötelezettség módosítása.
+(10)[^327] A (9) bekezdés b) pontjában foglaltak irányadók arra az esetre is, amikor a járóbeteg-szakellátás és a fekvőbeteg-szakellátás ellátási szintjei között történik a területi ellátási kötelezettség módosítása.
 
 (11) Nem kell módosítani a tervezett éves keretet abban az esetben, ha szünetelés miatt az egészségügyi államigazgatási szerv egy adott szakellátás vonatkozásában más egészségügyi szolgáltatót jelöl ki, és a kijelölés időtartama a 30 napot nem haladja meg.
 
 (12) A (13) bekezdésben meghatározott eset kivételével a fenntartó kezdeményezheti a finanszírozónál a saját fenntartásában lévő egészségügyi szolgáltatók közötti tervezett éves keret átcsoportosítást.
 
-(13)[^323] Ha a tervezett éves keret átcsoportosítással érintett egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, a szolgáltatók közötti tervezett éves keret átcsoportosítást az egészségügyért felelős miniszter és a fenntartó közösen kezdeményezheti.
+(13)[^328] Ha a tervezett éves keret átcsoportosítással érintett egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, a szolgáltatók közötti tervezett éves keret átcsoportosítást az egészségügyért felelős miniszter és a fenntartó közösen kezdeményezheti.
 
-[^319]: A „Tervezett éves keret módosítása” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
-[^320]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 697/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^321]: A 27/A. § (9) bekezdés nyitó szövegrésze a 293/2024. (X. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^322]: A 27/A. § (10) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^323]: A 27/A. § (13) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^324]: A „Tervezett éves keret módosítása” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^325]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 697/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^326]: A 27/A. § (9) bekezdés nyitó szövegrésze a 293/2024. (X. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^327]: A 27/A. § (10) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^328]: A 27/A. § (13) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.

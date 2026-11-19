@@ -1,10 +1,10 @@
-## Betegszállítás[^403]
+## Betegszállítás[^408]
 
-33. §[^404] (1) A betegszállítás finanszírozása a Vhr.-ben meghatározottak szerint kötött szerződés alapján, az 5. számú melléklet Betegszállítás és orvosi rendelvényű halottszállítás kiadási előirányzata terhére történik. A betegszállítás finanszírozására irányuló szerződésben meg kell határozni – az egészségügyért felelős miniszter és a NEAK főigazgatója által együtt kijelölt szakértői bizottság javaslata alapján – a területi ellátási kötelezettséget, illetve a folyamatos ellátás biztosítását. A betegszállító szolgáltatók saját maguk vagy megbízottjuk útján napi 24, heti 168 órában kötelesek a biztosítottak számára rendelkezésre állni.
+33. §[^409] (1) A betegszállítás finanszírozása a Vhr.-ben meghatározottak szerint kötött szerződés alapján, az 5. számú melléklet Betegszállítás és orvosi rendelvényű halottszállítás kiadási előirányzata terhére történik. A betegszállítás finanszírozására irányuló szerződésben meg kell határozni – az egészségügyért felelős miniszter és a NEAK főigazgatója által együtt kijelölt szakértői bizottság javaslata alapján – a területi ellátási kötelezettséget, illetve a folyamatos ellátás biztosítását. A betegszállító szolgáltatók saját maguk vagy megbízottjuk útján napi 24, heti 168 órában kötelesek a biztosítottak számára rendelkezésre állni.
 
 (2) A finanszírozást igénylő szolgáltatók erre irányuló igényüket a NEAK-hoz nyújthatják be, amelyet az (1) bekezdésben megjelölt szakértői bizottság bírál el, és tesz javaslatot új szolgáltatók, illetve új kapacitások bevonására, valamint a meglévő kapacitások módosítására és az ellátási területre. A bizottság javaslatát a NEAK főigazgatója hagyja jóvá és egyetértés céljából megküldi az egészségügyért felelős miniszternek.
 
-(3)[^405] A betegszállításra finanszírozási szerződés az adott évi központi költségvetési törvényben az 5. számú melléklet szerinti Betegszállítás és orvosi rendelvényű halottszállítás jogcímen rendelkezésre álló előirányzat mértékéig
+(3)[^410] A betegszállításra finanszírozási szerződés az adott évi központi költségvetési törvényben az 5. számú melléklet szerinti Betegszállítás és orvosi rendelvényű halottszállítás jogcímen rendelkezésre álló előirányzat mértékéig
 
 a) új szolgáltatóval,
 
@@ -16,15 +16,15 @@ az egészségügyért felelős miniszter egyetértésével köthető, illetve m�
 
 (4) Ha a (3) bekezdés a)–c) pontja szerinti szerződéskötés éven túli kötelezettség-vállalást is eredményez, az államháztartásért felelős miniszter egyetértésével köthető meg a finanszírozási szerződés.
 
-(5)[^406] A betegszállítás és a kórboncolási célból, illetve a kórboncolás szükségességének megállapítása céljából végzett halottszállítás finanszírozására elkülönített előirányzat egyhavi összegéből először – a 34. § szerint – a halottszállítás kerül finanszírozásra, a fennmaradó összegből a (12) bekezdés szerinti díjazás levonása után – az országos teljesítmények figyelembevételével – a NEAK állapítja meg az egy kilométerre jutó országos forintértéket.
+(5)[^411] A betegszállítás és a kórboncolási célból, illetve a kórboncolás szükségességének megállapítása céljából végzett halottszállítás finanszírozására elkülönített előirányzat egyhavi összegéből először – a 34. § szerint – a halottszállítás kerül finanszírozásra, a fennmaradó összegből a (12) bekezdés szerinti díjazás levonása után – az országos teljesítmények figyelembevételével – a NEAK állapítja meg az egy kilométerre jutó országos forintértéket.
 
-(6)[^407] A NEAK a (12)–(20) bekezdés szerint kiszámított díjat a teljesítést követő hónapban utalványozza, amelyből a szolgáltató éves szinten 10%-ot a gépjárműpark fejlesztésére köteles fordítani.
+(6)[^412] A NEAK a (12)–(20) bekezdés szerint kiszámított díjat a teljesítést követő hónapban utalványozza, amelyből a szolgáltató éves szinten 10%-ot a gépjárműpark fejlesztésére köteles fordítani.
 
 (7) A beteg szállításáról a betegszállításról szóló miniszteri rendeletben előírt adattartalmú, az utalvány adataival megegyező, hiánytalanul kitöltött, a betegszállítási esemény idő és kilométer adatait eseményszerűen tartalmazó elektronikus vagy papíralapú adatlapot kell vezetni. Elektronikus adatlap vezetés esetén az adatlapnak vagy tartalmi elemeinek – a dokumentációkezelésre vonatkozó jogszabályokban előírt megőrzési időn belül – a szerződött szolgáltató számítógépes rendszeréből kinyomtathatónak kell lennie.
 
-(8)[^408] Az elvégzett teljesítményekről a szolgáltató az arra rendszeresített országosan egységes informatikai program alkalmazásával, a NEAK honlapján közzétett adattartalommal jelentést küld a NEAK-nak a tárgyhónapot követő hónap 5. munkanapjáig. A betegszállító szolgáltatóval szerződéses jogviszonyban álló GPS műholdas navigációs rendszert működtető szolgáltató (a továbbiakban: GPS szolgáltató) a saját szerveréről, az elvégzett szállítások validitásának ellenőrzésére, a NEAK által előírt egységes adattartalommal jelentést küld a NEAK részére minden tárgyhónapot követő hónap 5. munkanapjáig. A teljesítmény-adatok tartalmazzák a finanszírozott gépkocsik azon GPS-adatait, amelyek alkalmasak a gépkocsi teljesítményének, napi futott kilométereinek ellenőrzésére. A GPS szolgáltató az OMSZ betegszállítás irányítása részére valós idejű betekintést biztosít az általa felügyelt betegszállító gépjárművek pillanatnyi helyzetének és mozgásának ellenőrzésére.
+(8)[^413] Az elvégzett teljesítményekről a szolgáltató az arra rendszeresített országosan egységes informatikai program alkalmazásával, a NEAK honlapján közzétett adattartalommal jelentést küld a NEAK-nak a tárgyhónapot követő hónap 5. munkanapjáig. A betegszállító szolgáltatóval szerződéses jogviszonyban álló GPS műholdas navigációs rendszert működtető szolgáltató (a továbbiakban: GPS szolgáltató) a saját szerveréről, az elvégzett szállítások validitásának ellenőrzésére, a NEAK által előírt egységes adattartalommal jelentést küld a NEAK részére minden tárgyhónapot követő hónap 5. munkanapjáig. A teljesítmény-adatok tartalmazzák a finanszírozott gépkocsik azon GPS-adatait, amelyek alkalmasak a gépkocsi teljesítményének, napi futott kilométereinek ellenőrzésére. A GPS szolgáltató az OMSZ betegszállítás irányítása részére valós idejű betekintést biztosít az általa felügyelt betegszállító gépjárművek pillanatnyi helyzetének és mozgásának ellenőrzésére.
 
-(9)[^409] A szolgáltató csak olyan teljesítményt jelenthet elszámolásra, amely a (8) bekezdés szerinti programban rögzítésre került, teljesítése megtörtént, és amelyre a beteg felvételének helyéről a betegszállító utalványon megjelölt érkezési helyére történő eljuttatásához – a közlekedési szabályok betartásával a lehetséges legrövidebb, a beteg egészségi állapotának figyelembevételével megválasztott útvonalon – feltétlenül szükség volt.
+(9)[^414] A szolgáltató csak olyan teljesítményt jelenthet elszámolásra, amely a (8) bekezdés szerinti programban rögzítésre került, teljesítése megtörtént, és amelyre a beteg felvételének helyéről a betegszállító utalványon megjelölt érkezési helyére történő eljuttatásához – a közlekedési szabályok betartásával a lehetséges legrövidebb, a beteg egészségi állapotának figyelembevételével megválasztott útvonalon – feltétlenül szükség volt.
 
 (10) Nem jelenthető teljesítményként az egészségügyi szolgáltató egy telephelyén belüli, valamint a telephelyei közötti betegszállítás, ha a telephelyek ugyanazon település közigazgatási határán belül helyezkednek el.
 
@@ -34,7 +34,7 @@ az egészségügyért felelős miniszter egyetértésével köthető, illetve m�
 
 a) szállítási esetenként 450 forint,
 
-b)[^410] a főváros közigazgatási területén belül történő szállítás esetén az a) pont szerinti díjon felül esetenként további 2050 forint.
+b)[^415] a főváros közigazgatási területén belül történő szállítás esetén az a) pont szerinti díjon felül esetenként további 2050 forint.
 
 (13) A szolgáltatót, a szabályosan utalványozott betegszállítási feladatok elvégzése után, futásteljesítménytől függő teljesítménydíj illeti meg. A teljesítménydíj számításának alapja a betegszállítási utalványon jelölt felvételi és átadási települések középpont koordinátái által meghatározott legrövidebb közúti közlekedési távolság. A beteg felvételének helye és a betegszállítási utalványon megjelölt érkezési helye közötti távolság a következők szerint kerül meghatározásra:
 
@@ -52,11 +52,11 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 
 (17) Több beteg együttes szállítása esetén a 100 kilométert meghaladó hosszú távú szállítások esetében a megtett útszakasz 100 kilométert meghaladó részének díja 0,8-es degressziós szorzóval kerül kiszámításra.
 
-(18)[^411] A főváros közigazgatási területén belül történő szállítások esetén a (13) bekezdés c) pontja szerint meghatározott távolság 3,3-es korrekciós szorzóval kerül kiszámításra.
+(18)[^416] A főváros közigazgatási területén belül történő szállítások esetén a (13) bekezdés c) pontja szerint meghatározott távolság 3,3-es korrekciós szorzóval kerül kiszámításra.
 
 (19) A főváros közigazgatási területére belépő és a főváros közigazgatási területéről kiinduló szállítások esetén a (13) bekezdés a) pontja szerint meghatározott távolság – ha az kevesebb, mint 80 km – 1,4-es korrekciós szorzóval kerül kiszámításra.
 
-(19a)[^412] A (19) bekezdésben foglalt kivétellel a (13) bekezdés a) pontjában meghatározott távolság, valamint a (13) bekezdés b) pontjában meghatározott távolság 1,13 korrekciós szorzóval kerül kiszámításra.
+(19a)[^417] A (19) bekezdésben foglalt kivétellel a (13) bekezdés a) pontjában meghatározott távolság, valamint a (13) bekezdés b) pontjában meghatározott távolság 1,13 korrekciós szorzóval kerül kiszámításra.
 
 (20) Szolgáltatónként, egy aktív gépjármű teljesítményeként havonta legfeljebb átlag 7000 hasznos kilométer, és többlet-férőhelyenként legfeljebb 1400 többletkilométer számolható el. A többletférőhely a gépjármű összes férőhelyeinek – ideértve a gépjárművezető férőhelyét is – kettővel csökkentett száma lehet.
 
@@ -66,13 +66,13 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 
 (23) Ha a NEAK tudomására jut, hogy a szolgáltató az elszámolható teljesítményt nem a (7)–(9) bekezdésben foglaltaknak megfelelően jelentette, illetve a szállítás során a betegszállítási utalványon jelölt felvételi, vagy átadási címtől való eltérést nem tudja a betegszállításról szóló miniszteri rendeletben előírt módon igazolni, és a NEAK ellenőrzése során megállapítja, hogy a jogellenes magatartásra, a magasabb finanszírozási díj jogosulatlan megszerzése céljából került sor, a NEAK az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
 
-[^403]: A „Betegszállítás” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
-[^404]: A 33. § a 287/2018. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^405]: A 33. § (3) bekezdés nyitó szövegrésze a 277/2021. (V. 26.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^406]: A 33. § (5) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^407]: A 33. § (6) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^408]: A 33. § (8) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^409]: A 33. § (9) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^410]: A 33. § (12) bekezdés b) pontja a 172/2025. (VI. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^411]: A 33. § (18) bekezdése a 172/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^412]: A 33. § (19a) bekezdését a 85/2026. (IV. 23.) Korm. rendelet 2. §-a iktatta be.
+[^408]: A „Betegszállítás” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
+[^409]: A 33. § a 287/2018. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^410]: A 33. § (3) bekezdés nyitó szövegrésze a 277/2021. (V. 26.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^411]: A 33. § (5) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^412]: A 33. § (6) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^413]: A 33. § (8) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^414]: A 33. § (9) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^415]: A 33. § (12) bekezdés b) pontja a 172/2025. (VI. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^416]: A 33. § (18) bekezdése a 172/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^417]: A 33. § (19a) bekezdését a 85/2026. (IV. 23.) Korm. rendelet 2. §-a iktatta be.

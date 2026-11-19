@@ -1,4 +1,4 @@
-5/D. §[^79] (1) Az EESZT működtetője hetente megküldi a finanszírozó részére a következő adatokat:
+5/D. §[^84] (1) Az EESZT működtetője hetente megküldi a finanszírozó részére a következő adatokat:
 
 a) a Vhr. 4/A. § (1) bekezdése szerint kiállított beutaló (a továbbiakban: elektronikus beutaló) EESZT egyedi azonosítója,
 
@@ -34,7 +34,7 @@ b) a betegazonosító típusa,
 
 c) a betegazonosító értéke,
 
-d)[^80] az ellátó szolgáltató megye kódja,
+d)[^85] az ellátó szolgáltató megye kódja,
 
 e) az ellátó szolgáltató megnevezése,
 
@@ -46,5 +46,5 @@ h) az ellátás dátuma,
 
 i) a betegforgalmi napló sorszáma.
 
-[^79]: Az 5/D. §-t a 288/2025. (VIII. 28.) Korm. rendelet 7. §-a iktatta be.
-[^80]: Az 5/D. § (3) bekezdés d) pontja a 302/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^84]: Az 5/D. §-t a 288/2025. (VIII. 28.) Korm. rendelet 7. §-a iktatta be.
+[^85]: Az 5/D. § (3) bekezdés d) pontja a 302/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

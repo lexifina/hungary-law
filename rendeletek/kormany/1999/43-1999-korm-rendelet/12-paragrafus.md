@@ -1,16 +1,16 @@
-12. §[^144] (1)[^145] Ha a háziorvosi szolgáltató a Hr. szerint a háziorvosi szakvizsgához szükséges szakgyakorlatot letöltött szakorvos-jelöltet, illetve szakorvost alkalmaz a háziorvos felügyeletével, és erről bejelentést tesz a finanszírozónak, a finanszírozó a szerződést módosítja és az elszámolásban a degressziót – teljes munkaidőben történő foglalkoztatás (kivéve az egy hónapot meghaladó tartós távollétét) esetén – 3900 (vegyes körzet esetén 4100) ponttól alkalmazza. A szakorvos jelölt legfeljebb 4 praxisnál történő egyidejű foglalkoztatása esetén az 1500 pont megosztása a praxisok között arányosan történik.
+12. §[^149] (1)[^150] Ha a háziorvosi szolgáltató a Hr. szerint a háziorvosi szakvizsgához szükséges szakgyakorlatot letöltött szakorvos-jelöltet, illetve szakorvost alkalmaz a háziorvos felügyeletével, és erről bejelentést tesz a finanszírozónak, a finanszírozó a szerződést módosítja és az elszámolásban a degressziót – teljes munkaidőben történő foglalkoztatás (kivéve az egy hónapot meghaladó tartós távollétét) esetén – 3900 (vegyes körzet esetén 4100) ponttól alkalmazza. A szakorvos jelölt legfeljebb 4 praxisnál történő egyidejű foglalkoztatása esetén az 1500 pont megosztása a praxisok között arányosan történik.
 
-(2)[^146] Az egy pontra jutó díj a praxisfinanszírozás 5. számú melléklet szerinti, a 12/A. § (2) bekezdése alapján módosított kiadási előirányzata egy havi összegének a 4/A. §, a 8. § (4) bekezdése, a 10. § (1) bekezdése szerinti kiadásokkal csökkentett része és a 11. § (3) bekezdése szerint megállapított, országos szinten összesített pontszám hányadosa.
+(2)[^151] Az egy pontra jutó díj a praxisfinanszírozás 5. számú melléklet szerinti, a 12/A. § (2) bekezdése alapján módosított kiadási előirányzata egy havi összegének a 4/A. §, a 8. § (4) bekezdése, a 10. § (1) bekezdése szerinti kiadásokkal csökkentett része és a 11. § (3) bekezdése szerint megállapított, országos szinten összesített pontszám hányadosa.
 
-(3)[^147]
+(3)[^152]
 
-(4)[^148] A korcsoportonkénti pontszámok alapján történő díjazásra a háziorvosi szolgáltató érvényességi időhöz kötötten jogosult. Az érvényességi idő utolsó napjáig ismételt orvosi vizsgálatot kell végezni újabb törzskarton kitöltésével. Az orvosi vizsgálat során nem kell ismételten elvégezni a külön jogszabály szerint előírt vizsgálatokat. Az érvényességi idő számítása a biztosított születési napját követő hónap első napjától kezdődik, és az e bekezdésben meghatározott érvényességi ideig tart.
+(4)[^153] A korcsoportonkénti pontszámok alapján történő díjazásra a háziorvosi szolgáltató érvényességi időhöz kötötten jogosult. Az érvényességi idő utolsó napjáig ismételt orvosi vizsgálatot kell végezni újabb törzskarton kitöltésével. Az orvosi vizsgálat során nem kell ismételten elvégezni a külön jogszabály szerint előírt vizsgálatokat. Az érvényességi idő számítása a biztosított születési napját követő hónap első napjától kezdődik, és az e bekezdésben meghatározott érvényességi ideig tart.
 
 A korcsoportonkénti pontszám és érvényességi idő:
 
-a)[^149] 0–4 év közötti bejelentkezett biztosított után 4,5 pont 1 év
+a)[^154] 0–4 év közötti bejelentkezett biztosított után 4,5 pont 1 év
 
-b)[^150] 5–14 év közötti bejelentkezett biztosított után 2,5 pont 1 év
+b)[^155] 5–14 év közötti bejelentkezett biztosított után 2,5 pont 1 év
 
 c) 15–34 év közötti bejelentkezett biztosított után 1,0 pont 3 év,
 
@@ -18,11 +18,11 @@ d) 35–60 év közötti bejelentkezett biztosított után 1,5 pont 2 év,
 
 e) 60 év feletti bejelentkezett biztosított után 2,5 pont 2 év.
 
-(5)[^151] Az érvényességi idő lejártát követően, ha az érvényességi időn belül az orvosi vizsgálat nem történt meg, vagy azt a háziorvos a hozzá bejelentkezett biztosítottnál igazolható módon nem kezdeményezte, az esedékes változásjelentésben a biztosítottat ki kell jelenteni. Amennyiben a kijelentést követően orvos-beteg találkozó jön létre, a 11. § (1) bekezdése szerint kell eljárni, az egyidejű ellátás mellett a biztosított újra bejelenthető.
+(5)[^156] Az érvényességi idő lejártát követően, ha az érvényességi időn belül az orvosi vizsgálat nem történt meg, vagy azt a háziorvos a hozzá bejelentkezett biztosítottnál igazolható módon nem kezdeményezte, az esedékes változásjelentésben a biztosítottat ki kell jelenteni. Amennyiben a kijelentést követően orvos-beteg találkozó jön létre, a 11. § (1) bekezdése szerint kell eljárni, az egyidejű ellátás mellett a biztosított újra bejelenthető.
 
-(6)[^152]
+(6)[^157]
 
-(7)[^153] A szolgálatot folyamatosan ellátó orvos szakképzettsége és orvosi gyakorlati ideje alapján alkalmazandó szakképzettségi szorzó:
+(7)[^158] A szolgálatot folyamatosan ellátó orvos szakképzettsége és orvosi gyakorlati ideje alapján alkalmazandó szakképzettségi szorzó:
 
 a) a (8) bekezdés szerinti alapszakvizsgával nem rendelkező háziorvosnál 1,0,
 
@@ -30,7 +30,7 @@ b) alapszakvizsgával nem rendelkező, 25 évnél több, körzetben eltöltött 
 
 c) alapszakvizsgával rendelkező háziorvosnál 1,3
 
-(8)[^154] A (7) bekezdés szerinti alapszakvizsgának minősül
+(8)[^159] A (7) bekezdés szerinti alapszakvizsgának minősül
 
 a) az általános orvostan szakorvosi szakképesítés,
 
@@ -40,14 +40,14 @@ c) a belgyógyász szakorvosi szakképesítés és 10 év körzeti, illetve ház
 
 d) a házi gyermekorvosi szolgálatnál csecsemő- és gyermekgyógyász szakorvosi szakképesítés.
 
-[^144]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
-[^145]: A 12. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^146]: A 12. § (2) bekezdése a 166/2010. (V. 11.) Korm. rendelet 1. §-ával megállapított, a 40/2014. (II. 24.) Korm. rendelet 11. § c) pontja, a 630/2022. (XII. 30.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^147]: A 12. § (3) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
-[^148]: A 12. § (4) bekezdése a 111/2000. (VI. 29.) Korm. rendelet 9. § (1) bekezdésének a) pontjával megállapított szöveg.
-[^149]: A 12. § (4) bekezdésének a) pontja a 65/2008. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^150]: A 12. § (4) bekezdésének b) pontja a 65/2008. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^151]: A 12. § új (5) bekezdését a 21/2000. (III. 3.) Korm. rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (5) bekezdés számozását (7) bekezdésre változtatta. A 12. § (5) bekezdése a 111/2000. (VI. 29.) Korm. rendelet 9. § (1) bekezdésének b) pontjával megállapított szöveg.
-[^152]: A 12. § (6) bekezdését a 21/2000. (III. 3.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 40/2014. (II. 24.) Korm. rendelet 12. § a) pontja.
-[^153]: A 12. § eredeti (5) bekezdésének számozását a 21/2000. (III. 3.) Korm. rendelet 8. § (1) bekezdése (7) bekezdésre változtatta, szövege a 151/2008. (V. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 11. § (5) bekezdésének a) pontja alapján a 12. § (7) bekezdésében meghatározott díjak és a 2008. április és május hónapra kifizetett díjak közötti különbözetet az OEP a 2008. június havi kifizetésekkel utalványozza visszamenőleg. Lásd még ez utóbbi módosító rendelet 11. § (6) bekezdését.
-[^154]: A 12. § (8) bekezdését a 21/2000. (III. 3.) Korm. rendelet 8. §-ának (3) bekezdése iktatta a szövegbe.
+[^149]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
+[^150]: A 12. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^151]: A 12. § (2) bekezdése a 166/2010. (V. 11.) Korm. rendelet 1. §-ával megállapított, a 40/2014. (II. 24.) Korm. rendelet 11. § c) pontja, a 630/2022. (XII. 30.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^152]: A 12. § (3) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^153]: A 12. § (4) bekezdése a 111/2000. (VI. 29.) Korm. rendelet 9. § (1) bekezdésének a) pontjával megállapított szöveg.
+[^154]: A 12. § (4) bekezdésének a) pontja a 65/2008. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^155]: A 12. § (4) bekezdésének b) pontja a 65/2008. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^156]: A 12. § új (5) bekezdését a 21/2000. (III. 3.) Korm. rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (5) bekezdés számozását (7) bekezdésre változtatta. A 12. § (5) bekezdése a 111/2000. (VI. 29.) Korm. rendelet 9. § (1) bekezdésének b) pontjával megállapított szöveg.
+[^157]: A 12. § (6) bekezdését a 21/2000. (III. 3.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 40/2014. (II. 24.) Korm. rendelet 12. § a) pontja.
+[^158]: A 12. § eredeti (5) bekezdésének számozását a 21/2000. (III. 3.) Korm. rendelet 8. § (1) bekezdése (7) bekezdésre változtatta, szövege a 151/2008. (V. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 11. § (5) bekezdésének a) pontja alapján a 12. § (7) bekezdésében meghatározott díjak és a 2008. április és május hónapra kifizetett díjak közötti különbözetet az OEP a 2008. június havi kifizetésekkel utalványozza visszamenőleg. Lásd még ez utóbbi módosító rendelet 11. § (6) bekezdését.
+[^159]: A 12. § (8) bekezdését a 21/2000. (III. 3.) Korm. rendelet 8. §-ának (3) bekezdése iktatta a szövegbe.

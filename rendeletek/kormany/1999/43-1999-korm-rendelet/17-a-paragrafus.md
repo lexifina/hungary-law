@@ -1,3 +1,3 @@
-17/A. §[^195]
+17/A. §[^200]
 
-[^195]: A 17/A. §-t a 329/2005. (XII. 29.) Korm. rendelet 16. § (6) bekezdésének a) pontja hatályon kívül helyezte.
+[^200]: A 17/A. §-t a 329/2005. (XII. 29.) Korm. rendelet 16. § (6) bekezdésének a) pontja hatályon kívül helyezte.

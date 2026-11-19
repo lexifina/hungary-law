@@ -1,3 +1,3 @@
-50/B. §[^561]
+50/B. §[^566]
 
-[^561]: Az 50/B. §-t a 413/2015. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^566]: Az 50/B. §-t a 413/2015. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
