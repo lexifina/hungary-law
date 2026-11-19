@@ -1,6 +1,6 @@
 ## A fegyvertartáshoz vagy a fegyver jogszerű használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelmények[^30]
 
-10. §[^31] (1)[^32] A fegyvertartáshoz vagy a fegyver jogszerű használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára a vármegyei rendőr-főkapitányságon – Budapesten a Budapesti Rendőr-főkapitányságon – kell jelentkezni, az (1a) bekezdésben meghatározott módon. A vizsgára való jelentkezésnek nem feltétele a lőfegyver tartására jogosító engedély kiadására irányuló, illetve a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Ftv.) 4/J. § (1) bekezdése szerinti kérelem előterjesztése. A hatósági engedélyezés során, illetve az Ftv. 4/J. (1) bekezdése alapján a törvényes képviselő hozzájárulására kötelezett személy vizsgára való jelentkezése esetén a jelentkezéshez a törvényes képviselő írásbeli hozzájárulását is mellékelni kell.
+10. §[^31] (1)[^32] A fegyvertartáshoz vagy a fegyver jogszerű használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára a megyei rendőr-főkapitányságon – Budapesten a Budapesti Rendőr-főkapitányságon – kell jelentkezni, az (1a) bekezdésben meghatározott módon. A vizsgára való jelentkezésnek nem feltétele a lőfegyver tartására jogosító engedély kiadására irányuló, illetve a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Ftv.) 4/J. § (1) bekezdése szerinti kérelem előterjesztése. A hatósági engedélyezés során, illetve az Ftv. 4/J. (1) bekezdése alapján a törvényes képviselő hozzájárulására kötelezett személy vizsgára való jelentkezése esetén a jelentkezéshez a törvényes képviselő írásbeli hozzájárulását is mellékelni kell.
 
 (1a)[^33] A fegyvertartáshoz, a vadászlőfegyver kiskorúként történő használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára
 
@@ -34,7 +34,7 @@ a) a jelentkező által a jelentkezés során megjelölt vagy
 
 b) – az a) pont szerinti kikötés hiányában – a jelentkezés helye szerinti
 
-vármegyei (fővárosi) rendőr-főkapitányságon kell letenni.
+megyei (fővárosi) rendőr-főkapitányságon kell letenni.
 
 (6)[^37] A fegyvertartáshoz, a vadászlőfegyver kiskorúként történő használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára az a jelentkező bocsátható, aki a vizsgadíj befizetésének a megtörténtét a vizsga helyszínén és időpontjában hitelt érdemlően igazolta.
 
@@ -44,11 +44,11 @@ vármegyei (fővárosi) rendőr-főkapitányságon kell letenni.
 
 [^30]: A 10. §-t megelőző alcím a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított, a 24/2023. (VI. 30.) BM rendelet 13. § a) pontja szerint módosított szöveg.
 [^31]: A 10. § a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított szöveg.
-[^32]: A 10. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^32]: A 10. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (1) bekezdésével megállapított, a 34/2026. (XI. 18.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^33]: A 10. § (1a) bekezdését a 47/2021. (XII. 22.) BM rendelet 1. § (2) bekezdése iktatta be, nyitó szövegrésze a 24/2023. (VI. 30.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^34]: A 10. § (2) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^35]: A 10. § (4) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^36]: A 10. § (5) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^36]: A 10. § (5) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (3) bekezdésével megállapított, záró szövegrésze a 34/2026. (XI. 18.) BM rendelet 1. § b) pontja szerint módosított szöveg.
 [^37]: A 10. § (6) bekezdése a 47/2021. (XII. 22.) BM rendelet 1. § (4) bekezdésével megállapított, a 24/2023. (VI. 30.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^38]: A 10. § (7) bekezdését a 24/2023. (VI. 30.) BM rendelet 11. § (4) bekezdése iktatta be.
 [^39]: A 10. § (8) bekezdését a 24/2023. (VI. 30.) BM rendelet 11. § (4) bekezdése iktatta be.

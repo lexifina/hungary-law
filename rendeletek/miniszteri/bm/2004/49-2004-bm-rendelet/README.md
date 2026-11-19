@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2024-10-02 | 2004-49-20-0A.18 | 42/2024. (IX. 17.) BM rendelet |
 | 2025-01-01 | 2004-49-20-0A.19 | 62/2024. (XII. 30.) BM rendelet |
 | 2026-07-28 | 2004-49-20-0A.20 | 15/2026. (VII. 27.) BM rendelet |
+| 2026-11-19 | 2004-49-20-0A.21 | 24/2023. (VI. 30.) BM rendelet |

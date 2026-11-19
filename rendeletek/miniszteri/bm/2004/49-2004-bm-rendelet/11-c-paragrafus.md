@@ -8,7 +8,7 @@
 
 (3) A vizsgára jelentkezőt tájékoztatni kell a vizsga helyéről, időpontjáról, továbbá biztosítani kell számára a vizsgadíj befizetéséhez szükséges készpénz-átutalási megbízást.
 
-(4)[^54] A vizsgát a Magyar Elöltöltő Fegyveres Lövészek Szövetsége által kijelölt vizsgabizottság előtt kell letenni. A háromtagú vizsgabizottság egy tagját a vármegyei (fővárosi) rendőrfőkapitány delegálja.
+(4)[^54] A vizsgát a Magyar Elöltöltő Fegyveres Lövészek Szövetsége által kijelölt vizsgabizottság előtt kell letenni. A háromtagú vizsgabizottság egy tagját a megyei (fővárosi) rendőrfőkapitány delegálja.
 
 (5) A vizsgára az a jelentkező bocsátható, aki a vizsgadíjat befizette és a vizsga megkezdése előtt, a vizsga helyszínén a vizsgadíj befizetését igazoló szelvényt bemutatta.
 
@@ -17,4 +17,4 @@
 [^51]: A 11/C. §-t és az azt megelőző alcímet a 42/2016. (X. 25.) BM rendelet 2. §-a iktatta be.
 [^52]: A 11/C. § (1) bekezdése a 47/2021. (XII. 22.) BM rendelet 2. §-ával megállapított szöveg.
 [^53]: A 11/C. § (2) bekezdése a 47/2021. (XII. 22.) BM rendelet 2. §-ával megállapított szöveg.
-[^54]: A 11/C. § (4) bekezdése a 47/2021. (XII. 22.) BM rendelet 3. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 34. § a) pontja szerint módosított szöveg.
+[^54]: A 11/C. § (4) bekezdése a 47/2021. (XII. 22.) BM rendelet 3. § a) pontja, a 34/2026. (XI. 18.) BM rendelet 1. § c) pontja szerint módosított szöveg.
