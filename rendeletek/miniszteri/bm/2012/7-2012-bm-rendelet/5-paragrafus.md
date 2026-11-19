@@ -36,7 +36,7 @@ hc) jelentést készít a radiológiai távmérőhálózat feldolgozott mérési
 
 (3) A területi információs központok
 
-a)[^4] a fővárosi és vármegyei katasztrófavédelmi igazgatóságok illetékességi területén gyűjtik és értékelik a sugárzási adatokat,
+a)[^4] a fővárosi és megyei katasztrófavédelmi igazgatóságok illetékességi területén gyűjtik és értékelik a sugárzási adatokat,
 
 b) az OKF NBIÉK szolgáltatása, illetve az OKSER adatai alapján értékelt radiológiai információval látják el a területi védelmi igazgatási szerveket,
 
@@ -73,4 +73,4 @@ a) biztosítják a radiológiai távmérő hálózatban keletkező információk
 b) közreműködnek a mobil laboratóriumok és a mérőállomások által szolgáltatott adatok területi információs központokba történő eljuttatásában.
 
 [^3]: Az 5. § (1) bekezdés c) pont ca) alpontja a 45/2022. (XII. 20.) BM rendelet 62. § a) pontja szerint módosított szöveg.
-[^4]: Az 5. § (3) bekezdés a) pontja a 45/2022. (XII. 20.) BM rendelet 62. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdés a) pontja a 43/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
