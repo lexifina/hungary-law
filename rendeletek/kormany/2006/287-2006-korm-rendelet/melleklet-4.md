@@ -1,6 +1,6 @@
 ## A) A Regionális Vesetranszplantációs Bizottságok működésének központjai
 
-## 1.[^80] Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
+## 1.[^85] Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
 
 ## Illetékességi terület:
 
@@ -22,7 +22,7 @@
 
 ## Veszprém megye.
 
-## 2.[^81] Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Sebészeti Klinika (6725 Szeged, Semmelweis u. 8.)
+## 2.[^86] Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Sebészeti Klinika (6725 Szeged, Semmelweis u. 8.)
 
 ## Illetékességi terület:
 
@@ -34,7 +34,7 @@
 
 ## Jász-Nagykun-Szolnok megye.
 
-## 3.[^82] Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 3.[^87] Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
@@ -46,7 +46,7 @@
 
 ## Zala megye.
 
-## 4.[^83] Debreceni Egyetem Klinikai Központ Sebészeti Intézet (4032 Debrecen, Móricz Zsigmond krt. 22.)
+## 4.[^88] Debreceni Egyetem Klinikai Központ Sebészeti Intézet (4032 Debrecen, Móricz Zsigmond krt. 22.)
 
 ## Illetékességi terület:
 
@@ -58,7 +58,7 @@
 
 ## B) A Regionális Vese- és Hasnyálmirigy-transzplantációs Bizottságok működésének központjai
 
-## 1.[^84] Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
+## 1.[^89] Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
 
 ## Illetékességi terület:
 
@@ -86,7 +86,7 @@
 
 ## Veszprém megye.
 
-## 2.[^85] Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 2.[^90] Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
@@ -106,12 +106,12 @@
 
 ## Zala megye.
 
-4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^86]
+4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^91]
 
-[^80]: A 3. számú melléklet A) pont 1. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^81]: A 3. számú melléklet A) pont 2. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^82]: A 3. számú melléklet A) pont 3. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^83]: A 3. számú melléklet A) pont 4. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^84]: A 3. számú melléklet B) pont 1. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^85]: A 3. számú melléklet B) pont 2. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^86]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^85]: A 3. számú melléklet A) pont 1. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^86]: A 3. számú melléklet A) pont 2. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^87]: A 3. számú melléklet A) pont 3. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^88]: A 3. számú melléklet A) pont 4. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^89]: A 3. számú melléklet B) pont 1. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^90]: A 3. számú melléklet B) pont 2. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^91]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.

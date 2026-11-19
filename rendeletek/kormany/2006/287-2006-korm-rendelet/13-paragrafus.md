@@ -4,7 +4,49 @@
 
 (2) A várólistára történő betegfelvétellel kapcsolatos feladatok ellátására egy szolgáltatón belül – az intézményi várólista vezetéséért felelős személyen túl – más személyek (a továbbiakban: intézményi várólista kezelését végző személy) is kijelölhetőek a szervezeti és működési szabályzatában.
 
+(2a)[^39] Az intézmény szervezeti és működési szabályzatában meghatározottak szerint az intézményi várólista vezetéséért, illetve kezeléséért felelős személy feladata a kezelőorvos iránymutatása alapján
+
+a) a beteg intézményi várólistára történő felvételének kezdeményezése az országos várólista nyilvántartást vezető szervnél,
+
+b) a beteg felvétele az intézményi várólistára,
+
+c) regisztrációs hiány vagy hiba esetén az adatok utólagos pótlása, javítása az országos várólista nyilvántartási rendszerben,
+
+d) a beteg tájékoztatása a várólistára történő felvételről, a beteg várólistán elfoglalt helyéről és az ellátás várható időpontjáról,
+
+e) a beteg tájékoztatása a másik szolgáltatónál rendelkezésre álló korábbi időpontról,
+
+f) a beteg állapota miatt szakmai okból szükséges átütemezés esetén a kezelőorvos által kijelölt új időpont rögzítése a nyilvántartásban,
+
+g) a beteg tájékoztatása a megváltozott időpontról és az átütemezés szükségességének okáról,
+
+h) az azonnali ellátás tényének és a beteg azonosítójának jelzése az országos várólista nyilvántartást vezető szerv felé,
+
+i) az intézményi várólistáról történő törlés az ellátás befejezését követően,
+
+j) az ellátás igénybevételének napján a meg nem jelent beteg intézményi várólistáról történő levétele, ha a (16) bekezdésben foglaltak nem teljesültek,
+
+k) az Ebtv. 19. § (3) bekezdése szerint másik orvos igénylése esetén – ha a betegellátás így tervezett időpontja megfelel az Ebtv. 5/B. § u) pontja szerint az előjegyzési listára vétel feltételének – a beteg intézményi várólistáról való törlése és a beteg intézményi előjegyzési listára való felvétele,
+
+l) a várólistán szereplő betegekkel való folyamatos kapcsolattartás és státuszuk aktualizálása,
+
+m) ha az ellátás az adott egészségügyi szolgáltatónál a szükséges személyi, tárgyi vagy szakmai feltételek hiánya miatt a kezelőorvos megállapítása alapján határidőben nem biztosítható, a kezelőorvos rendelkezései alapján a beteg tájékoztatása az ellátás várható időpontjáról, az ellátás biztosítására alkalmas másik egészségügyi szolgáltatónál elérhető időpont kiajánlása mellett.
+
+(2b)[^40] A (2a) bekezdésben foglaltakon túl az intézményi várólista vezetéséért felelős személy feladata
+
+a) a várólista nyilvántartás, ütemezés, szervezés, más intézetbe történő áthelyezések tekintetében a kezelőorvos és a várólista-kezelők munkájának irányítása,
+
+b) a várólista-kezelésért felelős személy által kezdeményezett felvétel felülbírálata,
+
+c) az intézményi várólista nyilvántartás, adatszolgáltatás, hibajavítás felügyelete,
+
+d) közreműködés a várólista csökkentési program intézeti tervezési feladataiban,
+
+e) kapcsolattartás az országos várólista nyilvántartást vezető szervvel.
+
 (3) Az intézményi várólistára történő felvételt a beteg számára ellátást nyújtó fekvőbeteg-gyógyintézet orvosa javaslatára az intézményi várólista vezetéséért felelős személy vagy az intézményi várólista kezelését végző személy kezdeményezi az országos várólista nyilvántartást vezető szervnél.
+
+(3a)[^41] Az intézményi várólista kezeléséért felelős személy a beteg számára tájékoztatást ad a másik, az ellátás nyújtására jogosult egészségügyi szolgáltatónál korábbi időpontban igénybe vehető ellátás lehetőségéről, és a beteg hozzájárulása esetén megszervezi a kezelőorvos és a másik szolgáltató kezelőorvosa vagy kezelőorvosainak erre a feladatra szervezett csoportja között a beteg másik várólistára történő áthelyezéséhez szükséges egyeztetést.
 
 (4) A (3) bekezdés alkalmazásában a beteg számára intézményi várólista alapján ellátást nyújtó fekvőbeteg-gyógyintézet orvosának kell tekinteni az orvost abban az esetben is, ha a várólistára felvételt más finanszírozott egészségügyi szolgáltató nevében eljáró orvosként javasolja.
 
@@ -20,7 +62,7 @@
 
 (10) Ha az intézményi várólistára felvett beteg a (9) bekezdés szerinti egészségügyi szolgáltató helyett másik egészségügyi szolgáltatónál kívánja az ellátást igénybe venni, azt a napot kell a várólistára felvétel időpontjának meghatározásánál figyelembe venni, amikor az utóbbi egészségügyi szolgáltatónál a várólistára felvételre került. Ha az utóbbi egészségügyi szolgáltatónál az (5) bekezdésben foglaltak szerint felvételre kerül a várólistára a beteg, az országos várólista nyilvántartásért felelős szerv törli a beteget a korábbi szolgáltató intézményi várólistájáról és erről egyidejűleg tájékoztatja a korábbi szolgáltatót.
 
-(10a)[^39] Az Ebtv. 20. § (3) bekezdése alkalmazása szempontjából a várólistára történő felkerülés időpontja szerinti igénybevételnek minősül a tervezett ellátási időpontot megelőző 7 munkanapon belüli, ellátás ütemezési érdekből végzett ellátási sorrendmódosítás. Az ütemezés nem eredményezhet az érintett betegek részére 7 munkanapnál hosszabb várakozási idő növekedést.
+(10a)[^42] Az Ebtv. 20. § (3) bekezdése alkalmazása szempontjából a várólistára történő felkerülés időpontja szerinti igénybevételnek minősül a tervezett ellátási időpontot megelőző 7 munkanapon belüli, ellátás ütemezési érdekből végzett ellátási sorrendmódosítás. Az ütemezés nem eredményezhet az érintett betegek részére 7 munkanapnál hosszabb várakozási idő növekedést.
 
 (11) Abban az esetben, ha az ellátás igénybevételének időpontja eltér a beteggel korábban közölt tervezett időponttól, erről a beteget haladéktalanul tájékoztatja az intézményi várólista vezetéséért felelős személy, illetve az intézményi várólista kezelését végző személy.
 
@@ -28,38 +70,44 @@
 
 (13) Amennyiben az intézményi várólistán szereplő beteg állapota miatt a beteg ellátása – az ellátás várható időpontját megelőzőn – azonnal szükséges, a beteg a várólista sorrendtől függetlenül igénybe veheti az ellátást. Erről a kezelőorvos tájékoztatja az intézményi várólista vezetéséért felelős személyt, illetve az intézményi várólista kezelését végző személyt, aki az országos várólista nyilvántartást vezető szerv felé jelzi az azonnali ellátás tényét és a beteg egyedi azonosítóját.
 
-(14)[^40] A beteg a (12) bekezdésben nem szabályozott esetben legkésőbb az ellátás várható időpontját megelőző 5. napig kezdeményezheti az intézményi várólista vezetéséért felelős személynél, illetve az intézményi várólista kezelését végző személynél az ellátás várható időpontjának későbbi időpontra történő halasztását. A szolgáltató az ellátás tervezett időpontja elhalasztásának beteg általi kezdeményezésével egyidejűleg a regisztrálási tételt az intézményi várólistáról áthelyezi az intézményi előjegyzési listára, ha a módosított tervezett ellátási időpont megfelel az Ebtv. 5/B. § u) pontjának. Ha az ellátás várható időpontjának elhalasztása miatt keletkező várakozási idő meghaladja az adott ellátás tekintetében – a beteg állapotának figyelembevételével – a szakmailag elfogadható időtartamot, az ebből eredő kockázatokról a beteget a kezelőorvos tájékoztatja.
+(14)[^43] A beteg a (12) bekezdésben nem szabályozott esetben legkésőbb az ellátás várható időpontját megelőző 5. napig kezdeményezheti az intézményi várólista vezetéséért felelős személynél, illetve az intézményi várólista kezelését végző személynél az ellátás várható időpontjának későbbi időpontra történő halasztását. A szolgáltató az ellátás tervezett időpontja elhalasztásának beteg általi kezdeményezésével egyidejűleg a regisztrálási tételt az intézményi várólistáról áthelyezi az intézményi előjegyzési listára, ha a módosított tervezett ellátási időpont megfelel az Ebtv. 5/B. § u) pontjának. Ha az ellátás várható időpontjának elhalasztása miatt keletkező várakozási idő meghaladja az adott ellátás tekintetében – a beteg állapotának figyelembevételével – a szakmailag elfogadható időtartamot, az ebből eredő kockázatokról a beteget a kezelőorvos tájékoztatja.
 
 (15) Az intézményi várólista alapján nyújtott ellátás befejezését követő napon az intézményi várólista vezetéséért felelős személy törli az intézményi várólistából a beteg adatait.
 
-(16)[^41] Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy leveszi az elmaradt ellátás időpontjától számított 3. napot követő napon az intézményi várólistáról, és a levételről egyidejűleg tájékoztatja a beteget. A tájékoztató tartalmazza az igazolási kérelem benyújtására való felhívást is. Ha a beteg az elmaradt ellátás időpontjától számított 3 napon belül bemutatja az egészségügyi szolgáltató felé a meg nem jelenés okát egyértelműen alátámasztó igazolást, akkor 7 napon belül új időpontot jelöl ki számára. Ha a műtéti indikáció továbbra is fennáll, kezelőorvosa ismételten az intézményi előjegyzési, illetve várólistára veheti. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.
+(16)[^44] Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy leveszi az elmaradt ellátás időpontjától számított 3. napot követő napon az intézményi várólistáról, és a levételről egyidejűleg tájékoztatja a beteget. A tájékoztató tartalmazza az igazolási kérelem benyújtására való felhívást is. Ha a beteg a tájékoztató kézhezvételét követő 3 napon belül bemutatja az egészségügyi szolgáltató felé a meg nem jelenés okát egyértelműen alátámasztó igazolást, akkor 7 napon belül új időpontot jelöl ki számára. Ha a műtéti indikáció továbbra is fennáll, kezelőorvosa ismételten az intézményi előjegyzési, illetve várólistára veheti. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.
 
-(16a)[^42] Ha az intézményi várólistán lévő beteg az egészségügyi ellátást azért nem vette igénybe, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényelt, akkor az intézményi várólistáról való törlés mellett intézkedni kell a beteg intézményi előjegyzési listára történő vételéről. Azon betegeket, akik azért nem részesültek egészségügyi ellátásban, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényeltek, az intézményi előjegyzési listán kell nyilvántartani.
+(16a)[^45] Ha a beteg az Ebtv. 19. § (3) bekezdése szerint másik orvost választ, tájékoztatni kell a hosszabb várakozási idő lehetőségéről, valamint az abból eredő esetleges kockázatokról. Ha az intézményi várólistán lévő beteg az egészségügyi ellátást azért nem vette igénybe a sorrendiségi elvnek megfelelően, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényelt, az intézményi várólistáról való törlés mellett az intézményi várólista vezetéséért felelős személy intézkedik a beteg intézményi előjegyzési listára történő felvételéről, ha a betegellátás tervezett időpontja az Ebtv. 5/B. § u) pontja szerint megfelel az előjegyzési listára vétel feltételének. Azon betegeket, akik azért nem részesültek egészségügyi ellátásban, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényeltek, az Ebtv. 5/B. § u) pontja szerinti intézményi előjegyzési listán kell nyilvántartani.
 
-(17)[^43] Az intézményi várólistákkal kapcsolatos, az (1)–(16a) bekezdésben foglalt nyilvántartási és adatkezelési feladatok ellátása az országos várólista nyilvántartást vezető szerv által működetett központi informatikai rendszeren keresztül, online módon történik.
+(17)[^46] Az intézményi várólistákkal kapcsolatos, az (1)–(16a) bekezdésben foglalt nyilvántartási és adatkezelési feladatok ellátása az országos várólista nyilvántartást vezető szerv által működetett központi informatikai rendszeren keresztül, online módon történik.
 
-(18)[^44] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
+(18)[^47] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
 
-(19)[^45] A beteg intézményi várólistára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a tervezett ellátási időpontot.
+(19)[^48] A beteg intézményi várólistára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a tervezett ellátási időpontot.
 
-(20)[^46] A beteg intézményi előjegyzési listára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a beteg részére a listára vétel időpontjában az adott szolgáltatónál az adott várólistán kiadható legkorábbi tervezhető ellátási időpontot. Ha a tervezett ellátási időpont kijelölésére az Ebtv. 20. § (3a) bekezdés e) pontja alapján került sor, a dokumentumnak tartalmaznia kell a beteg aláírásával hitelesített, erre vonatkozó nyilatkozatát.
+(20)[^49] A beteg intézményi előjegyzési listára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a beteg részére a listára vétel időpontjában az adott szolgáltatónál az adott várólistán kiadható legkorábbi tervezhető ellátási időpontot. Ha a tervezett ellátási időpont kijelölésére az Ebtv. 20. § (3a) bekezdés e) pontja alapján került sor, a dokumentumnak tartalmaznia kell a beteg aláírásával hitelesített, erre vonatkozó nyilatkozatát.
 
-(21)[^47] Az intézményi várólistához és előjegyzési listához kapcsolódó tájékoztatási és eljárási kötelezettség teljesítését a beteg dokumentációiba be kell jegyezni.
+(21)[^50] Az intézményi várólistához és előjegyzési listához kapcsolódó tájékoztatási és eljárási kötelezettség teljesítését a beteg dokumentációiba be kell jegyezni.
 
-(22)[^48] Ha az adott egészségügyi szolgáltatónál a várólistára felvételre kerülő személy nem részesíthető az egészségi állapota által indokolt legrövidebb időn belül a szükséges ellátásban, a beteg ellátásáról szóló dokumentációban, a beteg aláírásával igazolva, rögzíteni szükséges az egészségügyről szóló 1997. évi CLIV. törvény 9. § (1) bekezdése szerinti tájékoztatást arról, hogy az ellátás korábbi időpontban hol vehető igénybe.
+(22)[^51] Ha az adott egészségügyi szolgáltatónál a várólistára felvételre kerülő személy a kezelőorvos megállapítása alapján nem részesíthető az egészségi állapota által indokolt legrövidebb időn belül a szükséges ellátásban, a beteg ellátásáról szóló dokumentációban a beteg aláírásával igazolva rögzíteni szükséges az egészségügyről szóló 1997. évi CLIV. törvény 9. § (1) bekezdése szerinti tájékoztatást arról, hogy az ellátás korábbi időpontban hol vehető igénybe, és a beteg hozzájárulása esetén az intézményi várólista kezeléséért, illetve vezetéséért felelős személy kezdeményezi a beteg másik intézményi várólistára történő áthelyezéséhez szükséges egyeztetést.
 
-(23)[^49] A beteg kezelőorvosa a (22) bekezdés szerinti esetben a beteg ellátásának érdekében, a beteg jóváhagyása szerint, lefolytatja a szükséges egyeztetést a várólisták közötti áthelyezésről, amelynek eredményét a beteg dokumentációjában és az intézményi várólista rendszerben ezzel egyidejűleg dokumentálni szükséges.
+(23)[^52] A beteg kezelőorvosa a (22) bekezdés szerinti esetben a beteg ellátásának érdekében, a beteg jóváhagyása szerint, lefolytatja a szükséges egyeztetést a várólisták közötti áthelyezésről, amelynek eredményét a beteg dokumentációjában és az intézményi várólista rendszerben ezzel egyidejűleg dokumentálni szükséges.
+
+(24)[^53] Ha az ellátás az adott egészségügyi szolgáltatónál a szükséges személyi, tárgyi vagy szakmai feltételek hiánya miatt a szakmailag megengedett ellátási határidőn belül nem biztosítható, az intézményi várólista kezeléséért felelős személy gondoskodik a beteg tájékoztatásáról, valamint más intézménynél elérhető, korábbi időpont kiajánlásáról, továbbá a beteg hozzájárulása esetén kezdeményezi a beteg másik intézményi várólistára történő áthelyezéséhez szükséges egyeztetést.
 
 [^37]: A 13. § a 92/2012. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^38]: A 13. § (1a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
-[^39]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
-[^40]: A 13. § (14) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^41]: A 13. § (16) bekezdése a 91/2022. (III. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^42]: A 13. § (16a) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
-[^43]: A 13. § (17) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^44]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.
-[^45]: A 13. § (19) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
-[^46]: A 13. § (20) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
-[^47]: A 13. § (21) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
-[^48]: A 13. § (22) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
-[^49]: A 13. § (23) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^39]: A 13. § (2a) bekezdését a 493/2026. (XI. 18.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^40]: A 13. § (2b) bekezdését a 493/2026. (XI. 18.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^41]: A 13. § (3a) bekezdését a 493/2026. (XI. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^42]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
+[^43]: A 13. § (14) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^44]: A 13. § (16) bekezdése a 91/2022. (III. 8.) Korm. rendelet 3. §-ával megállapított, a 493/2026. (XI. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^45]: A 13. § (16a) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 17. §-a iktatta be, szövege a 493/2026. (XI. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^46]: A 13. § (17) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^47]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^48]: A 13. § (19) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^49]: A 13. § (20) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^50]: A 13. § (21) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^51]: A 13. § (22) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be, szövege a 493/2026. (XI. 18.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^52]: A 13. § (23) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^53]: A 13. § (24) bekezdését a 493/2026. (XI. 18.) Korm. rendelet 6. § (5) bekezdése iktatta be.

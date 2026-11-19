@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed
+1. §[^1] E rendelet hatálya kiterjed
 
 a) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) szerinti várólistára, előjegyzési listára vagy betegfogadási listára való felvételre jogosultra;
 

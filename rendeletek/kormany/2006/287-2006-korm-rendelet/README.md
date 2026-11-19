@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-287-20-
 | 2023-07-01 | 2006-287-20-22.35 | 286/2023. (VI. 30.) Korm. rendelet |
 | 2024-12-31 | 2006-287-20-22.36 | 463/2024. (XII. 30.) Korm. rendelet |
 | 2026-10-28 | 2006-287-20-22.38 | 304/2026. (X. 27.) Korm. rendelet |
+| 2026-11-19 | 2006-287-20-22.39 | 493/2026. (XI. 18.) Korm. rendelet |

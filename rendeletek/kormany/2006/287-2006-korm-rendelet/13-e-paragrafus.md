@@ -1,4 +1,4 @@
-13/E. §[^70] (1) Amennyiben az egészségügyi szolgáltató vagy szervezeti egysége egészségügyi szolgáltatást a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólista alapján végez, és az intézményi várólistával érintett szakma megszűnik, a várólistára felvett beteget a beteg választása alapján annak az egészségügyi szolgáltatónak kell átadni, amelyik
+13/E. §[^74] (1) Amennyiben az egészségügyi szolgáltató vagy szervezeti egysége egészségügyi szolgáltatást a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólista alapján végez, és az intézményi várólistával érintett szakma megszűnik, a várólistára felvett beteget a beteg választása alapján annak az egészségügyi szolgáltatónak kell átadni, amelyik
 
 a) az átadó szolgáltató által ellátott feladatot a továbbiakban végzi, vagy
 
@@ -10,7 +10,7 @@ b) az adott ellátás tekintetében a biztosított ellátására területileg k�
 
 (4) Az intézményi várólistára felvett betegeket az átvevő egészségügyi szolgáltató értesíti az intézményi várólistára történő felvételről, valamint arról, hogy várhatóan milyen időpontban tudják számára nyújtani az adott ellátást.
 
-(5)[^71] Az (1)–(4) bekezdés szerinti eljárással szemben a NEAK-nál lehet panasszal élni.
+(5)[^75] Az (1)–(4) bekezdés szerinti eljárással szemben a NEAK-nál lehet panasszal élni.
 
-[^70]: A 13/E. §-t a 72/2009. (IV. 3.) Korm. rendelet 2. §-a iktatta be.
-[^71]: A 13/E. § (5) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 7. § c) pontja, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^74]: A 13/E. §-t a 72/2009. (IV. 3.) Korm. rendelet 2. §-a iktatta be.
+[^75]: A 13/E. § (5) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 7. § c) pontja, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés c) pontja szerint módosított szöveg.

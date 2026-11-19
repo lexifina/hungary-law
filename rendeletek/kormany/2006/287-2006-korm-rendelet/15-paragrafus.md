@@ -1,3 +1,3 @@
-15. §[^73]
+15. §[^77]
 
-[^73]: A 14–15. §-t a 447/2012. (XII. 29.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^77]: A 14–15. §-t a 447/2012. (XII. 29.) Korm. rendelet 47. §-a hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 2. § E rendelet alkalmazásában
+2. § E rendelet alkalmazásában
 
 a) központi várólista: az Ebtv. 5/B. §-a j) pontja szerinti transzplantációs várólista, továbbá az e rendelet 1. számú mellékletében meghatározott nagy költségű ellátások tekintetében kialakított várólista,
 
