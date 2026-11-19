@@ -1,3 +1,3 @@
-7. §[^4]
+7. §[^8]
 
-[^4]: A 7. §-t a 381/2020. (VII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^8]: A 7. §-t a 381/2020. (VII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.

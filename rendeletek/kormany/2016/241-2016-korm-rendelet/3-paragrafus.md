@@ -1,4 +1,4 @@
-3. § (1) A miniszter és a kultúráért felelős miniszter a kulturális diplomácia stratégiai irányainak meghatározása, hatékonyságának növelése érdekében tizenegy tagú Miniszteri Konzultatív Testületet (a továbbiakban: Testület) működtet.
+3. § (1)[^4] A miniszter a kulturális diplomácia stratégiai irányainak meghatározása, hatékonyságának növelése érdekében tizenegy tagú Miniszteri Konzultatív Testületet (a továbbiakban: Testület) működtet.
 
 (2) A Testület társelnökei a miniszter és a kultúráért felelős miniszter, vagy az általuk kijelölt állami vezetők. A Testület tagjait a miniszter és a kultúráért felelős miniszter közösen kéri fel.
 
@@ -9,3 +9,5 @@
 (5) A Testület ülésére a Testület társelnökei a tagokon kívül szakértőként más személyt is meghívhatnak.
 
 (6) A Testület ügyrendjét saját maga állapítja meg.
+
+[^4]: A 3. § (1) bekezdése az 500/2026. (XI. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.

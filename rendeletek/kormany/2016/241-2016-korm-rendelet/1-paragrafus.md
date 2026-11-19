@@ -1,4 +1,4 @@
-1. § (1) A külgazdasági és külügyminiszter (a továbbiakban: miniszter) a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös értékeink hazai és nemzetközi megismertetése, a tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése körében, a külképviseleti rendszer, különösen a külképviselet részeként működő külföldi magyar kulturális intézet vagy kulturális szolgálat (a továbbiakban együtt: külföldi magyar intézetek) útján a következő feladatokat látja el:
+1. § (1)[^1] A külügyminiszter (a továbbiakban: miniszter) a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös értékeink hazai és nemzetközi megismertetése, a tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése körében, a külképviseleti rendszer, különösen a külképviselet részeként működő külföldi magyar kulturális intézet vagy kulturális szolgálat (a továbbiakban együtt: külföldi magyar intézetek) útján a következő feladatokat látja el:
 
 a) ismerteti és népszerűsíti a magyar és a magyarországi kultúra, oktatás és tudomány eredményeit, beleértve a határon túli magyar kultúra, oktatás és tudomány képviseletét is,
 
@@ -18,7 +18,7 @@ h) részt vesz a magyarországi nemzetiségi oktatás és kultúra eredményeine
 
 i) együttműködésre törekszik a külföldön élő magyarokkal, szervezeteikkel, valamint a hungarológiával és a tudományos-technológiai kérdésekkel foglalkozó személyekkel,
 
-j) közreműködik a Magyarország-kép formálásában külföldön, ezzel összefüggésben együttműködik a hazai és a külföldi idegenforgalmi, kereskedelmi és kulturális szervezetekkel.
+j)[^2] – a külgazdasági ügyekért felelős miniszterrel együttműködve – közreműködik a Magyarország-kép formálásában külföldön, ezzel összefüggésben együttműködik a hazai és a külföldi idegenforgalmi, kereskedelmi és kulturális szervezetekkel.
 
 (2) A miniszter az (1) bekezdésben meghatározott alaptevékenységhez kapcsolódóan oktatási és oktatásszervezési feladatokat lát el, így különösen:
 
@@ -47,3 +47,6 @@ k) ösztönzi a magyarországi és külföldi hungarológiai kutatásokat, közr
 (3) A miniszter a határon túli magyar hallgatók magyarországi tanulmányainak elősegítése érdekében továbbképzési központként segíti a határon túli pedagógus és tanártovábbképzést.
 
 (4) A miniszter az oktatásért felelős miniszter jóváhagyásával közreműködik a külföldi hallgatóknak a Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet alapján történő magyarországi előkészítő képzésében.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze az 500/2026. (XI. 18.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés j) pontja az 500/2026. (XI. 18.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
