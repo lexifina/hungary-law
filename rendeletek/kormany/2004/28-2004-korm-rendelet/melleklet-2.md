@@ -10,7 +10,7 @@
 
 4. Igazságügyi Minisztérium
 
-5. Külgazdasági és Külügyminisztérium
+5.[^13] Külügyminisztérium
 
 6. Miniszterelnökség
 
@@ -28,7 +28,7 @@
 
 13. Nemzeti Egészségbiztosítási Alapkezelő
 
-14.[^13] Országos Gyógyszerészeti Intézet
+14.[^14] Országos Gyógyszerészeti Intézet
 
 15. Nemzeti Szakértői és Kutató Központ
 
@@ -41,4 +41,5 @@
 19. Szociális és Gyermekvédelmi Főigazgatóság
 
 [^12]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^13]: A 2. számú melléklet 14. pontja a 333/2026. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 2. számú melléklet 5. pontja a 498/2026. (XI. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^14]: A 2. számú melléklet 14. pontja a 333/2026. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

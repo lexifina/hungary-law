@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-28-20-2
 | 2024-12-31 | 2004-28-20-22.12 | 463/2024. (XII. 30.) Korm. rendelet |
 | 2025-06-17 | 2004-28-20-22.13 | 137/2025. (VI. 16.) Korm. rendelet |
 | 2026-11-01 | 2004-28-20-22.14 | 333/2026. (X. 29.) Korm. rendelet |
+| 2026-11-19 | 2004-28-20-22.15 | 498/2026. (XI. 18.) Korm. rendelet |
