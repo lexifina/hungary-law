@@ -80,7 +80,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 4 | XXII. kerület | I. |
 
-2.[^5] BÁCS-KISKUN VÁRMEGYE
+2.[^5] BÁCS-KISKUN MEGYE
 
 2.1. Baja székhelyű katasztrófavédelmi kirendeltség
 
@@ -338,7 +338,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 36 | Zsana | II. |
 
-3.[^6] BARANYA VÁRMEGYE
+3.[^6] BARANYA MEGYE
 
 3.1.[^7] Mohács székhelyű katasztrófavédelmi kirendeltség
 
@@ -966,7 +966,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 67 | Zók | III. |
 
-4.[^8] BÉKÉS VÁRMEGYE
+4.[^8] BÉKÉS MEGYE
 
 4.1.[^9] Békéscsaba székhelyű katasztrófavédelmi kirendeltség
 
@@ -1136,7 +1136,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 19 | Vésztő | II. |
 
-5.[^13] BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
+5.[^13] BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
 5.1. Encs székhelyű katasztrófavédelmi kirendeltség
 
@@ -1878,7 +1878,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 48 | Vatta | II. |
 
-6.[^14] CSONGRÁD-CSANÁD VÁRMEGYE
+6.[^14] CSONGRÁD-CSANÁD MEGYE
 
 6.1.[^15] Szeged székhelyű katasztrófavédelmi kirendeltség
 
@@ -2012,7 +2012,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 17 | Tömörkény | II. |
 
-7.[^16] FEJÉR VÁRMEGYE
+7.[^16] FEJÉR MEGYE
 
 7.1.[^17] Dunaújváros székhelyű katasztrófavédelmi kirendeltség
 
@@ -2242,7 +2242,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 64 | Zichyújfalu | III. |
 
-8.[^19] GYŐR-MOSON-SOPRON VÁRMEGYE
+8.[^19] GYŐR-MOSON-SOPRON MEGYE
 
 8.1. Győr székhelyű katasztrófavédelmi kirendeltség
 
@@ -2634,7 +2634,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 39 | Zsira | III. |
 
-9.[^21] HAJDÚ-BIHAR VÁRMEGYE
+9.[^21] HAJDÚ-BIHAR MEGYE
 
 9.1. Debrecen székhelyű katasztrófavédelmi kirendeltség
 
@@ -2818,7 +2818,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 38 | Zsáka | II. |
 
-10.[^23] HEVES VÁRMEGYE
+10.[^23] HEVES MEGYE
 
 10.1.[^24] Eger székhelyű katasztrófavédelmi kirendeltség
 
@@ -3074,7 +3074,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 56 | Zaránk | II. |
 
-11.[^27] JÁSZ-NAGYKUN-SZOLNOK VÁRMEGYE
+11.[^27] JÁSZ-NAGYKUN-SZOLNOK MEGYE
 
 11.1. Jászberény székhelyű katasztrófavédelmi kirendeltség
 
@@ -3256,7 +3256,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 26 | Zagyvarékas | II. |
 
-12.[^29] KOMÁROM-ESZTERGOM VÁRMEGYE
+12.[^29] KOMÁROM-ESZTERGOM MEGYE
 
 12.1. Esztergom székhelyű katasztrófavédelmi kirendeltség
 
@@ -3422,7 +3422,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 53 | Vértestolna | III. |
 
-13.[^32] NÓGRÁD VÁRMEGYE
+13.[^32] NÓGRÁD MEGYE
 
 13.1.[^33] Balassagyarmat székhelyű katasztrófavédelmi kirendeltség
 
@@ -3698,7 +3698,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 64 | Zabar | III. |
 
-14.[^35] PEST VÁRMEGYE
+14.[^35] PEST MEGYE
 
 14.1. Cegléd székhelyű katasztrófavédelmi kirendeltség
 
@@ -3997,37 +3997,37 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 [^2]: Az 1. melléklet a 66/2023. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. melléklet 1.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a, a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
 [^4]: Az 1. melléklet 1.3. pontjában foglalt táblázat B:6 mezője az 50/2025. (XII. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet 2. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^6]: Az 1. melléklet 3. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 2. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 3. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^7]: Az 1. melléklet 3.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
-[^8]: Az 1. melléklet 4. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 4. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^9]: Az 1. melléklet 4.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
 [^10]: Az 1. melléklet 4.2. pontjában foglalt táblázat a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
 [^11]: Az 1. melléklet 4.3. pontjában foglalt táblázat a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
 [^12]: Az 1. melléklet 4.3. pontjában foglalt táblázat B:14 mezője az 50/2025. (XII. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^13]: Az 1. melléklet 5. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^14]: Az 1. melléklet 6. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet 5. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
+[^14]: Az 1. melléklet 6. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^15]: Az 1. melléklet 6.1. pontjában foglalt táblázat a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
-[^16]: Az 1. melléklet 7. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet 7. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^17]: Az 1. melléklet 7.1. pontjában foglalt táblázat a 2/2025. (I. 13.) BM rendelet 1. §-a szerint módosított szöveg.
 [^18]: Az 1. melléklet 7.2. pontjában foglalt táblázat a 2/2025. (I. 13.) BM rendelet 1. §-a szerint módosított szöveg.
-[^19]: Az 1. melléklet 8. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet 8. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^20]: Az 1. melléklet 8.4. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
-[^21]: Az 1. melléklet 9. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^21]: Az 1. melléklet 9. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^22]: Az 1. melléklet 9.3. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
-[^23]: Az 1. melléklet 10. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^23]: Az 1. melléklet 10. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^24]: Az 1. melléklet 10.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
 [^25]: Az 1. melléklet 10.2. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a, a 2/2025. (I. 13.) BM rendelet 1. §-a szerint módosított szöveg.
 [^26]: Az 1. melléklet 10.2. pontjában foglalt táblázat B:13 mezője az 50/2025. (XII. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^27]: Az 1. melléklet 11. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet 11. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^28]: Az 1. melléklet 11.2. pontjában foglalt táblázat a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
-[^29]: Az 1. melléklet 12. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^29]: Az 1. melléklet 12. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^30]: Az 1. melléklet 12.2. pontjában foglalt táblázat a 2/2025. (I. 13.) BM rendelet 1. §-a szerint módosított szöveg.
 [^31]: Az 1. melléklet 12.2. pontjában foglalt táblázat B:32 mezője az 50/2025. (XII. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^32]: Az 1. melléklet 13. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^32]: Az 1. melléklet 13. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^33]: Az 1. melléklet 13.1. pontjában foglalt táblázat a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
 [^34]: Az 1. melléklet 13.2. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a, a 66/2023. (XII. 21.) BM rendelet 1. §-a szerint módosított szöveg.
-[^35]: Az 1. melléklet 14. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^35]: Az 1. melléklet 14. pontja az 53/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^36]: Az 1. melléklet 14.2. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a, a 2/2025. (I. 13.) BM rendelet 1. §-a szerint módosított szöveg.
 [^37]: Az 1. melléklet 14.2. pontjában foglalt táblázat B:4 mezője az 50/2025. (XII. 16.) BM rendelet 1. §-ával megállapított szöveg.
 [^38]: Az 1. melléklet 14.3. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.

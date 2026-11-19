@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-44-20-0
 | 2024-01-01 | 2021-44-20-0A.5 | 66/2023. (XII. 21.) BM rendelet |
 | 2025-01-14 | 2021-44-20-0A.6 | 2/2025. (I. 13.) BM rendelet |
 | 2026-01-01 | 2021-44-20-0A.7 | 50/2025. (XII. 16.) BM rendelet |
+| 2026-11-19 | 2021-44-20-0A.8 | 53/2026. (XI. 18.) BM rendelet |
