@@ -1,10 +1,10 @@
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^148]
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^157]
 
 A Belügyminisztériumban és a belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások, azok besorolása és a szolgálati beosztás betöltéséhez szükséges képesítési követelmények, valamint a vezényléssel betölthető szolgálati beosztások száma
 
 1. A Belügyminisztériumba vezényléssel betölthető szolgálati beosztások
 
-1.1.[^149] Vezetői besorolási osztályba tartozó szolgálati beosztások
+1.1.[^158] Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
@@ -32,7 +32,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 1.1.1.2. **: A hivatásos állomány tagja akkor sorolható be beosztott vezetőként osztályvezető szolgálati beosztásba, ha nem felel meg a Hszt. 58. § (4) bekezdésének, ennek megfelelően beosztott vezetői beosztásban nem töltött el legalább három évet.
 
-1.2.[^150] Tiszti besorolási osztályba tartozó szolgálati beosztások
+1.2.[^159] Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -44,7 +44,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 4. | D | kiemelt főelőadó | 570-870 | 570-870 |
 
-1.3.[^151] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+1.3.[^160] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -102,7 +102,21 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 2.2. A rendvédelmi technikum szolgálati beosztásai
 
-[^148]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
-[^149]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^150]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^151]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+2.2.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | kiemelt vezető | területi szerv vezetője | igazgató | 320-520 | 320-520 |
+
+| 4. | középvezető | főosztályvezető 1 | igazgató-helyettes | 320-520 | 320-520 |
+
+| 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 320-520 | 320-520 |
+
+[^157]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
+[^158]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^159]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^160]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.

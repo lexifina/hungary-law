@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-30-20-0
 | 2025-08-01 | 2015-30-20-0A.43 | 6/2019. (III. 11.) BM rendelet |
 | 2026-09-12 | 2015-30-20-0A.44 | 19/2026. (IX. 4.) BM rendelet |
 | 2026-10-01 | 2015-30-20-0A.45 | 24/2026. (IX. 30.) BM rendelet |
+| 2026-11-19 | 2015-30-20-0A.46 | 51/2026. (XI. 18.) BM rendelet |

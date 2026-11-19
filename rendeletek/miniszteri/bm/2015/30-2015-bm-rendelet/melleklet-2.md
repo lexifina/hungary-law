@@ -60,15 +60,15 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 5. | középvezető | szakirányító 2 | igazgató-helyettes (RRI) | 320–520 | 320–520 |
 
-| 6. | bűnügyi rendőrfőkapitány- helyettes (VMRFK) | 320–520 |  |
+| 6. | bűnügyi rendőrfőkapitány- helyettes (MRFK)[^52] | 320–520 |  |
 
-| 7. | rendészeti rendőrfőkapitány- helyettes (VMRFK) | 320–520 |  |
+| 7. | rendészeti rendőrfőkapitány- helyettes (MRFK)[^53] | 320–520 |  |
 
-| 8. | gazdasági rendőrfőkapitány- helyettes (VMRFK) |  | 320–520 |
+| 8. | gazdasági rendőrfőkapitány- helyettes (MRFK)[^54] |  | 320–520 |
 
 | 9. | főosztályvezető 2 | főosztályvezető | 320–520 |  |
 
-| 10. | beosztott vezető | főosztályvezető- helyettes 2 | szolgálatvezető (VMRFK, RRI, humánigazgatási, ellenőrzési, határrendészeti, KHSZ) | 320–520 | 320–520 |
+| 10. | beosztott vezető | főosztályvezető- helyettes 2 | szolgálatvezető (MRFK, RRI, humánigazgatási, ellenőrzési, határrendészeti, KHSZ)[^55] | 320–520 | 320–520 |
 
 | 11. |
 
@@ -106,7 +106,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 1.4.1. 650–820*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Főosztály Kiberstratégiai Osztály vezetője esetében a hivatásos pótlék mértéke 650–820%.
 
-1.4.2.[^52] 520–720*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Tanúvédelmi Szolgálat Taktikai Főosztály Előkészítő és Technikai Osztály állományában az osztályvezető esetében a hivatásos pótlék mértéke 520–720%.
+1.4.2.[^56] 520–720*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Tanúvédelmi Szolgálat Taktikai Főosztály Előkészítő és Technikai Osztály állományában az osztályvezető esetében a hivatásos pótlék mértéke 520–720%.
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
@@ -116,41 +116,41 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3.[^53] | központi | E | ügyeletvezető | 570 |  |
+| 3.[^57] | központi | E | ügyeletvezető | 570 |  |
 
-| 4.[^54] | központi | E | kiemelt főreferens | 570 620* | 520 |
+| 4.[^58] | központi | E | kiemelt főreferens | 570 620* | 520 |
 
-| 5.[^55] | központi | E | kiemelt főreferens (kiberbűnözési) | 820 |  |
+| 5.[^59] | központi | E | kiemelt főreferens (kiberbűnözési) | 820 |  |
 
-| 6.[^56] | központi | E | osztályvezető-helyettes | 570 620* 645* 720* 870* | 520 |
+| 6.[^60] | központi | E | osztályvezető-helyettes | 570 620* 645* 720* 870* | 520 |
 
-| 7.[^57] | központi | E | alosztályvezető | 570 620* 645* 720* 870* |  |
+| 7.[^61] | központi | E | alosztályvezető | 570 620* 645* 720* 870* |  |
 
-| 8.[^58] | központi | Hszt. 8. melléklet szerinti D | alosztályvezető (ORFK BM Ügyelet) | 920 |  |
+| 8.[^62] | központi | Hszt. 8. melléklet szerinti D | alosztályvezető (ORFK BM Ügyelet) | 920 |  |
 
-| 9.[^59] | központi | D | kiemelt főnyomozó | 570 620* 645* 720* 870* 1020* |  |
+| 9.[^63] | központi | D | kiemelt főnyomozó | 570 620* 645* 720* 870* 1020* |  |
 
-| 10.[^60] | központi | D | főügyeletes | 570 |  |
+| 10.[^64] | központi | D | főügyeletes | 570 |  |
 
-| 11.[^61] | központi | Hszt. 8. melléklet szerinti D | főügyeletes (ORFK BM Ügyelet) | 920 |  |
+| 11.[^65] | központi | Hszt. 8. melléklet szerinti D | főügyeletes (ORFK BM Ügyelet) | 920 |  |
 
-| 12.[^62] | központi | D | csoportvezető | 570 | 520 |
+| 12.[^66] | központi | D | csoportvezető | 570 | 520 |
 
-| 13.[^63] | központi | D | kiemelt főelőadó | 570 620* | 520 |
+| 13.[^67] | központi | D | kiemelt főelőadó | 570 620* | 520 |
 
-| 13a.[^64] | központi | D | kiemelt főelőadó (kiberbűnözési) | 820 |  |
+| 13a.[^68] | központi | D | kiemelt főelőadó (kiberbűnözési) | 820 |  |
 
-| 13b.[^65] | központi | D | kiemelt főellenőr***** | 570 | 520 |
+| 13b.[^69] | központi | D | kiemelt főellenőr***** | 570 | 520 |
 
-| 14.[^66] | központi | C | főnyomozó | 570 620* |  |
+| 14.[^70] | központi | C | főnyomozó | 570 620* |  |
 
-| 15.[^67] | központi | C | ügyeletes | 570 |  |
+| 15.[^71] | központi | C | ügyeletes | 570 |  |
 
-| 16.[^68] | központi | C | nyomozótiszt | 570 |  |
+| 16.[^72] | központi | C | nyomozótiszt | 570 |  |
 
-| 17.[^69] | központi | C | főelőadó | 570 | 520 |
+| 17.[^73] | központi | C | főelőadó | 570 | 520 |
 
-| 18.[^70] | központi | C | főelőadó (kiberbűnözési) | 820 |  |
+| 18.[^74] | központi | C | főelőadó (kiberbűnözési) | 820 |  |
 
 | 19. | területi | E | ügyeletvezető | 520 |  |
 
@@ -280,21 +280,21 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 2.1.2. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-2.1.3.[^71] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+2.1.3.[^75] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 2.1.4. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
 2.1.5. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
-2.1.6.[^72] 620*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állománya esetében – a 2.1.7–2.1.10. pont hatálya alá tartozók kivételével – a hivatásos pótlék mértéke 620%.
+2.1.6.[^76] 620*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állománya esetében – a 2.1.7–2.1.10. pont hatálya alá tartozók kivételével – a hivatásos pótlék mértéke 620%.
 
-2.1.7.[^73] 645*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Műveleti Főosztály Tanúvédelmi Szolgálat, a Műveleti Információs Osztály, valamint a Taktikai Főosztály Előkészítő és Technikai Osztály Képzési Alosztály állománya esetében a hivatásos pótlék mértéke 645%.
+2.1.7.[^77] 645*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Műveleti Főosztály Tanúvédelmi Szolgálat, a Műveleti Információs Osztály, valamint a Taktikai Főosztály Előkészítő és Technikai Osztály Képzési Alosztály állománya esetében a hivatásos pótlék mértéke 645%.
 
-2.1.8.[^74] 720*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 720%.
+2.1.8.[^78] 720*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 720%.
 
-2.1.9.[^75] 870*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a speciális műveleti feladatot ténylegesen ellátó állomány, valamint a Taktikai Főosztály Taktikai Osztály I–III. állománya esetében a hivatásos pótlék mértéke 870%.
+2.1.9.[^79] 870*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a speciális műveleti feladatot ténylegesen ellátó állomány, valamint a Taktikai Főosztály Taktikai Osztály I–III. állománya esetében a hivatásos pótlék mértéke 870%.
 
-2.1.10.[^76] 1020*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
+2.1.10.[^80] 1020*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
@@ -304,19 +304,19 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3.[^77] | központi | E | csoportparancsnok | 570 645* | 520 |
+| 3.[^81] | központi | E | csoportparancsnok | 570 645* | 520 |
 
-| 4.[^78] | központi | D | referens | 570 | 520 |
+| 4.[^82] | központi | D | referens | 570 | 520 |
 
-| 4a.[^79] | központi | D | nyomozó | 570 645* 720** 870* 1020* |  |
+| 4a.[^83] | központi | D | nyomozó | 570 645* 720** 870* 1020* |  |
 
-| 5.[^80] | központi | C | segédelőadó | 570 645* 720** 870* 1020* | 520 |
+| 5.[^84] | központi | C | segédelőadó | 570 645* 720** 870* 1020* | 520 |
 
 | 6. | területi | E | csoportparancsnok | 520 620**** | 470 |
 
 | 7. |  | őrparancsnok | 520 |  |
 
-| 8. |  | szolgálatparancsnok | 520 620****[^81] |  |
+| 8. |  | szolgálatparancsnok | 520 620****[^85] |  |
 
 | 9. |  | szolgálatparancsnok (közterületi támogató) | 620 |  |
 
@@ -340,13 +340,13 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 19. |  | vizsgáló | 520 |  |
 
-| 20. |  | kiemelt főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^82] |  |
+| 20. |  | kiemelt főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^86] |  |
 
 | 21. |  | járőrparancsnok | 520 545** 620** 620**** 645** |  |
 
 | 22. |  | C | fogdafelügyelő | 520 |  |
 
-| 23. |  | főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^83] |  |
+| 23. |  | főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^87] |  |
 
 | 24. |  | futár |  | 470 |
 
@@ -356,7 +356,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 27. |  | kutyavezető | 620** 620**** 645** |  |
 
-| 28. |  | szolgálatparancsnok-helyettes | 520 620****[^84] |  |
+| 28. |  | szolgálatparancsnok-helyettes | 520 620****[^88] |  |
 
 | 29. |  | segédelőadó | 520 | 470 |
 
@@ -368,7 +368,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 33. |  | B | fogdaőr | 520 |  |
 
-| 34. |  | B | határrendész | 520 545** 620** 620**** 645** 720* 745*[^85] |  |
+| 34. |  | B | határrendész | 520 545** 620** 620**** 645** 720* 745*[^89] |  |
 
 | 35. |  | járőr | 520 545** 620** 645** |  |
 
@@ -384,7 +384,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 41. |  | A | objektumőr | 495* 520 |  |
 
-| 42. |  | járőrtárs*[^86] | 495[^87] |  |
+| 42. |  | járőrtárs*[^90] | 495[^91] |  |
 
 | 43. | helyi | E | őrparancsnok | 520 |  |
 
@@ -456,7 +456,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 77. |  | bűnügyi fogalmazó | 520 |  |
 
-| 78. |  | járőrtárs*[^88] | 495[^89] |  |
+| 78. |  | járőrtárs*[^92] | 495[^93] |  |
 
 3.1. Megjegyzés:
 
@@ -466,7 +466,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.3. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-3.1.4.[^90] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+3.1.4.[^94] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 3.1.5. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
@@ -474,17 +474,17 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.7. 745*: A gondozásból adódó többletteher ellentételezése érdekében a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében, ha a szolgálati kutya kiképzésében részt vesz, azzal folyamatosan foglalkozik, arról gondoskodik, valamint azzal szolgálati tevékenységet ellát, két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 745%.
 
-3.1.8.[^91] 645*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Műveleti Főosztály Tanúvédelmi Szolgálat, a Műveleti Információs Osztály, valamint a Taktikai Főosztály Előkészítő és Technikai Osztály Képzési Alosztály állománya esetében a hivatásos pótlék mértéke 645%.
+3.1.8.[^95] 645*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Műveleti Főosztály Tanúvédelmi Szolgálat, a Műveleti Információs Osztály, valamint a Taktikai Főosztály Előkészítő és Technikai Osztály Képzési Alosztály állománya esetében a hivatásos pótlék mértéke 645%.
 
-3.1.9.[^92] 720**: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 720%.
+3.1.9.[^96] 720**: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 720%.
 
-3.1.10.[^93] 870*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a speciális műveleti feladatot ténylegesen ellátó állomány, valamint a Taktikai Főosztály Taktikai Osztály I–III. állománya esetében a hivatásos pótlék mértéke 870%.
+3.1.10.[^97] 870*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a speciális műveleti feladatot ténylegesen ellátó állomány, valamint a Taktikai Főosztály Taktikai Osztály I–III. állománya esetében a hivatásos pótlék mértéke 870%.
 
-3.1.11.[^94] 1020*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
+3.1.11.[^98] 1020*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
 
-3.1.12.[^95] járőrtárs*: a hivatásos pótlék mértéke 495%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
+3.1.12.[^99] járőrtárs*: a hivatásos pótlék mértéke 495%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
 
-4.[^96] Nemzeti Nyomozó Iroda szolgálati beosztásai (területi szerv besorolású)
+4.[^100] Nemzeti Nyomozó Iroda szolgálati beosztásai (területi szerv besorolású)
 
 4.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -706,7 +706,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 8. | C | segédelőadó |  | 520 |
 
-6.[^97] Készenléti Rendőrség szolgálati beosztásai (területi szerv besorolású)
+6.[^101] Készenléti Rendőrség szolgálati beosztásai (területi szerv besorolású)
 
 6.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -1120,7 +1120,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 25. |  | A | objektumőr | 520* 545 |  |
 
-| 26. |  | járőrtárs*[^98] | 520 |  |
+| 26. |  | járőrtárs*[^102] | 520 |  |
 
 | 27. | helyi | E | őrparancsnok | 545 |  |
 
@@ -1178,7 +1178,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 54. |  | bűnügyi fogalmazó | 545 |  |
 
-| 55. |  | járőrtárs*[^99] | 520[^100] |  |
+| 55. |  | járőrtárs*[^103] | 520[^104] |  |
 
 7.4. Megjegyzés:
 
@@ -1196,7 +1196,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 7.4.7. 820*: A Bűnügyi Szervek Gazdasági Bűnözés Elleni Főosztály Kiberbűnözés Elleni Osztály állománya esetében a hivatásos pótlék mértéke 820%.
 
-7.4.8.[^101] járőrtárs*: a hivatásos pótlék mértéke 520%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
+7.4.8.[^105] járőrtárs*: a hivatásos pótlék mértéke 520%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
 
 8. A Nemzetközi Oktatási Központ szolgálati beosztásai (területi szerv besorolású)
 
@@ -1272,13 +1272,13 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.1.11. MÜIG: Készenléti Rendőrség Műszaki és Üzemeltetési Igazgatóság,
 
-9.1.12. VMRFK: Vármegyei Rendőr-főkapitányság,
+9.1.12.[^106] MRFK: Megyei Rendőr-főkapitányság,
 
 9.1.13. NEO: Nemzetközi Oktatási Központ Nemzetközi Ellátó Osztály,
 
-9.1.14.[^102] PAVIG: Készenléti Rendőrség Parlamentvédelmi Igazgatóság
+9.1.14.[^107] PAVIG: Készenléti Rendőrség Parlamentvédelmi Igazgatóság
 
-9.1.15.[^103]
+9.1.15.[^108]
 
 9.1.16. ORFK: Országos Rendőr-főkapitányság,
 
@@ -1292,31 +1292,31 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.1.21. ÜVSZ: Készenléti Rendőrség Ügyeleti Védelmi Szolgálat.
 
-9.1.22.[^104] TESZ: Terrorizmus Elleni Szolgálat
+9.1.22.[^109] TESZ: Terrorizmus Elleni Szolgálat
 
-9.1.23.[^105] DBESZ: Digitális Bűnözés Elleni Szolgálat
+9.1.23.[^110] DBESZ: Digitális Bűnözés Elleni Szolgálat
 
-9.1.24.[^106] TESZ I–III. Felderítő Főosztály: a TESZ I. Felderítő Főosztály, TESZ II. Felderítő Főosztály és TESZ III. Felderítő Főosztály
+9.1.24.[^111] TESZ I–III. Felderítő Főosztály: a TESZ I. Felderítő Főosztály, TESZ II. Felderítő Főosztály és TESZ III. Felderítő Főosztály
 
-9.1.25.[^107] EO: TESZ Elemző Osztály
+9.1.25.[^112] EO: TESZ Elemző Osztály
 
-9.1.26.[^108] OIO: DBESZ Forenzikus és Elemző Főosztály Operatív Informatikai Osztály
+9.1.26.[^113] OIO: DBESZ Forenzikus és Elemző Főosztály Operatív Informatikai Osztály
 
-9.1.27.[^109] BEI: Bűnügyi Ellátó Igazgatóság
+9.1.27.[^114] BEI: Bűnügyi Ellátó Igazgatóság
 
 9.2. Megjegyzés:
 
 9.2.1. központi szerv: Országos Rendőr-főkapitányság (ORFK),
 
-9.2.2.[^110] területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
+9.2.2.[^115] területi szervek: (megyei illetékességű középirányító és azonos jogállású): BRFK, MRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
 
 9.2.3. helyi szervek: rendőrkapitányságok, határrendészeti kirendeltségek,
 
-9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
+9.2.4.[^116] kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a megyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
 
-9.2.5.[^111] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+9.2.5.[^117] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
-10.[^112] Terrorelhárítási Központ szolgálati beosztásai (területi szerv besorolású)
+10.[^118] Terrorelhárítási Központ szolgálati beosztásai (területi szerv besorolású)
 
 10.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -1518,64 +1518,70 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 [^49]: A 2. melléklet 1.1. pontjában foglalt táblázat 14. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^50]: A 2. melléklet 1.1. pontjában foglalt táblázat 15. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^51]: A 2. melléklet 1.1. pontjában foglalt táblázat 15a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^52]: A 2. melléklet 1.4.2. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^53]: A 2. melléklet 2. pontjában foglalt táblázat 3. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^54]: A 2. melléklet 2. pontjában foglalt táblázat 4. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^55]: A 2. melléklet 2. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^56]: A 2. melléklet 2. pontjában foglalt táblázat 6. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^57]: A 2. melléklet 2. pontjában foglalt táblázat 7. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^58]: A 2. melléklet 2. pontjában foglalt táblázat 8. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^59]: A 2. melléklet 2. pontjában foglalt táblázat 9. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^60]: A 2. melléklet 2. pontjában foglalt táblázat 10. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^61]: A 2. melléklet 2. pontjában foglalt táblázat 11. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^62]: A 2. melléklet 2. pontjában foglalt táblázat 12. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^63]: A 2. melléklet 2. pontjában foglalt táblázat 13. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^64]: A 2. melléklet 2. pontjában foglalt táblázat 13a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^65]: A 2. melléklet 2. pontjában foglalt táblázat 13b. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^66]: A 2. melléklet 2. pontjában foglalt táblázat 14. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^67]: A 2. melléklet 2. pontjában foglalt táblázat 15. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^68]: A 2. melléklet 2. pontjában foglalt táblázat 16. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^69]: A 2. melléklet 2. pontjában foglalt táblázat 17. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^70]: A 2. melléklet 2. pontjában foglalt táblázat 18. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^71]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^72]: A 2. melléklet 2.1.6. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^73]: A 2. melléklet 2.1.7. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^74]: A 2. melléklet 2.1.8. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^75]: A 2. melléklet 2.1.9. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^76]: A 2. melléklet 2.1.10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^77]: A 2. melléklet 3. pontjában foglalt táblázat 3. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^78]: A 2. melléklet 3. pontjában foglalt táblázat 4. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^79]: A 2. melléklet 3. pontjában foglalt táblázat 4a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^80]: A 2. melléklet 3. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^81]: A 2. melléklet 3. pontjában foglalt táblázat D:8 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^82]: A 2. melléklet 3. pontjában foglalt táblázat D:20 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^83]: A 2. melléklet 3. pontjában foglalt táblázat D:23 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^84]: A 2. melléklet 3. pontjában foglalt táblázat D:28 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^85]: A 2. melléklet 3. pontjában foglalt táblázat D:34 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^86]: A 2. melléklet 3. pontjában foglalt táblázat C:42 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^87]: A 2. melléklet 3. pontjában foglalt táblázat D:42 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^88]: A 2. melléklet 3. pontjában foglalt táblázat C:78 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^89]: A 2. melléklet 3. pontjában foglalt táblázat D:78 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^90]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^91]: A 2. melléklet 3.1.8. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^92]: A 2. melléklet 3.1.9. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^93]: A 2. melléklet 3.1.10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^94]: A 2. melléklet 3.1.11. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^95]: A 2. melléklet 3.1.12. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^96]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte, újonnan a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^97]: A 2. melléklet 6. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^98]: A 2. melléklet 7.3. pontjában foglalt táblázat C:26 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^99]: A 2. melléklet 7.3. pontjában foglalt táblázat C:55 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^100]: A 2. melléklet 7.3. pontjában foglalt táblázat D:55 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^101]: A 2. melléklet 7.4.8. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^102]: A 2. melléklet 9.1.14. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^103]: A 2. melléklet 9.1.15. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^104]: A 2. melléklet 9.1.22. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^105]: A 2. melléklet 9.1.23. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^106]: A 2. melléklet 9.1.24. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^107]: A 2. melléklet 9.1.25. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^108]: A 2. melléklet 9.1.26. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^109]: A 2. melléklet 9.1.27. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
-[^110]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja szerint módosított szöveg.
-[^111]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
-[^112]: A 2. melléklet 10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^52]: A 2. melléklet 1.2. pontjában foglalt táblázat C:6 mezője az 51/2026. (XI. 18.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^53]: A 2. melléklet 1.2. pontjában foglalt táblázat C:7 mezője az 51/2026. (XI. 18.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^54]: A 2. melléklet 1.2. pontjában foglalt táblázat C:8 mezője az 51/2026. (XI. 18.) BM rendelet 1. § c) pontja szerint módosított szöveg.
+[^55]: A 2. melléklet 1.2. pontjában foglalt táblázat C:10–C:11 mezője az 51/2026. (XI. 18.) BM rendelet 1. § d) pontja szerint módosított szöveg.
+[^56]: A 2. melléklet 1.4.2. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^57]: A 2. melléklet 2. pontjában foglalt táblázat 3. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^58]: A 2. melléklet 2. pontjában foglalt táblázat 4. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^59]: A 2. melléklet 2. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^60]: A 2. melléklet 2. pontjában foglalt táblázat 6. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^61]: A 2. melléklet 2. pontjában foglalt táblázat 7. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^62]: A 2. melléklet 2. pontjában foglalt táblázat 8. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^63]: A 2. melléklet 2. pontjában foglalt táblázat 9. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^64]: A 2. melléklet 2. pontjában foglalt táblázat 10. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^65]: A 2. melléklet 2. pontjában foglalt táblázat 11. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^66]: A 2. melléklet 2. pontjában foglalt táblázat 12. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^67]: A 2. melléklet 2. pontjában foglalt táblázat 13. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^68]: A 2. melléklet 2. pontjában foglalt táblázat 13a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^69]: A 2. melléklet 2. pontjában foglalt táblázat 13b. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^70]: A 2. melléklet 2. pontjában foglalt táblázat 14. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^71]: A 2. melléklet 2. pontjában foglalt táblázat 15. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^72]: A 2. melléklet 2. pontjában foglalt táblázat 16. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^73]: A 2. melléklet 2. pontjában foglalt táblázat 17. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^74]: A 2. melléklet 2. pontjában foglalt táblázat 18. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^75]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^76]: A 2. melléklet 2.1.6. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^77]: A 2. melléklet 2.1.7. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^78]: A 2. melléklet 2.1.8. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^79]: A 2. melléklet 2.1.9. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^80]: A 2. melléklet 2.1.10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^81]: A 2. melléklet 3. pontjában foglalt táblázat 3. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^82]: A 2. melléklet 3. pontjában foglalt táblázat 4. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^83]: A 2. melléklet 3. pontjában foglalt táblázat 4a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^84]: A 2. melléklet 3. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^85]: A 2. melléklet 3. pontjában foglalt táblázat D:8 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^86]: A 2. melléklet 3. pontjában foglalt táblázat D:20 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^87]: A 2. melléklet 3. pontjában foglalt táblázat D:23 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^88]: A 2. melléklet 3. pontjában foglalt táblázat D:28 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^89]: A 2. melléklet 3. pontjában foglalt táblázat D:34 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^90]: A 2. melléklet 3. pontjában foglalt táblázat C:42 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^91]: A 2. melléklet 3. pontjában foglalt táblázat D:42 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^92]: A 2. melléklet 3. pontjában foglalt táblázat C:78 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^93]: A 2. melléklet 3. pontjában foglalt táblázat D:78 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^94]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^95]: A 2. melléklet 3.1.8. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^96]: A 2. melléklet 3.1.9. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^97]: A 2. melléklet 3.1.10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^98]: A 2. melléklet 3.1.11. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^99]: A 2. melléklet 3.1.12. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^100]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte, újonnan a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^101]: A 2. melléklet 6. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^102]: A 2. melléklet 7.3. pontjában foglalt táblázat C:26 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^103]: A 2. melléklet 7.3. pontjában foglalt táblázat C:55 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^104]: A 2. melléklet 7.3. pontjában foglalt táblázat D:55 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^105]: A 2. melléklet 7.4.8. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^106]: A 2. melléklet 9.1.12. pontja az 51/2026. (XI. 18.) BM rendelet 1. § e) pontja szerint módosított szöveg.
+[^107]: A 2. melléklet 9.1.14. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^108]: A 2. melléklet 9.1.15. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^109]: A 2. melléklet 9.1.22. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^110]: A 2. melléklet 9.1.23. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^111]: A 2. melléklet 9.1.24. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^112]: A 2. melléklet 9.1.25. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^113]: A 2. melléklet 9.1.26. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^114]: A 2. melléklet 9.1.27. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^115]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja, az 51/2026. (XI. 18.) BM rendelet 1. § f) pontja szerint módosított szöveg.
+[^116]: A 2. melléklet 9.2.4. pontja az 51/2026. (XI. 18.) BM rendelet 1. § g) pontja szerint módosított szöveg.
+[^117]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
+[^118]: A 2. melléklet 10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
