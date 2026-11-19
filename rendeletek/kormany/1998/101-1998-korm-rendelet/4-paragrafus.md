@@ -1,4 +1,4 @@
-4. §[^16] (1)[^17] A Kormány az alábbi hatáskörök tekintetében útlevélhatóságként a külügyminisztert jelöli ki:
+4. §[^16] (1)[^17] A Kormány az alábbi hatáskörök tekintetében útlevélhatóságként a külpolitikáért felelős minisztert jelöli ki:
 
 a) a diplomata- és külügyi szolgálati útlevéllel összefüggő hatósági eljárás,
 
@@ -17,7 +17,7 @@ d)[^23] a huzamos tartózkodási jogosultsággal rendelkező harmadik országbel
 (3)[^24] A konzuli tisztviselő és a tiszteletbeli konzuli tisztviselő hatáskörébe is tartozik az Utv. 20. § (1) bekezdése alapján érvénytelenné vált úti okmány elvétele.
 
 [^16]: A 4. § a 197/2006. (IX. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^17]: A 4. § (1) bekezdésének felvezető szövege a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdésének nyitó szövegrésze a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja, a 497/2026. (XI. 18.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
 [^18]: A 4. § (1) bekezdés b) pontja a 479/2024. (XII. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^19]: A 4. § (2) bekezdésének bevezető szövegrésze a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^20]: A 4. § (2) bekezdésének a) pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.

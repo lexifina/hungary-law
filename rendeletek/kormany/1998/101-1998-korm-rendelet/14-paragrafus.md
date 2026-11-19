@@ -6,7 +6,7 @@ b)[^82] a szolgálati és hajós szolgálati útlevél iránti kérelmet a jár�
 
 c)[^83] a magánútlevél és a második magánútlevél soron kívüli, sürgősségi és azonnali kiállítására vonatkozó kérelmet a járási hivatalnál vagy az általános hatáskörű útlevélhatóságnál,
 
-d)[^84] a diplomata- és külügyi szolgálati útlevél iránti kérelmet a külügyminiszternél vagy a konzuli tisztviselőnél,
+d)[^84] a diplomata- és külügyi szolgálati útlevél iránti kérelmet a külpolitikáért felelős miniszternél vagy a konzuli tisztviselőnél,
 
 e) az ideiglenes magánútlevél iránti kérelmet a konzuli tisztviselőnél,
 
@@ -28,7 +28,7 @@ nyújthatja be.
 [^81]: A 14. § (1) bekezdés a) pontja a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés f) pontja szerint módosított szöveg.
 [^82]: A 14. § b) pontja a 375/2021. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^83]: A 14. § c) pontja a 375/2021. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^84]: A 14. § (1) bekezdés d) pontja a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése d) pontja szerint módosított szöveg.
+[^84]: A 14. § (1) bekezdés d) pontja a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése d) pontja, a 497/2026. (XI. 18.) Korm. rendelet 2. § 4. pontja szerint módosított szöveg.
 [^85]: A 14. § (1) bekezdés f) pontja a 176/2019. (VII. 18.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^86]: A 14. § (1) bekezdés g) pontja a 126/2019. (V. 30.) Korm. rendelet 9. § b) pontja, a 35/2024. (II. 29.) Korm. rendelet 272. § f) pontja szerint módosított szöveg.
 [^87]: A 14. § (1) bekezdés h) pontja a 479/2024. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

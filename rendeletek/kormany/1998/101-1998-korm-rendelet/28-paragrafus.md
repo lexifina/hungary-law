@@ -1,3 +1,3 @@
-28. §[^181]
+28. §[^183]
 
-[^181]: A 28. §-t a 479/2024. (XII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^183]: A 28. §-t a 479/2024. (XII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.

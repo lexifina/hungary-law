@@ -1,0 +1,3 @@
+10/D. §[^57] Az előzetes hozzájárulás megadásához a magyar állampolgár által megadott személyazonosító és útiokmány-adatokat az útiokmány-nyilvántartásban, illetve a polgárok személyi adatainak és lakcímének nyilvántartásában a konzuli tisztviselő, illetve a külpolitikáért felelős miniszter közvetlen adathozzáféréssel vagy az általános hatáskörű útlevélhatóság útján ellenőrzi.
+
+[^57]: A 10/D. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés e) pontja, a 497/2026. (XI. 18.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.

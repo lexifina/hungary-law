@@ -1,4 +1,4 @@
-## Adatszolgáltatás[^195]
+## Adatszolgáltatás[^200]
 
 29/D. § (1) Az útiokmány-nyilvántartás adatait érintő adatszolgáltatás iránti kérelem az általános hatáskörű útlevélhatósághoz nyújtható be.
 
@@ -14,4 +14,4 @@
 
 (7) Az általános hatáskörű útlevélhatóság a már engedélyezett közvetlen hozzáféréssel történő adatigénylés útján történő adatszolgáltatást megszünteti, és a kiadott engedélyt visszavonja, ha az adatigénylő részére történő adatszolgáltatás célja vagy jogalapja megszűnt.
 
-[^195]: Az „Adatszolgáltatás” alcímet (29/D. §-t) a 184/2025. (VII. 3.) Korm. rendelet 3. §-a iktatta be.
+[^200]: Az „Adatszolgáltatás” alcímet (29/D. §-t) a 184/2025. (VII. 3.) Korm. rendelet 3. §-a iktatta be.

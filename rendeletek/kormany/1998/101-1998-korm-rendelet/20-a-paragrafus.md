@@ -26,7 +26,7 @@ c) második diplomata- vagy külügyi szolgálati útlevél kiadásának kérelm
 
 (6)[^133]
 
-(7)[^134] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külügyminiszter engedélyezési hatáskörébe tartozik, az útlevelet az érvényességének lejártakor, vagy a külpolitikáért felelős miniszter engedélyében meghatározottak szerint a Külgazdasági és Külügyminisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.
+(7)[^134] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külpolitikáért felelős miniszter engedélyezési hatáskörébe tartozik, az útlevelet az érvényességének lejártakor vagy a külpolitikáért felelős miniszter engedélyében meghatározottak szerint a KüM konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.
 
 [^126]: A 20/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be.
 [^127]: A 20/A. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -36,4 +36,4 @@ c) második diplomata- vagy külügyi szolgálati útlevél kiadásának kérelm
 [^131]: A 20/A. § (4) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^132]: A 20/A. § (5) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
 [^133]: A 20/A. § (6) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^134]: A 20/A. § (7) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^134]: A 20/A. § (7) bekezdése a 497/2026. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
