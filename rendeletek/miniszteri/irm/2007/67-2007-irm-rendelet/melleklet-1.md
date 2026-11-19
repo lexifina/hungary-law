@@ -1,6 +1,6 @@
 1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^21]
 
-1.[^22] BARANYA VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+1.[^22] BARANYA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 1.1. Komlói Rendőrkapitányság
 
@@ -630,7 +630,7 @@
 
 1.5.66. Zók
 
-2.[^24] BÁCS-KISKUN VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+2.[^24] BÁCS-KISKUN MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 2.1. Bajai Rendőrkapitányság
 
@@ -958,7 +958,7 @@
 
 2.11.8. Budapest–Kelebia–Subotica (Szabadka) vasútvonal
 
-3.[^29] BÉKÉS VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+3.[^29] BÉKÉS MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 3.1. Békési Rendőrkapitányság
 
@@ -1136,7 +1136,7 @@
 
 3.13.[^34]
 
-4.[^35] BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+4.[^35] BORSOD-ABAÚJ-ZEMPLÉN MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 4.1. Edelényi Rendőrkapitányság
 
@@ -1970,7 +1970,7 @@
 
 5.23. Dunai Vízirendészeti Rendőrkapitányság, Budapest
 
-6.[^36] CSONGRÁD-CSANÁD VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+6.[^36] CSONGRÁD-CSANÁD MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 6.1. Csongrádi Rendőrkapitányság
 
@@ -2184,7 +2184,7 @@
 
 6.9.[^46]
 
-7.[^47] FEJÉR VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+7.[^47] FEJÉR MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 7.1. Bicskei Rendőrkapitányság
 
@@ -2414,7 +2414,7 @@
 
 7.6.34. Zámoly
 
-8.[^48] GYŐR-MOSON-SOPRON VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+8.[^48] GYŐR-MOSON-SOPRON MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 8.1. Csornai Rendőrkapitányság
 
@@ -2792,7 +2792,7 @@
 
 8.5.38. Zsira
 
-9.[^49] HAJDÚ-BIHAR VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+9.[^49] HAJDÚ-BIHAR MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 9.1. Balmazújvárosi Rendőrkapitányság
 
@@ -2982,7 +2982,7 @@
 
 9.11.[^52]
 
-10.[^53] HEVES VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+10.[^53] HEVES MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 10.1. Egri Rendőrkapitányság
 
@@ -3236,7 +3236,7 @@
 
 10.5.17. Zaránk
 
-11.[^54] JÁSZ-NAGYKUN-SZOLNOK VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+11.[^54] JÁSZ-NAGYKUN-SZOLNOK MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 11.1. Jászberényi Rendőrkapitányság
 
@@ -3410,7 +3410,7 @@
 
 11.8. Tiszai Vízirendészeti Rendőrkapitányság, Szolnok
 
-12.[^55] KOMÁROM-ESZTERGOM VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+12.[^55] KOMÁROM-ESZTERGOM MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 12.1. Esztergomi Rendőrkapitányság
 
@@ -3578,7 +3578,7 @@
 
 12.7.10. Vértesszőlős
 
-13.[^56] NÓGRÁD VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+13.[^56] NÓGRÁD MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 13.1. Balassagyarmati Rendőrkapitányság
 
@@ -3854,7 +3854,7 @@
 
 13.6.14. Varsány
 
-14.[^57] PEST VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+14.[^57] PEST MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 14.1. Budaörsi Rendőrkapitányság
 
@@ -4256,7 +4256,7 @@
 
 14.13.35. Zebegény
 
-15.[^58] SOMOGY VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+15.[^58] SOMOGY MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 15.1. Barcsi Rendőrkapitányság
 
@@ -4772,7 +4772,7 @@
 
 15.7. Balatoni Vízirendészeti Rendőrkapitányság, Siófok
 
-16.[^59] SZABOLCS-SZATMÁR-BEREG VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+16.[^59] SZABOLCS-SZATMÁR-BEREG MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 16.1. Fehérgyarmati Rendőrkapitányság
 
@@ -5462,7 +5462,7 @@
 
 16.14.32. Debrecen-Záhony vasútvonal
 
-17.[^64] TOLNA VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+17.[^64] TOLNA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 17.1. Bonyhádi Rendőrkapitányság
 
@@ -5692,7 +5692,7 @@
 
 17.5.32. Varsád
 
-18.[^65] VAS VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+18.[^65] VAS MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 18.1. Celldömölki Rendőrkapitányság
 
@@ -6138,7 +6138,7 @@
 
 18.6.23. Vasvár
 
-19.[^66] VESZPRÉM VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+19.[^66] VESZPRÉM MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 19.1. Ajkai Rendőrkapitányság
 
@@ -6588,7 +6588,7 @@
 
 19.7.34. Zirc
 
-20.[^67] ZALA VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
+20.[^67] ZALA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 20.1. Keszthelyi Rendőrkapitányság
 
@@ -7139,21 +7139,21 @@
 21.1.4. A légiforgalmi szolgálat központi létesítménye
 
 [^21]: Az 1. melléklet a 18/2015. (V. 21.) BM rendelet 2. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 1. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 1. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 11. pontja szerint módosított szöveg.
 [^23]: Az 1. melléklet 1. alcím 1.4. pont 1.4.94. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet 2. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 2. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 12. pontja szerint módosított szöveg.
 [^25]: Az 1. melléklet 2.8. pont 2.8.11. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
 [^26]: Az 1. melléklet 2.9. pontját (2.9.1.-2.9.3. pontját) a 62/2024. (XII. 30.) BM rendelet 6. §-a hatályon kívül helyezte.
 [^27]: Az 1. melléklet 2.10. pontja a 62/2024. (XII. 30.) BM rendelet 6. §-ával megállapított szöveg.
 [^28]: Az 1. melléklet 2.11. pontja a 62/2024. (XII. 30.) BM rendelet 6. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet 3. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 3. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 13. pontja szerint módosított szöveg.
 [^30]: Az 1. melléklet 3.9. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^31]: Az 1. melléklet 3.10. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^32]: Az 1. melléklet 3.11. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^33]: Az 1. melléklet 3.12. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^34]: Az 1. melléklet 3.13. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
-[^35]: Az 1. melléklet 4. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^36]: Az 1. melléklet 6. alcím címe a 39/2020. (XI. 4.) BM rendelet 3. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 4. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 14. pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 6. alcím címe a 39/2020. (XI. 4.) BM rendelet 3. §-ával megállapított, a 36/2026. (XI. 18.) BM rendelet 1. § 15. pontja szerint módosított szöveg.
 [^37]: Az 1. melléklet 6.7.7. pontja a 30/2021. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
 [^38]: Az 1. melléklet 6. alcím 6.7. pont 6.7.9. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
 [^39]: Az 1. melléklet 6. alcím 6.7. pont 6.7.10. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
@@ -7164,27 +7164,27 @@
 [^44]: Az 1. melléklet 6. alcím 6.7. pont 6.7.15. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
 [^45]: Az 1. melléklet 6.8. pontja az 5/2025. (II. 25.) BM rendelet 1. §-ával megállapított szöveg.
 [^46]: Az 1. melléklet 6.9. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
-[^47]: Az 1. melléklet 7. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^48]: Az 1. melléklet 8. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^49]: Az 1. melléklet 9. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 7. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 16. pontja szerint módosított szöveg.
+[^48]: Az 1. melléklet 8. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 17. pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 9. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 18. pontja szerint módosított szöveg.
 [^50]: Az 1. melléklet 9.pont 9.9. alpontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte, újonnan a 39/2025. (IX. 18.) BM rendelet 7. §-a iktatta be.
 [^51]: Az 1. melléklet 9.10. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^52]: Az 1. melléklet 9.11. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
-[^53]: Az 1. melléklet 10. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^54]: Az 1. melléklet 11. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^55]: Az 1. melléklet 12. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^56]: Az 1. melléklet 13. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^57]: Az 1. melléklet 14. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^58]: Az 1. melléklet 15. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^59]: Az 1. melléklet 16. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 10. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 19. pontja szerint módosított szöveg.
+[^54]: Az 1. melléklet 11. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 20. pontja szerint módosított szöveg.
+[^55]: Az 1. melléklet 12. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 21. pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet 13. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 22. pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet 14. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 23. pontja szerint módosított szöveg.
+[^58]: Az 1. melléklet 15. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 24. pontja szerint módosított szöveg.
+[^59]: Az 1. melléklet 16. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 25. pontja szerint módosított szöveg.
 [^60]: Az 1. melléklet 16.9. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^61]: Az 1. melléklet 16.10. pontját az 5/2025. (II. 25.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^62]: Az 1. melléklet 16.11. pontja az 5/2025. (II. 25.) BM rendelet 1. §-ával megállapított szöveg.
 [^63]: Az 1. melléklet 16.11. pont 16.11.39. alpontját a 39/2025. (IX. 18.) BM rendelet 7. §-a iktatta be.
-[^64]: Az 1. melléklet 17. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^65]: Az 1. melléklet 18. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^66]: Az 1. melléklet 19. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
-[^67]: Az 1. melléklet 20. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^64]: Az 1. melléklet 17. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 26. pontja szerint módosított szöveg.
+[^65]: Az 1. melléklet 18. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 27. pontja szerint módosított szöveg.
+[^66]: Az 1. melléklet 19. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 28. pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet 20. pontja a 36/2026. (XI. 18.) BM rendelet 1. § 29. pontja szerint módosított szöveg.
 [^68]: Az 1. melléklet 20.1. pont 20.51. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^69]: Az 1. melléklet 20. alcím 20.3. pont 20.3.77. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
 [^70]: Az 1. melléklet 20. alcím 20.3. pont 20.3.78. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
