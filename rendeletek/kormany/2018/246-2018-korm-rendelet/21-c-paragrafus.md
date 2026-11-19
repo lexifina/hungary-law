@@ -2,7 +2,7 @@
 
 ## 9/B. [^9] A nemzeti kapcsolattartó pont kijelölése és a feladatellátására vonatkozó részletes szabályok
 
-21/C. § (1) A Törvény tekintetében nemzeti kapcsolattartó pontként a Kormány a külgazdasági ügyekért felelős miniszter által vezetett minisztériumot jelöli ki.
+21/C. § (1)[^10] A Törvény tekintetében nemzeti kapcsolattartó pontként a Kormány a külpolitikáért felelős miniszter által vezetett minisztériumot jelöli ki.
 
 (2) A nemzeti kapcsolattartó pont haladéktalanul
 
@@ -11,3 +11,4 @@ a) tájékoztatja – az Alkotmányvédelmi Hivatal útján – a minisztert az 
 b) továbbítja az információs rendszeren keresztül a számára a miniszter által e célból megküldött adatokat és megkereséseket.
 
 [^9]: A 9/B. alcímet (21/C. §) a 802/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A 21/C. § (1) bekezdése az 501/2026. (XI. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.

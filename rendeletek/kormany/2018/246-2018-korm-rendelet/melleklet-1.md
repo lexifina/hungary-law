@@ -1,4 +1,4 @@
-## 23. §[^10] Az 1. § b) pontja, a 4. § (1) bekezdés e) pontja, a 7/A. §, valamint a 9/A. és a 9/B. alcím az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 23. §[^11] Az 1. § b) pontja, a 4. § (1) bekezdés e) pontja, a 7/A. §, valamint a 9/A. és a 9/B. alcím az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 246/2018. (XII. 17.) Korm. rendelethez
 
@@ -12,7 +12,7 @@ A TÖRVÉNYBEN MEGHATÁROZOTT TEVÉKENYSÉGI KÖRÖKÖN BELÜL BEJELENTÉSI KÖT
 
 ## 2. A kettős felhasználású termék előállítása körében bejelentési kötelezettség alá tartozó tevékenységek
 
-1.[^11] A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló 13/2011. (II. 22.) Korm. rendelet hatálya alá tartozó termék előállítása.
+1.[^12] A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló 13/2011. (II. 22.) Korm. rendelet hatálya alá tartozó termék előállítása.
 
-[^10]: A 23. §-t a 802/2021. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
-[^11]: Az 1. melléklet 2. alcím 1. pontja a 610/2022. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 23. §-t a 802/2021. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^12]: Az 1. melléklet 2. alcím 1. pontja a 610/2022. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
