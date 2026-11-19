@@ -26,43 +26,43 @@
 
 |  | 01 | Budapest Főváros Kormányhivatala |
 
-|  | 02 | Baranya Vármegyei Kormányhivatal |
+|  | 02 | Baranya Megyei Kormányhivatal |
 
-|  | 03 | Bács-Kiskun Vármegyei Kormányhivatal |
+|  | 03 | Bács-Kiskun Megyei Kormányhivatal |
 
-|  | 04 | Békés Vármegyei Kormányhivatal |
+|  | 04 | Békés Megyei Kormányhivatal |
 
-|  | 05 | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal |
+|  | 05 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-|  | 06 | Csongrád-Csanád Vármegyei Kormányhivatal |
+|  | 06 | Csongrád-Csanád Megyei Kormányhivatal |
 
-|  | 07 | Fejér Vármegyei Kormányhivatal |
+|  | 07 | Fejér Megyei Kormányhivatal |
 
-|  | 08 | Győr-Moson-Sopron Vármegyei Kormányhivatal |
+|  | 08 | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-|  | 09 | Hajdú-Bihar Vármegyei Kormányhivatal |
+|  | 09 | Hajdú-Bihar Megyei Kormányhivatal |
 
-|  | 10 | Heves Vármegyei Kormányhivatal |
+|  | 10 | Heves Megyei Kormányhivatal |
 
-|  | 11 | Komárom-Esztergom Vármegyei Kormányhivatal |
+|  | 11 | Komárom-Esztergom Megyei Kormányhivatal |
 
-|  | 12 | Nógrád Vármegyei Kormányhivatal |
+|  | 12 | Nógrád Megyei Kormányhivatal |
 
-|  | 13 | Pest Vármegyei Kormányhivatal |
+|  | 13 | Pest Megyei Kormányhivatal |
 
-|  | 14 | Somogy Vármegyei Kormányhivatal |
+|  | 14 | Somogy Megyei Kormányhivatal |
 
-|  | 15 | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal |
+|  | 15 | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
-|  | 16 | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal |
+|  | 16 | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
-|  | 17 | Tolna Vármegyei Kormányhivatal |
+|  | 17 | Tolna Megyei Kormányhivatal |
 
-|  | 18 | Vas Vármegyei Kormányhivatal |
+|  | 18 | Vas Megyei Kormányhivatal |
 
-|  | 19 | Veszprém Vármegyei Kormányhivatal |
+|  | 19 | Veszprém Megyei Kormányhivatal |
 
-|  | 20 | Zala Vármegyei Kormányhivatal |
+|  | 20 | Zala Megyei Kormányhivatal |
 
 |  | 21 | BM Országos Katasztrófavédelmi Főigazgatóság |
 
