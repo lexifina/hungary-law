@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-46-20-0
 | 2013-01-01 | 1999-46-20-0A.7 | 81/2012. (XII. 28.) BM rendelet |
 | 2017-01-01 | 1999-46-20-0A.8 | 81/2012. (XII. 28.) BM rendelet |
 | 2023-01-01 | 1999-46-20-0A.9 | 71/2012. (XII. 14.) BM rendelet |
+| 2026-11-19 | 1999-46-20-0A.10 | 71/2012. (XII. 14.) BM rendelet |
