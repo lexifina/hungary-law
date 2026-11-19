@@ -10,7 +10,7 @@ bb)[^5] a Készenléti Rendőrség: a saját dolgozói állománya, valamint kü
 
 bc) a Budapesti Rendőr-főkapitányság: a saját dolgozói állománya vonatkozásában,
 
-bd)[^6] a vármegyei rendőr-főkapitányságok: a saját dolgozói állományuk vonatkozásában,
+bd)[^6] a megyei rendőr-főkapitányságok: a saját dolgozói állományuk vonatkozásában,
 
 be)[^7] a Terrorelhárítási Központ: a saját dolgozói állománya vonatkozásában,
 
@@ -36,7 +36,7 @@ bn)[^15] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rend�
 [^3]: A 2. § a) pontja a 2/2023. (I. 30.) BM rendelet 16. §-ával megállapított szöveg.
 [^4]: A 2. § b) pontja a 15/2016. (V. 11.) BM rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
 [^5]: A 2. § b) pont bb) alpontja a 23/2026. (IX. 30.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § b) pont bd) alpontja a 45/2022. (XII. 20.) BM rendelet 74. §-a szerint módosított szöveg.
+[^6]: A 2. § b) pont bd) alpontja a 49/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^7]: A 2. § b) pont be) alpontját a 15/2023. (VII. 20.) MK rendelet 30. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 23/2026. (IX. 30.) BM rendelet 38. § (2) bekezdése iktatta be.
 [^8]: A 2. § b) pont bf) alpontját a 15/2023. (VII. 20.) MK rendelet 30. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^9]: A 2. § b) pont bg) alpontja a 35/2016. (VIII. 30.) BM rendelet 5. §-ával megállapított szöveg.
