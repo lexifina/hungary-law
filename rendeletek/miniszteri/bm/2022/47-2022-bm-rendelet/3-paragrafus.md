@@ -4,11 +4,11 @@
 
 ## 3. A határvadász szerződéses jogviszony létesítésének eljárásrendje
 
-3. § (1) A szerződéses jogviszony (a továbbiakban: jogviszony) létesítését a jelentkező kérelme alapján induló felvételi eljárás előzi meg. A kérelmet az általános rendőrségi feladatok ellátására létrehozott szerv vármegyei rendőrfőkapitányságához (a továbbiakban: vármegyei rendőrfőkapitányság) vagy a Készenléti Rendőrséghez kell benyújtani.
+3. § (1)[^1] A szerződéses jogviszony (a továbbiakban: jogviszony) létesítését a jelentkező kérelme alapján induló felvételi eljárás előzi meg. A kérelmet az általános rendőrségi feladatok ellátására létrehozott szerv megyei rendőrfőkapitányságához (a továbbiakban: megyei rendőrfőkapitányság) vagy a Készenléti Rendőrséghez kell benyújtani.
 
 (2) A kérelmet fogadó szervezeti egység a jelentkezőt tájékoztatja a jogviszony létesítésének és a határvadász beosztásba helyezésének feltételeiről, a határvadászt a jogszabályok alapján megillető alapvető jogokról és az őt terhelő kötelezettségekről.
 
-(3) A vármegyei rendőrfőkapitányság a hozzá benyújtott kérelmet öt munkanapon belül a humánigazgatási szervhez továbbítja.
+(3)[^2] A megyei rendőrfőkapitányság a hozzá benyújtott kérelmet öt munkanapon belül a humánigazgatási szervhez továbbítja.
 
 (4) A felvételre vonatkozó kérelemnek tartalmaznia kell a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet (a továbbiakban: R1.) 4. § (3) bekezdésében meghatározott adatokat.
 
@@ -27,3 +27,6 @@ e) a kifogástalan életvitel ellenőrzéséhez szükséges – a személyügyi 
 f) hatósági erkölcsi bizonyítványát.
 
 (6) Az (5) bekezdés d)–f) pontjában meghatározott nyilatkozatok csatolása hiányában a felvételi kérelmet további érdemi vizsgálat nélkül el kell utasítani. Egyéb okból hiányos vagy hitelesnek nem tekinthető okiratok pótlására, kiegészítésre a jelentkezőt tizenöt munkanapon belül írásban, lehetőség szerint rövid úton történő szóbeli tájékoztatása mellett, hiánypótlásra kell felhívni, tíz munkanap határidő kitűzésével, figyelmeztetve arra, hogy a hiánypótlás kitűzött határidőben történő teljesítésének hiányában a szerződéskötésre jogosult a rendelkezésre álló adatok alapján dönt a kérelemről.
+
+[^1]: A 3. § (1) bekezdése az 54/2026. (XI. 18.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése az 54/2026. (XI. 18.) BM rendelet 1. § b) pontja szerint módosított szöveg.

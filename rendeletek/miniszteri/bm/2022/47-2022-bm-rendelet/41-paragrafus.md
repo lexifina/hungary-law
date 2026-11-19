@@ -26,6 +26,6 @@ h) tájékoztatás arra vonatkozóan, hogy az egészségi, pszichológiai vagy f
 
 (5) Az időszakos alkalmasságvizsgálatra évente kerül sor.
 
-(6)[^1] Az időszakos alkalmasságvizsgálat a rendvédelmi szerv vezetőjének döntése alapján a határvadász szolgálati helyén is végrehajtható, amennyiben a 2. § 3. pontja szerinti Alkalmasságvizsgálati Szakmai Protokollban meghatározott feltételek biztosítottak.
+(6)[^3] Az időszakos alkalmasságvizsgálat a rendvédelmi szerv vezetőjének döntése alapján a határvadász szolgálati helyén is végrehajtható, amennyiben a 2. § 3. pontja szerinti Alkalmasságvizsgálati Szakmai Protokollban meghatározott feltételek biztosítottak.
 
-[^1]: A 41. § (6) bekezdését a 24/2023. (VI. 30.) BM rendelet 64. §-a iktatta be.
+[^3]: A 41. § (6) bekezdését a 24/2023. (VI. 30.) BM rendelet 64. §-a iktatta be.
