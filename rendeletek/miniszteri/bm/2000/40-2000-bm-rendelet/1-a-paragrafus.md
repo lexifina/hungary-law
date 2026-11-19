@@ -6,7 +6,7 @@ b)[^4] a Készenléti Rendőrség a saját dolgozói állománya, valamint kül�
 
 c) a Budapesti Rendőr-főkapitányság a saját dolgozói állománya vonatkozásában,
 
-d)[^5] a vármegyei rendőr-főkapitányságok a saját dolgozói állományuk vonatkozásában,
+d)[^5] a megyei rendőr-főkapitányságok a saját dolgozói állományuk vonatkozásában,
 
 e)[^6] a Terrorelhárítási Központ a saját dolgozói állománya vonatkozásában,
 
@@ -28,7 +28,7 @@ m) a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészett
 
 [^3]: Az 1/A. §-t a 41/2021. (XI. 25.) BM rendelet 1. §-a iktatta be.
 [^4]: Az 1/A. § b) pontja a 23/2026. (IX. 30.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1/A. § d) pontja a 45/2022. (XII. 20.) BM rendelet 18. §-a szerint módosított szöveg.
+[^5]: Az 1/A. § d) pontja a 33/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
 [^6]: Az 1/A. § e) pontját a 7/2023. (IV. 20.) MK rendelet 15. § b) pontja hatályon kívül helyezte, újonnan a 23/2026. (IX. 30.) BM rendelet 1. § (2) bekezdése iktatta be.
 [^7]: Az 1/A. § f) pontját a 7/2023. (IV. 20.) MK rendelet 15. § b) pontja hatályon kívül helyezte.
 [^8]: Az 1/A. § j) pontját a 16/2025. (V. 29.) BM rendelet 5. §-a hatályon kívül helyezte.
