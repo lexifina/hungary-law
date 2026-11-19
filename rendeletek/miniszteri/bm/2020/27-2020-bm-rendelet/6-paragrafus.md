@@ -2,7 +2,7 @@
 
 ## 4. A fizikai állóképesség vizsgálata
 
-6. §[^2] A fizikai állóképesség felmérését a jelentkező által megpályázott iskolaőri álláshely szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság, illetve iskolaőr esetén a munkáltató személyi állományának
+6. §[^2] A fizikai állóképesség felmérését a jelentkező által megpályázott iskolaőri álláshely szerint illetékes megyei (fővárosi) rendőr-főkapitányság, illetve iskolaőr esetén a munkáltató személyi állományának
 
 a) testnevelési vagy sportszakmai szakképesítéssel vagy
 
@@ -10,4 +10,4 @@ b) legalább kétéves, a fizikai alkalmasság felmérésében szerzett gyakorla
 
 rendelkező tagja végzi.
 
-[^2]: A 6. § nyitó szövegrésze a 45/2022. (XII. 20.) BM rendelet 90. §-a szerint módosított szöveg.
+[^2]: A 6. § nyitó szövegrésze az 52/2026. (XI. 18.) BM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-27-20-0
 | --- | --- | --- |
 | 2020-07-18 | 2020-27-20-0A.1 | 27/2020. (VII. 17.) BM rendelet |
 | 2023-01-01 | 2020-27-20-0A.2 | 45/2022. (XII. 20.) BM rendelet |
+| 2026-11-19 | 2020-27-20-0A.3 | 52/2026. (XI. 18.) BM rendelet |

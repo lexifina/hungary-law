@@ -6,6 +6,6 @@ a) az iskolaőri munkakörbe jelentkező személyre (a továbbiakban: jelentkez�
 
 b) az iskolaőrökre, valamint
 
-c)[^1] a vármegyei (fővárosi) rendőr-főkapitányságokra (a továbbiakban: munkáltató).
+c)[^1] a megyei (fővárosi) rendőr-főkapitányságokra (a továbbiakban: munkáltató).
 
-[^1]: Az 1. § c) pontja a 45/2022. (XII. 20.) BM rendelet 90. §-a szerint módosított szöveg.
+[^1]: Az 1. § c) pontja az 52/2026. (XI. 18.) BM rendelet 1. § a) pontja szerint módosított szöveg.
