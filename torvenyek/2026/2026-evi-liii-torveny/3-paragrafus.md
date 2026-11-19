@@ -1,3 +1,1 @@
-3. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 57/A. alcíme a következő 176/B. §-sal egészül ki:
-
-„176/B. § A 76. § (11a) bekezdése, valamint a 163–166. § a közéletben részt vevő személyeknek a nyilvánvalóan megalapozatlan keresetekkel vagy visszaélésszerű bírósági eljárásokkal („közéleti részvételt akadályozó stratégiai perekkel”) szembeni védelméről szóló, 2024. április 11-i (EU) 2024/1069 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+### 3. §
