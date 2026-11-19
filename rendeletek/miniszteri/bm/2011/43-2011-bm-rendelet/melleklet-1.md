@@ -2,6 +2,6 @@
 
 Katasztrófavédelmi kirendeltségek illetékességi területe
 
-2X09317Q2.pdf
+6X06314M.pdf
 
-[^3]: Az 1. melléklet a 71/2012. (XII. 14.) BM rendelet – 87/2012. (XII. 29.) BM rendelet 3. §-a szerint módosított – 11. § (2) bekezdésével megállapított, a 47/2014. (X. 10.) BM rendelet 3. §-a, a 7/2015. (III. 6.) BM rendelet 1. §-a, a 39/2020. (XI. 4.) BM rendelet 4. §-a, a 45/2022. (XII. 20.) BM rendelet 56. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 71/2012. (XII. 14.) BM rendelet – 87/2012. (XII. 29.) BM rendelet 3. §-a szerint módosított – 11. § (2) bekezdésével megállapított, a 47/2014. (X. 10.) BM rendelet 3. §-a, a 7/2015. (III. 6.) BM rendelet 1. §-a, a 39/2020. (XI. 4.) BM rendelet 4. §-a, a 45/2022. (XII. 20.) BM rendelet 56. §-a, a 40/2026. (XI. 18.) BM rendelet 1. §-a szerint módosított szöveg.
