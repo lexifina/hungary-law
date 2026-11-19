@@ -16,7 +16,7 @@
 
 7. az (EU) 2019/997 tanácsi irányelvvel létrehozott uniós ideiglenes úti okmányra vonatkozó további technikai előírások megállapításáról C(2022) 8938 bizottsági végrehajtási határozat
 
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E rendelet 1. számú melléklet 2. pontja
 
@@ -42,7 +42,7 @@
 
 11. a fogyatékossággal élő személyek parkolási kártyájáról szóló, 1998. június 4-i 98/376/EK tanácsi ajánlásnak és az azt kiigazító 2008. március 3-i 2008/205/EK tanácsi ajánlásnak
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (3) E rendelet 1. számú melléklet 2. pontja
 
@@ -61,6 +61,8 @@
 7. az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i európai parlamenti és tanácsi (EU) 2019/1157 rendelet;
 
 8. a belvízi hajózás szakmai képesítések tekintetében alkalmazott mintákról szóló (EU) 2020/182 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^57]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
 [^58]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be, szövege az 563/2023. (XII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.

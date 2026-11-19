@@ -1,5 +1,3 @@
-## 5/B. §[^23] A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó kibocsátó esetében a kibocsátót irányító (felügyelő) miniszter köteles a hatáskörébe tartozó biztonsági okmányokkal kapcsolatos irányítási (felügyeleti) feladatok koordinálásáért felelős személyt kijelölni, és a kijelölésről, illetve a kijelölésben történt változásokról a Szakszolgálatot haladéktalanul értesíteni.
-
 ## A biztonsági okmány rendszeresítése[^24]
 
 5/C. § (1) Biztonsági okmányként kell rendszeresíteni azt a természetes vagy jogi személyekkel, tárgyakkal, objektumokkal közvetlen vagy közvetett kapcsolatban álló olyan iratot vagy digitális okmányt, amely tulajdonosának, birtokosának személyét hitelesen igazolja, vagy jogosultságok gyakorlását, illetve kötelezettségek teljesítését teszi lehetővé, és az irat jogszerűtlen, illetve rendeltetésellenes használata nemzetbiztonsági, közbiztonsági, bűnügyi, igazgatási vagy egyéb nemzetgazdasági érdekeket súlyosan sérthet.
@@ -18,5 +16,4 @@ b) az okmányvédelmi – és informatikai adathordozót tartalmazó biztonsági
 
 (6) A kezdeményezést a Szakszolgálat felterjeszti a miniszter részére, egyúttal javaslatot tesz az okmányvédelmi – és informatikai adathordozót tartalmazó biztonsági okmány esetében az okmányinformatikai védelmi – kategóriába történő besorolásra. A felterjesztés során a Szakszolgálat a kezdeményezésben szereplő javaslattól eltérő okmányvédelmi – és informatikai adathordozót tartalmazó biztonsági okmány esetében okmányinformatikai védelmi – kategóriára is javaslatot tehet, amit indokolni köteles.
 
-[^23]: Az 5/B. §-t a 312/2015. (X. 28.) Korm. rendelet 5. §-a iktatta be.
 [^24]: Az „A biztonsági okmány rendszeresítése” alcímet (5/C-5/D. §-t) az 563/2023. (XII. 14.) Korm. rendelet 5. §-a iktatta be.

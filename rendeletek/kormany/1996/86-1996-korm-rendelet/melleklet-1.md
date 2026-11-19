@@ -1,5 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
-
 1. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^59]
 
 A biztonsági okmányok
@@ -294,11 +292,11 @@ A biztonsági okmányok
 
 3.2.5. belépési engedély a Honvédelmi Minisztérium épületébe és a Magyar Honvédség használatában lévő objektumokba;
 
-3.2.6. ideiglenes belépőokmány a Külgazdasági és Külügyminisztérium épületeibe;
+3.2.6.[^69] ideiglenes belépőokmány a Külügyminisztérium épületeibe;
 
-3.2.7. fényképes biztonsági belépőokmány a Külgazdasági és Külügyminisztérium munkatársai részére;
+3.2.7.[^70] fényképes biztonsági belépőokmány a Külügyminisztérium munkatársai részére;
 
-3.2.8. a Külgazdasági és Külügyminisztérium által kibocsátott nyugdíjas igazolvány;
+3.2.8.[^71] a Külügyminisztérium által kibocsátott nyugdíjas igazolvány;
 
 3.2.9. ideiglenes belépési engedély az ügyészségi szerv épületébe;
 
@@ -324,13 +322,16 @@ A biztonsági okmányok
 
 3.2.20. a légiközlekedési, a légiközlekedési védelmi hatósági felügyeletet ellátó és a légiközlekedés védelmi, valamint biztonsági ellenőrzést végző személyek részére kiállított, a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre, ellenőrzésre jogosító igazolvány.
 
-[^59]: Az 1. melléklet az 563/2023. (XII. 14.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^60]: Az 1. melléklet 3. pont 3.1.23. alpontja a 326/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^61]: Az 1. melléklet 3.1.34. pontja a 176/2024. (VII. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^62]: Az 1. melléklet 3.1.44. pontja a 313/2024. (XI. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^59]: Az 1. számú melléklet az 563/2023. (XII. 14.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^60]: Az 1. számú melléklet 3. pont 3.1.23. alpontja a 326/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^61]: Az 1. számú melléklet 3.1.34. pontja a 176/2024. (VII. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^62]: Az 1. számú melléklet 3.1.44. pontja a 313/2024. (XI. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^63]: Az 1. számú melléklet 3.1.46. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^64]: Az 1. számú melléklet 3.1.48. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^65]: Az 1. melléklet 3.1.64. pontja a 160/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^65]: Az 1. számú melléklet 3.1.64. pontja a 160/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^66]: Az 1. számú melléklet 3.1.109. pontja a 227/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^67]: Az 1. melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^68]: Az 1. melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^67]: Az 1. számú melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^68]: Az 1. számú melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^69]: Az 1. számú melléklet 3. pont 3.2. alpont 3.2.6. pontja a 496/2026. (XI. 18.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^70]: Az 1. számú melléklet 3. pont 3.2. alpont 3.2.7. pontja a 496/2026. (XI. 18.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^71]: Az 1. számú melléklet 3. pont 3.2. alpont 3.2.8. pontja a 496/2026. (XI. 18.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
