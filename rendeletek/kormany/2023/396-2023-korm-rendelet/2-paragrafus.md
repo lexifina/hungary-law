@@ -50,7 +50,7 @@ c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 25. § (3) be
 
 (16)[^13] E rendelet hatálya nem terjed ki a Digitális Megújulás Operatív Program Plusz keretében finanszírozott projektek keretében megvalósuló képzési beszerzésekre.
 
-(17)[^14] E rendelet hatálya nem terjed ki a Balassi Bálint-ösztöndíjprogram, valamint a Diaszpóra Felsőoktatási Ösztöndíjprogram keretében a Külgazdasági és Külügyminisztérium által nyújtott képzések és tananyagfejlesztés megvalósítását célzó beszerzésekre.
+(17)[^14] E rendelet hatálya nem terjed ki a Balassi Bálint-ösztöndíjprogram, valamint a Diaszpóra Felsőoktatási Ösztöndíjprogram keretében a külpolitikáért felelős miniszter által vezetett minisztérium által nyújtott képzések és tananyagfejlesztés megvalósítását célzó beszerzésekre.
 
 [^4]: A 2. § (3) bekezdése a 278/2025. (VIII. 21.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdés b) pontja a 126/2024. (VI. 14.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
@@ -62,4 +62,4 @@ c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 25. § (3) be
 [^11]: A 2. § (14) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^12]: A 2. § (15) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^13]: A 2. § (16) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^14]: A 2. § (17) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 2. § (17) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 504/2026. (XI. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
