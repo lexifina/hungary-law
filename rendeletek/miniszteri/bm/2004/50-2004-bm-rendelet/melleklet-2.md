@@ -22,17 +22,17 @@
 
 | 11 | Szervezeteknél a lőfegyvert, lőszert birtokló alkalmazottak foglalkoztatásához szükséges hozzájárulás, illetve az alkalmazotti engedély kiadása | 2 700 |
 
-| 12 | Lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer, lőszerelem behozatali, kiviteli, átszállítási engedélyezése forgalmazás (kereskedelem) céljából[^21] | 40 500 |
+| 12 | Lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer, lőszerelem behozatali, kiviteli, átszállítási engedélyezése forgalmazás (kereskedelem) céljából[^24] | 40 500 |
 
-| 13 | Lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer behozatali, kiviteli, átszállítási engedélyezése turista forgalomban fegyverenként, illetve tűzfegyver fődarabonként (lőfegyverdarabonként) (a színházi tűzfegyver kivételével)[^22] | 6 075 |
+| 13 | Lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer behozatali, kiviteli, átszállítási engedélyezése turista forgalomban fegyverenként, illetve tűzfegyver fődarabonként (lőfegyverdarabonként) (a színházi tűzfegyver kivételével)[^25] | 6 075 |
 
 | 14 | Lőfegyver, lőszer behozatali, kiviteli, átszállítási engedélyezése turista forgalomban csak lőszer esetén | 2 700 |
 
 | 15 | Határvámhivatal igazolása | 4 050 |
 
-| 16 | Lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartásának engedélyezése lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartásának engedélyezésére szolgáló okmány kiállításával (a filmgyártási célú lőfegyver, valamint a színházi tűzfegyver kivételével)[^23] | 8 100 |
+| 16 | Lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartásának engedélyezése lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartásának engedélyezésére szolgáló okmány kiállításával (a filmgyártási célú lőfegyver, valamint a színházi tűzfegyver kivételével)[^26] | 8 100 |
 
-| 17 | Újabb lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartása engedélyezésének bejegyzése a lőfegyvertartás engedélyezésére szolgáló okmányba (a színházi tűzfegyver kivételével)[^24] | 4 050 |
+| 17 | Újabb lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartása engedélyezésének bejegyzése a lőfegyvertartás engedélyezésére szolgáló okmányba (a színházi tűzfegyver kivételével)[^27] | 4 050 |
 
 | 18 | A kizárólag 7,5 joule vagy az alatti csőtorkolati energiájú tűzfegyver tartásának engedélyezése (az engedély cseréje, pótlása is) | 2 700 |
 
@@ -40,7 +40,7 @@
 
 | 20 | Az Európai Lőfegyvertartási Engedély kiállítása, meghosszabbítása | 5 400 |
 
-| 21 | Szervezetek számára a lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartásának engedélyezése fegyverenként, illetve tűzfegyver fődarabonként (lőfegyverdarabonként) (a színházi tűzfegyver kivételével)[^25] | 4 050 |
+| 21 | Szervezetek számára a lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartásának engedélyezése fegyverenként, illetve tűzfegyver fődarabonként (lőfegyverdarabonként) (a színházi tűzfegyver kivételével)[^28] | 4 050 |
 
 | 22 | Színházi tűzfegyver tartásának engedélyezése fegyverenként (az engedély cseréje, pótlása is) | 2 700 |
 
@@ -50,13 +50,13 @@
 
 | 25 | Az engedélyezésre szolgáló okmányokba történő hatósági bejegyzés | 4 050 |
 
-| 26 | A lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartására jogosító engedély cseréje, pótlása (a színházi tűzfegyver tartására jogosító engedély cseréje, pótlása kivételével)[^26] | 5 400 |
+| 26 | A lőfegyver, tűzfegyver fődarab (lőfegyverdarab) tartására jogosító engedély cseréje, pótlása (a színházi tűzfegyver tartására jogosító engedély cseréje, pótlása kivételével)[^29] | 5 400 |
 
-| 27 | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása 10 db lőfegyverig, illetve tűzfegyver fődarabig (lőfegyverdarabig)[^27] | 3 375 |
+| 27 | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása 10 db lőfegyverig, illetve tűzfegyver fődarabig (lőfegyverdarabig)[^30] | 3 375 |
 
-| 28 | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása 11–25 db lőfegyverig, illetve tűzfegyver fődarabig (lőfegyverdarabig)[^28] | 6 075 |
+| 28 | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása 11–25 db lőfegyverig, illetve tűzfegyver fődarabig (lőfegyverdarabig)[^31] | 6 075 |
 
-| 29 | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása 25 db lőfegyver, illetve tűzfegyver fődarab (lőfegyverdarab) felett[^29] | 9 450 |
+| 29 | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása 25 db lőfegyver, illetve tűzfegyver fődarab (lőfegyverdarab) felett[^32] | 9 450 |
 
 | 30 | Filmgyártási célú lőfegyver behozatali, kiviteli, átszállítási, tartási engedélyezése esetén alapdíjként | 17 550 |
 
@@ -76,15 +76,15 @@
 
 | 38 | A fegyver kezelésére, illetve használatára jogosult személynek a szervezet részére kiadott lőfegyvertartási engedélybe történő bejegyzése, valamint az engedélyből történő törlése, kérelmenként | 2 400 |
 
-2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^30]
+2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^33]
 
-[^21]: Az 1. számú mellékletben foglalt táblázat A:12 mezője a 15/2026. (VII. 27.) BM rendelet 7. § f) pontja szerint módosított szöveg.
-[^22]: Az 1. számú mellékletben foglalt táblázat A:13 mezője a 15/2026. (VII. 27.) BM rendelet 7. § g) pontja szerint módosított szöveg.
-[^23]: Az 1. számú mellékletben foglalt táblázat A:16 mezője a 15/2026. (VII. 27.) BM rendelet 7. § h) pontja szerint módosított szöveg.
-[^24]: Az 1. számú mellékletben foglalt táblázat A:17 mezője a 15/2026. (VII. 27.) BM rendelet 7. § i) pontja szerint módosított szöveg.
-[^25]: Az 1. számú mellékletben foglalt táblázat A:21 mezője a 15/2026. (VII. 27.) BM rendelet 7. § j) pontja szerint módosított szöveg.
-[^26]: Az 1. számú mellékletben foglalt táblázat A:26 mezője a 15/2026. (VII. 27.) BM rendelet 7. § k) pontja szerint módosított szöveg.
-[^27]: Az 1. számú mellékletben foglalt táblázat A:27 mezője a 15/2026. (VII. 27.) BM rendelet 7. § l) pontja szerint módosított szöveg.
-[^28]: Az 1. számú mellékletben foglalt táblázat A:28 mezője a 15/2026. (VII. 27.) BM rendelet 7. § l) pontja szerint módosított szöveg.
-[^29]: Az 1. számú mellékletben foglalt táblázat A:29 mezője a 15/2026. (VII. 27.) BM rendelet 7. § m) pontja szerint módosított szöveg.
-[^30]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított, a 39/2020. (XI. 4.) BM rendelet 1. §-a szerint módosított szöveg.
+[^24]: Az 1. számú mellékletben foglalt táblázat A:12 mezője a 15/2026. (VII. 27.) BM rendelet 7. § f) pontja szerint módosított szöveg.
+[^25]: Az 1. számú mellékletben foglalt táblázat A:13 mezője a 15/2026. (VII. 27.) BM rendelet 7. § g) pontja szerint módosított szöveg.
+[^26]: Az 1. számú mellékletben foglalt táblázat A:16 mezője a 15/2026. (VII. 27.) BM rendelet 7. § h) pontja szerint módosított szöveg.
+[^27]: Az 1. számú mellékletben foglalt táblázat A:17 mezője a 15/2026. (VII. 27.) BM rendelet 7. § i) pontja szerint módosított szöveg.
+[^28]: Az 1. számú mellékletben foglalt táblázat A:21 mezője a 15/2026. (VII. 27.) BM rendelet 7. § j) pontja szerint módosított szöveg.
+[^29]: Az 1. számú mellékletben foglalt táblázat A:26 mezője a 15/2026. (VII. 27.) BM rendelet 7. § k) pontja szerint módosított szöveg.
+[^30]: Az 1. számú mellékletben foglalt táblázat A:27 mezője a 15/2026. (VII. 27.) BM rendelet 7. § l) pontja szerint módosított szöveg.
+[^31]: Az 1. számú mellékletben foglalt táblázat A:28 mezője a 15/2026. (VII. 27.) BM rendelet 7. § l) pontja szerint módosított szöveg.
+[^32]: Az 1. számú mellékletben foglalt táblázat A:29 mezője a 15/2026. (VII. 27.) BM rendelet 7. § m) pontja szerint módosított szöveg.
+[^33]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított, a 39/2020. (XI. 4.) BM rendelet 1. §-a szerint módosított szöveg.

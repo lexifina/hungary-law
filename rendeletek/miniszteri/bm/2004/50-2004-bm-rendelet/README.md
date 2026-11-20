@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-0
 | 2025-01-30 | 2004-50-20-0A.14 | 61/2024. (XII. 30.) BM rendelet |
 | 2025-06-02 | 2004-50-20-0A.15 | 14/2025. (V. 17.) BM rendelet |
 | 2026-07-28 | 2004-50-20-0A.16 | 15/2026. (VII. 27.) BM rendelet |
+| 2026-11-20 | 2004-50-20-0A.17 | 60/2026. (XI. 19.) BM rendelet |
