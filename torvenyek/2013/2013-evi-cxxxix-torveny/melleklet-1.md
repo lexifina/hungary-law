@@ -87,5 +87,3 @@ Kötelező elektronikus kapcsolattartással érintett egyes ügyek
 2.1. befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert a befektetési alapkezelő befektetési alapkezelési tevékenység végzésére jogosító engedélyét az MNB visszavonta,
 
 2.2. befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert az MNB kötelezte a befektetési alapkezelőt a befektetési alap kezelésének átadására, azonban a befektetési alap kezelését egyetlen befektetési alapkezelő sem veszi át,
-
-3. a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között az (EU) 2017/1129 európai parlamenti és tanácsi rendelet 1. cikk (4) bekezdés f) és g) pontjában, illetve 1. cikk (5) bekezdés e) és f) pontjában meghatározott tájékoztató dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,

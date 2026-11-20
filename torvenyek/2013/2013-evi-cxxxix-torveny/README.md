@@ -91,3 +91,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2026-07-18 | 2026. évi XXVII. törvény | 2013-139-00-00.88 |
 | 2026-07-31 | 2026. évi XXXV. törvény | 2013-139-00-00.90 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2013-139-00-00.89 |
+| 2026-11-20 | 2025. évi C. törvény | 2013-139-00-00.83 |

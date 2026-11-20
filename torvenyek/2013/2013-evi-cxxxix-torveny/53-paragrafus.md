@@ -22,7 +22,7 @@ e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet r
 
 (3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
 
-(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Jht.-ban, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Jht.-ban, a fogyasztónak nyújtott hitelről szóló törvényben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
 
