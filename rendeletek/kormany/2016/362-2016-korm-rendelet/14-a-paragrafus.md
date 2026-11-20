@@ -1,3 +1,3 @@
-14/A. §[^25]
+14/A. §[^26]
 
-[^25]: A 14/A. §-t a 86/2019. (IV. 23.) Korm. rendelet 65. § (1) bekezdése iktatta be, a 388/2025. (XII. 10.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^26]: A 14/A. §-t a 86/2019. (IV. 23.) Korm. rendelet 65. § (1) bekezdése iktatta be, a 388/2025. (XII. 10.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

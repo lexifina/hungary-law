@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-362-20-
 | 2022-07-01 | 2016-362-20-22.9 | 762/2021. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2016-362-20-22.10 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2026-02-09 | 2016-362-20-22.11 | 86/2019. (IV. 23.) Korm. rendelet |
+| 2026-11-20 | 2016-362-20-22.12 | 219/2026. (IX. 28.) Korm. rendelet |
