@@ -14,12 +14,8 @@
 
 (7) Ha a terhelt átadásának végrehajtására nem került sor, az átadási letartóztatás a (4)–(6) bekezdésben említett határidők lejártával megszűnik.
 
-(8) Ha a bíróság határozata a 13. § (1) bekezdése alapján a terhelt átadását rendelte el, és a terhelt átadásának végrehajtása előtt az átadás megtagadása céljából a legfőbb ügyész a törvényesség érdekében jogorvoslatot jelentett be, a jogorvoslat bejelentése a határozat végrehajtására halasztó hatályú.
+(8)
 
-(9) Ha a Kúria a törvényesség érdekében bejelentett jogorvoslatot alaposnak találja, a törvénysértő határozatot
+(9)
 
-a) megváltoztathatja, vagy
-
-b) hatályon kívül helyezheti, és az eljárást megszüntetheti, vagy az eljárt bíróságot új eljárásra utasíthatja.
-
-(10) A Kúria a törvényesség érdekében bejelentett jogorvoslat elbírálása során a 16. §-ban meghatározott határidők figyelembevételével jár el.
+(10)
