@@ -30,4 +30,4 @@ g) végrehajtási jog.
 
 (8) A lajstromba vételről a hajózási hatóság az úszólétesítmények lajstromozásáról szóló jogszabályban meghatározott okmányt állít ki. A lajstromozási okmányt vagy más – a hajózási hatóság által kiállított – olyan okmányt, amely a lajstromozás tényét tanúsítja, az úszólétesítményen kell tartani.
 
-(9)
+(9) A lajstromban szereplő adatokat, jogokat és tényeket a nyomozó hatóság, valamint a nyomozó hatóság vagyonvisszaszerzésért felelős szerve közvetlen adathozzáféréssel átveheti.
