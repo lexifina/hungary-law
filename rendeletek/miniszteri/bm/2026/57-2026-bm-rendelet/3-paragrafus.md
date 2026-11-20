@@ -1,0 +1,1 @@
+3. § Az előállítás és az elővezetés végrehajtásával kapcsolatban felmerült költségek egyes tételeiről és mértékéről, valamint az elrendelő szerv részére történő igazolásáról és a költségek megtérítéséről szóló 21/2023. (VI. 30.) BM rendelet 3. § (1) bekezdés c) pontjában az „ügyészség vagy hatóság” szövegrész helyébe az „ügyészség, hatóság vagy más jogosult” szöveg lép.

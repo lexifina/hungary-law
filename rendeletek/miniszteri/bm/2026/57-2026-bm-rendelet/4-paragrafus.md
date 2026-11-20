@@ -1,0 +1,1 @@
+4. § Hatályát veszti az előállítás és az elővezetés végrehajtásával kapcsolatban felmerült költségek egyes tételeiről és mértékéről, valamint az elrendelő szerv részére történő igazolásáról és a költségek megtérítéséről szóló 21/2023. (VI. 30.) BM rendelet 8. § (1) bekezdése.
