@@ -2,7 +2,7 @@
 
 1. melléklet a 25/2013. (VI. 24. ) BM rendelethez
 
-A vármegyei (fővárosi) rendőr-főkapitányságok hatáskörébe tartozó bűncselekmények[^34]
+A megyei (fővárosi) rendőr-főkapitányságok hatáskörébe tartozó bűncselekmények[^34]
 
 1. Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XV. Fejezet – az élet, a testi épség és az egészség elleni bűncselekmények
 
@@ -360,7 +360,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény.
 
 [^32]: A 16. §-t a 28/2021. (VIII. 16.) BM rendelet 2. §-a iktatta be.
 [^33]: A hatálybalépés időpontja 2021. augusztus 24.
-[^34]: Az 1. melléklet címe az 50/2022. (XII. 27.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet címe a 65/2026. (XI. 19.) BM rendelet 1. § c) pontja szerint módosított szöveg.
 [^35]: Az 1. melléklet 1. pont 1.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 5. pontja, a 23/2026. (IX. 30.) BM rendelet 30. § 16. pontja szerint módosított szöveg.
 [^36]: Az 1. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 6. pontja, a 2/2026. (II. 19.) BM rendelet 19. § a) pontja, a 23/2026. (IX. 30.) BM rendelet 30. § 17. pontja szerint módosított szöveg.
 [^37]: Az 1. melléklet 3. pont 3.9. alpontja a 32/2019. (VII. 31.) BM rendelet 3. §-ával megállapított szöveg.

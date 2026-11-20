@@ -52,7 +52,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 8. Btk. XXIII. fejezet – a környezet és a természet elleni bűncselekmények
 
-8.1.[^83] Btk. 241. § (1) bekezdés c) pont – Környezetkárosítás bűntette, ha az három vagy több vármegyét érint, kivéve a vízirendészeti rendőrkapitányságok hatáskörébe tartozó esetet
+8.1.[^83] Btk. 241. § (1) bekezdés c) pont – Környezetkárosítás bűntette, ha az három vagy több megyét érint, kivéve a vízirendészeti rendőrkapitányságok hatáskörébe tartozó esetet
 
 8.2. Btk. 242. § (2) bekezdés b) pont – Természetkárosítás bűntette, kivéve a vízirendészeti rendőrkapitányságok hatáskörébe tartozó esetet
 
@@ -184,7 +184,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 [^80]: A 2. melléklet 5.2. pontját a 11/2020. (IV. 27.) BM rendelet 3. § a) pontja hatályon kívül helyezte.
 [^81]: A 2. melléklet 5. pont 5.5. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
 [^82]: A 2. melléklet 6.5. pontja a 66/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
-[^83]: A 2. melléklet 8.1. pontja az 50/2022. (XII. 27.) BM rendelet 6. § b) pontja szerint módosított szöveg.
+[^83]: A 2. melléklet 8.1. pontja a 65/2026. (XI. 19.) BM rendelet 1. § d) pontja szerint módosított szöveg.
 [^84]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 11/2020. (IV. 27.) BM rendelet 3. § b) pontja.
 [^85]: A 2. melléklet 11. pontja a 21/2018. (VI. 29.) BM rendelet 14. §-ával megállapított szöveg.
 [^86]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja, a 23/2026. (IX. 30.) BM rendelet 30. § 44. pontja szerint módosított szöveg.

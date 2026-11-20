@@ -4,7 +4,7 @@
 
 a) 1 000 000 Ft-ot meg nem haladó érték esetén a vagyonkutatást elrendelő ügyészség székhelye szerint illetékes helyi nyomozó hatóság,
 
-b)[^20] 1 000 001 Ft és 100 000 000 Ft közötti érték esetén a vagyonkutatást elrendelő ügyészség székhelye szerint illetékes szerinti vármegyei (fővárosi) rendőr-főkapitányság,
+b)[^20] 1 000 001 Ft és 100 000 000 Ft közötti érték esetén a vagyonkutatást elrendelő ügyészség székhelye szerint illetékes szerinti megyei (fővárosi) rendőr-főkapitányság,
 
 c)[^21] 100 000 000 Ft-ot meghaladó érték esetén az NNI
 
@@ -21,7 +21,7 @@ c)[^21] 100 000 000 Ft-ot meghaladó érték esetén az NNI
 (6) A (2)–(4) bekezdés szerinti hatáskörbe utalás vagy hatáskörbe vonás esetén a vagyonkutatás az arra eredetileg hatáskörrel rendelkező nyomozó hatóságnak nem adható vissza.
 
 [^19]: Az 5/B. alcímet (10/B. §) a 28/2021. (VIII. 16.) BM rendelet 1. §-a iktatta be.
-[^20]: A 10/B. § (1) bekezdés b) pontja az 50/2022. (XII. 27.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^20]: A 10/B. § (1) bekezdés b) pontja a 65/2026. (XI. 19.) BM rendelet 1. § b) pontja szerint módosított szöveg.
 [^21]: A 10/B. § (1) bekezdés c) pontja a 23/2026. (IX. 30.) BM rendelet 30. § 12. pontja szerint módosított szöveg.
 [^22]: A 10/B. § (2) bekezdése a 23/2026. (IX. 30.) BM rendelet 30. § 13. pontja szerint módosított szöveg.
 [^23]: A 10/B. § (3) bekezdése a 23/2026. (IX. 30.) BM rendelet 30. § 14. pontja szerint módosított szöveg.
