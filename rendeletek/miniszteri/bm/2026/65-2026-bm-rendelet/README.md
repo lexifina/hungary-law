@@ -1,0 +1,9 @@
+# 65/2026. (XI. 19.) BM rendelet
+
+a Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 25/2013. (VI. 24.) BM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-65-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-11-20 | 2026-65-20-0A.1 | 65/2026. (XI. 19.) BM rendelet |
