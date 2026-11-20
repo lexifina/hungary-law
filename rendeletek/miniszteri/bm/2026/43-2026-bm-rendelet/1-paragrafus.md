@@ -4,4 +4,6 @@
 
 ## [3] Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (11) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A belügyminiszter irányítása alá tartozó szervek sugárvédelmi ellenőrző rendszerének működési szabályairól szóló 7/2012. (III. 7.) BM rendelet 5. § (3) bekezdés a) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
