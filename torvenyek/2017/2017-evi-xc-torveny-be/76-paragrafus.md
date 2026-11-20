@@ -1,6 +1,6 @@
 76. § (1) A költségkedvezmény
 
-a) a terhelt esetén a kirendelt védő és az ügygondnok díjának és költségeinek állam általi előlegezésére és viselésére,
+a) a terhelt és a bűncselekmény elkövetésével megalapozottan gyanúsítható személy esetén a kirendelt védő és az ügygondnok díjának és költségeinek állam általi előlegezésére és viselésére,
 
 b) a sértett, a vagyoni érdekelt és az egyéb érdekelt esetén a pártfogó ügyvéd díjának és költségeinek állam általi előlegezésére és a jogi segítségnyújtásról szóló törvényben meghatározott esetekben viselésére, valamint az ügygondnok díjának és költségeinek állam általi előlegezésére,
 

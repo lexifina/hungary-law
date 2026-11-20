@@ -7,3 +7,5 @@ a) elektronikus úton teljesítendő kérelem esetén legalább egy, legfeljebb 
 b) egyéb úton teljesítendő kérelem esetén legalább nyolc, legfeljebb harmincnapos
 
 határidő állapítható meg.
+
+(3) A nyomozó hatóság vagyonvisszaszerzésért felelős szerve az adatszolgáltatásra legalább három-, legfeljebb hétnapos határidőt állapíthat meg, ha az adatszolgáltatásra egy másik tagállam vagyonvisszaszerzési hivatalának megkeresésére történő információátadás céljából van szükség.

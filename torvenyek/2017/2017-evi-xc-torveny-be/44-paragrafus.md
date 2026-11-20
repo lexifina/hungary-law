@@ -4,7 +4,7 @@
 
 a) a bűncselekményre a törvény öt évig terjedő vagy ennél súlyosabb szabadságvesztés büntetés kiszabását rendeli,
 
-b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, más ügyben letartóztatás, előzetes kényszergyógykezelés hatálya alatt áll, valamint ha szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt,
+b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, más ügyben letartóztatás, előzetes kényszergyógykezelés hatálya alatt áll, ha szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt, valamint, ha letartóztatásának vagy előzetes kényszergyógykezelésének elrendelésére irányuló indítványról dönt a bíróság,
 
 c) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy hallássérült, siketvak, vak, beszédfogyatékos, más okból kommunikációképtelen, vagy abban súlyos fokban korlátozott, továbbá – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
 

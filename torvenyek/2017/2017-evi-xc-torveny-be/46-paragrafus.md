@@ -16,7 +16,7 @@ védőt rendel ki.
 
 (5) A bíróság, az ügyészség, illetve a nyomozó hatóság védőt rendel ki, ha a büntetőeljárásban védő részvétele nem kötelező, de a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy hatékony védelmének biztosítása végett azt szükségesnek tartja.
 
-(6) Az ügyészség és a nyomozó hatóság védőt rendel ki, ha a terhelt jövedelmi és vagyoni viszonyai miatt nem tud a védelméről gondoskodni és védő kirendelését indítványozza. A bíróság a vádemelés után a terhelt indítványára védőt rendel ki.
+(6) Az ügyészség és a nyomozó hatóság védőt rendel ki, ha a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jövedelmi és vagyoni viszonyai miatt nem tud a védelméről gondoskodni és védő kirendelését indítványozza. A bíróság a vádemelés után a terhelt indítványára védőt rendel ki.
 
 (7) A védő kirendelése, illetve kijelölése ellen nincs helye jogorvoslatnak. A terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy – indokoltan – más védő kijelölését indítványozhatja. Az indítványról az a bíróság, ügyészség vagy nyomozó hatóság dönt, amely előtt az eljárás folyamatban van.
 
