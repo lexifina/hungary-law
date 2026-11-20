@@ -1,6 +1,6 @@
-## A hitelszerződés megkötését megelőző tájékoztatás
+## A Szerződés megkötését megelőző tájékoztatás
 
-5. § (1) A hitelező, a hitelközvetítő vagy közvetítői alvállalkozó a hitelszerződés megkötését megelőzően a személyre szóló tájékoztatással és a közvetítő tájékoztatási kötelezettségével összhangban a fogyasztó részére köteles olyan felvilágosítást adni, amelynek alapján a fogyasztó felmérheti, hogy az igénybe venni tervezett hitel és – ha kapcsolódó szolgáltatás nyújtására is sor kerül – a kapcsolódó szolgáltatás megfelel-e az igényeinek és a pénzügyi teljesítőképességének. Ennek során a hitelező és adott esetben a hitelközvetítő vagy közvetítői alvállalkozó a fogyasztó rendelkezésére bocsátja a különböző ajánlatok összehasonlításához szükséges információkat annak érdekében, hogy a fogyasztó megalapozott döntést hozhasson a hitelszerződés esetleges megkötése tekintetében.
+5. § (1) A hitelező, a hitelközvetítő vagy közvetítői alvállalkozó a Szerződés megkötését megelőzően a személyre szóló tájékoztatással és a közvetítő tájékoztatási kötelezettségével összhangban a fogyasztó részére köteles olyan felvilágosítást adni, amelynek alapján a fogyasztó felmérheti, hogy az igénybe venni tervezett hitel és – ha kapcsolódó szolgáltatás nyújtására is sor kerül – a kapcsolódó szolgáltatás megfelel-e az igényeinek és a pénzügyi teljesítőképességének. Ennek során a hitelező és adott esetben a hitelközvetítő vagy közvetítői alvállalkozó a fogyasztó rendelkezésére bocsátja a különböző ajánlatok összehasonlításához szükséges információkat annak érdekében, hogy a fogyasztó megalapozott döntést hozhasson a Szerződés esetleges megkötése tekintetében.
 
 (2) Az (1) bekezdés szerinti felvilágosításnak mindenekelőtt ki kell terjednie az ajánlott termékek legfontosabb jellemzőire, a fogyasztó pénzügyi helyzetére gyakorolt hatására és a fizetés elmulasztásának következményeire, így különösen a késedelmi kamatra, a hitel felmondására és a biztosítékok érvényesítésére.
 
@@ -14,6 +14,6 @@ a) arra, hogy az összekapcsolt szolgáltatások viszonya járulékos vagy öná
 
 b) az egyes szerződések felmondásának körülményeire is.
 
-(6) A hitelező az általa kötött hitelszerződések és jelzáloghitel-szerződések termékcsoportonként legjellemzőbb mintaszövegét a fogyasztók előzetes tájékozódása érdekében az internetes honlapján köteles hozzáférhetővé tenni.
+(6) A hitelező az általa kötött Szerződések és jelzáloghitel-szerződések termékcsoportonként legjellemzőbb mintaszövegét a fogyasztók előzetes tájékozódása érdekében az internetes honlapján köteles hozzáférhetővé tenni.
 
 (7) Az e §-ban szabályozott felvilágosítás módjának és formájának részletes szabályait a miniszter rendeletben határozza meg.

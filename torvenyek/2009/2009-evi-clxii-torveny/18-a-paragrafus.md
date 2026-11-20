@@ -1,8 +1,8 @@
 ## A hitel feltételeinek módosítására vonatkozó tájékoztatási kötelezettség
 
-18/A. § A hitelező a hitel feltételeinek módosítása előtt tájékoztatja a fogyasztót
+18/A. § A hitelező a hitel feltételeinek módosítása előtt papíron vagy a Szerződésben meghatározott más tartós adathordozón tájékoztatja a fogyasztót
 
-a) a módosítás egyértelmű tartalmáról, valamint arról, ha ahhoz a fogyasztó beleegyezése szükséges, vagy jogszabály változása miatt szükséges,
+a) a javasolt módosítás egyértelmű tartalmáról, valamint arról, ha ahhoz a fogyasztó beleegyezése szükséges, vagy jogszabály változása miatt szükséges módosítások magyarázatáról,
 
 b) az a) pont szerinti módosítások hatálybalépésének ütemezéséről,
 

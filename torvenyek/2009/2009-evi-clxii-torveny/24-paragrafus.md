@@ -10,4 +10,4 @@
 
 (6) Nem illeti meg a hitelezőt az (1) bekezdés szerinti költségtérítés, ha az előtörlesztés visszafizetési biztosítékként kötött biztosítási szerződés alapján történt.
 
-(7) Nem illeti meg a hitelezőt az (1) bekezdés szerinti költségtérítés, ha tizenkét hónap alatt egy alkalommal a fogyasztó által teljesített előtörlesztés összege nem haladja meg a kétszázezer forintot.
+(7) Nem illeti meg a hitelezőt az (1) bekezdés szerinti költségtérítés, ha tizenkét hónap alatt egy alkalommal a fogyasztó által teljesített előtörlesztés összege nem haladja meg az ötszázezer forintot.

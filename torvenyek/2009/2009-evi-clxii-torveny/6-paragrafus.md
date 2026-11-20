@@ -1,67 +1,83 @@
-6. § (1) A hitelszerződésekre vonatkozó ajánlatok összehasonlítása és a hitelszerződés megkötése tekintetében hozandó megalapozott fogyasztói döntés érdekében a hitelező és a hitelközvetítő az 5. § szerinti felvilágosítás mellett, kellő időben, de azt megelőzően, hogy a fogyasztót bármilyen ajánlat vagy hitelszerződés kötné, köteles a fogyasztót az általa megadott információk alapján szóba jöhető hiteltermék tekintetében – az 1. melléklet szerinti formanyomtatvány felhasználásával – papíron vagy más tartós adathordozón a következő adatokról tájékoztatni:
+6. § (1) A Szerződésekre vonatkozó ajánlatok összehasonlítása és a Szerződés megkötése tekintetében hozandó megalapozott fogyasztói döntés érdekében a hitelező és a hitelközvetítő az 5. § szerinti felvilágosítás mellett, kellő időben, de azt megelőzően, hogy a fogyasztót bármilyen ajánlat vagy Szerződés kötné, a fogyasztó részére az általa megadott információk alapján szóba jöhető hiteltermék tekintetében egyértelmű és érthető, a hitelszerződés megkötését megelőző tájékoztatást nyújt.
 
-1. a hitel típusáról,
+(2) Ha az (1) bekezdésben meghatározott tájékoztatásra kevesebb mint egy nappal azt megelőzően kerül sor, hogy a fogyasztót az ajánlat vagy Szerződés köti, a hitelező és a hitelközvetítő emlékeztetőt küld a fogyasztó részére a Szerződéstől való elállás lehetőségéről és az elállás esetén a 21. §-ban meghatározott eljárásról. A hitelező és a hitelközvetítő az emlékeztetőt papíron vagy a fogyasztó választása szerinti és a Szerződésben meghatározott más tartós adathordozón a Szerződés megkötését vagy a kötelező érvényű ajánlat fogyasztó által történő benyújtását követő egy és hét nap között bocsátja a fogyasztó rendelkezésére.
 
-2. a hitelező nevéről (cégnevéről) és levelezési címéről,
+(3) Az (1) bekezdésben meghatározott tájékoztatást – az 1. melléklet szerinti formanyomtatvány felhasználásával – papíron vagy a fogyasztó választása szerinti más tartós adathordozón kell nyújtani. A formanyomtatványon szereplő valamennyi információ egyformán feltűnő.
 
-3. a hitelközvetítő nevéről (cégnevéről) és levelezési címéről,
+(4) Az (1) bekezdésben meghatározott tájékoztatás az 1. melléklet szerinti formanyomtatvány első részében, egy oldalon, feltűnő módon megadja a következő elemeket:
 
-4. a hitel teljes összegéről és lehívásának feltételeiről,
+a) a hitelező és adott esetben a hitelközvetítő neve,
 
-5. a hitel futamidejéről,
+b) a teljes hitelösszeg,
 
-6. termék értékesítéséhez vagy szolgáltatás nyújtásához kapcsolódó halasztott fizetés formájában nyújtott hitel esetén a termék vagy szolgáltatás megnevezéséről és készpénzáráról,
+c) a hitel futamideje,
 
-7. a hitelkamatról és a hitelkamat feltételeiről, alkalmazása esetén a vonatkozó referencia-kamatlábról, kamatfelárról, kamatváltoztatási vagy kamatfelár-változtatási mutatóról, valamint a hitelkamat módosításának gyakoriságáról, feltételeiről és eljárási szabályairól,
+d) a hitelkamat, vagy ha eltérő körülmények között eltérő hitelkamat alkalmazandó, valamennyi hitelkamat,
 
-8. a teljes hiteldíj mutatóról egy reprezentatív példával annak valamennyi feltételével,
+e) a teljes hiteldíj mutató és a fogyasztó által fizetendő teljes összeg,
 
-9. a fogyasztó által a szerződéskötéskor ismert feltételek alapján fizetendő teljes összegről,
+f) meghatározott termék vagy szolgáltatás nyújtásához kapcsolódó halasztott fizetés formájában nyújtott hitel esetén, valamint a kapcsolt hitelszerződés esetén a termék vagy szolgáltatás és annak készpénzára,
 
-10. a fogyasztó által fizetendő törlesztőrészletek összegéről, a törlesztőrészletek számáról, és a törlesztés gyakoriságáról, esetlegesen a törlesztőrészleteknek a különböző hitelkamatú tartozásra történő elszámolásának sorrendjéről,
+g) késedelmes teljesítés esetén felmerülő költségek, azaz a késedelmes teljesítés esetén alkalmazandó kamat és számítására vonatkozó rendelkezések, valamint a nemteljesítés esetén fizetendő díjak,
 
-11. a fizetési számlához vagy készpénz-helyettesítő fizetési eszközhöz kapcsolódó valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről, kivéve ha a fizetési számla vagy a készpénz-helyettesítő fizetési eszköz fenntartása nem kötelező,
+h) a fogyasztó által fizetendő törlesztőrészletek összege, a törlesztőrészletek száma és gyakorisága, valamint adott esetben a törlesztőrészleteknek a különböző hitelkamatú tartozásra történő elszámolásának sorrendje,
 
-12. a hitelhez kapcsolódó hitelkamaton kívüli minden egyéb ellenszolgáltatásról – ideértve díjat, jutalékot (a továbbiakban együtt: díj) és költséget –, és módosításuk feltételeiről,
+i) a fizetés elmulasztásának vagy a késedelmes teljesítésnek a következményeire vonatkozó figyelmeztetés,
 
-13. adott esetben a közjegyzői díjról,
+j) az elállás lehetősége vagy hiánya, valamint adott esetben az elállási időszak,
 
-14. a hitelhez kapcsolódó olyan szolgáltatásokról (például biztosítás), amely a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
+k) az előtörlesztéshez való jog és a hitelező esetleges költségtérítéshez való jogára vonatkozó információ,
 
-15. a késedelmi kamatról vagy az egyéb olyan fizetési kötelezettségről, amely a szerződésben vállalt kötelezettség nem teljesítéséből származik,
+l) a hitelező és adott esetben a hitelközvetítő címe, telefonszáma és e-mail címe.
 
-16. a fizetés elmulasztásának következményeiről,
+(5) Ha nem lehet a (4) bekezdésben meghatározott elemeket feltűnő módon egy oldalon megadni az 1. melléklet szerinti formanyomtatvány első részében, akkor legfeljebb két oldalon lehet azokat megadni. Ebben az esetben a (4) bekezdés a)–g) pontjában említett elemek a formanyomtatvány első oldalán jelennek meg.
 
-17. a szükséges biztosítékok meghatározásáról,
+(6) Az (1) bekezdésben meghatározott tájékoztatás tartalmazza a következő elemeket, amelyeket a (4) bekezdésben meghatározott elemek után, azoktól jól láthatóan elválasztva jelenik meg:
 
-18. az elállási jogról, illetve annak hiányáról,
+1. a hitel típusa,
 
-19. az előtörlesztéshez való jogról, és annak 24. § szerinti esetleges költségeiről,
+2. a lehívás feltételei,
 
-20. a 14. § (4) bekezdése szerinti kötelezettségéről,
+3. a hitelkamat és amennyiben eltérő hitelkamatok alkalmazására van lehetőség, az egyes hitelkamatok alkalmazásának feltételei, alkalmazása esetén a vonatkozó referencia-kamatláb, kamatfelár, kamatváltoztatási vagy kamatfelár-változtatási mutató, valamint a hitelkamat módosulásának gyakorisága, feltételei és eljárási szabályai,
 
-21. a 9. § szerinti kötelezettségről, valamint
+4. ha a hitelszerződés eltérő módokat biztosít a lehívásra, amelyekhez eltérő díjak vagy hitelkamat kapcsolódik és a hitelező a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III. 25.) Korm. rendelet 4. § (2) bekezdés e) pontjában meghatározott felvetést használja, annak feltüntetése, hogy a hitelszerződéshez kapcsolódó eltérő lehívási mód magasabb teljes hiteldíj mutatót eredményezhet,
 
-22. a megadott adatok érvényességének esetleges időbeli korlátozásáról.
+5. a fizetési számlához vagy készpénz-helyettesítő fizetési eszközhöz kapcsolódó valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről, valamint azon feltételekről, amelyek mellett az említett díjak bármelyike megváltoztatható,
 
-(2) Ha az (1) bekezdés 7. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatást valamennyi hitelkamat tekintetében meg kell adni.
+6. a teljes hiteldíj mutatóról egy reprezentatív példával annak valamennyi feltételével,
 
-(2a) Ha a hitelszerződés a 2016/1011/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének 3. pontjában meghatározott referenciamutatóra hivatkozik, a hitelező és a hitelközvetítő az 1. melléklet szerinti formanyomtatványtól elkülönült dokumentumban közli a fogyasztóval a referenciamutató és annak kezelőjének nevét, valamint következményeit a fogyasztóra nézve. E dokumentum mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+7. adott esetben a közjegyzői díj,
 
-(3) Ha a fogyasztó a rendelkezésére bocsátott adatok alapján megjelöli az általa előnyben részesített hitel jellemzőit, a hitelező és a hitelközvetítő a teljes hiteldíj mutatóról és a fogyasztó által fizetendő teljes összegről ezek alapulvételével nyújt tájékoztatást.
+8. a hitelhez kapcsolódó olyan szolgáltatások, amely a Szerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
 
-(4) Ha a hitelszerződés alapján a hitel lehívására többféle módon kerülhet sor, és ezek eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli egyéb ellenszolgáltatást – ideértve díjat és költséget – jelentenek, és a hitelező az adott hiteltípusnál leggyakoribb lehívási módot vette figyelembe, a hitelező és a hitelközvetítő a tájékoztatás során köteles jelezni, hogy más lehívási mód magasabb teljes hiteldíj mutatót eredményezhet.
+9. a szükséges biztosítékok meghatározása,
 
-(5) Ha a fogyasztó által fizetett részletek nem eredményezik haladéktalanul a hitelösszeg törlesztését, hanem a hitelszerződésben, vagy ahhoz kapcsolódó megállapodásban meghatározott időszakokban és feltételek szerint tőkeképzésre fordítják, az (1) bekezdés szerinti tájékoztatás során a hitelező és a hitelközvetítő köteles egyértelműen és tömören tájékoztatni, hogy a részletek megfizetése nem eredményezi automatikusan a hitel teljes összegének visszafizetését, kivéve ha a felek kifejezetten erről állapodnak meg.
+10. adott esetben az előtörlesztés 24. § szerinti költségei,
 
-(6) Fizetési számlához kapcsolódó hitelkeret esetén a hitelező és a hitelközvetítő – a 2. melléklet szerinti formanyomtatvány felhasználásával – az alábbiakról tájékoztatja a fogyasztót:
+11. a 14. § (3) bekezdése szerinti kötelezettség,
 
-a) az (1) bekezdés 1–5. pontjában, 7. pontjában, 8. pontjában, 15. pontjában, 20. pontjában és 22. pontjában foglaltakról,
+12. a 9. § szerinti kötelezettség,
 
-b) a hitel felmondásának feltételeiről és módjáról,
+13. adott esetben az, hogy az árat személyre szabták automatizált adatkezelés alapján, ideértve a profilalkotást is,
 
-c) olyan fizetési számlához kapcsolódó hitelkeret esetén, amely alapján nyújtott kölcsönt a hitelező felszólítására kell visszafizetni arról, hogy a hitelező bármikor jogosult a hitel teljes összegének visszafizetését követelni, valamint
+14. a szerződéskötést megelőző tájékoztatásban megadott adatok esetleges időbeli korlátozása,
 
-d) olyan fizetési számlához kapcsolódó hitelkeret esetén, amely alapján nyújtott kölcsönt három hónapon belül vagy a hitelező felszólítására kell visszafizetni a szerződés megkötését követően felmerülő hitelkamaton kívüli minden egyéb ellenszolgáltatásról – ideértve díjat és költséget –, és ezek módosításának feltételeiről.
+15. a peren kívüli panasztételi és jogorvoslati eljárás igénybevételének lehetősége, az igénybevétel módja,
 
-(7) A hitelező és a hitelközvetítő az e §-ban meghatározott adatokon kívül kizárólag az 1. melléklet szerinti formanyomtatványtól elkülönítetten adhat tájékoztatást.
+16. a hitelhez kapcsolódó egyéb kötelezettségek nemteljesítésének következményeire vonatkozó figyelmeztetés,
+
+17. törlesztési ütemterv valamennyi fizetéssel és törlesztéssel, ideértve a kapcsolódó szolgáltatásokért teljesítendő fizetéseket, amelyben a fizetések és törlesztések – ha eltérő körülmények között eltérő hitelkamat alkalmazandó – a hitelkamat észszerű emelkedésén alapulnak.
+
+(7) Ha a (6) bekezdés 3. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatás valamennyi hitelkamatra kiterjed.
+
+(8) Ha a Szerződés az (EU) 2016/1011 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 3. pontjában meghatározott referenciamutatóra hivatkozik, a hitelező és a hitelközvetítő az 1. melléklet szerinti formanyomtatványtól elkülönült dokumentumban közli a fogyasztóval a referenciamutatót és annak kezelőjének nevét, valamint következményeit a fogyasztóra nézve. E dokumentum mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+
+(9) Ha a fogyasztó a rendelkezésére bocsátott adatok alapján megjelöli az általa előnyben részesített hitel jellemzőit, a hitelező és a hitelközvetítő a teljes hiteldíj mutatóról és a fogyasztó által fizetendő teljes összegről ezek alapulvételével nyújt tájékoztatást.
+
+(10) Az 1. melléklet szerinti formanyomtatványon megjelenített információk következetesek. Azok jól olvashatók, figyelembe véve a használt adathordozó technikai lehetőségeit. Az információk megfelelő módon jelennek meg a különböző csatornákon, figyelembe véve az adott csatorna működtetésének sajátosságait, az egyes csatornák közötti átjárhatóságot.
+
+(11) A hitelező és a hitelközvetítő az e §-ban meghatározott adatokon kívül kizárólag külön dokumentumban, jól olvashatóan adhat tájékoztatást, amely mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+
+(12) Ha a fogyasztó által fizetett részletek nem eredményezik haladéktalanul a hitelösszeg törlesztését, hanem a hitelszerződésben, vagy ahhoz kapcsolódó megállapodásban meghatározott időszakokban és feltételek szerint tőkeképzésre fordítják, az (1) bekezdés szerinti tájékoztatás során a hitelező és a hitelközvetítő egyértelműen és tömören tájékoztatja a fogyasztót, hogy a részletek megfizetése nem eredményezi automatikusan a hitel teljes összegének visszafizetését, kivéve ha a felek kifejezetten erről állapodnak meg.
+
+(13) E § rendelkezései nem alkalmazandóak arra a termékértékesítőre vagy szolgáltatóra, aki kiegészítő jelleggel végzi a hitelközvetítést. Ez nem érinti a hitelező és a hitelközvetítő kötelezettségét arra, hogy biztosítsa a fogyasztó részére az e § rendelkezéseinek megfelelő tájékoztatást.

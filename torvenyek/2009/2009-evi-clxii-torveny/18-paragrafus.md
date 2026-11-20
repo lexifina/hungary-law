@@ -1,6 +1,6 @@
 ## A hitel költségeinek módosítására vonatkozó tájékoztatási kötelezettség
 
-18. § (1) A hitel kamatfeltételeinek módosítása esetén a hitelező – a (3) és (4) bekezdésben meghatározott kivétellel – a kamatperiódus lejártát megelőző legalább 90 nappal köteles papíron vagy más tartós adathordozón tájékoztatni a fogyasztót
+18. § (1) A hitel kamatfeltételeinek módosítása esetén a hitelező – a (3) és (4) bekezdésben meghatározott kivétellel – a kamatperiódus lejártát megelőző legalább 90 nappal köteles papíron vagy Szerződésben meghatározott más tartós adathordozón tájékoztatni a fogyasztót
 
 a) az új kamatperiódusban alkalmazott kamat vagy kamatfelár mértékéről, valamint
 
@@ -10,7 +10,21 @@ b) a módosítást követően fizetendő törlesztőrészletek várható összeg
 
 (3) Állami kamattámogatással nyújtott hitel esetén a hitelkamatot, díjat vagy költséget érintő módosítást a módosítás hatálybalépését megelőzően legalább 15 nappal hirdetményben kell közzétenni.
 
-(4) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen a honlapján és az ügyfelek számára nyitva álló helyiségében közzététel útján tájékoztatja a referencia-kamatláb változásáról.
+(4) Az (1) bekezdéstől eltérően a tájékoztatás a hitelkamat változásról rendszeres időközönként is megadható, ha
+
+a) a felek a rendszeres időközönkénti tájékoztatásról állapodtak meg a hitelszerződésben,
+
+b) a hitelkamat referencia-kamatlábhoz kötött,
+
+c) az új referencia-kamatlábat kellő időben és megfelelő módon nyilvánosságra hozzák és
+
+d) az új referencia-kamatlábra vonatkozó tájékoztatás közzétételre kerül,
+
+da) a hitelező ügyfelek számára nyitva álló helyiségében,
+
+db) amennyiben a hitelező honlappal rendelkezik, a honlapján és
+
+dc) amennyiben a hitelező mobilalkalmazással rendelkezik, a mobilalkalmazásán keresztül.
 
 (4a) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing esetén a hitelező a referencia-kamatláb változásakor az új törlesztőrészlet összegéről a fogyasztó részére papíron vagy más tartós adathordozón tájékoztatást ad.
 

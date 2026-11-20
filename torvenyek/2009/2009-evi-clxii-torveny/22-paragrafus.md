@@ -8,7 +8,7 @@ a) az értékesítő, illetve a szolgáltatás nyújtója a fogyasztóval kötö
 
 b) a fogyasztó késedelemből, illetve hibás teljesítésből eredő követeléseinek az értékesítő, illetve a szolgáltatás nyújtója nem tett határidőben eleget,
 
-a fogyasztó a hitelszerződés alapján esedékessé váló törlesztést az igénye kielégítéséig visszatarthatja.
+a fogyasztó a Szerződés alapján esedékessé váló törlesztést az igénye kielégítéséig visszatarthatja.
 
 (3) A (2) bekezdésben meghatározott visszatartási időszakra nem számítható fel hitelkamat és a hitelkamaton kívüli ellenszolgáltatás, ideértve a díjat, jutalékot és költséget .
 

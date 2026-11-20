@@ -4,11 +4,11 @@
 
 (2) Nem kell alkalmazni e törvény rendelkezéseit:
 
-a) olyan bérletre vagy haszonbérletre, amely a bérleti vagy haszonbérlet tárgyát képező dologra a fogyasztó számára vételi kötelezettséget nem keletkeztet, vagy a hitelező számára vételi kötelezettség előírására vonatkozó jogosultságot nem biztosít,
+a) olyan bérleti- vagy lízingszerződésekre, amelyek nem állapítanak meg vételi kötelezettséget vagy vételi jogot a szerződés tárgya tekintetében,
 
-b) a fizetési számlához kapcsolódó hitelkeretre, ha az annak alapján nyújtott kölcsönt egy hónapon belül vissza kell fizetni,
+b)
 
-c) olyan hitelre, amellyel kapcsolatban a fogyasztó hitelkamatot és egyéb ellenszolgáltatást nem köteles fizetni,
+c)
 
 d) olyan munkáltatói hitelre, amely a nyilvánosság számára nem hozzáférhető, és amellyel kapcsolatban a munkavállalónak hitelkamatot és egyéb ellenszolgáltatást a piacon szokásos mértéknél alacsonyabb mértékű teljes hiteldíj mutató mellett köteles, vagy hitelkamatot és egyéb ellenszolgáltatást nem köteles fizetni,
 
@@ -18,7 +18,23 @@ f) olyan hitelre, amelyet bíróság hoz létre,
 
 g) olyan hitelre, amely fennálló tartozás díj- és költségmentes átütemezésére, kiváltására vonatkozik,
 
-h) olyan törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban meghatározott közérdeket szolgáló hitelre, amelyet korlátozott körben nyújtanak, és amely kamatmentes, vagy amelyre vonatkozó hitelkamat a piacon szokásos mértéknél alacsonyabb, vagy a piacon szokásos mértékű hitelkamat mellett a piacon szokásos feltételeknél a fogyasztó számára kedvezőbb; ideértve a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvényben meghatározott áthidaló kölcsönt, a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben meghatározott gyűjtőszámlahitelt, valamint a külön jogszabály szerint nyújtott hallgatói hitelt.
+h) jogszabály szerint nyújtott hallgatói és képzési hitelre.
+
+i) halasztott fizetésre, ha
+
+ia) a termékértékesítő vagy a szolgáltató – anélkül, hogy harmadik fél hitelt ajánlana – időt biztosít a fogyasztónak a termék vagy a szolgáltatás kifizetésére,
+
+ib) a vételárat kamat és egyéb ellenszolgáltatás nélkül kell kifizetni, továbbá a késedelem esetén felszámított kamat nem haladja meg a jegybanki alapkamatot és
+
+ic) a teljes kifizetést a termékértékesítéstől vagy a szolgáltatásnyújtástól számított 50 napon belül kell teljesíteni.
+
+(2a) Mikro-, kis- vagy középvállalkozásnak nem minősülő termékértékesítő vagy szolgáltató által kínált halasztott fizetés esetében, ha az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvényben meghatározott információs társadalommal összefüggő szolgáltatást kínálnak, amelyek távértékesítés keretében kötött szerződések megkötéséből állnak, a (2) bekezdés i) pontjától eltérően e törvény rendelkezéseit abban az esetben nem kell alkalmazni, ha
+
+a) harmadik fél nem kínál vagy nyújt hitelt,
+
+b) a teljes kifizetést a termékértékesítéstől vagy a szolgáltatásnyújtástól számított 14 napon belül kell teljesíteni és
+
+c) a vételárat kamat és egyéb ellenszolgáltatás nélkül kell kifizetni, továbbá a késedelem esetén felszámított kamat nem haladja meg a jegybanki alapkamatot.
 
 (3) E törvény rendelkezéseit kell alkalmazni a fogyasztónak nyújtott pénzügyi lízingre azzal, hogy ahol e törvény hitelt említ, ott pénzügyi lízinget, ahol törlesztőrészletet említ, ott a lízingdíjat kell érteni.
 

@@ -1,1 +1,1 @@
-9. § Ha a hitelező a tájékoztatást tartalmazó formanyomtatványban foglaltaknak megfelelően a fogyasztóval szerződést kíván kötni, úgy a fogyasztó kérésére a hitelszerződés tervezetét díj-, költség- és egyéb fizetési kötelezettségmentesen a rendelkezésére kell bocsátani.
+9. § Ha a hitelező a tájékoztatást tartalmazó formanyomtatványban foglaltaknak megfelelően a fogyasztóval szerződést kíván kötni, úgy a fogyasztó kérésére a Szerződés tervezetét díj-, költség- és egyéb fizetési kötelezettségmentesen a papíron vagy más tartós adathordozón rendelkezésére kell bocsátani.

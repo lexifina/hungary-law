@@ -1,4 +1,4 @@
-17/B. § (1) A fogyasztó számára hátrányosan kizárólag a hitelszerződésben megállapított hitelkamat, kamatfelár, költség és díj módosítható egyoldalúan, feltéve hogy e törvény ezt lehetővé teszi, és a felek ezt a szerződésben kifejezetten kikötötték. Egyéb feltétel, ideértve az egyoldalú módosításra vonatkozó kikötést is, egyoldalúan, a fogyasztó számára hátrányosan nem módosítható.
+17/B. § (1) A fogyasztó számára hátrányosan kizárólag a hitelszerződésben megállapított hitelkamat, kamatfelár, költség és díj módosítható egyoldalúan, feltéve hogy e törvény ezt lehetővé teszi, és a felek ezt a szerződésben kifejezetten kikötötték. Egyéb feltétel, ideértve az egyoldalú módosításra vonatkozó kikötést is, és ide nem értve a 19. § (6) és (7) bekezdésben foglaltakat egyoldalúan, a fogyasztó számára hátrányosan nem módosítható.
 
 (2) Az új kamatperiódusban alkalmazott kamat vagy kamatfelár mértékét a kamatperiódus lejártát megelőző 120. napi kamatváltoztatási, illetve kamatfelár-változtatási mutató figyelembevételével kell megállapítani.
 
