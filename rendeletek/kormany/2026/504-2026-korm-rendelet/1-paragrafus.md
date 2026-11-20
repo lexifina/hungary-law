@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 7b. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kormányzati képzési és oktatási beszerzésekről szóló 396/2023. (VIII. 24.) Korm. rendelet 2. § (17) bekezdésében a „Külgazdasági és Külügyminisztérium által” szövegrész helyébe a „külpolitikáért felelős miniszter által vezetett minisztérium által” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
