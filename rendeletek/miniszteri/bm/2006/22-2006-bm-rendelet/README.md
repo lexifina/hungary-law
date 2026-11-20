@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-22-20-0
 | 2024-12-31 | 2006-22-20-0A.17 | 62/2024. (XII. 30.) BM rendelet |
 | 2025-01-30 | 2006-22-20-0A.18 | 61/2024. (XII. 30.) BM rendelet |
 | 2025-09-23 | 2006-22-20-0A.19 | 39/2025. (IX. 18.) BM rendelet |
+| 2026-11-20 | 2006-22-20-0A.20 | 61/2026. (XI. 19.) BM rendelet |
