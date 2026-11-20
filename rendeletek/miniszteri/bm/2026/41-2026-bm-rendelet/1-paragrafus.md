@@ -4,4 +4,6 @@
 
 ## [3] A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (2) bekezdés 24. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A bejelentésköteles tűzvédelmi szolgáltatási tevékenységek megkezdésének és folytatásának részletes szabályairól szóló 50/2011. (XII. 20.) BM rendelet 1. mellékletében a „Vármegyei” szövegrészek helyébe a „Megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
