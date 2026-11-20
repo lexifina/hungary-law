@@ -10,7 +10,7 @@ b) az országos rendőrfőkapitány jár el az Országos Rendőr-főkapitánysá
 
 c) a Készenléti Rendőrség parancsnoka jár el a Készenléti Rendőrség teljes hivatásos állománya vonatkozásában,
 
-d)[^1] a vármegyei vagy fővárosi rendőr-főkapitányság vezetője jár el az általa irányított szervek hivatásos állománya vonatkozásában,
+d)[^1] a megyei vagy fővárosi rendőr-főkapitányság vezetője jár el az általa irányított szervek hivatásos állománya vonatkozásában,
 
 2. a büntetés-végrehajtás szervezeténél
 
@@ -22,5 +22,5 @@ b) a büntetés-végrehajtási intézet parancsnoka vagy a büntetés-végrehajt
 
 4.[^2]
 
-[^1]: A 2. § 1. pont d) alpontja az 50/2022. (XII. 27.) BM rendelet 11. §-a szerint módosított szöveg.
+[^1]: A 2. § 1. pont d) alpontja a 67/2026. (XI. 19.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § 4. pontját a 4/2023. (III. 2.) MK rendelet 10. § a) pontja hatályon kívül helyezte.
