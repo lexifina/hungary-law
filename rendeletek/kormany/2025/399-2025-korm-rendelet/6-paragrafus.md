@@ -1,3 +1,7 @@
-6. §[^6]
+6. § (1) Fogyasztói hitel nyújtása vagy közvetítése, valamint hiteltanácsadás esetén a hitelező, a hitelközvetítő és a közvetítői alvállalkozó az általa foglalkoztatott személyeknek a (3) bekezdésben meghatározott gyakorisággal belső oktatást biztosít, amelynek tartalmi követelményeit az 1. melléklet határozza meg.
 
-[^6]: A 6. § a 9. § (2) bekezdése alapján 2026. november 20-án lép hatályba.
+(2) A hitelezőnek, a hitelközvetítőnek és a közvetítői alvállalkozónak biztosítania kell, hogy a belső oktatás naprakész legyen mind a hatályos szabályozás, mind a kínált fogyasztói hitelek és a kapcsolódó szolgáltatások feltételeinek tekintetében.
+
+(3) Az Fhtv. 3. § 29. pont a) és b) alpontjában meghatározott foglalkoztatottnak legalább évente, az Fhtv. 3. § 29. pont c) alpontjában meghatározott foglalkoztatottnak legalább kétévente kell belső oktatáson részt vennie és a szakmai ismeretek elsajátításáról számot adnia.
+
+(4) A belső oktatásra vonatkozó dokumentumokat és az annak teljesítését igazoló dokumentumokat a hitelező, a hitelközvetítő és a közvetítői alvállalkozó a személyi feltételek meglétének igazolása céljából öt évig megőrzi.

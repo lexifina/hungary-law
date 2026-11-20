@@ -1,3 +1,1 @@
-11. §[^9]
-
-[^9]: A 11. § a 9. § (2) bekezdése alapján 2026. november 20-án lép hatályba.
+11. § Az a hitelezővel, hitelközvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a jelzáloghitel nyújtásával, közvetítéssel kapcsolatos eljárásra, a hiteltanácsadásra és a foglalkoztatottak szakmai ismereteire vonatkozó szabályokról szóló 462/2015. (XII. 29.) Korm. rendelet 2021. december 31-én hatályos 4. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat hitelezővel, hitelközvetítővel és közvetítői alvállalkozóval.

@@ -1,3 +1,1 @@
-13. §[^10]
-
-[^10]: A 13. § a 9. § (2) bekezdése alapján 2026. november 20-án lép hatályba.
+13. § Hatályát veszti a jelzáloghitel nyújtásával, közvetítéssel kapcsolatos eljárásra, a hiteltanácsadásra és a foglalkoztatottak szakmai ismereteire vonatkozó szabályokról szóló 462/2015. (XII. 29.) Korm. rendelet.

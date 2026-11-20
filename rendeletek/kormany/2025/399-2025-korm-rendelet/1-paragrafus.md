@@ -6,6 +6,6 @@
 
 ## 1. A rendelet alkalmazási köre
 
-1. §[^1]
+1. § (1) E rendelet előírásait a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó fogyasztónak nyújtott hitel – ide nem értve a halasztott fizetést – és pénzügyi lízing (a továbbiakban együtt: fogyasztói hitel) nyújtása, közvetítése, továbbá a hiteltanácsadás esetén kell alkalmazni.
 
-[^1]: Az 1. § a 9. § (2) bekezdése alapján 2026. november 20-án lép hatályba.
+(2) E rendeletben használt fogalmak értelmezése tekintetében az Fhtv., valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény rendelkezéseit kell alkalmazni.
