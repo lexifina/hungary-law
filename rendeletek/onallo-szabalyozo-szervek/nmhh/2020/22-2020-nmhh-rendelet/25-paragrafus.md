@@ -14,12 +14,17 @@ b) az előfizetői szerződéssel összefüggő elektronikus hírközlő eszköz
 
 ba) értékesítése esetén az elektronikus hírközlő végberendezés vagy egyéb eszköz ára,
 
-bb) részletvétel esetén a kezdőrészlet, a további részletek, a kamatok és egyéb díjak megjelölésével,
+bb)[^11] a Polgári Törvénykönyv szerinti részletvétel esetén a részletvételi megállapodás alapján fizetendő valamennyi részlet összege,
 
 bc) bérbeadása esetén a bérleti díj,
 
 bd) használatának más módon történő átengedése esetén a használati díj.
 
+be)[^12] halasztott fizetés esetén a fogyasztó által fizetendő teljes összeg.
+
 (3) Határozott idejű előfizetői szerződés esetén a szolgáltató a határozott időtartam lejártának napjáról az előfizetői szerződés megkötését, vagy a szolgáltatás nyújtásának megkezdését követő 8 napon belül tájékoztatja az előfizetőt.
 
 (4) A szolgáltatás előfizető kérésére legfeljebb 6 hónapig tartó szüneteltetését a szolgáltató határozott idejű előfizetői szerződéseknél sem zárhatja ki, ebben az esetben azonban az előfizetői szerződés időtartama a szüneteltetés időtartamával meghosszabbodik.
+
+[^11]: A 25. § (2) bekezdés b) pont bb) alpontja a 9/2026. (V. 26.) NMHH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 25. § (2) bekezdés b) pont be) alpontját a 9/2026. (V. 26.) NMHH rendelet 2. § (2) bekezdése iktatta be.

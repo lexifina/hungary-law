@@ -6,7 +6,9 @@ b) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolg�
 
 c) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv 98–105., 107., 108., 111., 113. és 115. cikkének, valamint a VI., VIII. és IX. mellékletének
 
-d)[^12] a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek
+d)[^15] a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek
+
+e)[^16] a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és a tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -18,4 +20,5 @@ b) a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírköz
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^12]: A 38. § (1) bekezdés d) pontját a 9/2022. (XI. 16.) NMHH rendelet 12. §-a iktatta be.
+[^15]: A 38. § (1) bekezdés d) pontját a 9/2022. (XI. 16.) NMHH rendelet 12. §-a iktatta be.
+[^16]: A 38. § (1) bekezdés e) pontját a 9/2026. (V. 26.) NMHH rendelet 4. §-a iktatta be.

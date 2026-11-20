@@ -14,7 +14,7 @@ e) mikrovállalkozás: a Kkv. tv. 3. § (3) bekezdésében meghatározott fogalo
 
 f) szolgáltatáscsomag: olyan csomag, amely több elektronikus hírközlési szolgáltatásból, egy vagy több elektronikus hírközlési szolgáltatásból és elektronikus hírközlő végberendezésből, vagy elektronikus hírközlési szolgáltatásból és más szolgáltatásból áll, és amelyet a szolgáltató ugyanazon szerződés vagy egymással szorosan összefüggő szerződések keretében nyújt vagy értékesít a felhasználók számára.
 
-(2)[^2] Az e rendeletben alkalmazott egyéb, az előfizetői jogviszonnyal és az elektronikus hírközlési szolgáltatásokkal kapcsolatos fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény (a továbbiakban: Aktv.) szerint kell értelmezni.
+(2)[^2] Az e rendeletben alkalmazott egyéb, az előfizetői jogviszonnyal és az elektronikus hírközlési szolgáltatásokkal kapcsolatos fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény (a továbbiakban: Aktv.) szerint, a szolgáltató által a fogyasztónak kínált termékek vagy szolgáltatások megvásárlásához biztosított halasztott fizetéssel (a továbbiakban: halasztott fizetés) kapcsolatos fogalmakat a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) szerint kell értelmezni.
 
 [^1]: A 2. § (1) bekezdés aa) pontját a 9/2022. (XI. 16.) NMHH rendelet 8. § (1) bekezdése iktatta be.
-[^2]: A 2. § (2) bekezdése a 9/2022. (XI. 16.) NMHH rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 9/2026. (V. 26.) NMHH rendelet 1. §-ával megállapított szöveg.
