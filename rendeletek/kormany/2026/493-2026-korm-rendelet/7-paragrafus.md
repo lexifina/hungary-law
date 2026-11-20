@@ -1,3 +1,3 @@
-7. §[^4]
+7. §[^7]
 
-[^4]: A 7. § a 10. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^7]: A 7. § a 10. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
