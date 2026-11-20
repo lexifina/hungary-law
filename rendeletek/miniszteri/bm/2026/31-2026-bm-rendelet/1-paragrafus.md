@@ -4,14 +4,6 @@
 
 ## [3] A Rendőrségről szóló 1994. évi XXXIV. törvény 101. § (1) bekezdés l) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló 44/1998. (X. 14.) BM rendelet
+1. §[^2]
 
-a) 1. § 2a. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 3. § c) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 3. § d) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-d) 14. § (2) bekezdésében a „vármegye” szövegrész helyébe a „megye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
