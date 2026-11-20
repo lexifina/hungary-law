@@ -241,3 +241,51 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 90. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
 
 91. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (többek között készülékekben, eszközökben, járművekben) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
+
+92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
+
+93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
+
+94.
+
+95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
+
+96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatások hívószámai.
+
+97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
+
+98. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
+
+99. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók, adatforgalmaik egymásnak történő átadása céljából.
+
+100. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
+
+101. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban nyilvános elektronikus hírközlési szolgáltatások nyújtására használt hálózati végpontok közötti információátvitelt támogató elektronikus hírközlő hálózat.
+
+102. Nyilvános elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes személy, jogi személy vagy egyéb szervezet.
+
+103. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás vagy hangszolgáltatás): nyilvános elektronikus hírközlési szolgáltatás, amely nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi hívások kezdeményezését és fogadását.
+
+104. Nyilvános telefonállomás: bármely felhasználó számára nyilvánosan elérhető telefonszolgáltatás igénybevétele céljából hozzáférhetővé tett elektronikus hírközlő végberendezés. A szolgáltatás díjának kiegyenlítése történhez pénzérmével, bankkártyával, illetve egyéb készpénzt helyettesítő fizetési eszközzel.
+
+105. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlő hálózat vezetékes összeköttetésének burkoló, tartó, védő, jelző műtárgyai képeznek.
+
+106. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják.
+
+107. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
+
+108. Rádióberendezés: rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat kibocsátó, vevő vagy kibocsátó és vevő villamos vagy elektronikus termék, vagy olyan villamos vagy elektronikus termék, amelyet tartozékokkal, például antennával kell kiegészíteni ahhoz, hogy rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat tudjon kibocsátani, venni vagy kibocsátani és venni.
+
+109. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.
+
+110. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
+
+111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
+
+112. Rádióspektrum: a rádióhullámok frekvenciatartománya.
+
+113. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
+
+114. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben vagy jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
+
+115. Referenciaajánlat: a Hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, valamint azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
