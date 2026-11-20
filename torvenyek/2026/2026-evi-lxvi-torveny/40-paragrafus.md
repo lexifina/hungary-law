@@ -11,15 +11,3 @@ d) 8. alcíme, 31. §-a, 32. §-a és 36. §-a a büntetőeljárások során a g
 e) 23. §-a a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását új pszichoaktív anyagokkal kiegészítő módosításáról szóló, 2025. október 14-i (EU) 2025/2062 bizottsági felhatalmazáson alapuló irányelvnek
 
 való megfelelést szolgálja.
-
-|
-
-Dr. Baka András s. k.,
-
-köztársasági elnök
-
-|
-
-Forsthoffer Ágnes s. k.,
-
-az Országgyűlés elnöke
