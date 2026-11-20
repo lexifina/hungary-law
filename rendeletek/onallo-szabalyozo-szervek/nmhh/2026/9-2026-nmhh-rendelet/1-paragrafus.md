@@ -1,0 +1,7 @@
+## [1] E rendelet célja, hogy a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény szabályaival összhangban megállapítsa az elektronikus hírközlési szolgáltatók halasztott fizetéssel kapcsolatos tevékenységére vonatkozó részletes szabályokat.
+
+## [2] Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (3) bekezdés 24. pontjában kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+1. § Az elektronikus hírközlési előfizetői szerződések részletes szabályairól szóló 22/2020. (XII. 21.) NMHH rendelet (a továbbiakban: R.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az e rendeletben alkalmazott egyéb, az előfizetői jogviszonnyal és az elektronikus hírközlési szolgáltatásokkal kapcsolatos fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény (a továbbiakban: Aktv.) szerint, a szolgáltató által a fogyasztónak kínált termékek vagy szolgáltatások megvásárlásához biztosított halasztott fizetéssel (a továbbiakban: halasztott fizetés) kapcsolatos fogalmakat a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) szerint kell értelmezni.”
