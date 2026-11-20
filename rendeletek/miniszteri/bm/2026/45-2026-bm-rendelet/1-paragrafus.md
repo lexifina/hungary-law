@@ -4,4 +4,6 @@
 
 ## [3] A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (6) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A belügyminiszter által alapított és adományozott elismerésekről szóló 37/2012. (VIII. 2.) BM rendelet 34. § (4) bekezdésében a „főispán” szövegrész helyébe a „kormánymegbízott” szöveg, valamint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
