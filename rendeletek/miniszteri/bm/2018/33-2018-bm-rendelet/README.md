@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-33-20-0
 | 2020-11-05 | 2018-33-20-0A.2 | 39/2020. (XI. 4.) BM rendelet |
 | 2023-01-01 | 2018-33-20-0A.3 | 48/2022. (XII. 27.) BM rendelet |
 | 2025-01-30 | 2018-33-20-0A.4 | 61/2024. (XII. 30.) BM rendelet |
+| 2026-11-20 | 2018-33-20-0A.5 | 68/2026. (XI. 19.) BM rendelet |

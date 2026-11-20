@@ -2,7 +2,7 @@
 
 a) az 1. § (1) bekezdése szerinti esetben az Országos Rendőr-főkapitányságnak,
 
-b)[^3] az 1. § (2) bekezdése szerinti esetben az ügyben eljáró vármegyei, fővárosi rendőr-főkapitányságnak
+b)[^3] az 1. § (2) bekezdése szerinti esetben az ügyben eljáró megyei, fővárosi rendőr-főkapitányságnak
 
 – mint eljáró szervnek – a Magyar Államkincstárnál vezetett, az 1. mellékletben meghatározott előirányzat-felhasználási keretszámlájára kell teljesíteni.
 
@@ -14,4 +14,4 @@ b) – ha a szükséges technikai feltételek rendelkezésre állnak – az Elek
 
 teljesíthető.
 
-[^3]: A 2. § (1) bekezdés b) pontja a 48/2022. (XII. 27.) BM rendelet 15. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 68/2026. (XI. 19.) BM rendelet 1. § 1. pontja szerint módosított szöveg.
