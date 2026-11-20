@@ -8,6 +8,8 @@ a) a büntetőeljárásról szóló törvény, a szabálysértésekről, a szab�
 
 b) az általános közigazgatási rendtartásról szóló törvény hatálya alól kivett közigazgatási hatósági eljárásokban elrendelt elővezetés;
 
+c)[^1] az Országgyűlésről szóló törvény alapján az együttműködésre kötelezettel szemben elrendelt elővezetés;
+
 2. előállítás:
 
 a) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény alapján elrendelt körözés eredményeként foganatosított hatóság elé állítás,
@@ -17,3 +19,5 @@ b) a büntetőeljárásról szóló törvény alapján a terhelt vagy a bűncsel
 c) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény alapján az elítélt vagy a kényszergyógykezelt elfogatóparancs alapján történt elfogása és meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állítása;
 
 3. kérelemre történő előállítás: a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény alapján az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás.
+
+[^1]: Az 1. § 1. pont c) alpontját az 57/2026. (XI. 19.) BM rendelet 1. §-a iktatta be.

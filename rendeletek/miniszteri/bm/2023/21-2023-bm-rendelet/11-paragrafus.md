@@ -1,3 +1,3 @@
-11. §[^2]
+11. §[^6]
 
-[^2]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

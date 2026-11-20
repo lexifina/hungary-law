@@ -4,7 +4,7 @@ a) az előállítást, illetve az elővezetést foganatosító személyek indul�
 
 b) az előállított, illetve az elővezetett személy megtalálásának helye és
 
-c) az elrendelő bíróság, ügyészség vagy hatóság (a továbbiakban együtt: elrendelő szerv) által meghatározott, az előállításra, illetve az elővezetésre megjelölt hely vagy
+c)[^2] az elrendelő bíróság, ügyészség, hatóság vagy más jogosult (a továbbiakban együtt: elrendelő szerv) által meghatározott, az előállításra, illetve az elővezetésre megjelölt hely vagy
 
 d) az előállításra, illetve az elővezetésre megjelölt hely és az elrendelő szerv által megállapított további előállítási hely
 
@@ -25,3 +25,5 @@ között ténylegesen megtett távolságot és eltelt időtartamot kell figyelem
 a) az indulási hely, a visszatartás helye, valamint az előállítás, az elővezetés helye, illetve az elrendelő szerv által megállapított további előállítási hely között ténylegesen megtett távolság a megállapítandó kilométerszámba beszámít,
 
 b) a visszatartás időtartamát figyelmen kívül kell hagyni.
+
+[^2]: A 3. § (1) bekezdés c) pontja az 57/2026. (XI. 19.) BM rendelet 3. §-a szerint módosított szöveg.
