@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 12. § f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény végrehajtásáról szóló 246/2018. (XII. 17.) Korm. rendelet 21/C. § (1) bekezdésében a „külgazdasági ügyekért” szövegrész helyébe a „külpolitikáért” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
