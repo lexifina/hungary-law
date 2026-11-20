@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2026-07-29 | 2026. évi XXXIV. törvény | 2010-185-00-00.61 |
 | 2026-10-01 | 2026. évi XX. törvény | 2010-185-00-00.60 |
 | 2026-10-24 | 2026. évi LXII. törvény | 2010-185-00-00.62 |
+| 2026-11-20 | 2026. évi LXVI. törvény | 2010-185-00-00.63 |

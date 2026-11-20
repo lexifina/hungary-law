@@ -37,7 +37,3 @@ o) a fogyatékossággal élő személyek Magyarországon bejegyzett, az egyesül
 p) az irodalom, a színház-, a film-, az előadó-, a zene-, a tánc-, a képző- és az iparművészet területén működő, Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó szakmai szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható, és amelyek tagsága elsősorban a felsorolt területeken tevékenységet folytató személyekből vagy szervezetekből áll
 
 q) a környezet-, természet- állatvédelmi és fenntartható fejlődéssel foglalkozó Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható.
-
-2. Az 1. pont 1.1. alpont a)–i) pontjában meghatározott szervezetek egy-egy főt delegálhatnak.
-
-3. Az 1. pont 1.1. alpont j)–q) pontjában meghatározott szervezetek abban az esetben vehetnek részt a delegálásban, ha a jelölés előtt legkésőbb harminc nappal nyilvántartásba vetették magukat a Hivatalnál. A Hivatal a nyilvántartásba vételről hatósági határozatban dönt, amely döntéssel szemben fellebbezésre nincsen mód, annak felülvizsgálatát bíróság előtt lehet kérni.

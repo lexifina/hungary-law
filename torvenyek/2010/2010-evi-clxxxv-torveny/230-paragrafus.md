@@ -18,6 +18,8 @@ f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó 
 
 g) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.
 
+h) a büntetőeljárásban az elektronikus bizonyítékok gyűjtése céljából a kijelölt telephelyek kijelöléséről és a jogi képviselők kinevezéséről szóló harmonizált szabályok meghatározásáról szóló, 2023. július 12-i (EU) 2023/1544 európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
 
 a) az (EU) 2017/2394 rendelet,

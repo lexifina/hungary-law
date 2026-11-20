@@ -18,6 +18,8 @@ h) a gazdálkodás körében – e törvényben és más jogszabályokban foglal
 
 i) ellátja a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletben (a továbbiakban: DSA rendelet) a Digitális Szolgáltatási Koordinátor számára meghatározott feladatokat, valamint
 
-j) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
+j) ellátja az (EU) 2023/1544 európai parlamenti és tanácsi irányelv 2. cikk 1. pont a) alpontjában meghatározott szolgáltatókkal összefüggésben, valamint
+
+k) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
 
 (2) Az (1) bekezdés i) pontja tekintetében a DSA rendeletben a Digitális Szolgáltatási Koordinátor számára, valamint a tagállam illetékes hatósága számára meghatározott valamennyi hatáskört és feladatot a Hatóság Elnöke önállóan látja el. A Digitális Szolgáltatási Koordinátor eljárása nem érinti a más hatóság kizárólagos hatáskörébe utalt feladatok ellátását.
