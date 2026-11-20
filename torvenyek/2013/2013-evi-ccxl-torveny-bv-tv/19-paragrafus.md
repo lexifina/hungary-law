@@ -12,7 +12,7 @@ azzal, hogy körözés elrendelésére és elfogatóparancs kibocsátására kiz
 
 (2) A szabadságvesztés, a közérdekű munka és a pártfogó felügyelet végrehajtása körében a végrehajtásért felelős szerv is jogosult az elítélt lakcímének megállapítása iránt intézkedni.
 
-(3) Ha az elítélt vagy a kényszergyógykezelt lakcímének, tényleges tartózkodási helyének felkutatása iránt megtett intézkedés, vagy a végrehajtás foganatosítása érdekében elrendelt elővezetés nem vezetett eredményre, a bíróság elfogatóparancsot bocsát ki annak az ismeretlen helyen tartózkodó elítéltnek vagy kényszergyógykezeltnek a felkutatása érdekében, aki
+(3) Ha az elítélt vagy a kényszergyógykezelt lakcímének, tényleges tartózkodási helyének felkutatása iránt megtett intézkedés, vagy a végrehajtás foganatosítása érdekében elrendelt elővezetés vagy az előállítás nem vezetett eredményre, a bíróság elfogatóparancsot bocsát ki annak az ismeretlen helyen tartózkodó elítéltnek vagy kényszergyógykezeltnek a felkutatása érdekében, aki
 
 a) a jogerősen kiszabott szabadságvesztés vagy elzárás, illetve a jogerősen elrendelt javítóintézeti nevelés vagy kényszergyógykezelés letöltését nem kezdte meg,
 

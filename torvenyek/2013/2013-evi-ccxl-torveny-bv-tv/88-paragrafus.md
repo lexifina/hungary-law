@@ -4,7 +4,7 @@
 
 a) a jogerős ügydöntő határozatról szóló értesítőlap,
 
-b) az elővezetésről szóló rendelkezés,
+b) az elővezetésről és az előállításról szóló rendelkezés,
 
 c) az elfogatóparancs,
 

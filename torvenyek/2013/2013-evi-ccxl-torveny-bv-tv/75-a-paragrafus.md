@@ -2,7 +2,7 @@
 
 ## Az elítélttel szemben elrendelhető megelőző távoltartás
 
-75/A. § (1) A büntetés-végrehajtási bíró a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján a sértett kérelmére a szabadságvesztés büntetését töltő elítélt sértettől való megelőző távoltartását rendeli el.
+75/A. § (1) A büntetés-végrehajtási bíró a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján a sértett kérelmére a jogerősen szabadságvesztésre ítélt sértettől való megelőző távoltartását rendeli el.
 
 (2) A kérelemnek tartalmaznia kell:
 

@@ -14,7 +14,7 @@ b) az elítélt büntetés végrehajtása alatt tanúsított magatartását, kie
 
 c) az elítéltnek az általa elkövetett bűncselekményhez való viszonyulását és a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
 
-d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az igazságügyért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
+d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az áldozatsegítésért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
 
 e) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
 
