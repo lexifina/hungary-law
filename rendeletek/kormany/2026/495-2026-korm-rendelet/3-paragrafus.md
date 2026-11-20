@@ -1,5 +1,3 @@
-3. § Hatályát veszti a Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet
+3. §[^4]
 
-a) 6. §-a,
-
-b) 1. melléklet 6. pontja.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

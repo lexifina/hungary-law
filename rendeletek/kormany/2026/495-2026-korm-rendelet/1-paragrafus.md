@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(6) A Főigazgatóság – az 1. melléklet 8. pontja szerinti kivétellel – ellátja a fenntartott intézmények tekintetében a gazdasági szervezet feladatait.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
