@@ -12,6 +12,8 @@ e)
 
 f) az Európai Parlament és a Tanács (EU) 2018/1808 irányelve (2018. november 14.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról [1. § (1a) és (1b) bekezdése, 2. § l) pont lf) alpontja, valamint o)–r), w)–y) pontja, 15/C–15/W. §]
 
+g) a büntetőeljárásban az elektronikus bizonyítékok gyűjtése céljából a kijelölt telephelyek kijelöléséről és a jogi képviselők kinevezéséről szóló harmonizált szabályok meghatározásáról szóló, 2023. július 12-i (EU) 2023/1544 európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Hatóság feladatkörében és eljárásában:
 
 a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés;
