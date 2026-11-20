@@ -18,7 +18,7 @@ d) 10 001–50 000 lakos esetén legalább 300 fővel,
 
 e) 2001–10 000 lakos esetén legalább 60 fővel.
 
-(3)[^18] A központi polgári védelmi szervezeteket Budapest főváros polgári védelmi szervezetébe beosztottak létszámának terhére, a területi polgári védelmi szervezeteket a vármegyeszékhelyek polgári védelmi szervezetébe beosztottak létszámának terhére, a munkahelyi polgári védelmi szervezeteket a gazdálkodó szervezet telephelye szerinti település polgári védelmi szervezetébe beosztottak létszámának terhére kell megalakítani.
+(3)[^18] A központi polgári védelmi szervezeteket Budapest főváros polgári védelmi szervezetébe beosztottak létszámának terhére, a területi polgári védelmi szervezeteket a megyeszékhelyek polgári védelmi szervezetébe beosztottak létszámának terhére, a munkahelyi polgári védelmi szervezeteket a gazdálkodó szervezet telephelye szerinti település polgári védelmi szervezetébe beosztottak létszámának terhére kell megalakítani.
 
 (4)[^19]
 
@@ -28,6 +28,6 @@ e) 2001–10 000 lakos esetén legalább 60 fővel.
 
 [^16]: A 8. § az 58/2016. (XII. 22.) BM rendelet 37. § (2) bekezdés a) pontja, a 27/2019. (VI. 28.) BM rendelet 34. § (1) bekezdése szerint módosított szöveg.
 [^17]: A II/A. fejezetet (8/A–8/C. §) a 10/2021. (IV. 1.) BM rendelet 2. §-a iktatta be.
-[^18]: A 8/A. § (3) bekezdése a 79/2022. (XII. 28.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^18]: A 8/A. § (3) bekezdése a 64/2026. (XI. 19.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^19]: A 8/A. § (4) bekezdését az 59/2024. (XII. 23.) BM rendelet 14. §-a hatályon kívül helyezte.
 [^20]: A 8/A. § (6) bekezdését a 41/2022. (XII. 9.) BM rendelet 16. §-a hatályon kívül helyezte.
