@@ -14,7 +14,11 @@
 
 (8)
 
-(9)
+(9) A Hpt. 6. § (1) bekezdés 42a. pontja helyébe a következő rendelkezés lép:
+
+(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
+
+## „42a. hiteltanácsadás: a fogyasztónak nyújtott hitelhez vagy pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;”
 
 (10)
 

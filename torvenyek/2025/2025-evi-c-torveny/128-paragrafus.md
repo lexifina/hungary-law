@@ -1,6 +1,6 @@
 128. § (1) Az Mnbtv.
 
-a)
+a) 53. § (4) bekezdésében az „anonim módon teszi közzé a Hpt.-ben, a Jht.-ban,” szövegrész helyébe az „anonim módon teszi közzé a Hpt.-ben, a Jht.-ban, a fogyasztónak nyújtott hitelről szóló törvényben,” szöveg,
 
 b)
 

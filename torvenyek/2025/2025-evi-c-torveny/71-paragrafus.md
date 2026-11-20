@@ -2,4 +2,6 @@
 
 (2)
 
-(3)
+(3) Az Fhtv. 3. §-a a következő 33–37. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
