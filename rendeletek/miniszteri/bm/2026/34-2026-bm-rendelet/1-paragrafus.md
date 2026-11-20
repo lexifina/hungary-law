@@ -4,12 +4,6 @@
 
 ## [3] A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet
+1. §[^2]
 
-a) 10. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 10. § (5) bekezdés záró szövegrészében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 11/C. § (4) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
