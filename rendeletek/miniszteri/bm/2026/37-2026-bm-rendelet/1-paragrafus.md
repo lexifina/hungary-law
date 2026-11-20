@@ -4,10 +4,6 @@
 
 ## [3] A Rendőrségről szóló 1994. évi XXXIV. törvény 101. § (1) bekezdés k) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Rendőrség légiközlekedés-rendészeti feladatai ellátásának rendjéről, valamint a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány helyszíni elvételének szabályairól szóló 19/2009. (VI. 18.) IRM rendelet
+1. §[^2]
 
-a) 1. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 2. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
