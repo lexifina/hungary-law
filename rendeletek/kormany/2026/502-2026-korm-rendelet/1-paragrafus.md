@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (2) bekezdésében a „Külgazdasági és” szövegrész,
-
-b) 26. § (2) bekezdés b) pontjában az „a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével” szövegrész,
-
-c) 26. § (4) bekezdés b) pontjában az „a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével” szövegrész,
-
-d) 31. § (7) bekezdésében a „Külgazdasági és” szövegrész.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
