@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a külföldre utazásról szóló 1998. évi XII. törvény 41. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 20/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(7) Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külpolitikáért felelős miniszter engedélyezési hatáskörébe tartozik, az útlevelet az érvényességének lejártakor vagy a külpolitikáért felelős miniszter engedélyében meghatározottak szerint a KüM konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

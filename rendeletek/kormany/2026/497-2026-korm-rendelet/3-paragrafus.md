@@ -1,1 +1,3 @@
-3. § Hatályát veszti a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 3. § (2a) bekezdésében a „külpolitikáért felelős minisztert, a” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
