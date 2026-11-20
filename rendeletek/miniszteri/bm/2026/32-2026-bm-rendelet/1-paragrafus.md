@@ -4,4 +4,6 @@
 
 ## [3] A közterület-felügyeletről szóló 1999. évi LXIII. törvény 29. § b) pont bd) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A közterület-felügyelők egyenruha-ellátásáról a felügyelői jelvényről és szolgálati igazolványról szóló 46/1999. (XII. 8.) BM rendelet 10/A. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
