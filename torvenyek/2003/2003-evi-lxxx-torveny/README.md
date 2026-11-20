@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2025-07-01 | 2025. évi XXIII. törvény | 2003-80-00-00.39 |
 | 2025-12-24 | 2025. évi XCII. törvény | 2003-80-00-00.40 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2003-80-00-00.41 |
+| 2026-11-20 | 2026. évi LXVI. törvény | 2003-80-00-00.42 |
