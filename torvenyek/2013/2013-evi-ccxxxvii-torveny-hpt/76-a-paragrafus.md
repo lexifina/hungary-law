@@ -1,1 +1,1 @@
-76/A. § Hitel-tanácsadási tevékenység végzésére csak jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing nyújtására engedéllyel rendelkező pénzügyi intézmény, valamint jelzáloghitel közvetítői tevékenységet végző közvetítő kaphat engedélyt.
+76/A. § Hiteltanácsadási tevékenység végzésére csak fogyasztónak nyújtott hitel vagy pénzügyi lízing nyújtására engedéllyel rendelkező pénzügyi intézmény, valamint ezen tevékenységeket végző közvetítő kaphat engedélyt.

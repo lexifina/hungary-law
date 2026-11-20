@@ -148,7 +148,7 @@ a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyúj
 
 b) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszert kezelő pénzügyi vállalkozás által történő adatkezelés;
 
-42a. hiteltanácsadás: a jelzáloghitelhez vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;
+42a. hiteltanácsadás: a fogyasztónak nyújtott hitelhez vagy pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;
 
 43. illetékes felügyeleti hatóság: az 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 

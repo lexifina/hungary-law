@@ -59,9 +59,3 @@ Az Európai Unió jogának való megfelelés
 1. Ez a törvény
 
 a) a bankok és más pénzintézetek éves beszámolójáról és összevont beszámolójáról szóló 1986. december 8-i 86/635/EGK tanácsi irányelvnek,
-
-b) a hitelintézetek vonatkozásában a 77/780/EGK és a 89/646/EGK irányelvnek, a nem életbiztosítási tevékenység vonatkozásában a 73/239/EGK és a 92/49/EGK irányelvnek, az életbiztosítások vonatkozásában a 79/267/EGK és a 92/96/EGK irányelvnek, a befektetési vállalkozások vonatkozásában a 93/22/EGK irányelvnek, valamint az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) vonatkozásában a 85/611/EGK irányelvnek a prudenciális felügyelet megerősítése érdekében történő módosításáról szóló 1995. július 18-i 95/26/EK európai parlamenti és tanácsi irányelvnek,
-
-c) a hitelintézetek reorganizációjáról és felszámolásáról szóló 2001. április 4-i 2001/24/EK európai parlamenti és tanácsi irányelvnek,
-
-d) a rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i európai parlamenti és tanácsi (EU) 2015/849 irányelvnek,
