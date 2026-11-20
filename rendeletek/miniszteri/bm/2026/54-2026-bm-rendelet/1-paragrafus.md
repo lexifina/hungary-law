@@ -4,10 +4,6 @@
 
 ## [3] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 342/E. § 4. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A szerződéses határvadász jogviszonyával, képzésével és vizsgáztatásának rendjével összefüggő egyes szabályokról szóló 47/2022. (XII. 27.) BM rendelet
+1. §[^2]
 
-a) 3. § (1) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-b) 3. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
