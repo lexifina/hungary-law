@@ -4,8 +4,8 @@
 
 ## AZ ÉRDEMEK ELISMERÉSE ÉS A CÉLJUTTATÁS
 
-## 16. A teljesítményelismerésre és a motivációs elismerésre vonatkozó közös rendelkezések
+## 16.[^14]
 
-28. § (1) A teljesítményelismerés, valamint a motivációs elismerés adományozására és mértékére a szervezeti egység vezetője tesz javaslatot a munkáltatói jogkör gyakorlójának.
+28. §
 
-(2) Az (1) bekezdés szerinti elismerés adományozásáról és mértékéről a munkáltatói jogkör gyakorlója dönt és arról munkáltatói intézkedésben rendelkezik.
+[^14]: A 16. alcímet (28. §-t) az 506/2026. (XI. 19.) Korm. rendelet 5. §-a hatályon kívül helyezte.

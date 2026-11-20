@@ -30,8 +30,9 @@ f) a X. és XV. fejezet hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) és
 
 g) a XVI. fejezet hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) pontja szerinti foglalkoztatottra,
 
-h) az V–XVI. fejezet hatálya nem terjed ki a munkavállalóra.
+h)[^4] az V–VII. fejezet, – a 18. alcím kivételével – a VIII. fejezet, valamint a IX–XVI. fejezet hatálya nem terjed ki a munkavállalóra.
 
 [^1]: Az 1. § (3) bekezdés a) pontja 109/A. §-t a 338/2019. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés c) pontját a 668/2020. (XII. 28.) Korm. rendelet 52. § (3) bekezdés a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (3) bekezdés d) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés h) pontja az 506/2026. (XI. 19.) Korm. rendelet 1. §-ával megállapított szöveg.

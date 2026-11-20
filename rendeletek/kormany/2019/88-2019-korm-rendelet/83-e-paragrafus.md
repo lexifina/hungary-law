@@ -1,4 +1,4 @@
-83/E. §[^32] (1)[^33] Amennyiben jogszabály a fővárosi és megyei kormányhivatal által működtetett ügyfélszolgálaton dolgozó kormánytisztviselő részére öltözködési előírásokat határoz meg, a kormánytisztviselő részére évente – közterhek nélkül számítottan – legfeljebb 150 000 forint összegben támogatás nyújtható.
+83/E. §[^37] (1)[^38] Amennyiben jogszabály a fővárosi és megyei kormányhivatal által működtetett ügyfélszolgálaton dolgozó kormánytisztviselő részére öltözködési előírásokat határoz meg, a kormánytisztviselő részére évente – közterhek nélkül számítottan – legfeljebb 150 000 forint összegben támogatás nyújtható.
 
 (2) Ha a jogviszony év közben keletkezik vagy szűnik meg, a kormánytisztviselő részére a támogatás időarányosan nyújtható.
 
@@ -14,5 +14,5 @@
 
 (8) A ruházati támogatást a kormánytisztviselő csak saját célra használhatja fel.
 
-[^32]: A 83/E. §-t a 225/2024. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^33]: A 83/E. § (1) bekezdése a 448/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^37]: A 83/E. §-t a 225/2024. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A 83/E. § (1) bekezdése a 448/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

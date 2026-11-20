@@ -62,7 +62,7 @@ g) e rendeletben foglaltak figyelembevételével az illetmény és az illetmény
 
 ga) az írásbeli dicséretre való felterjesztés rendjét, elbírálásának szempontjait és szabályait,
 
-gb) a teljesítményelismerés és a motivációs elismerés szervezeti egység vezetője általi kezdeményezésének szabályait, az elbírálás és az elszámolás rendjét,
+gb)[^11] a teljesítményelismerés szervezeti egység vezetője általi kezdeményezésének és elbírálásának szabályait, valamint a teljesítményelismerés és a motivációs elismerés elszámolásának rendjét,
 
 gc) a célhoz köthető feladat és a céljuttatás megállapításának szabályait,
 
@@ -78,7 +78,7 @@ gh) a közszolgálat halottjává nyilvánítás rendjét és a közszolgálat h
 
 gi) a családalapítási támogatás, az iskolakezdési és gyermeknevelési támogatás igénybevételére vonatkozó szabályokat,
 
-gj)[^10] egyéb – a Kit.-ben, illetve az e rendeletben nevesített – támogatások igénybevételét, továbbá igénylésének és elbírálásának rendjét,
+gj)[^12] egyéb – a Kit.-ben, illetve az e rendeletben nevesített – támogatások igénybevételét, továbbá igénylésének és elbírálásának rendjét,
 
 gk) a ge)–gj) alpont szerinti támogatások elbírálásával kapcsolatos bizottságokra vonatkozó szabályokat;
 
@@ -90,4 +90,5 @@ i) a kormánytisztviselő képzésére, továbbképzésére vonatkozó rendelkez
 
 (3) A hivatali szervezet vezetője az (1) bekezdés szerinti szabályzat helyett egyedi utasításban is megállapíthatja a kormányzati igazgatási szerv foglalkoztatottjaira vonatkozó általános munkarendet.
 
-[^10]: A 19. § (1) bekezdés g) pont gj) alpontja a 338/2019. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^11]: A 19. § (1) bekezdés g) pont gb) alpontja az 506/2026. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: A 19. § (1) bekezdés g) pont gj) alpontja a 338/2019. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
