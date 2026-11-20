@@ -4,18 +4,28 @@
 
 ## Környezetkárosítás
 
-241. § (1) Aki a földet, a levegőt, a vizet, az élővilágot, valamint azok összetevőit jelentős mértékű szennyezéssel vagy más módon
+241. § (1) Aki jogszabályban, hatósági határozatban, közvetlenül alkalmazandó uniós jogi aktusban megállapított, közvetlenül vagy közvetve a környezet védelmét szolgáló előírást megszeg, és ezzel valamely környezeti elemet veszélyezteti, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-a) veszélyezteti,
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény
 
-b) olyan mértékben károsítja, hogy annak természetes vagy korábbi állapota csak beavatkozással állítható helyre,
+a) valamely környezeti elemben olyan mértékű károsodást okoz vagy okozhat, hogy annak természetes vagy korábbi állapota csak beavatkozással állítható helyre, vagy
 
-c) olyan mértékben károsítja, hogy annak természetes vagy korábbi állapota nem állítható helyre,
+b) maradandó fogyatékosságot vagy súlyos egészségromlást okoz vagy okozhat.
 
-bűntett miatt az a) pontban meghatározott esetben három évig, a b) pontban meghatározott esetben egy évtől öt évig, a c) pontban meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény valamely környezeti elemben olyan mértékű károsodást okoz, hogy annak természetes vagy korábbi állapota nem állítható helyre.
 
-(2) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés a) pontja esetén egy évig, b) pontja esetén két évig, c) pontja esetén három évig terjedő szabadságvesztéssel büntetendő.
+(4) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a környezetkárosítás halált okoz.
 
-(3) Az (1) bekezdés a) pontjában, és a (2) bekezdés első és második fordulatában meghatározott esetben az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ügydöntő határozat meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.
+(5) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés esetén egy évig, a (2) bekezdés esetén két évig, a (3) bekezdés esetén három évig, a (4) bekezdés esetén egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(4) E § alkalmazásában szennyezés: a föld, a levegő, a víz, az élővilág, valamint azok összetevői jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket meghaladó terhelése.
+(6) Az (1) bekezdés esetén az elkövető nem büntethető, a (2) bekezdés a) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ügydöntő határozat meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.
+
+(7) E § alkalmazásában környezeti elem
+
+a) a föld, ideértve a föld felszínét, felszín alatti rétegeit, a talajt, a kőzeteket, az ásványokat,
+
+b) a víz, ideértve a felszíni és felszín alatti vizeket, azok készleteit, minőségét és mennyiségét,
+
+c) a levegő, ideértve a légkör egészét, annak folyamatait, összetételét és a klímát, valamint
+
+d) az élővilág, ideértve az élő szervezeteket, azok életközösségeit, élőhelyeit és az ökológiai rendszert.

@@ -12,7 +12,7 @@ ideje alatt szerzett.
 
 a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176. § (1)–(4) és (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont és (2)–(3) és (5) bekezdés], kábítószer termesztése, előállítása, az ország területére behozatala, kivitele, átszállítása [178. § (1)–(5) bekezdés és 179. §], a kábítószer készítésének elősegítése [182. § (1)–(4) bekezdés], a kábítószer-prekurzor forgalomba hozatala, szállítása, azzal közvetítői tevékenység végzése [183. § (1) bekezdés a) pont],
 
-b)
+b) üzletszerűen elkövetett természetkárosítás [242. § (2b) bekezdés],
 
 c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
 
@@ -46,4 +46,6 @@ q) a bűnszövetségben vagy üzletszerűen elkövetett tiltott adatszerzés [42
 
 elkövetője a büntetőeljárás megindítását megelőző öt évben szerzett, ha a vagyon, illetve az elkövető életvitele az igazolható jövedelmi viszonyaihoz, személyi körülményeihez képest különösen aránytalan.
 
-(3) Nem rendelhető el vagyonelkobzás az (1) és (2) bekezdés esetében, ha az elkövető bizonyítja, hogy a vagyon nem bűncselekményből származik.
+(2a) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a bűnszervezetben részt vevő személy elleni büntetőeljárás megindítását megelőző öt évben szerzett vagyonra is, amelyet más személy a bűnszervezetben részt vevő személytől szerzett, és a vagyon, illetve a vagyont megszerző személy életvitele az igazolható jövedelmi viszonyaihoz, személyi körülményeihez képest különösen aránytalan.
+
+(3) Nem rendelhető el vagyonelkobzás az (1)–(2a) bekezdés esetében, ha az elkövető vagy a (2a) bekezdésben meghatározott személy bizonyítja, hogy a vagyon nem bűncselekményből származik.

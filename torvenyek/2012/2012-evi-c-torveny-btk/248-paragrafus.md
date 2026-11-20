@@ -40,7 +40,7 @@ terjedő szabadságvesztéssel büntetendő.
 
 (6) E § alkalmazásában
 
-a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a környezetkárosítás és a természetkárosítás;
+a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a környezetkárosítás, az uniós környezetvédelmi szabályok megszegése és a természetkárosítás;
 
 b) hulladékgazdálkodási tevékenység a hulladékról szóló törvény szerinti hulladékgazdálkodás azzal, hogy a szállítás fogalmába bele kell érteni az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást;
 
