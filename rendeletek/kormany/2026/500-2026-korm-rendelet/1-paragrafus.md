@@ -4,12 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kulturális és tudománydiplomáciai feladatok ellátásáról szóló 241/2016. (VIII. 16.) Korm. rendelet
+1. §[^2]
 
-a) 1. § (1) bekezdés nyitó szövegrészében a „külgazdasági és külügyminiszter” szövegrész helyébe a „külügyminiszter” szöveg,
-
-b) 1. § (1) bekezdés j) pontjában a „közreműködik” szövegrész helyébe az „– a külgazdasági ügyekért felelős miniszterrel együttműködve – közreműködik” szöveg,
-
-c) 4. § (2) bekezdésében a „Külgazdasági és Külügyminisztérium” szövegrész helyébe a „miniszter által vezetett minisztérium” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-2. § Hatályát veszti a kulturális és tudománydiplomáciai feladatok ellátásáról szóló 241/2016. (VIII. 16.) Korm. rendelet 3. § (1) bekezdésében az „és a kultúráért felelős miniszter” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
