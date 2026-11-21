@@ -1,3 +1,1 @@
-78. § Az Fhtv. 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § Ha a Szerződés megkötése a fogyasztó kérése alapján a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2025. évi XCIX. törvény (a továbbiakban: Téttv.) szerinti hívás útján történik, a Téttv. 4. §-ában meghatározott tájékoztatás legalább a 6. § (4) bekezdésében foglalt adatokat tartalmazza. Ilyen esetekben a hitelező és a hitelközvetítő a Szerződés megkötését követően haladéktalanul eleget tesz a 6. és 7. § szerint a fogyasztóval szemben fennálló tájékoztatási kötelezettségének papíron vagy más tartós adathordozón.”
+### 78. §
