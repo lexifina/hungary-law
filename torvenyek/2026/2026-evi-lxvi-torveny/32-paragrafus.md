@@ -1,5 +1,1 @@
-## „b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, más ügyben letartóztatás, előzetes kényszergyógykezelés hatálya alatt áll, ha szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt, valamint, ha letartóztatásának vagy előzetes kényszergyógykezelésének elrendelésére irányuló indítványról dönt a bíróság,”
-
-32. § A Be. 77. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a büntetőeljárás során a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vonatkozásában olyan adat merül fel, amely alapján a költségkedvezmény engedélyezésének feltételei valószínűsíthetők, a bíróság, az ügyészség és a nyomozó hatóság a terheltet és a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt ismételten tájékoztatja, hogy költségkedvezmény iránti kérelmet nyújthat be, és közreműködik a kérelem összeállításában, valamint annak a jogi segítségnyújtó szolgálathoz történő továbbításában.”
+### 32. §

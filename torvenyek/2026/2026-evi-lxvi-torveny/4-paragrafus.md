@@ -1,3 +1,3 @@
 ## 3. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-4. § Az atomenergiáról szóló 1996. évi CXVI. törvény 11. § (3) bekezdés b) pont 7. alpontjában a „Btk. 241. § (1) bekezdés], természetkárosítás [1978. évi IV. törvény 281. § (1)–(3) bekezdés, Btk. 242. § (1)–(2) bekezdés, 243. § (1)–(2) bekezdés], veszélyes hulladékra elkövetett, a hulladékgazdálkodás rendjének megsértése [1978. évi IV. törvény 281/A. § (2) bekezdés, Btk. 248. § (2) bekezdés], illetve ózonréteget” szövegrész helyébe a „Btk. 241. § (1)–(4) bekezdés], uniós környezetvédelmi szabályok megszegése [Btk. 241/A. § (1) bekezdés], természetkárosítás [1978. évi IV. törvény 281. § (1)–(3) bekezdés, Btk. 242. § (1)–(2b) bekezdés, 243. § (1)–(2a) bekezdés], veszélyes hulladékra elkövetett, a hulladékgazdálkodás rendjének megsértése [1978. évi IV. törvény 281/A. § (2) bekezdés, Btk. 248. § (2) bekezdés], a 2026. november 20-ig hatályban volt ózonréteget” szöveg lép.
+### 4. §
