@@ -4,50 +4,6 @@
 
 ## [3] A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (3) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 130. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § A polgári célú pirotechnikai tevékenységek engedélyezésével kapcsolatos eljárások igazgatási szolgáltatási díjairól szóló 53/2012. (X. 26.) BM rendelet
+1. §[^2]
 
-1. 1. § (2) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-2. 1. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-3. 2. melléklet címében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-4. 2. mellékletében foglalt táblázat 3. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-5. 2. mellékletében foglalt táblázat 4. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-6. 2. mellékletében foglalt táblázat 5. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-7. 2. mellékletében foglalt táblázat 6. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-8. 2. mellékletében foglalt táblázat 7. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-9. 2. mellékletében foglalt táblázat 8. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-10. 2. mellékletében foglalt táblázat 9. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-11. 2. mellékletében foglalt táblázat 10. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-12. 2. mellékletében foglalt táblázat 11. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-13. 2. mellékletében foglalt táblázat 12. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-14. 2. mellékletében foglalt táblázat 13. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-15. 2. mellékletében foglalt táblázat 14. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-16. 2. mellékletében foglalt táblázat 15. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-17. 2. mellékletében foglalt táblázat 16. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-18. 2. mellékletében foglalt táblázat 17. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-19. 2. mellékletében foglalt táblázat 18. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-20. 2. mellékletében foglalt táblázat 19. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-21. 2. mellékletében foglalt táblázat 20. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-22. 2. mellékletében foglalt táblázat 21. sorában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
