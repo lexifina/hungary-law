@@ -4,4 +4,6 @@
 
 ## [3] A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 434. § (4a) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 3. és 16. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 97. § (1) bekezdés a) pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet 6. § (3) és (5) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
