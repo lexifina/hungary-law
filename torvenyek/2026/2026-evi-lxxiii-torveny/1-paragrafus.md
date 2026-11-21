@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a polgári célú atomenergia-programmal kapcsolatos magyarországi együttműködés elősegítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
