@@ -1,1 +1,3 @@
-13. § Hatályát veszti a jelzáloghitel nyújtásával, közvetítéssel kapcsolatos eljárásra, a hiteltanácsadásra és a foglalkoztatottak szakmai ismereteire vonatkozó szabályokról szóló 462/2015. (XII. 29.) Korm. rendelet.
+13. §[^1]
+
+[^1]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
