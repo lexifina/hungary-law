@@ -4,10 +4,6 @@
 
 ## [3] A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 86. § (2) bekezdés b) pontjában, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 284. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 6. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 97. § (1) bekezdés a) pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 11/2024. (II. 29.) BM rendelet
+1. §[^2]
 
-a) 14. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 19. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
