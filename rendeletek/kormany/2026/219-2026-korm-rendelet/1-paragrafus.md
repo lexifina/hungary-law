@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (1) bekezdés i) pontjában, valamint a felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az igazságügyi szolgáltatásokkal kapcsolatos egyes feladat- és hatáskörökről szóló 362/2016. (XI. 29.) Korm. rendelet [a továbbiakban: 362/2016. (XI. 29.) Korm. rendelet] 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A miniszter – az Igazságügyi Szolgálatok Jogakadémiája működtetéséért felelős szervként – ellátja az áldozatsegítési, a jogi segítségnyújtási, a pártfogó felügyelői, a természetes személyek adósságrendezési eljárásával és az adósságkezelési tanácsadási szolgáltatással összefüggő feladatokat ellátó személyek, az önálló bírósági végrehajtók, igazságügyi szakértők, közvetítők részére jogi tárgyú és az igazságszolgáltatási tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzések, továbbképzések és vizsgák szervezésével, valamint a felszámolói és vagyonfelügyelői szakirányú szakképzettséggel rendelkező személyek és a szerkezetátalakítási szakértők továbbképzésével és szakmai továbbképzésével kapcsolatos feladatokat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
