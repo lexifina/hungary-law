@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 88/2019. (IV. 23.) Korm. rendelet 16. alcíme.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
