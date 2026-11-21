@@ -4,10 +4,6 @@
 
 ## [3] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 7. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 93. § a) pontjában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § A belügyminiszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 16/2013. (V. 9.) BM rendelet
+1. §[^2]
 
-a) 8/A. § (3) bekezdésében a „vármegyeszékhelyek” szövegrész helyébe a „megyeszékhelyek” szöveg,
-
-b) 8/B. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
