@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-9-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-11-20 | 2026-9-20-3H.1 | 9/2026. (V. 26.) NMHH rendelet |
+| 2026-11-21 | 2026-9-20-3H.2 | 2010. évi CXXX. törvény |
