@@ -1,3 +1,3 @@
-22. §[^22]
+22. § Az R. 32. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^22]: A 22. § a 32. § (2) bekezdése alapján 2026. november 22-én lép hatályba.
+[A Hatóság által az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a, valamint a Httv. 4/A. § (1) bekezdése szerint kiszabható bírság mértéke]

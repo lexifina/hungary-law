@@ -1,3 +1,3 @@
-3. melléklet a 465/2026. (XI. 6.) Korm. rendelethez[^34]
+3. melléklet a 465/2026. (XI. 6.) Korm. rendelethez[^33]
 
-[^34]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
