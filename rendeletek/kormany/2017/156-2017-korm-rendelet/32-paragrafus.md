@@ -2,7 +2,7 @@
 
 a)[^115] a 11. §, a 28. §, a 29. § (3)–(5) bekezdése, valamint a Httv. 4/A. § (1) bekezdés a) pontja szerinti kötelezettség megsértése esetén ötezertől ötvenezer forintig,
 
-b)[^116] a 22. § (4) bekezdése, a 29. § (6) és (7) bekezdése szerinti kötelezettség, a Httv. 4/A. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés c) és d) pontja szerinti kötelezettség megsértése esetén százezertől egymillió forintig,
+b)[^116] a 8/A. § (1)–(3) bekezdése, a 22. § (4) bekezdése, a 29. § (6) és (7) bekezdése szerinti kötelezettség, a Httv. 4/A. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés c) és d) pontja szerinti kötelezettség megsértése esetén százezertől egymillió forintig,
 
 c) a 10. § (1) bekezdés c) pontja szerinti kötelezettség megsértése, a 16. § (1) bekezdésében és a 24. § (1) bekezdésében foglaltak megsértése, továbbá a Httv. 4/A. § (1) bekezdés b) pontja szerinti jelölési és nyilvántartási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés e)–g) pontja szerinti kötelezettség megsértése esetén ötszázezertől ötmillió forintig,
 
@@ -18,5 +18,5 @@ terjedhet.
 
 [^114]: A 32. § (1) bekezdése a 443/2021. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^115]: A 32. § (1) bekezdés a) pontja a 309/2022. (VIII. 11.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^116]: A 32. § (1) bekezdés b) pontja a 309/2022. (VIII. 11.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^116]: A 32. § (1) bekezdés b) pontja a 465/2026. (XI. 6.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^117]: A 32. § (2) bekezdése a 34. § (3) bekezdése szerint módosított szöveg.

@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-156-20-
 | 2025-05-31 | 2017-156-20-22.19 | 116/2025. (V. 29.) Korm. rendelet |
 | 2026-10-01 | 2017-156-20-22.20 | 443/2021. (VII. 23.) Korm. rendelet |
 | 2026-11-07 | 2017-156-20-22.21 | 465/2026. (XI. 6.) Korm. rendelet |
+| 2026-11-22 | 2017-156-20-22.22 | 465/2026. (XI. 6.) Korm. rendelet |
