@@ -1,3 +1,3 @@
-5. melléklet a 465/2026. (XI. 6.) Korm. rendelethez[^35]
+5. melléklet a 465/2026. (XI. 6.) Korm. rendelethez[^37]
 
-[^35]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
