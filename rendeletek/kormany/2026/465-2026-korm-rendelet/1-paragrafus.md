@@ -1,7 +1,0 @@
-## [1] A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet 1. mellékletének tartalmát a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékeket tartalmazó jegyzéknek az Európai Unió 2025. február 24-i naprakésszé tett közös katonai listájával összhangban való naprakésszé tétele tekintetében történő módosításáról szóló, 2025. október 27-i (EU) 2026/325 felhatalmazáson alapuló bizottsági irányelv módosítja, amely a tagállamok számára jogharmonizációs kötelezettséget teremt. A jogharmonizációs kötelezettség mellett a módosítás célja, hogy a jogalkalmazás során összegyűlt tapasztalatok és észrevételek kapcsán felmerült igények alapján a hatályos szabályozásba beemelje a szükséges módosításokat a hatósági eljárások hatékonyságának növelése érdekében.
-
-## [2] A Kormány az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/E. § (1) bekezdésében, valamint a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 10. § (1) bekezdés b)–d), f) és g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
-
-1. §[^2]
-
-[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
