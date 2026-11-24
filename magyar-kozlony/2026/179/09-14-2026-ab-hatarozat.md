@@ -1,0 +1,723 @@
+# Az Alkotmánybíróság 14/2026. (XI. 24.) AB határozata
+
+Magyar Közlöny 2026. évi 179. szám, 2026. november 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cZbbXwBGZg72HdkJTHun6aff45cbcf18f/dokumentumok/9aea255461db8f664f571d9ae41317adbb172207/letoltes)
+
+---
+
+Az Alkotmánybíróság 14/2026. (XI. 24.) AB határozata
+a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 39/A. § (3) bekezdése és
+39/B. § (1) bekezdés b) pontja alaptörvény-ellenességének megállapításáról és megsemmisítéséről,
+valamint alkalmazásának kizárásáról
+Az Alkotmánybíróság teljes ülése jogszabály alaptörvény-ellenességének megállapítása iránti bírói kezdeményezés
+tárgyában – dr. Nemessányiné dr. Chronowski Nóra Edit alkotmánybíró párhuzamos indokolásával, valamint
+dr. Hörcherné dr. Marosi Ildikó, dr. Schanda Balázs és dr. Varga Réka alkotmánybírók különvéleményével –
+meghozta a következő
+h a t á r o z a t o t :
+1. Az Alkotmánybíróság megállapítja, hogy a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
+III. törvény 39/A. § (3) bekezdése és 39/B. § (1) bekezdés b) pontja alaptörvény-ellenes, ezért azokat
+megsemmisíti.
+2. Az alaptörvény-ellenessé nyilvánított és megsemmisített rendelkezések nem alkalmazhatóak a Veszprémi
+Törvényszék előtt 13.K.700.252/2026. számon folyamatban lévő ügyben, továbbá valamennyi, bármely
+bíróság előtt folyamatban lévő, ugyanilyen tárgyú ügyben.
+Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzé kell tenni.
+I n d o k o l á s
+I.
+[1] 1. A Veszprémi Törvényszék bírája (a továbbiakban: indítványozó) az előtte folyamatban lévő
+13.K.700.252/2026. számú, gyermekek otthongondozási díjára való jogosultság tárgyában hozott közigazgatási
+határozat bírósági felülvizsgálata iránti perében az eljárás felfüggesztése mellett az Alkotmánybíróságról szóló
+2011. évi CLI. törvény (a továbbiakban: Abtv.) 25. § (1) bekezdése alapján indítványozta, hogy az Alkotmánybíróság
+a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 39/A. §
+(3) bekezdése alaptörvény-ellenességét állapítsa meg, azt semmisítse meg, és alkalmazását zárja ki, tekintettel arra,
+hogy álláspontja szerint a támadott jogszabályi rendelkezés ellentétes az Alaptörvény XV. cikk (1) bekezdésével és
+XVI. cikk (1) bekezdésével.
+[2] 1.1. Az alapügyben megállapított tényállás szerint egy 2017-ben született kiskorú gyermek 2022. augusztus 30-án
+egy közúti közlekedési balesetben súlyosan megsérült, súlyos fogyatékosságát először a 2022. október 17-én
+kiállított szakorvosi igazolás állapította meg. A közúti balesetet követően a gyermek szülei elhunytak, az alperes
+hatóság 2022. október 6. napján kelt határozatával a gyermek nagyszüleit rendelte ki a gyermek gyámjául,
+a nagyszülők pedig a gyermeket a szükséges kórházi kezeléseket követően, 2023. január 26. napjától a saját
+háztartásukban nevelik, gondozzák.
+[3] Az alapügy előzményügyének felperese (a gyermek nagymamája) 2025. március 21. napján terjesztett elő kérelmet
+gyermekek otthongondozási díjára (a továbbiakban: gyod) való jogosultság megállapítása iránt, a Szoctv. 39. §-a
+alapján, a gondozott személy Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. §
+(1) bekezdés 2. pontja szerinti hozzátartozójaként.
+[4] Az alperes járási hivatal a kérelmet 2025. március 28. napján kelt határozatával elutasította, tekintettel arra,
+hogy bár a gyodra való jogosultság törvényi feltételei egyebekben teljesültek, a felperes a kérelmét a szülők
+2022 augusztusában bekövetkezett halálát követő három hónapon túl terjesztette elő, mely határidőt a pénzbeli és
+természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól
+szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Vhr.) határozat meghozatalakor hatályos 23. § (4) bekezdése
+
+írta elő. Az alperes járási hivatal határozatában utalt arra, hogy jogszabályi felhatalmazás hiányában a kérelem
+elbírálása során méltányosságot nem gyakorolhat.
+[5] A Veszprémi Törvényszék bírája által előterjesztett indítvány alapján az Alkotmánybíróság a 11/2025. (X. 9.)
+AB határozatával megállapította, hogy a Vhr. határozat meghozatalakor hatályos 23. § (4) bekezdése alaptörvény-
+ellenes volt, és annak alkalmazására vonatkozóan egyedi és általános alkalmazási tilalmat is elrendelt.
+[6] 1.2. Az Alkotmánybíróság határozatát követően az alperes járási hivatal a 2025. március 28. napján kelt határozatát
+visszavonta, és a gyodra való jogosultság megállapítása iránt kérelemre indult eljárást folytatta. Az alperes járási
+hivatal 2026. január 26. napján kelt határozatában megállapította, hogy az alapügy felperese gyodra jogosult,
+azonban a részére folyósított öregségi nyugdíj összege a Szoctv. 4. § (1) bekezdés i) pontja alapján rendszeres
+pénzellátásnak minősül, amelyet a Szoctv. 39/A. § (3) bekezdése értelmében – a 39/B. § (5) bekezdésében foglalt
+feltételek hiányában – a gyod összegéből le kell vonni. Mindezek alapján az alperes járási hivatal a gyod havi
+összegeként a 2026. évre megállapított kötelező legkisebb munkabér összege (a gyod törvény szerinti összege)
+és a felperes számára folyósított öregségi nyugdíj havi összege különbözetét állapította meg az ellátás havi
+összegeként.
+[7] A felperes keresetet terjesztett elő az alperes határozatával szemben, melyben (egyebek között)
+az Alkotmánybíróság eljárásának kezdeményezését is indítványozta, az Alaptörvény XV. cikk (1) és (5) bekezdésének,
+valamint a XVI. cikk (1) bekezdésének és XIX. cikk (4) bekezdésének a sérelme miatt.
+[8] 1.3. Az indítványozó álláspontja szerint a Szoctv. perben alkalmazandó 39/A. § (3) bekezdése az Alaptörvény XV. cikk
+(1) bekezdésébe és XVI. cikk (1) bekezdésébe ütközik. Ennek oka, hogy az alapügy felperese a XV. cikk (1) bekezdése
+szempontjából összehasonlítható helyzetben van azokkal a személyekkel, akik közeli hozzátartozóként tartósan
+beteg vagy súlyosan fogyatékos gyermeket a saját háztartásukban gondoznak, gyodra jogosultak, és egyúttal
+a Szoctv. 39/B. § (5) bekezdés a) pontjában nevesített valamely rendszeres pénzellátásban is részesülnek.
+[9] Az indítványozó utalt arra, hogy a jogalkotó a gyodot az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb
+kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel vezette be, a Szoctv. 38–39/C. §-ának
+beiktatásával. A gyod összegszerűségére vonatkozóan a törvényhez fűzött indokolás az alábbiakat tartalmazza:
+„A gyermekek otthongondozási díjának havi összege a 2019. évben 100 000 forint, majd 2022-ig folyamatosan
+emelkedik az aktuális minimálbér összegének megfelelő szintig. Az ellátást csak nyugdíjjárulék-fizetési kötelezettség
+terheli. Ha a szülő több, önellátásra képtelen gyermekről is gondoskodik, részére másfélszeres összegben kell
+az ellátást folyósítani. Az ellátás célzottságának biztosítása érdekében a törvény rögzíti, hogy a szülő mely esetekben
+nem jogosult a gyermekek otthongondozási díjára, illetve mely esetekben kell megszüntetni az ellátásra való
+jogosultságot.”
+[10] Az indítványozó álláspontja szerint nincs objektív, észszerű indoka annak, hogy a jogalkotó a tartósan beteg,
+súlyosan fogyatékos gyermekre figyelemmel gyodra jogosultak tekintetében különbséget tesz azáltal, hogy
+a gyodra való jogosultság az egyéb rendszeres pénzellátásra való jogosultság megszerzése előtt vagy után
+keletkezett. A törvényhozói indokolásból sem derül ki, hogy mi az objektív indoka annak, hogy az előbbi csoportba
+tartozók a beteg hozzátartozójuk legalább tíz évig történő ápolása esetén a gyod teljes összegére jogosultak, míg
+utóbbi személyi kör az addig folyósított rendszeres pénzellátást lényegében elveszíti. A szabályozás következtében
+azok a hozzátartozók (köztük az alapügy felperese), akiknek az öregségi nyugdíjra való jogosultság megszerzését
+követően kerül a háztartásába a gondozására szoruló gyermek, hátrányosabb helyzetbe kerülnek azon gondozó
+személyekhez képest, akik hosszabb ideje végzik hozzátartozójuk otthoni ápolását, és ezen idő alatt szereznek
+nyugdíjjogosultságot.
+[11] Az indítvány szerint az ellátásra jogosult személyek között fennálló, objektív mércével nem igazolható
+megkülönböztetés folytán az általuk gondozott súlyosan fogyatékos gyermekek Alaptörvény XVI. cikk (1) bekezdése
+szerinti, megfelelő testi, szellemi fejlődéséhez fűződő védelemhez való alkotmányos joga is sérül azáltal, hogy
+a gondozásukra fordítandó ellátás nem objektív kritériumokon alapul, hanem a gondozó személy egyéb rendszeres
+pénzellátásra való jogosultsága keletkezési idejének függvénye.
+II.
+Az Alkotmánybíróság az alábbi alaptörvényi, illetve jogszabályi rendelkezések alapján hozta meg döntését.
+[12] 1. Az Alaptörvény indítvánnyal érintett rendelkezései:
+„XV. cikk (1) A törvény előtt mindenki egyenlő. Minden ember jogképes.”
+
+„XVI. cikk (1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges
+védelemhez és gondoskodáshoz. Ez a jog – az élethez való jog kivételével – minden más alapvető jogot megelőz.
+Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk
+alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.”
+[13] 2. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény indítvánnyal érintett rendelkezései:
+„39/A. § (3) A gyermekek otthongondozási díjának havi összege a más rendszeres pénzellátásban – ide nem értve
+a 39/B. § (5) bekezdés a) pontja szerinti rendszeres pénzellátásokat, ha a 39/B. § (5) bekezdés b) és c) pontjában
+meghatározott feltételek fennállnak, továbbá a szülő részére folyósított csecsemőgondozási díjat, gyermekgondozási
+díjat vagy gyermekgondozást segítő ellátást, ha azt nem a gyermekek otthongondozási díjára jogosító gyermekre
+tekintettel állapították meg, továbbá a gyermeknevelési támogatást – részesülő jogosult esetén az (1) vagy
+(2) bekezdés szerinti összegek és a jogosult részére folyósított más rendszeres pénzellátás havi bruttó összegének
+a különbözete. Ha a különbözet az ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell
+megállapítani.”
+„39/B. § (1) Nem jogosult gyermekek otthongondozási díjára a szülő, ha
+b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre
+tekintettel folyósított csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, gyermekgondozást
+segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül,
+és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés
+szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt
+végzett keresőtevékenységből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
+[…]
+(5) A gyermekek otthongondozási díjára való jogosultság továbbra is fennáll, ha a szülő
+a) a Tny. szerint saját jogú nyugdíjasnak minősülő ellátásban, korhatár előtti ellátásban, szolgálati járandóságban,
+táncművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, vagy a megváltozott
+munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33. §
+(1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban részesül,
+b) az a) pont szerinti ellátásra való jogosultság keletkezését megelőző napon a gyermekek otthongondozási díjára
+vagy ápolási díjra volt jogosult, és
+c) az a) pont szerinti ellátásra való jogosultság kezdőnapját megelőző húsz éven belül a gyermekek
+otthongondozási díjára, illetve a 41. § (1) bekezdés a) pont aa) alpontja szerinti vagy a kiemelt ápolási díjra való
+jogosultsága együttesen összeszámítva legalább tíz évig fennállt.”
+III.
+[14] A bírói kezdeményezés megalapozott.
+[15] 1. Az Abtv. 25. §-a szerint a bíró – a bírósági eljárás felfüggesztése mellett – abban az esetben kezdeményezi
+az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál a jogszabály vagy jogszabályi
+rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának
+kizárását, ha az előtte folyamatban lévő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek
+alaptörvény-ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította.
+Az Alkotmánybíróság megállapította, hogy a bírói kezdeményezés az Abtv. 25. §-ában és 52. §-ában előírt
+feltételeknek az alábbiak szerint csak részben tesz eleget {vö. 3058/2015. (III. 31.) AB végzés, Indokolás [8]–[24];
+2/2016. (II. 8.) AB határozat, Indokolás [26]–[28]; 3064/2016. (III. 22.) AB határozat, Indokolás [8]–[13]}.
+[16] A Szoctv. támadott rendelkezését az eljárásban alkalmazni kell, az eljárás felfüggesztése megtörtént.
+Az indítványozó kezdeményezte a támadott jogszabályi rendelkezés alaptörvény-ellenességének megállapítását,
+megsemmisítését, és a jogszabályi rendelkezés egyedi ügyben történő alkalmazása kizárását. Az indítvány
+az Alaptörvény XV. cikk (1) bekezdése állított sérelme vonatkozásában a határozott kérelem követelményét
+teljesíti, azonban a XVI. cikk (1) bekezdésével összefüggésben nem tartalmaz érdemi, alkotmányjogilag értékelhető
+indokolást, csupán azt rögzíti, hogy a támadott jogszabályi rendelkezés az Alaptörvény XVI. cikk (1) bekezdését is
+sérti. Az indítvány ezért ebben az elemében nem felel meg a határozott kérelem Abtv. 52. § (1b) bekezdés e) pontja
+szerinti követelményének.
+
+[17] 2. Az Alkotmánybíróság korábban már három határozatában is foglalkozott a gyodra vonatkozó szabályozás egyes
+elemeinek alkotmányossági kérdéseivel [5/2023. (VI. 6.) AB határozat, a továbbiakban: Abh1.; 22/2024. (XII. 23.)
+AB határozat, a továbbiakban: Abh2.; 11/2025. (X. 9.) AB határozat, a továbbiakban: Abh3.].
+[18] A jogalkotó szándéka szerint a gyod (i) a tartósan beteg vagy súlyosan fogyatékos gyermek saját háztartásban
+történő nevelését, gondozását ismeri el és honorálja; (ii) a gyermek életkorára tekintet nélkül; (iii) főszabály szerint
+a gyermek vér szerinti vagy örökbefogadó szülője számára; azonban (iv) a vér szerinti vagy örökbefogadó szülő
+meghatározott okokból történő kiesése esetén (halál, a gyermek állandó és tartós gondozásának akadályozottsága
+a szülő egészségi állapota miatt, szülői felügyeleti jog szünetelése, szülői felügyeleti jog megszüntetése)
+a gyermekkel közös háztartásban élő hozzátartozó is jogosult lehet az ellátásra (Abh3., Indokolás [24];
+ezt megelőzően: Abh2., Indokolás [13]; a jogalkotói indokolást idézi: Abh1., Indokolás [15]–[16]).
+[19] Azaz, a gyod bevezetésével a jogalkotó célja kétséget kizáróan a tartósan beteg vagy súlyosan fogyatékos
+gyermekek saját háztartásban történő ápolásának, gondozásának anyagi támogatása volt, ekként a gyodra
+vonatkozó valamely szabály alkotmányosságának vizsgálata során a tartósan beteg vagy súlyosan fogyatékos,
+önellátásra képtelen gyermek ténybeli és jogi helyzete nem hagyható figyelmen kívül.
+[20] 3. Az Alkotmánybíróság korábban a gyod jogintézményével az Alaptörvény XV. cikk (1) bekezdése szerinti általános
+jogegyenlőségi szabály, illetve a XV. cikk (2) bekezdése szerinti hátrányos megkülönböztetés tilalma szempontjából
+számos vonatkozásban rokonítható tartós ápolást végzők időskori támogatására vonatkozó szabályozás
+alkotmányossági vizsgálatát az Alaptörvény XV. cikk (1) bekezdése keretei között végezte el {25/2019. (VII. 23.)
+AB határozat, különösen Indokolás [33]}. Erre tekintettel az Alkotmánybíróság a gyod alkotmányossági vizsgálatát
+az idézett határozataiban ugyancsak a XV. cikk (1) bekezdése keretei között értékelte (Abh1., Indokolás [14];
+Abh2. Indokolás [15]; Abh3., Indokolás [25] és [27]). Ezt a megközelítést az Alkotmánybíróság a jelen ügyben is
+irányadónak tekintette.
+[21] 3.1. Az Alkotmánybíróság állandó gyakorlata szerint az Alaptörvény XV. cikk (1) bekezdése szerinti általános
+jogegyenlőségi szabály sérelme egymással azonos vagy jogi értelemben összehasonlítható helyzetben lévő,
+homogén csoporton belül állapítható meg. Az Alkotmánybíróság az Abh1.-ben, az Abh2.-ben és az Abh3.-ban
+homogén csoportnak mindazon, a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozókat tekintette, akik
+a gyermekkel közös háztartásban tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermeket
+nevelnek, a szülő pedig objektív módon nem tudja a gyermeket nevelni, vagy pedig arra nem jogosult
+(Abh1., Indokolás [17]; Abh2., Indokolás [15], Abh3.; Indokolás [25]). A jelen bírói kezdeményezés esetében
+ugyanakkor a homogén csoportképzés (az indítvány eltérő tartalmából fakadóan) szükségképpen eltér a korábbi,
+hasonló tárgyú ügyekben alkalmazott megközelítéstől.
+[22] Az indítvány szerint nincs tárgyilagos mérlegelés szerinti észszerű indoka annak, hogy ha egy hozzátartozó
+a gyodra való jogosultságának megállapítását követően részesül a Szoctv. 39/B. § (5) bekezdése szerinti ellátások
+valamelyikében, akkor a gyod teljes összegére jogosult lesz, míg fordított esetben a gyod összegét csökkenteni
+kell a Szoctv. 39/B. § (5) bekezdése szerinti ellátások összegével. Ugyancsak nincs tárgyilagos mérlegelés szerinti
+észszerű indoka annak, hogy a gyod és a Szoctv. 39/B. § (5) bekezdése szerinti ellátások teljes összegben történő
+együttes folyósításának feltétele az, hogy a gyodra, ápolási díjra vagy kiemelt ápolási díjra való jogosultságnak
+legalább tíz évig fenn kell állnia. Mindez gyakorlatilag azt jelenti, hogy olyan élethelyzetekben, amikor egy
+váratlan családi tragédia miatt kerül egy tartósan beteg vagy súlyosan fogyatékos gyermek egy hozzátartozó
+(jelen esetben a nagyszülő) gondozásába, akinek a Szoctv. 39/B. § (5) bekezdése szerinti ellátásra való jogosultságát
+már megállapították, a hozzátartozó lényegében alacsonyabb összegű gyodra lesz jogosult, melyet az időmúlással
+(ti. azzal, hogy ezt követően legalább tíz éven át gondozza a saját háztartásában a gyermeket) sem tud orvosolni.
+[23] Figyelemmel az indítvány tartalmára, az Alkotmánybíróság jelen esetben homogén csoportnak
+(i) azokat a szülőket, illetve a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozókat tekintette, akik (ii) saját
+háztartásukban súlyos fogyatékosságából vagy tartós betegségéből eredően önellátásra képtelen gyermekről
+gondoskodnak. Azaz, a gyodra való jogosultság tartalma (a gyod összege) szempontjából a gyodra jogosultak
+egységes, egymással összehasonlítható helyzetben lévő tagokból álló csoportot képeznek, a homogén
+csoportképzés alapját pedig az ellátás kedvezményezettjének személye (a tartósan beteg vagy súlyosan
+fogyatékos, önellátásra képtelen gyermek) és az ő javára végzett ápolási, gondozási tevékenység teremti meg.
+Az Alkotmánybíróság hangsúlyozza, hogy mind az Emberi Jogok Európai Bírósága (a továbbiakban: EJEB)
+(Guberina kontra Horvátország ügy, 23682/13. számú ügy, 2016. március 22-i ítélet, 73. és 79. pont), mind pedig
+
+az Európai Unió Bírósága (C-38/24. számú ügy, Bervidi, 2025. szeptember 11-i ítélet, ECLI:EU:C:2025:690, 60. pont)
+az Alkotmánybíróság megközelítésével egyezően rögzítette, hogy a valamely személyt a vele szoros személyes
+kapcsolatban lévő és általa gondozott gyermeke fogyatékossága miatt ért hátrányos megkülönböztetés
+a fogyatékosságon alapuló hátrányos megkülönböztetés egyik formájának minősül, azaz az ellátás
+kedvezményezettjének (a gyermeknek) és az ellátásra jogosultnak (a gyermeket ápoló, gondozó szülő vagy
+hozzátartozó) jogi helyzete a hátrányos megkülönböztetés tilalma szempontjából szorosan összefügg.
+[24] Az Alkotmánybíróság e körben utal továbbá arra is, hogy ugyanezt a megközelítést alkalmazta az anyasági
+támogatásra vonatkozó magyar szabályozás vizsgálata során korábban az EJEB is (Weller kontra Magyarország,
+44399/05. számú ügy, 2009. március 31-i ítélet, különösen 32. pont). Ennek oka az, hogy az anyasági támogatás
+nem egyszerűen a szülő anyagi támogatását célzó juttatásnak minősült az EJEB megítélése szerint, hanem
+az az újszülött gyermekre figyelemmel került megállapításra.
+[25] Az indítványban foglaltak alapján ezen a lényegében azonos élethelyzetben lévő csoporton (azaz a saját
+háztartásukban tartósan beteg vagy súlyosan fogyatékos gyermeket ápoló, gondozó szülőkön és más
+hozzátartozókon) belül éppen a Szoctv. támadott rendelkezése tett különbséget aszerint, hogy a tartósan beteg
+vagy súlyosan fogyatékos, önellátásra képtelen gyermekekről való gondoskodásuk (mint azonos ténybeli és
+jogi helyzetben levő kedvezményezett javára végzett azonos tartalmú tevékenység) mellett más rendszeres
+pénzellátásban részesülnek-e, vagy sem. Azaz, a támadott rendelkezés valójában éppen azt a különbségtételt
+valósította meg a homogén csoporton belül, mely az Alkotmánybíróság vizsgálatának tárgyát képezi (hasonlóan:
+7/2026. (X. 2.) AB határozat, Indokolás [53]).
+[26] 3.2. Az Alaptörvény XV. cikk (1) bekezdésének sérelme akkor állapítható meg, ha a jogi szabályozás az egymással
+összehasonlítható helyzetben lévő jogalanyok között anélkül tesz különbséget, hogy annak tárgyilagos
+mérlegelés szerinti észszerű indoka lenne, vagyis az önkényes {lásd például: 1325/2026. (VI. 26.) AB határozat,
+Indokolás [69]}. Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról
+szóló 2018. évi CXVII. törvény jogalkotói indokolása szerint „[a] súlyos fogyatékosság, vagy tartós betegség miatt
+önellátásra képtelen gyermekről való gondoskodás alapjában határozza meg a családok működését, és az esetek
+jelentős részében azzal jár, hogy a gondozást végző szülő évtizedekig nem tud visszalépni a munkaerő-piacra,
+így nem tud keresőtevékenységet folytatni sem. Méltányolva azt a terhet, amit a családnak egy tartósan beteg,
+súlyosan fogyatékos gyermek nevelése jelent, a súlyos fogyatékosságából, tartós betegségéből adódóan
+önellátásra képtelen gyermekükről gondoskodók számára létrehozásra kerül a gyermekek otthongondozási
+díja. Az ellátás a törvény szerint a gyermek életkorára tekintet nélkül nyújtható az őt ápoló szülőnek.” Továbbá,
+„[a]z ellátás célzottságának biztosítása érdekében a törvény rögzíti, hogy a szülő mely esetekben nem jogosult
+gyermekek otthongondozási díjára, illetve mely esetekben kell megszüntetni az ellátásra való jogosultságot.”
+A gyodot bevezető törvény indokolása egyértelművé teszi, hogy a jogalkotó célja a tartósan beteg vagy súlyosan
+fogyatékos, önellátásra képtelen gyermekről való gondoskodás mint rendkívüli teher honorálása volt, azaz
+az ellátás kifejezetten a tartósan beteg vagy súlyosan fogyatékos gyermekre (nem pedig az ápolást, gondozást
+végző szülőre vagy hozzátartozóra, az ő anyagi helyzetére vagy életkörülményeire) tekintettel került megalkotásra.
+Az Alkotmánybíróság e körben utal arra, hogy a családi pótlékra vonatkozó szabályozás alkotmányossági vizsgálata
+során a 14/2014. (V. 13.) AB határozat kifejezetten rögzítette, hogy a gyermekekre tekintettel járó családi pótlék
+esetében „a jogalkotónak a támogatás mértékének megállapítása során jogában áll olyan szempontok szerint
+differenciálni, amelyek a valós esélyegyenlőséget, és ezen keresztül a gyermekek jogainak teljesebb érvényre
+juttatását szolgálják. Ilyen szempontból nem kifogásolhatók például a gyermekek számától, egészségi állapotától,
+rászorultsági helyzetétől függően különböző mértékkel megállapított támogatások” (Indokolás [38]). Ez ugyanakkor
+egyben azt is jelenti, hogy a gyermek egészségi állapotán alapuló ellátás (jelen esetben a gyod) összege
+nem alapulhat az ellátást igénybe vevő hozzátartozó jogi helyzetén.
+[27] A gyod fenti szabályozási logikájának feleltethető meg a Szoctv. 39/B. § (1) bekezdés a) és c) pontja, valamint
+(2) bekezdése [a b) pont kivételével] is, melyek értelmében a gyodra való jogosultság elveszítését eredményezi, ha
+a gyermek vagy nem tartózkodik életvitelszerűen a szülő vagy hozzátartozó háztartásában, vagy pedig az állapota
+megváltozik (ideértve a gyermek állapotának javulását, illetve halálát is). A Szoctv. 39/B. § (1) bekezdés d) pontja
+és (2) bekezdés b) pontja a szülő vagy hozzátartozó oldaláról kizárólag akkor zárja ki a gyodra való jogosultságot,
+ha a szülő vagy hozzátartozó ténylegesen nem ápolja, gondozza folyamatosan a saját háztartásában a gyermeket
+(az ápolási, gondozási kötelezettségét nem teljesíti, vagy pedig olyan keresőtevékenységet folytat, hogy a napi
+
+munkaideje a négy órát meghaladja – ez utóbbi esetben ugyanis a szülő vagy hozzátartozó fizikailag nincs jelen
+az otthonában, így pedig értelemszerűen az ápolási, gondozási kötelezettségét sem teljesítheti). Ezen, az ellátásra
+való jogosultságot kizáró esetek mindegyike kétséget kizáróan visszavezethető a homogén csoportképzési
+ismérv (ii) pontjának nemteljesülésére, ti. valamilyen (akár a szülők vagy a hozzátartozók személyében, akár
+a gyermek személyében) meghatározott okból a szülők vagy a hozzátartozók már „saját háztartásukban súlyos
+fogyatékosságából vagy tartós betegségéből eredően önellátásra képtelen gyermekről” ténylegesen nem
+gondoskodnak. Ezen esetek mindegyikében közös ugyanakkor, hogy amennyiben a szülő vagy a hozzátartozó
+a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermeket a saját háztartásában ápolja, gondozza,
+úgy a gyod teljes összegére jogosult. Azaz, amennyiben a gyermek ápolása, gondozása a saját háztartásában
+ténylegesen megvalósul, a gyermeket ápoló szülő vagy hozzátartozó minden egyéb körülménytől (ideértve a szülő
+vagy hozzátartozó anyagi helyzetét, munkaerőpiaci helyzetét vagy éppen esetleges részmunkaidőben történő
+foglalkoztatását) függetlenül azonos összegre jogosult, érvényre juttatva ezzel az Alaptörvény XV. cikk (1) bekezdése
+szerinti általános jogegyenlőségi szabály követelményét. Ennek oka, hogy az ellátás kedvezményezettje
+kifejezetten a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermek {ezzel összefüggésben lásd
+a jelen határozat III/3.1. pontjában (Indokolás [21] és köv.) tett megállapításokat}.
+[28] 3.3. Eltér azonban a fenti, az általános jogegyenlőségi szabályból fakadó körülményeket maradéktalanul érvényre
+juttató esettől a Szoctv. 39/A. § (3) bekezdése [és annak fogalmi párjaként, a bírói kezdeményezésre okot adó
+ügyben nem alkalmazott, és ekként az indítványozó által nem is támadható 39/B. § (1) bekezdés b) pontja].
+Ez utóbbi jogszabályi rendelkezés esetében az Alkotmánybíróság élt az Alaptörvény 24. cikk (4) bekezdésében
+számára biztosított felhatalmazással, és a Szoctv. 39/A. § (3) bekezdésével mint felülvizsgálni kért jogszabályi
+rendelkezéssel tartalmilag szorosan összefüggő 39/B. § (1) bekezdés b) pontját is bevonta az alkotmányossági
+vizsgálatba. Amíg ugyanis a 39/A. § (3) bekezdése azt az esetet szabályozza, ha a rendszeres pénzellátás összege
+alacsonyabb, mint a gyod összege (és ekként a gyod csak a rendszeres pénzellátással csökkentett összegben
+kerülhet folyósításra), addig a 39/B. § (1) bekezdés b) pontja azt az esetet szabályozza, amikor a rendszeres
+pénzellátás összege magasabb, mint a gyod összege (és ezért a tartósan beteg vagy súlyosan fogyatékos,
+önellátásra képtelen gyermeket a saját háztartásban nevelő, gondozó szülő vagy hozzátartozó egyáltalán nem
+jogosult gyodra). Az Alkotmánybíróság a vizsgálatát a továbbiakban a 39/A. § (3) bekezdése és 39/B. § (1) bekezdés
+b) pontja vonatkozásában együttesen folytatta.
+[29] 3.4. Ezekben az esetekben a gyod fentiekben idézett, a homogén csoportképzési ismérv (ii) pontjában
+meghatározott feltételek teljesülnek (a szülők vagy hozzátartozók „saját háztartásukban súlyos fogyatékosságából
+vagy tartós betegségéből eredően önellátásra képtelen gyermekről gondoskodnak”), ám a jogalkotó a Szoctv.
+39/A. § (3) bekezdése szerinti esetben mégis a gyod összegének csökkentését [a 39/B. § (1) bekezdés b) pontja
+esetében pedig egyenesen a gyodra való jogosultság megszüntetését] rendelte el. Ennek oka azonban egyetlen
+esetben sem vezethető vissza a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermek állapotára,
+vagy az ápolási, gondozási kötelezettség elmulasztására, annak ellenére, hogy a gyod kedvezményezettje (még ha
+formálisan nem is számára kerül az ellátás folyósítására) kifejezetten a gyermek, a gyod funkciója pedig a gyermek
+saját háztartásban történő ápolásának, gondozásának elismerése.
+[30] A jogalkotói különbségtétel kizárólag azon a szemponton alapul, hogy a szülő vagy hozzátartozó valamilyen más,
+rendszeres pénzellátásban is részesül. Azaz, miközben a gyod által a jogalkotói indokolásban meghatározott cél
+(a tartósan beteg, súlyosan fogyatékos gyermek nevelése olyan terhet jelenti, hogy amellett a szülő vagy
+hozzátartozó nem tud keresőtevékenységet folytatni) maradéktalanul teljesül, és a gyod folyósítására kifejezetten
+a gyermek állapotára, ápolására és gondozására tekintettel kerül sor, a jogalkotó a más, rendszeres pénzellátás
+folyósítására tekintettel a gyod összegét csökkenti (vagy adott esetben meg is szünteti). Ezzel a jogalkotó
+lényegében az ellátásra jogosultak közötti különbségtételt valósít meg, annak ellenére, hogy az ellátás
+kedvezményezettjeinek ténybeli és jogi helyzete ebben az esetben sem tér el a más rendszeres pénzellátásban
+nem részesülő szülő vagy hozzátartozó által a saját háztartásban ápolt, gondozott gyermek mint kedvezményezett
+helyzetétől.
+[31] Az Alkotmánybíróságnak ezért azt kellett értékelnie, hogy a fentiek szerint azonosított különbségtételnek van-e
+tárgyilagos mérlegelés szerinti észszerű indoka. Az Alkotmánybíróság hangsúlyozza: a tárgyilagos mérlegelés
+szerinti észszerű indok fennállása minden esetben a vizsgált szabályozás céljára tekintettel határozható meg.
+A különbségtétel nem válik észszerűvé pusztán azért, mert annak valamely általános, önmagában racionális
+
+magyarázata adható; az indoknak minden esetben az adott szabályozás által elérni kívánt céllal kell észszerű
+kapcsolatban állnia. A szabályozás logikáján kívül álló, rendszeridegen feltételek ugyanis szükségképpen észszerűtlen,
+és mint ilyen, önkényes jogalkotói döntésnek minősülnek az adott szabályozás alkotmányossági vizsgálata
+szempontjából, még akkor is, ha azok önmagukban (a vizsgált szabályozástól függetlenül értékelve őket) akár
+racionálisnak tűnhetnek is {az álláskeresők közfoglalkoztatásból való kizárásával összefüggésben: 30/2017. (XI. 14.)
+AB határozat, Indokolás [79]; ugyanebben az értelemben a tartós ápolást végzők időskori támogatása vonatkozásában:
+25/2019. (VII. 23.) AB határozat, Indokolás [65]}. Ez még akkor is igaz, ha a különbségtétel egyébként valamely
+alaptörvényi rendelkezésre általánosságban (de a vizsgált szabályozás céljától teljes mértékben függetlenül)
+egyébként végeredményben visszavezethető {a családi pótlék vonatkozásában lásd: 14/2014. (V. 13.) AB határozat,
+Indokolás [44]}.
+[32] Jelen esetben ilyen, a szabályozás jogalkotói céljával összefüggésben álló cél az alábbiak szerint
+nem azonosítható. (i) Egyfelől, a Szoctv. alapján járó rendszeres pénzellátások (így a gyod) nem biztosítási alapú
+ellátások, ekként azok összegét nem maximalizálta a jogalkotó az ellátásra jogosult jövedelmének arányában.
+(ii) Másfelől, a Szoctv. támadott rendelkezésében nevesített rendszeres pénzellátások között több olyan is szerepel,
+amely kifejezetten lehetővé teszi az ellátás folyósítása melletti keresőtevékenység folytatását (így például a bírói
+kezdeményezésre okot adó ügyben a saját jogú nyugdíj vagy akár a rokkantsági ellátás), ahogyan egyébként
+az ilyen pénzellátásban nem részesülő szülők vagy hozzátartozók is folytathatnak négy órát meg nem haladó
+időtartamban keresőtevékenységet. (iii) Harmadsorban, az ellátásra jogosultak egyedi életkörülményeik (jellemzően
+életkoruk, egészségi állapotuk) miatt (nem pedig a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen
+gyermekkel összefüggő okból, ideértve a gyermek ápolásának, gondozásának elmaradását is) részesülnek
+rendszeres pénzellátásban, ekként ezek az ellátások már csak a folyósításuk célja miatt sem számíthatóak össze.
+(iv) A Szoctv. támadott rendelkezése ráadásul nem abszolút jelleggel írja elő a rendszeres pénzellátások gyoddal
+való összeszámításának szabályát, hanem az alóli kivételként kifejezetten nevesíti azokat az ellátásokat, amelyek
+valamely gyermekre figyelemmel kerülnek megállapításra (csecsemőgondozási díj, gyermekgondozási díj,
+gyermekgondozást segítő ellátás – amennyiben ezeket nem a gyodra jogosító gyermekre tekintettel állapították
+meg, valamint a gyermeknevelési támogatást –, mely fogalmilag több gyermek nevelését feltételezi). Márpedig,
+ahogyan arra az Alkotmánybíróság jelen határozatában már rámutatott, a gyod is egy (ráadásul állapota miatt
+fokozott védelemre és gondoskodásra szoruló) gyermekre tekintettel kerül folyósításra.
+[33] Azaz a Szoctv. 39/A. § (3) bekezdése és 39/B. § (1) bekezdés b) pontja, miközben nem általánosságban
+(valamennyi rendszeres pénzellátás vonatkozásában) maximalizálja a rendszeres pénzellátások összegét
+(miközben ilyen generális maximalizálást egyébként a jogalkotó más rendszeres pénzellátások esetében
+nem vezetett be), jelen esetben valójában éppen azon szülőket vagy hozzátartozókat szankcionálja a gyod
+összegének csökkentésével vagy akár teljes megvonásával, akik a más ellátásra jogosultakhoz képest ugyanolyan
+állapotban lévő (tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen) gyermeküket a saját, a gyermektől
+teljes mértékben független állapotuk miatt a háztartásukban fokozott erőfeszítéssel ápolják vagy gondozzák.
+Esetükben a gyod bevezetésének jogalkotói célja (a tartósan beteg vagy súlyosan fogyatékos gyermek saját
+háztartásban történő nevelése) nem egyszerűen csak teljesül, hanem ráadásul ezen túlmenően a homogén
+csoporton belül a saját háztartásban történő ápolás fokozott erőfeszítést követel meg. A jogalkotót nagyfokú
+mérlegelési szabadság illeti meg abban a kérdésben, hogy az ilyen helyzetben lévő szülőket és más hozzátartozókat
+valamilyen további kedvezményszabállyal támogatja-e; nem illeti meg ugyanakkor a jogalkotót semmilyen
+alkotmányosan igazolható mozgástér abban a kérdésben, hogy ezen jogosulti kör számára a másokhoz képest
+azonos ténybeli és jogi helyzetben levő gyermek saját háztartásban való ápolása, gondozása miatt a gyodot
+csökkentett összegben folyósítsa számukra.
+[34] A vizsgált szabályozás tehát (i) nem a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermek
+állapotából és (ii) nem is az ezen gyermek ápolásának, gondozásának megvalósulásából indul ki, továbbá
+(iii) kifejezetten azokat a szülőket és hozzátartozókat érinti, akik részéről a saját egyéni körülményeik
+(életkoruk, egészségi állapotuk) még fokozottabb erőfeszítést követelnek meg a gyermek ápolása, gondozása
+érdekében, úgy, hogy (iv) adott esetben (kifejezett kizáró szabály hiányában) akár ők maguk is részt vehetnek
+a munkaerőpiacon, napi négy órát meg nem haladó munkaidejű munkavégzéssel. A jogalkotó (v) ennek ellenére
+mégis a gyod összegének csökkentéséről (vagy akár teljes megvonásáról) döntött az esetükben úgy, hogy
+
+(vi) a rendszeres pénzellátás összegének maximalizálása egyébként még a gyod esetében sem minősül abszolút
+szabálynak, más rendszeres pénzellátások esetében pedig hasonló szabályt a jogalkotó nem is alkotott.
+[35] Az Alkotmánybíróság ezért megállapítja: a jogalkotó nem csupán nem jelölt meg olyan érvet a gyod szabályozási
+kereteinek meghatározása során, amely ezt a különbségtételt igazolhatta volna, hanem a gyodra vonatkozó
+szabályozás jogalkotói indokolásából éppen ennek az ellenkezője következik. Az Alaptörvény XV. cikk (1) bekezdése
+szerinti általános jogegyenlőségi szabály gyodra történő alkalmazása ugyanis nem eredményezheti az azonos
+ténybeli és jogi helyzetben levő, tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermekek
+ugyanolyan módon megvalósuló ápolásának, gondozásának eltérő mértékű támogatását. A gyod ugyanis
+mindenekelőtt a gyermek ápolásának elismerését (nem pedig a szülő vagy hozzátartozó kieső jövedelmének
+pótlását) célzó jogintézmény. Ez még akkor is igaz, ha a gyod végeredményben szükségképpen rendelkezik
+jövedelempótló funkcióval is a szülő vagy hozzátartozó oldaláról nézve. A szabályozás logikája szerint valamennyi
+olyan esetben, ahol a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermek ápolására,
+gondozására a szülő vagy hozzátartozó saját háztartásában úgy kerül sor, hogy sem a szülő (négy órát meghaladó
+munkavégzés miatt), sem a gyermek (például iskolai tanulmányok, bentlakásos intézményben tartózkodás)
+nincs a nap jelentős részében távol, azaz az ápolás, gondozás ténylegesen megvalósul, a szülő vagy hozzátartozó
+pedig nem vesz részt aktívan (naponta négy órát meghaladóan) a munkaerőpiacon, a gyod folyósításának
+feltételei maradéktalanul teljesülnek. Ez már csak azért is igaz, mert az önellátásra képtelen, tartósan beteg vagy
+súlyosan fogyatékos gyermek saját háztartásban történő ápolása, gondozása is maradéktalanul megvalósul –
+ezzel éppen az állami ellátórendszerről véve le jelentős terhet. Ez pedig azt is jelenti, hogy ilyen esetekben a gyod
+összege csökkentésének alkotmányos indoka nem azonosítható. Az Alkotmánybíróság ezért nem juthatott más
+következtetésre, mint hogy egy ilyen jogszabályi rendelkezésnek nincs tárgyilagos mérlegelés szerinti észszerű
+indoka, azaz önkényes.
+[36] 4. Az Alkotmánybíróság a fentiek alapján arra a következtetésre jutott, hogy a Szoctv. 39/A. § (3) bekezdése
+és 39/B. § (1) bekezdés b) pontja alaptörvény-ellenesek, ezért azokat a rendelkező részben foglaltak szerint
+megsemmisítette. Az Abtv. 45. § (2) bekezdése értelmében, ha az Alkotmánybíróság bírói kezdeményezés
+vagy alkotmányjogi panasz alapján semmisít meg egyedi ügyben alkalmazott jogszabályt, a megsemmisített
+jogszabály az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható. Az Abtv. 45. § (4) bekezdése
+ugyanakkor felhatalmazza az Alkotmánybíróságot, hogy az Alkotmánybíróság eljárására okot adó egyedi
+ügyre vonatkozó alkalmazási tilalomtól mint főszabálytól eltérően határozza meg az Alaptörvénnyel ellentétes
+jogszabály hatályon kívül helyezését, illetve a megsemmisített jogszabály általános vagy egyedi ügyekben történő
+alkalmazhatatlanságát, ha ezt az Alaptörvény védelme, a jogbiztonság vagy az eljárást kezdeményező különösen
+fontos érdeke indokolja. Az Alaptörvény XV. cikk (5) bekezdése értelmében Magyarország külön intézkedésekkel
+védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékossággal élőket. Az Alaptörvény XVI. cikk
+(1) bekezdése értelmében minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez
+szükséges védelemhez és gondoskodáshoz, mely jog az élethez való jog kivételével minden más alapvető jogot
+megelőz. Az Alaptörvény XIX. cikk (1) bekezdése értelmében egyebek között betegség, rokkantság, fogyatékosság
+esetén minden magyar állampolgár törvényben meghatározott támogatásra jogosult. Figyelemmel az Alaptörvény
+idézett rendelkezéseire, továbbá figyelemmel a gyod jogalkotói céljára (a tartósan beteg, illetve súlyosan
+fogyatékos, önellátásra képtelen gyermek saját háztartásban történő ápolásának, gondozásának elismerése)
+és arra, hogy a gyod minden esetben a gyermek állapotára (nem pedig az azt igénybe vevő személy egyedi
+életkörülményeire) tekintettel jár, az Alkotmánybíróság, élve az Abtv. 45. § (4) bekezdése szerinti felhatalmazással,
+a megsemmisített jogszabályi rendelkezések általános alkalmazási tilalmát is elrendelte, a rendelkező rész
+2. pontjában foglaltak szerint (kifejezetten a gyod esetében hasonlóan lásd: Abh2.).
+[37] Az Alkotmánybíróság végezetül megjegyzi: az indítványt, figyelemmel annak tartalmára, továbbá figyelemmel
+az Abh1., Abh2. és Abh3. megállapításaira, az Alaptörvény XV. cikk (1) bekezdése keretei között vizsgálta. Tekintettel
+azonban akár az Alaptörvény XVI. cikk (1) bekezdésének idézett elemére, akár a XIX. cikk (1) bekezdésének idézett
+rendelkezésére (akár külön-külön, akár együttesen felhívva azokat), továbbá, figyelemmel arra, hogy a gyod
+minden esetben a tartósan beteg vagy súlyosan fogyatékos, önellátásra képtelen gyermek állapotára tekintettel
+jár, az Alkotmánybíróság a vizsgálatát a XV. cikk (2) bekezdése alapján is elvégezhette volna, mely esetben
+az alkotmányossági vizsgálat mércéjének kereteit az Alaptörvény I. cikk (3) bekezdése jelölte volna ki.
+
+[38] 5. A határozatot az Abtv. 44. § (1) bekezdésének első mondata alapján közzé kell tenni a Magyar Közlönyben.
+Budapest, 2026. november 10.
+Dr. Sonnevend Pál s. k.,
+az Alkotmánybíróság elnöke
+Dr. Czine Ágnes s. k., Dr. Handó Tünde s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Hörcherné dr. Marosi Ildikó s. k., Dr. Kovács András György s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Kozma Ákos s. k., Dr. Ligeti Miklós Zoltán s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Márki Zoltán s. k., Dr. Nemessányiné dr. Chronowski Nóra Edit s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Patyi András s. k., Dr. Schanda Balázs s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Szabó Marcel s. k., Dr. Szomora Zsolt Tamás s. k.,
+előadó alkotmánybíró alkotmánybíró
+Dr. Varga Réka s. k.,
+alkotmánybíró
+Alkotmánybírósági ügyszám: III/2076/2026.
+Dr. Nemessányiné dr. Chronowski Nóra Edit alkotmánybíró párhuzamos indokolása
+[39] A többségi határozat rendelkező részének 2. pontját – vagyis az általános és konkrét alkalmazási tilalom elrendelését –
+teljes mértékben támogatom. A rendelkező rész 1. pontja esetében az alaptörvény-ellenesség megállapításával
+egyetértek, viszont az ex tunc, azaz a Szoctv. 39/A. § (3) bekezdésének és 39/B. § (1) bekezdés b) pontjának
+a hatálybalépésre, 2019. január 1-jére visszaható hatályú megsemmisítését tartottam volna alkotmányos megoldásnak.
+[40] Úgy gondolom, hogy ez igazolható lett volna, ha az adott, hárompólusú alapjogi jogviszonyban (amelyben
+jogosult a gyermek, kötelezett a gyermek gondozója és háttérben az állam) az érvelés a gyermek legfőbb érdeke
+(best interest of the child) nemzetközi jogban is elismert védelme irányából vezetjük az alkotmányértelmezést
+{Ld. a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény, 3. cikk 1. pontját, amely
+az Alaptörvény Q) cikk (3) bekezdése alapján a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt
+Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvénnyel a magyar jogrendszer része}.
+[41] Az indokolás meggyőzően támasztja alá, hogy a gyod a jogalkotói cél szerint a gyermek állapotához, nem pedig
+a gondozó egyéni életkörülményeihez kapcsolódik, és hogy a más rendszeres pénzellátás összegével történő
+csökkentés, illetve a jogosultság kizárása éppen azokat sújtja, akik életkoruk vagy egészségi állapotuk miatt
+fokozott erőfeszítéssel gondozzák a tartósan beteg vagy súlyosan fogyatékos gyermeket. Különösen meggyőzőnek
+tartom a III/3.4. pontnak azt az érvét, hogy a jogalkotó a gyermekre tekintettel járó ellátásokat maga is kivonja
+a maximalizálás alól, így a szabályozás belső logikája sem igazolja a különbségtételt.
+[42] 1. Az Alaptörvény tizenötödik módosításának 4. cikke az Alaptörvény XVI. cikk (1) bekezdését azzal egészítette ki,
+hogy a gyermek megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz
+való joga „– az élethez való jog kivételével – minden más alapvető jogot megelőz”. Az indokolás szerint e jog
+„más, az Alaptörvényben biztosított alapvető joghoz képest – az élethez való jogot ide nem értve – is kiemelt
+jelentőségű és mint ilyen, ezzel arányos védelmet élvez”. Az alkotmány szövegének a jogalkotói szándéktól
+
+(szubjektív teleologikus értelmezéstől) független hatása is elképzelhető (objektív teleologikus értelmezés).
+Az Alkotmánybíróság a 3/2025. (V. 29.) AB határozatban megállapította, hogy a módosítás „a gyermekek védelmét
+az eddigi legmagasabb szintre emelte” {Indokolás [66]); a 14/2025. (XII. 8.) AB határozatban pedig az új rendelkezést
+már alapjogi kollízió feloldására alkalmazta (Indokolás [35])}. A többségi indokolás a II.1. pontban helyesen már
+a módosított szöveget idézi, az érdemi vizsgálatban azonban a XVI. cikk (1) bekezdése csak obiter dicta (III/4. pont)
+jelenik meg.
+[43] 2. A 14/2014. (V. 13.) AB határozat a családi pótlékról megállapította, hogy az – célhoz kötöttségére és arra
+figyelemmel, hogy a gyermekekre tekintettel jár – a XVI. cikk (1) bekezdésében biztosított alapjog védelmi
+körébe tartozik, „ezen belül azonban megőrzi szociális juttatás-jellegét, mivel törvényen […], és nem közvetlenül
+az Alaptörvényen alapul” (Indokolás [34]). Ezért a családi pótlékra való jogosultságot nem alapvető jognak,
+hanem „törvényi szinten garantált, szociális juttatásra való »egyéb jog«”-nak minősítette, és a megkülönböztetést
+az észszerűségi mérce szerint vizsgálta (Indokolás [36]). Erre a felfogásra – és a szociális ellátások részletszabályainak
+kialakításában a jogalkotót megillető széles mérlegelésre {3230/2013. (XII. 21.) AB végzés, Indokolás [3]} – épül
+a tartós ápolást végzők időskori támogatásáról szóló 25/2019. (VII. 23.) AB határozat és a gyoddal kapcsolatos,
+többségi indokolásban hivatkozott Abh1.–Abh3. is (ld. III/2. pont, Indokolás [26]–[27]).
+[44] 3. Miért lehet indokolt az értelmezés kiindulópontjának újragondolása? Álláspontom szerint a gyermekek
+nevelésével, gondozásával összefüggő, törvény alapján járó ellátások – legalábbis azok, amelyek a gyermek
+alapjogának érvényesítését közvetlenül szolgálják – már nem ex gratia jellegű, a jogalkotó szabad belátásától
+függő juttatások, hanem a XVI. cikk (1) bekezdésében biztosított alapvető jog érvényesítésének törvényi garanciái,
+amelyekre a törvényi feltételek fennállása esetén alanyi jogosultság áll fenn. Ezt a következők támasztják alá.
+[45] 3.1. A gyod gyermekközpontú konstrukciója. A többségi indokolás is elismeri, hogy az ellátás „kifejezetten
+a tartósan beteg, vagy súlyosan fogyatékos gyermekre (és nem pedig az ápolást, gondozást végző szülőre vagy
+hozzátartozóra, az ő anyagi helyzetére vagy életkörülményeire) tekintettel került megalkotásra” (III/3.2. pont,
+Indokolás [26]), és „minden esetben a gyermek állapotára […] tekintettel jár” (III/4. pont, Indokolás [36]).
+A 14/2014. (V. 13.) AB határozat is a gyermekeket tekintette a szabályozás szempontjából homogén csoportnak,
+mivel az ellátás„a gyermekekre tekintettel”jár (Indokolás [43]).
+[46] 3.2. Az alapjog többpólusú szerkezete. A XVI. cikk (1) bekezdése szerinti jog jogosultja a gyermek, kötelezettje
+elsődlegesen a család, másodlagosan – kiegészítő, illetve bizonyos esetekben pótló jelleggel – az állam
+{14/2014. (V. 13.) AB határozat, Indokolás [33]; megerősítette: 3080/2019. (IV. 17.) AB határozat; 21/2024. (XI. 28.)
+AB határozat}. Család hiányában az állami kötelezettség „konkréttá is válik”, az állam a családi gondoskodást
+„pótolni köteles” {3/2025. (V. 29.) AB határozat, Indokolás [66], a 3047/2013. (II. 28.) AB határozatra és a 995/B/1990.
+AB határozatra utalással}. Az alapügyben a szülők elhunytak, a gyermeket gyámként kirendelt nagyszülők
+gondozzák: a gyod itt éppen az állam konkretizálódott, pótló kötelezettségének teljesítési módja – amint
+a többségi indokolás is rögzíti, a hozzátartozói gondozás„éppen az állami ellátórendszerről v[esz] le jelentős terhet”
+(III/3.4. pont, Indokolás [35]). Az, hogy az ellátást formálisan a gondozó kapja, nem változtat azon, hogy a védett jog
+a gyermeké.
+[47] 3.3. Az elsőbbségi szabály súlya. Igaz, hogy „az alkotmány egységes, logikai-teleologikus egész”, így az alaptörvényi
+rendelkezések között értelmezés útján nem lehet rangsorrendet felállítani. „Ha viszont az alkotmány kifejezett
+rendelkezést tartalmaz a rangsorra vonatkozóan – azaz megállapítja, hogy valamely tétele a szabályozási tartalom
+alapján minden mást megelőző prioritást élvező rendelkezés, […] tehát alapvető viszonyítási pontot jelent
+mindenki, így az értelmezést végző számára is –, akkor az értelmezést erre tekintettel kell elvégezni”(Petrétei József:
+Az alkotmányos demokrácia alapintézményei. Dialóg Campus, Budapest–Pécs, 2009., 137.).
+[48] Ha a gyermek joga az élethez való jog kivételével minden más alapvető jogot megelőz, és e kiemelt jelentőséggel
+„arányos védelmet élvez”, nehezen tartható fenn, hogy az e jog érvényesítésére szolgáló törvényi eszközhöz
+való hozzáférésben tett különbségtétel csupán „egyéb jog” tekintetében tett, a legenyhébb mércével
+vizsgálandó megkülönböztetés legyen. A 14/2014. (V. 13.) AB határozat érve („törvényen […] és nem közvetlenül
+az Alaptörvényen alapul”) önmagában nem döntő, mivel számos alapvető jog tartalmát törvény bontja ki.
+Ehhez járul hozzá, hogy a gyod a törvényi feltételek fennállása esetén mérlegelés nélkül jár – az alapügyben
+a hatóság kifejezetten rögzítette, hogy méltányosságot nem gyakorolhat –, vagyis nem ex gratia juttatás.
+[49] 4. A teljesség kedvéért jelzem az értelmezésnél mérlegelendő, megfontolást érdemlő szempontokat is.
+A tizenötödik módosítás indokolása az elsőbbséget az „alapvető jogok ütközése esetén” érvényesülő szabályként
+írja le, és a 14/2025. (XII. 8.) AB határozat is kollíziós helyzetben alkalmazta; az elsőbbségi szabály önmagában nem
+
+keletkeztet új ellátási igényt, a XIX. cikk (1) bekezdése pedig továbbra is „törvényben meghatározott támogatásról”
+szól. Az általam javasolt tétel azonban szűkebb: nem azt állítja, hogy az Alaptörvényből meghatározott
+összegű gyod következik, hanem azt, hogy ha az állam a XVI. cikk (1) bekezdéséből fakadó – különösen pótló –
+kötelezettségét e törvényi ellátással teljesíti. A gyermekre tekintettel járó ellátáshoz való hozzáférésben tett
+különbségtétel alapvető jog tekintetében tett megkülönböztetésnek minősül, konkretizálva különösen az adott
+helyzetben lévő gyermek jogára a számára megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez
+és gondoskodáshoz. Mivel ez a 14/2014. (V. 13.) AB határozat [34]–[36] bekezdésétől való részleges eltérést
+jelent, a tételt szükséges a súlyos fogyatékosságuk vagy tartós betegségük miatt különleges gondozásra szoruló
+gyermekek ellátásaira szűkíteni, így a döntés nem terjedne ki a családtámogatási rendszer egészére.
+[50] 5. A mérce következményeként, ha a gyodra való jogosultság alapvető jog érvényesítésének eszköze,
+a különbségtétel alkotmányossága a XV. cikk (2) bekezdése alapján ítélendő meg, amelynek a 22/2023. (X. 4.)
+AB határozat szerint két feltétele van: alapjogi vonatkozás és védett tulajdonság (Indokolás [33]). Az utóbbi
+a konkrét esetben is azonosítható, mivel a formálisan semleges kritérium (más rendszeres pénzellátás folyósítása)
+a saját jogú nyugdíj, illetve a rokkantsági és rehabilitációs ellátás révén ténylegesen az életkorhoz és az egészségi
+állapothoz, fogyatékossághoz kötődik. A fogyatékosság a XV. cikk (2) bekezdésének kifejezetten nevesített
+szempontja; az életkort az EJEB az Egyezmény 14. cikke szerinti „egyéb helyzetnek” ismeri el (Schwizgebel
+kontra Svájc, 25762/07, 2010. június 10., § 85); a XV. cikk (5) bekezdése pedig külön védelmet ír elő az idősek és
+a fogyatékossággal élők számára.
+[51] A gyermek oldaláról nézve is megállapítható a különbségtétel: az azonos állapotú, otthon gondozott gyermekek
+közül azok kapnak kisebb állami támogatást, akiket – árvaság vagy a szülők kiesése miatt – nyugellátásban részesülő
+hozzátartozó gondoz.
+[52] Ebben az esetben, a háromoldalú alapjogi jogviszonyt figyelembe véve, álláspontom szerint az észszerűségi teszt
+helyett az Alaptörvény I. cikk (3) bekezdése szerinti szükségességi-arányossági teszt lett volna alkalmazandó
+{14/2014. (V. 13.) AB határozat, Indokolás [32]; vö. a 42/2012. (XII. 20.) AB határozat szerint a XV. cikk (2) bekezdése
+„az általános egyenlőségi szabályhoz képest szigorúbb vizsgálatot követel”, Indokolás [38]–[41];
+ehhez kapcsolódóan: 30/2017. (XI. 14.) AB határozathoz fűzött párhuzamos indokolás, Indokolás [101]–[105]}.
+[53] A szabályozás e teszten is elbukna: (i) az ellátás „célzottságának” jogalkotói célja legitim lehet, de a jogalkotó
+azt maga sem tartja be következetesen, mivel a Szoctv. 39/B. § (5) bekezdése szerinti esetekben és a gyermekre
+tekintettel járó ellátások esetében eltekint a maximalizálástól; (ii) a csökkentés így nem szükséges a cél eléréséhez;
+(iii) aránytalan, mert terhe végső soron annak a gyermeknek a gondozását sújtja, akinek joga az alapjogi rendben
+kiemelt védelmet élvez, és a hátrány – a 39/B. § (5) bekezdés b) pontja miatt – időmúlással sem orvosolható.
+Hangsúlyozom, hogy a konklúzió a fortiori is következik: ha a szabályozás már az enyhébb, észszerűségi mércének
+sem felel meg, a szigorúbbnak sem felelhet meg. A mérce helyes megjelölése ezért a döntés kimenetelét
+nem veszélyezteti, de a határozat dogmatikai súlyát és jövőbeli irányadó jellegét növelte volna.
+[54] 6. A bírói kezdeményezés elsősorban a XV. cikk (1) bekezdésére hivatkozott, a XVI. cikk (1) bekezdésével összefüggő
+elemet pedig az Alkotmánybíróság a határozott kérelem hiánya miatt nem bírálta el érdemben (Indokolás [16]).
+Megfontolandó lett volna azonban az az – indítványhoz kötöttséggel szintén összeegyeztethető – olvasat, amely
+szerint az indítvány e körben valójában összekapcsolta a két rendelkezést, azt állítva, hogy a gondozók közötti
+megkülönböztetés „folytán” sérül a gyermekek XVI. cikk (1) bekezdése szerinti joga (Indokolás [11]). Ez a hivatkozás
+nem csupán önálló alapjogsérelmi állításként, hanem a különbségtétellel érintett alapvető jog megjelöléseként
+is olvasható. Az Alkotmánybíróság gyakorlata szerint azt, hogy a XV. cikk melyik bekezdése alkalmazandó,
+a megkülönböztetés jellege határozza meg {22/2023. (X. 4.) AB határozat, Indokolás [22], [33]; 30/2017. (XI. 14.)
+AB határozat, Indokolás [49]}. Ennek alapján az Alkotmánybíróság a megkülönböztetést – a XVI. cikk (1) bekezdésére
+mint érintett alapjogra figyelemmel – a XV. cikk (2) bekezdése és az I. cikk (3) bekezdése alapján is vizsgálhatta volna,
+a 14/2014. (V. 13.) AB határozattól való eltérést kifejezetten indokolva.
+[55] Ez a megközelítés – vagyis az alapjogra vonatkozó megkülönböztetés szükségtelenségének és aránytalanságának
+megállapítása, valamint a gyermek legfőbb érdekének lényeges tartalmi sérelme – álláspontom szerint megalapozta
+volna az ex tunc megsemmisítést.
+Budapest, 2026. november 10.
+Dr. Nemessányiné dr. Chronowski Nóra Edit s. k.,
+alkotmánybíró
+
+Dr. Hörcherné dr. Marosi Ildikó alkotmánybíró különvéleménye
+[56] Nézetem szerint a határozatban szereplő diszkriminációs vizsgálat, amely a megkülönböztetés alkotmánybírósági
+kimondásának alapját képezte, módszertanilag vitatható, különös tekintettel a csoportképzés kereteinek
+meghatározására. Az összehasonlítási alap nagyban befolyásolja azt, hogy azonosítható-e hátrányos
+megkülönböztetés a jogszabály alapján.
+[57] 1. Az Alkotmánybíróság gyakorlata az alaptörvény-ellenes megkülönböztetéssel összefüggésben nézetem
+szerint a következőképp összegezhető: „[a]z Alaptörvény XV. cikk (1)–(2) bekezdése kapcsán három kérdést
+kell vizsgálni. Először azt kell megállapítani, hogy fennáll-e az érintett hátrányára eltérő bánásmód. Mivel
+a diszkrimináció szükségképpen valamilyen viszonyrendszerben érvényesül, vizsgálandó az is, hogy az érintett
+összehasonlítható helyzetben (homogén csoportban) van-e azokkal, akikhez képest a hátrányát az indítványban
+állítják. Másodsorban azt kell megvizsgálni, hogy az indítványozó a XV. cikk alapján milyen tartalmú sérelmet
+állít: a törvény előtti egyenlőség megsértésére hivatkozik [Alaptörvény XV. cikk (1) bekezdése], vagy arra, hogy
+egy védett tulajdonságra tekintettel tett alapjogi különbségtételről van szó [Alaptörvény XV. cikk (2) bekezdése].
+Végezetül a megkülönböztetés típusához igazodóan az észszerűségi, illetve a szükségességi-arányossági teszt
+alkalmazásával mérlegelni kell, hogy az azonosított hátrányos megkülönböztetés igazolható-e, összeegyeztethető-e
+az Alaptörvénnyel. Az egyenlőség nem jelenti a megszerezhető jogok, avagy kötelezettségek terjedelmének
+teljes azonosságát. Az alkotmányosan védett igény az, hogy a releváns szempontból hasonló eseteket hasonlóan
+kezeljék, illetve, ha valamely, az Alaptörvényből levezethető többletelem miatt szükséges a különbségtétel, akkor
+a szabályozás reflektáljon a lényeges és releváns szempontból különböző helyzetben lévők megkülönböztető
+jegyeire is” {22/2023. (X. 4.) AB határozat, Indokolás [21]–[22]; lásd legutóbb: 3005/2026. (X. 19.) AB határozat,
+Indokolás [27]}.
+[58] Véleményem szerint a hátrányos megkülönböztetés helyzetének az egyik kulcskérdése az a viszonyrendszer,
+amelyben az Alkotmánybíróság az érintett (szabályozási) helyzetét vizsgálja. Másképpen megfogalmazva:
+jelentősége van annak, hogy milyen szabályok mentén képezi a Testület a csoportot, és kik maradnak azon kívül.
+Az „eredménycentrikus” csoportképzés objektivitása, igazolhatósága alkalmanként látszólagos csupán. Minél
+tárgyilagosabb a csoportképzés, annál egyértelműbb az esetleges (hátrányos) megkülönböztetés menthetősége,
+avagy annak megállapíthatósága.
+[59] „[B]ár a csoportképzés módszere abszolút érvényű, az mindig a vizsgált ügy egyedi körülményeihez igazodik,
+ezért ebben az összefüggésben relatív. Ez azt jelenti, hogy a csoport(ok) felállítása a vizsgált tárgyhoz (normához)
+és az azt körülvevő jogszabályi kontextushoz kötött döntés” {34/2019. (XI. 29.) AB határozat, Indokolás [67];
+3040/2021. (II. 19.) AB határozat, Indokolás [52]; 13/2025. (X. 22.) AB határozat, Indokolás [67]; lásd legutóbb:
+3005/2026. (X. 19.) AB határozat, Indokolás [27]}. Jóllehet, normakontroll esetén sem igazodik szolgaian
+a törvényalkotó által meghatározott személyi hatályhoz.
+[60] 2. A fentiekből elsősorban az következik, hogy a csoportképzésnek döntő jelentősége van az állított
+megkülönböztetés alkotmányossági vizsgálata során, amely műveletet az Alkotmánybíróság az adott ügyre
+irányadó jogszabályi környezet tételes elemzésével hajtja végre. Bár az Alkotmánybíróságnak nincs arra
+kötelezettsége, hogy a diszkriminációs teszt csoportképzési szabályai esetében a vizsgált szabályozás személyi
+hatályából induljon ki, ugyanakkor a csoportképzés szabályainak felállítása nem lehet ad hoc jellegű, és
+nem szakadhat el teljes mértékben a jogalkotást vezető céloktól és szándékoktól.
+[61] A többségi indokolásban felállított csoportképzési szabályok – elismerést érdemlően – rendkívül bőkezűen és
+humánusan terelik homogén csoportba mindazokat, akiknek személyes sorsközösségként tartósan beteg, önálló
+életvitelre nem alkalmas gyermek saját háztartásukban történő gondozása jutott osztályrészül. Ha egyetlen
+csoportképzési szabály ez a sorsközösség, akkor értelemszerű, hogy bármifajta megkülönböztetés a gondozók
+között indokolhatatlan lesz, mert a gyermek mindenek felett álló érdeke mindent felülír. A gondozók közötti
+megkülönböztetés végső fokon a beteg, gondozásra szoruló gyermekek közötti megkülönböztetést jelenti majd.
+A jelen esetben a Szoctv. vonatkozó rendelkezéseiből, valamint az azokhoz fűzött, a jogszabály előkészítésében
+közreműködő miniszteri indokolásból ugyanakkor az tűnik ki, hogy a gyod rászorultsági alapon megállapítható
+rendszeres pénzbeli ellátás. A törvényi szabályok értelmében „[a] GYOD-ra való jogosultság megállapítása
+során az ellátások párhuzamos folyósításának elkerülése érdekében a hatóság vizsgálja, hogy az érintett szülő
+milyen más rendszeres pénzellátásban részesül és milyen összegben” (lásd a Szoctv. 25. §-ához fűzött miniszteri
+indokolást). Következésképpen a gyod más rendszeres pénzbeli juttatással együtt csak abban az esetben járhat,
+
+ha arra a törvényi szabályok lehetőséget adnak. A Szoctv. 4. § (1) bekezdés i) pontja az öregségi nyugdíj esetében
+főszabályként nem teremtette meg a párhuzamos ellátások igénybevételének lehetőségét.
+[62] Összevetve a Szoctv. szabályozási koncepcióját a határozatban foglalt megoldással, megállapítható, hogy
+a csoportképzés jelen esetben alkalmazott módja eredményében a deklaráltan rászorultsági alapú ellátást
+lényegében alanyi jogon járó ellátássá teszi. Ez a végeredmény adott esetben az eredeti jogalkotói szándéktól
+eltérő koncepció mentén határozza meg a jogintézmény jogi karakterét. A csoportképzés tehát figyelmen kívül
+hagyja azt a törvényalkotói szándékot, amely a szociális ellátást rászorultsághoz köti, továbbá azt a törvényalkotói
+megfontolást, amely az ellátást az egyéb szociális ellátásokhoz képest, azok viszonylatában kívánja nyújtani.
+[63] 3. Meglátásom szerint a vonatkozó joganyagból a Szoctv. rendelkezéseihez közelebb álló csoportképzés következik,
+amely illeszkedik az indítványozó bíró megközelítéséhez.
+[64] A csoportképzés alapja a bírói indítványhoz közelebb álló megoldás: azon gondozók (szülők, hozzátartozók)
+tartoznak homogén csoportba, akik egyéb rendszeres pénzbeli ellátás mellett jogosultak gyodra is.
+A megkülönböztetést ebben az esetben az jelenteni, hogy a szabályozás szerint a gyod teljes összegéhez
+az a jogosult jut csak hozzá, aki aktív időszakában, az öregségi nyugdíjkorhatár elérését megelőzően vált
+gondozóvá. Ez kétségtelenül hátrányosan kezeli azon gondozókat, akiknek már a gyodra való jogosultság
+megállapítása időpontjában is folyósítottak nyugdíjat, hiszen ők a gyod teljes összege helyett annak csak
+nyugdíjukkal csökkentett mértékét kapják kézhez. Az Alaptörvény XV. cikk (1) bekezdéséhez kapcsolódó
+igazolhatóság értelmében tehát a kérdés az, hogy van-e olyan ok, amely a tárgyilagos mérlegelés szerint indokolná,
+hogy aki utóbb (vagyis a gyodra való jogosultság megállapítását követően) vált nyugdíjassá, az az eredeti jogalkotói
+koncepcióval ellentétesen, párhuzamosan, két olyan ellátásban is részesülhet, amit a hasonló helyzetben lévő más
+gondozó (szülő, hozzátartozó) esetében a Szoctv. tételes rendelkezése kizár.
+[65] Mindezek alapján a Szoctv. 39/A. § (3) bekezdésének megsemmisítését támogattam, de nem értek egyet a 39/B. §
+(1) bekezdés b) pontja megsemmisítésének szükségességével.
+Budapest, 2026. november 10.
+Dr. Hörcherné dr. Marosi Ildikó s. k.,
+alkotmánybíró
+Dr. Schanda Balázs alkotmánybíró különvéleménye
+[66] Osztom a nehéz élethelyzetben lévő családok megsegítésének kötelezettségét, ugyanakkor a többségi határozat
+rendelkező részével és annak indokolásával nem értek egyet.
+[67] Az Alkotmánybíróság állandó gyakorlata a szociális ellátások tekintetében, hogy az ellátás feltételeinek és
+mértékének megállapítása tekintetében a jogalkotót széles körű mérlegelési jog illeti meg. E mérlegelés során
+a jogalkotó mind szociálpolitikai szempontokat, mind a nemzetgazdaság teljesítőképességét figyelembe
+veszi. Egyetértek a többségi határozattal abban, hogy az ellátások tekintetében a jogszabályban megjelenő
+különbségtételt a „gyengébb” diszkriminációs teszt, az észszerűségi teszt alapján kell megítélni: azt kell tárgyilagos
+mérlegelés szerint vizsgálni, hogy a különbségtételnek hiányzik-e az észszerű indoka.
+[68] Egyetértek a többségi határozattal a csoportképzés tekintetében is: homogén csoportnak (i) azokat a szülőket,
+illetve a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozókat tekinti, akik (ii) saját háztartásukban súlyos
+fogyatékosságából vagy tartós betegségéből eredően önellátásra képtelen gyermekről gondoskodnak. A többségi
+határozattal ellentétben azonban úgy vélem, a különbségtételnek lehet észszerű indoka: épp az azonos mértékű
+ápolási díj okán való egyenlőtlenség kompenzálása a célja. Ugyanis az a fentiek szerint jogosult szülő, aki
+a nyugdíjjogosultsága megszerzését megelőzően, aktív korában gondoskodik az ápolásra szoruló gyermekről,
+ezzel kiesik a munkaerőpiacról, és a nyugdíjjogosultság megszerzésekor csupán kisebb nyugdíjra számíthat.
+Ezt kívánhatta kompenzálni a jogalkotó azzal, hogy párhuzamosan biztosítja a gyodot és a nyugdíjat. Azok
+esetében azonban, akiknek már a nyugdíjas éveiben állapítják meg a gyodot, ez a szempont nem érvényesül, hiszen
+aktív éveiket nem töltötték„főállásban”gyermekük ápolásával.
+
+[69] Ezért úgy vélem, hogy a többségi határozat alapjául szolgáló egyedi esetben a Szoctv. jelenlegi szövegének
+alkalmazása, még ha méltánytalannak tűnik is, nem sérti az Alaptörvény hátrányos megkülönböztetést tiltó cikkét.
+Budapest, 2026. november 10.
+Dr. Schanda Balázs s. k.,
+alkotmánybíró
+Dr. Varga Réka alkotmánybíró különvéleménye
+[70] Habár egyetértek a határozat azon céljával, hogy a fogyatékosságból eredően önellátásra képtelen gyermeket
+gondozó hozzátartozók méltányosabb összegű és rendszerű támogatására szorítsa a jogalkotót, a tárgyi ügyben
+álláspontom szerint a megsemmisítés nem éri el ezt a célt, illetve annak következményeképpen nem szűnik meg
+a gondozásra szoruló gyermekek, illetve őket ápoló szülők és hozzátartozók közötti ellátásbeli különbségtétel.
+[71] 1. A gyod a jogalkotó kifejezett szándéka szerint szociális rászorultság esetén nyújt támogatást: erről rendelkezik
+a Szoctv. 25. § (3) bekezdés ad) pontja és a gyodot bevezető 2018. évi CXVII. törvény 9. §-ához fűzött jogalkotói
+indokolás is: „Rögzítésre kerül, hogy az újonnan bevezetendő ún. gyermekek otthongondozási díja a járási hivatal
+hatáskörében biztosított, szociális rászorultságtól függő pénzbeli szociális ellátás.”
+[72] Ennek ellenére a gyod feltételei úgy kerültek meghatározásra, hogy az a gyermek állapotára tekintettel, jövedelemre
+és vagyoni helyzetre tekintet nélkül jár a hozzátartozónak (feltéve, hogy az ápolást végző hozzátartozó otthonán
+kívüli munkavégzése nem haladja meg a napi négy órát). Ugyanakkor a jogalkotó a pénzbeli ellátási formák széles
+körét rendelte figyelembe venni a gyod összegének megállapítása feltételeként: a gyodon kívüli más pénzellátás
+esetén csak a másik pénzbeli ellátás és a gyod közötti különbözet kifizetését tette lehetővé.
+[73] A határozat abból indul ki, hogy a gyod összegének meghatározásában téves az a jogalkotói megközelítés, amely
+tekintettel van más pénzbeli ellátásokra, és ezért azok levonásáról rendelkezik, ténylegesen maximalizálva azt
+az összeget, amelyben a gyodra jogosult részesülhet pénzbeli ellátási formaként (bár vannak olyan pénzbeli
+ellátások, amelyek mellett a jogosult a gyod teljes – illetve keresőkorú szülő esetén: nyugdíjjárulékkal csökkentett –
+összegére jogosult, mint például másik gyermekre tekintettel folyósított csecsemőgondozási díj (a továbbiakban:
+csed), gyermekgondozási díj (a továbbiakban: gyed), illetve gyermekgondozást segítő ellátás (a továbbiakban: gyes).
+[74] A jogalkotó a Szoctv. alapján a pénzbeli ellátások összeszámításával ezek maximalizálását határozta meg, és
+a gyod csak akkor jár teljes összegben, ha a szülő (hozzátartozó) más pénzbeli ellátásban egyáltalán nem, vagy
+csak meghatározott – pl. gyermekek után járó tb-alapú – ellátásban részesül (csed, gyed, gyes). Az elv tehát az,
+hogy a gyod nem egy más pénzbeli ellátások mellett párhuzamosan kifizethető, alanyi jogon vagy rászorultsági
+alapon járó ellátási forma, hanem lényegében kiegészítő pénzbeli ellátás. Fontos megjegyezni, hogy ez a megoldás
+nem idegen a társadalombiztosítási és szociális ellátások rendszerétől.
+[75] 2. Mindez a csoportképzést is befolyásolja. A jogszabály koncepciója alapján a csoportképzésben annak
+van jelentősége, hogy a gyodra jogosult részesül-e más pénzbeli ellátásban, és ha igen, akkor ez a más pénzbeli
+ellátás a kivételek közé tartozik-e, vagy sem. Véleményem szerint a határozatban ebből kellett volna kiindulni, és
+ezen csoportképzés alapján vizsgálni, hogy van-e észszerű indoka a különbségtételnek.
+[76] Ehhez képest a határozat homogén csoportnak tekinti mindazokat, akik fogyatékosságból eredően önellátásra
+képtelen gyermeket ápolnak, és abból indul ki, hogy homogén csoportba tartozik a gyermek ápolására tekintettel
+minden gyodra jogosult, a cél pedig a gyod azonos összege minden más pénzbeli ellátástól függetlenül.
+Eszerint a csoporton belül a jogalkotó más pénzbeli ellátást alkotmányosan egyáltalán nem is vehet figyelembe
+a gyod összege meghatározásakor, csak a nyugdíjjárulékot vonhatja le.
+[77] Emiatt a határozat megállapításaiból az következik, hogy a gyodot – céljára tekintettel, amit a fogyatékosságból
+eredően önellátásra képtelen gyermek ápolásáért járó kompenzációban jelöl meg – a jogalkotó köteles
+a különböző pénzbeli ellátásoktól függetlenül, azok mellett teljes összegben (vagy legfeljebb a nyugdíjjárulék
+levonása mellett) fizetni. Ez a megállapítás ugyanakkor elszakad a jogalkotói akarattól, ebben a tekintetben
+pedig fontos megjegyezni, hogy a jogalkotót széles körű mérlegelés illeti meg abban a tekintetben, hogy
+meghatározza a szociális ellátás feltételeit és mértékét, és ebben a szociális szempontokat és az állam gazdasági
+lehetőségeit egyaránt figyelembe veheti. Ebből következőleg véleményem szerint nincs alkotmányos alapja annak
+megállapításának, hogy az állam köteles lenne minden fogyatékosságból eredően önellátásra képtelen gyermeket
+
+ápoló szülőnek, illetve hozzátartozónak kifejezetten a gyod keretében azonos összeget juttatni, és ne vehetne
+figyelembe akár rászorultsági okokat, akár párhuzamosan juttatott ellátásokat.
+[78] 3. Nyilvánvaló, hogy a gyermeke ápolását végző szülő (hozzátartozó) többszörösen nehéz helyzetben van, ahogyan
+az alapügybeli nagyszülők is, akik esetében a nyugdíj mellett nem a teljes gyod, hanem a nyugdíj és a gyod
+különbözete kerül kifizetésre gyod formájában.
+[79] Az ellátást a jogalkotó a szociális ellátásokról szóló törvényben határozta meg, a szociális rászorultságtól függő
+pénzbeli ellátások cím alatt. Ebből – és a már idézett jogalkotói indokolásból is – az következne, hogy a gyod
+rászorultságtól függő ellátási forma, a szabályozás azonban valójában nem ezt mutatja. Álláspontom szerint ebben
+lenne megfogható a szabályozással kapcsolatos alkotmányos probléma.
+[80] A határozat megállapításai következtében ugyanakkor a jogalkotó által célként meghatározott szociális rászorultsági
+elem éppen úgy figyelmen kívül marad, ahogyan magából a Szoctv. gyodra vonatkozó szabályaiból is.
+[81] 4. A gyodra vonatkozó szabályozás megsemmisítését kizárólag azon az alapon és pro futuro hatállyal tudtam
+volna támogatni, hogy a szabályozásból hiányzik a szociális elem, ennélfogva és ezen túlmenően is több
+normavilágossági-jogbiztonsági kérdést vet fel. A jogalkotó ezzel együtt nincs elzárva attól, hogy átgondolja
+a szabályozást annak érdekében, hogy a fogyatékosságból eredően önellátásra képtelen gyermeket otthon ápoló
+részére valóban a szociálisan rászorulók megfelelő támogatását biztosítsa.
+[82] Mindezekre tekintettel a megsemmisítéssel – a határozatban foglalt indokok alapján – nem értettem egyet.
+Budapest, 2026. november 10.
+Dr. Varga Réka s. k.,
+alkotmánybíró
+
+IX. Határozatok Tára
