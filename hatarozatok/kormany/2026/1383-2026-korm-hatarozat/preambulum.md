@@ -1,0 +1,1 @@
+A Kormány – figyelemmel az Ukrajnát sújtó háború miatti, egészségügyi intézmények elleni támadások következményeinek enyhítése érdekében létrehozandó új egészségügyi intézmény szükségleteire és igényeire, valamint a Magyarországon rendelkezésére álló és átadható egészségügyi készletekre –
