@@ -8,7 +8,7 @@ ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybe
 
 ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak a szülő rendszeres közreműködésével valósítható meg;
 
-b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel folyósított csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
+b)
 
 c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve a doktori képzés kivételével felsőoktatási intézmény teljes idejű képzésben részt vevő hallgatója; vagy
 

@@ -97,3 +97,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2026-07-24 | 2026. évi XXXIII. törvény | 1993-3-00-00.146 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1993-3-00-00.147 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 1993-3-00-00.148 |
+| 2026-11-25 | 14/2026. (XI. 24.) AB határozat | 1993-3-00-00.149 |
