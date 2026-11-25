@@ -1,4 +1,4 @@
-4. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^347]
+4. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^350]
 
 ## Hadtörténeti örökség ingatlan elemét bejelentő adatlap adattartalma
 
@@ -6,7 +6,7 @@
 
 2. Hadtörténeti örökség ingatlan elemének azonosító adatai:
 
-2.1. Vármegye, település neve, kerület, utca, házszám, helyrajzi szám (ha a bejelentő rendelkezésére áll),
+2.1.[^351] Megye, település neve, kerület, utca, házszám, helyrajzi szám (ha a bejelentő rendelkezésére áll),
 
 2.2. A helyszínen mért EOV vagy WGS84 földrajzi koordináták
 
@@ -30,4 +30,5 @@
 
 11. Képmelléket
 
-[^347]: A 4. mellékletet a 677/2020. (XII. 28.) Korm. rendelet 84. § 32. pontja hatályon kívül helyezte, újonnan a 142/2025. (VI. 19.) Korm. rendelet 36. § (3) bekezdése iktatta be.
+[^350]: A 4. mellékletet a 677/2020. (XII. 28.) Korm. rendelet 84. § 32. pontja hatályon kívül helyezte, újonnan a 142/2025. (VI. 19.) Korm. rendelet 36. § (3) bekezdése iktatta be.
+[^351]: A 4. melléklet 2. pont 2.1. alpontja az 510/2026. (XI. 24.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.

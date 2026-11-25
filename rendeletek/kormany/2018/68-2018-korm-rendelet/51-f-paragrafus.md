@@ -1,4 +1,4 @@
-51/F. §[^229] (1) A HM Hadtörténeti Intézet és Múzeum a részére megküldött, a régészeti terepmunkát lezáró dokumentáció, továbbá a hadtörténeti örökség terepi kutatását lezáró, illetve az 51/E. § (2) bekezdése szerinti jelentés alapján élhet a Kötv. 36. § (2) bekezdésében biztosított tárgykiválasztási jogával.
+51/F. §[^231] (1) A HM Hadtörténeti Intézet és Múzeum a részére megküldött, a régészeti terepmunkát lezáró dokumentáció, továbbá a hadtörténeti örökség terepi kutatását lezáró, illetve az 51/E. § (2) bekezdése szerinti jelentés alapján élhet a Kötv. 36. § (2) bekezdésében biztosított tárgykiválasztási jogával.
 
 (2) A HM Hadtörténeti Intézet és Múzeum tárgykiválasztási jogát szakmai szempontok alapján gyakorolja, amely során figyelembe veszi az adott elem korát, ritkaságát és hadtörténeti jelentőségét.
 
@@ -60,4 +60,4 @@ b) teljes tudományos feldolgozásban részesült tárgyi anyag esetében a tudo
 
 c) a restaurálási napló.
 
-[^229]: Az 51/F. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.
+[^231]: Az 51/F. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.

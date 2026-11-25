@@ -1,4 +1,4 @@
-27. §[^145] (1) A régészeti terepmunka dokumentáció tartalmazza
+27. §[^146] (1) A régészeti terepmunka dokumentáció tartalmazza
 
 a) a feltárási naplót,
 
@@ -24,7 +24,7 @@ a) a Magyar Nemzeti Múzeum Közgyűjteményi Központnak,
 
 b) a leletanyagot véglegesen befogadó múzeumnak,
 
-c) a területileg érintett vármegyei hatókörű városi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte, és
+c)[^147] a területileg érintett megyei hatókörű városi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte, és
 
 d) a gyűjtőterületén érintett területi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte.
 
@@ -32,4 +32,5 @@ d) a gyűjtőterületén érintett területi múzeumnak, ha a régészeti terepm
 
 (7) A régészeti terepmunkát végző intézmény a régészeti terepmunka dokumentáció egy példányát köteles adattárában digitálisan és papír alapon tárolni és megőrizni.
 
-[^145]: A 27. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^146]: A 27. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^147]: A 27. § (5) bekezdés c) pontja az 510/2026. (XI. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

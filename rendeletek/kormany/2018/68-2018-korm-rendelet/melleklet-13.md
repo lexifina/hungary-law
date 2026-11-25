@@ -22,6 +22,6 @@
 
 ## 11. Képmelléklet
 
-13. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^371]
+13. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^375]
 
-[^371]: A 13. mellékletet a 449/2025. (XII. 29.) Korm. rendelet 85. § 53. pontja hatályon kívül helyezte.
+[^375]: A 13. mellékletet a 449/2025. (XII. 29.) Korm. rendelet 85. § 53. pontja hatályon kívül helyezte.

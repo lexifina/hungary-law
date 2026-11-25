@@ -1,4 +1,4 @@
-51/D. §[^227] (1) A terepi kutatást végző intézmény a hadtörténeti örökségi elem terepi kutatásának lezárását követő 30 napon belül kutatási jelentésben köteles beszámolni eredményeiről az örökségvédelmi hatóságnak és a nyilvántartást vezető hatóságnak. A terepi kutatást végző intézmény a kutatási jelentés egy elektronikus példányát köteles megküldeni a fenti határidőben a HM Hadtörténeti Intézet és Múzeum részére, a Kötv. 36. § (2) bekezdésében rögzített tárgykiválasztási jogának gyakorlása érdekében.
+51/D. §[^229] (1) A terepi kutatást végző intézmény a hadtörténeti örökségi elem terepi kutatásának lezárását követő 30 napon belül kutatási jelentésben köteles beszámolni eredményeiről az örökségvédelmi hatóságnak és a nyilvántartást vezető hatóságnak. A terepi kutatást végző intézmény a kutatási jelentés egy elektronikus példányát köteles megküldeni a fenti határidőben a HM Hadtörténeti Intézet és Múzeum részére, a Kötv. 36. § (2) bekezdésében rögzített tárgykiválasztási jogának gyakorlása érdekében.
 
 (2) A kutatási jelentés tartalmazza
 
@@ -16,4 +16,4 @@ f) a hadtörténeti örökség előkerült ingó elemeinek ideiglenes és végle
 
 g) a képi mellékletet.
 
-[^227]: Az 51/D. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.
+[^229]: Az 51/D. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.

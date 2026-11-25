@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-68-20-2
 | 2025-09-01 | 2018-68-20-22.25 | 142/2025. (VI. 19.) Korm. rendelet |
 | 2026-01-01 | 2018-68-20-22.26 | 142/2025. (VI. 19.) Korm. rendelet |
 | 2026-01-14 | 2018-68-20-22.28 | 449/2025. (XII. 29.) Korm. rendelet |
+| 2026-11-25 | 2018-68-20-22.29 | 510/2026. (XI. 24.) Korm. rendelet |

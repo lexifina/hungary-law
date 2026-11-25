@@ -8,7 +8,7 @@ a) a kivitellel érintett tárgyra vonatkozóan állami garanciavállalás, bizt
 
 b) a muzeális intézmény nyilvántartásában szereplő, külföldre kölcsön adandó kulturális javak esetében a kölcsönadásról szóló, a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Mtv.) 38/A. § (2) bekezdésében meghatározott tartalmú szerződés megkötésre került, valamint a kultúráért felelős miniszter az Mtv. 38/A. § (6) bekezdése szerinti hozzájárulást megadta.
 
-c)[^310] a különös méltánylást érdemlő személyes körülmény fennáll. A külföldi elem igazolására külföldön kiállított hitelesített közokirat és magánokirat alkalmas.
+c)[^312] a különös méltánylást érdemlő személyes körülmény fennáll. A külföldi elem igazolására külföldön kiállított hitelesített közokirat és magánokirat alkalmas.
 
 (2) A kiviteli engedélynek tartalmaznia kell a 19. melléklet I. rész 1–17. pontjában, valamint a 20. és 21. pontjában foglalt adatokat.
 
@@ -18,4 +18,4 @@ c)[^310] a különös méltánylást érdemlő személyes körülmény fennáll.
 
 (5) A kiviteli engedély – legfeljebb a kivitellel érintett tárgyra vonatkozó állami garancia, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás időtartamára történő – meghosszabbítása esetén e § (1)–(4) bekezdését kell alkalmazni azzal, hogy a hosszabbítási kérelemnek a kiviteli engedély számát és a 19. melléklet I. rész 21. pontjában meghatározott adatokat kell tartalmaznia.
 
-[^310]: A 106. § (1) bekezdés c) pontját a 142/2025. (VI. 19.) Korm. rendelet 34. §-a iktatta be.
+[^312]: A 106. § (1) bekezdés c) pontját a 142/2025. (VI. 19.) Korm. rendelet 34. §-a iktatta be.

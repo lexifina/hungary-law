@@ -1,4 +1,4 @@
-14. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^372]
+14. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^376]
 
 A települési örökségvédelmi hatástanulmány tartalma
 
@@ -24,4 +24,4 @@ A települési örökségvédelmi hatástanulmány tartalma
 
 3.2. az önkormányzati feladatok meghatározását.
 
-[^372]: A 14. melléklet a 449/2025. (XII. 29.) Korm. rendelet 83. § (5) bekezdésével megállapított szöveg.
+[^376]: A 14. melléklet a 449/2025. (XII. 29.) Korm. rendelet 83. § (5) bekezdésével megállapított szöveg.

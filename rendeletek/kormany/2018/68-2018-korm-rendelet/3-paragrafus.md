@@ -2,7 +2,7 @@
 
 3. § (1) A Kormány a kulturális örökség védelmével (a továbbiakban: örökségvédelem) kapcsolatos hatósági feladatok ellátására örökségvédelmi feladatkörében
 
-a)[^23] örökségvédelmi hatóságként – a c) és d) pontban meghatározott feladatok kivételével – a fővárosi és vármegyei kormányhivatalt (a továbbiakban: kormányhivatal);
+a)[^23] örökségvédelmi hatóságként – a c) és d) pontban meghatározott feladatok kivételével – a fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal);
 
 b)[^24] a kormányhivatalok örökségvédelmi hatósági feladatellátásának törvényességi, szakszerűségi ellenőrzésére és az e rendeletben meghatározott hatósági feladatokra örökségvédelmi hatóságként, valamint a hatóságnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti felügyeleti szerveként a minisztert;
 
@@ -66,7 +66,7 @@ c)[^34]
 
 (8)[^36] Örökségvédelmi hatósági ügyintéző feladatkör ellátásához a 22. mellékletben meghatározott végzettség, illetve szakképesítés szükséges.
 
-[^23]: A 3. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja, a 142/2025. (VI. 19.) Korm. rendelet 38. § 2. pontja szerint módosított szöveg.
+[^23]: A 3. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított, a 142/2025. (VI. 19.) Korm. rendelet 38. § 2. pontja, az 510/2026. (XI. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^24]: A 3. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^25]: A 3. § (1a) bekezdését a 142/2025. (VI. 19.) Korm. rendelet 2. §-a iktatta be.
 [^26]: A 3. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 287. §-a szerint módosított szöveg.

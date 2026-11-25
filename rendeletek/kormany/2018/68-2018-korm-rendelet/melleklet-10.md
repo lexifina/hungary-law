@@ -4,11 +4,11 @@ A leletanyag végleges befogadásáról szóló igazolás adattartalma
 
 1. A leletanyagot véglegesen befogadó múzeum neve, székhelyének címe
 
-2.[^366] A régészeti terepmunka adatai:
+2.[^370] A régészeti terepmunka adatai:
 
 2.1. A lelőhely nyilvántartási azonosítója
 
-2.2.[^367] A régészeti terepmunka helye
+2.2.[^371] A régészeti terepmunka helye
 
 2.3. A feltárási engedély iránti kérelmező neve
 
@@ -22,5 +22,5 @@ A leletanyag végleges befogadásáról szóló igazolás adattartalma
 
 3.4. A társadalom és a szakmai közönség számára történő bemutatás, feldolgozás terve
 
-[^366]: A 10. melléklet 2. pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 125. pontja szerint módosított szöveg.
-[^367]: A 10. melléklet 2.2. pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 126. pontja szerint módosított szöveg.
+[^370]: A 10. melléklet 2. pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 125. pontja szerint módosított szöveg.
+[^371]: A 10. melléklet 2.2. pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 126. pontja szerint módosított szöveg.

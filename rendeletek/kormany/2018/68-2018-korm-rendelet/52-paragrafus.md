@@ -1,6 +1,6 @@
 ## 15. Fémkereső műszer használatának engedélyezése
 
-52. §[^231] (1) A fémkereső műszer hivatáshoz nem kötött használatát a tervezett tevékenység leírásával és céljának megjelölésével az örökségvédelmi hatóságnak be kell jelenteni.
+52. §[^233] (1) A fémkereső műszer hivatáshoz nem kötött használatát a tervezett tevékenység leírásával és céljának megjelölésével az örökségvédelmi hatóságnak be kell jelenteni.
 
 (2) Fémkereső műszer használatának minősül, ha a fémkereső műszer összeszerelt, üzemképes állapotban és funkciójának megfelelő használatban vagy használatra kész állapotban van.
 
@@ -58,4 +58,4 @@ a) kerül elő, a tevékenységet végző köteles a Kötv. 24. § (2) bekezdés
 
 b) nem kerül elő, a tevékenységet végző köteles a (8) bekezdésben foglalt határidő lejártát követő harminc napon belül az örökségvédelmi hatóságnak jelentést küldeni a végzett tevékenység leírásával, és nyilatkozni, hogy régészeti emlék, lelet vagy annak tűnő tárgy nem került elő a fémkereső műszerrel végzett tevékenység során.
 
-[^231]: Az 52. § a 142/2025. (VI. 19.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^233]: Az 52. § a 142/2025. (VI. 19.) Korm. rendelet 26. §-ával megállapított szöveg.

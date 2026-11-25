@@ -22,27 +22,27 @@ d) a közművezetékek terepi kijelölése megtörtént, leíró és térképes 
 
 e) a lőszer- és a tűzszerészeti vizsgálat és mentesítés megtörtént, és a lőszermentesítés minőségbiztosítási jegyzőkönyvét a feltárást végző intézménynek a beruházó átadta;
 
-f)[^165] a megelőző feltáráshoz kapcsolódóan földdepók létesítése szükséges, azok – ha lehetséges – a feltárással érintett területen kívül kijelölésre kerültek a régészeti terepmunka elvégzésére jogosult intézmény javaslata alapján – a feltárásra vonatkozó szerződésben meghatározott eltérő rendelkezés hiányában – oly módon, hogy azok a régészeti lelőhely esetlegesen nem ismert, a beruházás miatt a későbbiekben feltárandó részeit ne fedjék el, ugyanakkor a feltárás helyszínétől ne legyenek a szükségesnél távolabb; valamint
+f)[^167] a megelőző feltáráshoz kapcsolódóan földdepók létesítése szükséges, azok – ha lehetséges – a feltárással érintett területen kívül kijelölésre kerültek a régészeti terepmunka elvégzésére jogosult intézmény javaslata alapján – a feltárásra vonatkozó szerződésben meghatározott eltérő rendelkezés hiányában – oly módon, hogy azok a régészeti lelőhely esetlegesen nem ismert, a beruházás miatt a későbbiekben feltárandó részeit ne fedjék el, ugyanakkor a feltárás helyszínétől ne legyenek a szükségesnél távolabb; valamint
 
 g) a beruházó biztosítja a feltárandó terület megközelíthetőségét a feltárást végző intézmény számára.
 
 (4) Ha a beruházás előkészítése során a munkaterületen az emberre és környezetre veszélyt jelentő anyagok jelenlétét tárják fel, a beruházó köteles a munkaterület átadása során a felderítés minőségbiztosítási jegyzőkönyvét átadni a feltárást végző intézménynek.
 
-(5)[^166] Ha a feltárás beépített ingatlanon vagy a telekhatáron álló épülettel közvetlenül szomszédos területen – különösen történeti településmag területén – történik, a területátvételi állapotrögzítő jegyzőkönyvnek ki kell térnie a meglévő épületrészek megőrzésének szempontjaira is. Ilyen esetben a feltárási módszerek és technikák alkalmazása során figyelemmel kell lenni az építmények tartószerkezeti sajátosságaira.
+(5)[^168] Ha a feltárás beépített ingatlanon vagy a telekhatáron álló épülettel közvetlenül szomszédos területen – különösen történeti településmag területén – történik, a területátvételi állapotrögzítő jegyzőkönyvnek ki kell térnie a meglévő épületrészek megőrzésének szempontjaira is. Ilyen esetben a feltárási módszerek és technikák alkalmazása során figyelemmel kell lenni az építmények tartószerkezeti sajátosságaira.
 
-(6)[^167] A megelőző feltárást követő területátadás során felvett állapotrögzítő jegyzőkönyv tartalmazza
+(6)[^169] A megelőző feltárást követő területátadás során felvett állapotrögzítő jegyzőkönyv tartalmazza
 
 a) a régészeti lelőhely feltárt részének méretét és elhelyezkedését,
 
 b) a régészeti lelőhely ismert, de fel nem tárt, elfedett részének méretét és elhelyezkedését,
 
-c)[^168] a feltárást végző intézmény nyilatkozatát a régészeti lelőhely állapotáról és az elfedés vagy bennhagyás régészeti előkészítéséről, valamint
+c)[^170] a feltárást végző intézmény nyilatkozatát a régészeti lelőhely állapotáról és az elfedés vagy bennhagyás régészeti előkészítéséről, valamint
 
 d) az a) és b) pontban meghatározottak ábrázolását EOV-rendszerben készült digitális térképen.
 
 (7) A feltárási naplóban rögzíteni kell a területátvétel és a területátadás tényét. A területátvételi és a területátadási állapotrögzítő jegyzőkönyv a feltárási dokumentáció részét képezi.
 
-[^165]: A 34. § (3) bekezdés f) pontja a 142/2025. (VI. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^166]: A 34. § (5) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 38. § 12. pontja szerint módosított szöveg.
-[^167]: A 34. § (6) bekezdés nyitó szövegrésze a 142/2025. (VI. 19.) Korm. rendelet 37. § 64. pontja szerint módosított szöveg.
-[^168]: A 34. § (6) bekezdés c) pontja a 449/2025. (XII. 29.) Korm. rendelet 84. § d) pontja szerint módosított szöveg.
+[^167]: A 34. § (3) bekezdés f) pontja a 142/2025. (VI. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^168]: A 34. § (5) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 38. § 12. pontja szerint módosított szöveg.
+[^169]: A 34. § (6) bekezdés nyitó szövegrésze a 142/2025. (VI. 19.) Korm. rendelet 37. § 64. pontja szerint módosított szöveg.
+[^170]: A 34. § (6) bekezdés c) pontja a 449/2025. (XII. 29.) Korm. rendelet 84. § d) pontja szerint módosított szöveg.

@@ -32,7 +32,7 @@
 
 | 15. | régésztechnikusként a Kötv. 20. § (4) bekezdése szerinti feltárási engedély és bejelentési kötelezettség nélkül végezhető terepmunka részvétel 1 alkalommal | 1 |
 
-2. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^345]
+2. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^347]
 
 Régészeti lelőhely-bejelentő adatlap adattartalma
 
@@ -40,7 +40,7 @@ Régészeti lelőhely-bejelentő adatlap adattartalma
 
 1. A lelőhely azonosító adatai
 
-1.1. Vármegye, település neve, kerület
+1.1.[^348] Megye, település neve, kerület
 
 1.2. A lelőhely nyilvántartási azonosító száma
 
@@ -70,4 +70,5 @@ Régészeti lelőhely-bejelentő adatlap adattartalma
 
 8.4. A kutatott terület digitális vektoros EOV vagy WGS84 vetületű állománya
 
-[^345]: A 2. melléklet a 142/2025. (VI. 19.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^347]: A 2. melléklet a 142/2025. (VI. 19.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^348]: A 2. melléklet 1. pont 1.1. alpontja az 510/2026. (XI. 24.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.

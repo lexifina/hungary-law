@@ -1,4 +1,4 @@
-51/C. §[^226] (1) A hadtörténeti örökség terepi kutatására irányuló feltárás engedélyezése iránti kérelmet el kell utasítani, ha a tervezett terepi kutatás jogszabályban foglalt feltételei nem biztosítottak.
+51/C. §[^228] (1) A hadtörténeti örökség terepi kutatására irányuló feltárás engedélyezése iránti kérelmet el kell utasítani, ha a tervezett terepi kutatás jogszabályban foglalt feltételei nem biztosítottak.
 
 (2) A hadtörténeti örökség terepi kutatására irányuló feltárás iránti engedély tartalmazza:
 
@@ -18,4 +18,4 @@ f) a feltárásra vonatkozó jogszabályi követelményekre és szakmai irányel
 
 (4) Az örökségvédelmi hatóság a véglegessé vált engedélyt megküldi a nyilvántartást vezető hatóságnak és a területileg illetékes, régészeti gyűjtőkörrel rendelkező múzeumnak, valamint a HM Hadtörténeti Intézet és Múzeumnak a véglegessé válást követő harminc napon belül.
 
-[^226]: Az 51/C. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.
+[^228]: Az 51/C. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.

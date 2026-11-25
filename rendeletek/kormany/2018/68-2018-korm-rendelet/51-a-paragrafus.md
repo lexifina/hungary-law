@@ -1,4 +1,4 @@
-51/A. §[^223] (1) A hadtörténeti örökség terepi kutatása vonatkozásában az örökségvédelmi hatóság felé történő bejelentésnek, valamint a hatósági engedélykérelemnek az alábbi adatokat kell tartalmaznia:
+51/A. §[^225] (1) A hadtörténeti örökség terepi kutatása vonatkozásában az örökségvédelmi hatóság felé történő bejelentésnek, valamint a hatósági engedélykérelemnek az alábbi adatokat kell tartalmaznia:
 
 a) a kutatás tárgya, kora,
 
@@ -16,7 +16,7 @@ g) a munkálatok költségei és azok forrása,
 
 h) javaslat a terepi kutatás során előkerült hadtörténeti örökség ingó elemeinek ideiglenes elhelyezésére,
 
-i)[^224] javaslat a hadtörténeti örökség ingó elemeinek közgyűjteményben való végleges elhelyezésére,
+i)[^226] javaslat a hadtörténeti örökség ingó elemeinek közgyűjteményben való végleges elhelyezésére,
 
 j) az ingatlannal rendelkezni jogosultak hozzájárulása.
 
@@ -34,5 +34,5 @@ j) az ingatlannal rendelkezni jogosultak hozzájárulása.
 
 (8) A terepi kutatási engedély birtokában a terepi kutatás megkezdését 2 nappal korábban az örökségvédelmi hatóságnak be kell jelenteni.
 
-[^223]: Az 51/A. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.
-[^224]: Az 51/A. § (1) bekezdés i) pontja a 449/2025. (XII. 29.) Korm. rendelet 83. § (3) bekezdésével megállapított szöveg.
+[^225]: Az 51/A. §-t a 142/2025. (VI. 19.) Korm. rendelet 25. §-a iktatta be.
+[^226]: Az 51/A. § (1) bekezdés i) pontja a 449/2025. (XII. 29.) Korm. rendelet 83. § (3) bekezdésével megállapított szöveg.

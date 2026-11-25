@@ -20,6 +20,6 @@ d) azon kulturális javak, amelyek jelentőségét egy meghatározott épített,
 
 e) a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 33. § (1) bekezdése szerinti maradandó értékű iratok, irategyüttesek.
 
-f)[^308] a hazai és nemzetközi műkereskedelmi forgalomban nem vagy nagyon ritkán elérhető kulturális javak.
+f)[^310] a hazai és nemzetközi műkereskedelmi forgalomban nem vagy nagyon ritkán elérhető kulturális javak.
 
-[^308]: A 98. § (2) bekezdés f) pontját a 142/2025. (VI. 19.) Korm. rendelet 33. §-a iktatta be.
+[^310]: A 98. § (2) bekezdés f) pontját a 142/2025. (VI. 19.) Korm. rendelet 33. §-a iktatta be.

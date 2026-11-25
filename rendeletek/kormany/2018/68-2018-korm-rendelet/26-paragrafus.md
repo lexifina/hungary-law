@@ -30,7 +30,7 @@ g) az előkerült leletek összefoglaló ismertetését.
 
 a) a Magyar Nemzeti Múzeum Közgyűjteményi Központnak,
 
-b) a területileg érintett vármegyei hatókörű városi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte,
+b)[^145] a területileg érintett megyei hatókörű városi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte,
 
 c) a gyűjtőterületén érintett területi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte, és
 
@@ -38,3 +38,4 @@ d) a területi természetvédelmi hatóságnak és a működési területével �
 
 [^143]: A 26. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^144]: A 26. § (4) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 85. § 36. pontja szerint módosított szöveg.
+[^145]: A 26. § (5) bekezdés b) pontja az 510/2026. (XI. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
