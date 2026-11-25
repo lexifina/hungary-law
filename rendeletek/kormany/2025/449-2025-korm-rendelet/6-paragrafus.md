@@ -28,7 +28,7 @@ ah) a műemlékvédelmi bírság kategóriába sorolását;
 
 b) a műemlék elhelyezkedésének alábbi földrajzi, térbeli adatait:
 
-ba) a műemlék fekvése szerinti vármegyét, települést, településrészt és címét,
+ba)[^2] a műemlék fekvése szerinti megyét, települést, településrészt és címét,
 
 bb) az ingatlan ingatlan-nyilvántartási adatai szerinti azonosítását, az ingatlan fekvését (belterület, külterület vagy zártkert, helyrajzi szám, alrészlet), amelyek területén a műemléki védelem fennáll,
 
@@ -47,3 +47,5 @@ db) a műemléki inventarizáció, műemléki topográfia, műemléki revízió,
 dc) korábbi állapotát rögzítő felvételeket, felméréseket, dokumentumokat;
 
 e) hatósági eljárásra, lényeges beavatkozásra vonatkozó adatot.
+
+[^2]: A 6. § (2) bekezdés b) pont ba) alpontja az 513/2026. (XI. 24.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

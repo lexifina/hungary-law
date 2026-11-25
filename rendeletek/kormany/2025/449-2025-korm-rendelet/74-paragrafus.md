@@ -1,3 +1,3 @@
-74. §[^3]
+74. §[^6]
 
-[^3]: A 74. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 74. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

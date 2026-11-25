@@ -1,3 +1,3 @@
-94. §[^23]
+94. §[^26]
 
-[^23]: A 94. § a 70. § (2) bekezdése alapján 2030. július 1-jén lép hatályba.
+[^26]: A 94. § a 70. § (2) bekezdése alapján 2030. július 1-jén lép hatályba.

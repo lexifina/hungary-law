@@ -2,7 +2,7 @@
 
 3. § (1) A Kormány a kulturális örökség védelmével (a továbbiakban: örökségvédelem) kapcsolatos hatósági feladatok ellátására
 
-a) örökségvédelmi hatóságként műemlékvédelmi feladatkörben (a továbbiakban: hatóság) a fővárosi és vármegyei kormányhivatalt;
+a)[^1] örökségvédelmi hatóságként műemlékvédelmi feladatkörben (a továbbiakban: hatóság) a fővárosi és megyei kormányhivatalt;
 
 b) a Méptv. 149. § (1) bekezdésében foglalt műemléki nyilvántartást vezető hatóságként (a továbbiakban: műemléki nyilvántartási hatóság) országos illetékességi területtel a kulturális örökség védelméért felelős minisztert (a továbbiakban: miniszter)
 
@@ -43,3 +43,5 @@ bc) értékmeghatározó szakértői vizsgálat hatósági döntést előkészí
 c) a hatóság megkeresésére hatósági eljárásban, valamint településfejlesztési és településrendezési terv egyeztetési eljárásában.
 
 (5) Örökségvédelmi hatósági ügyintéző feladatkör ellátásához alap- vagy mesterképzésben szerzett, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény alapján egyetemi vagy főiskolai szintű építészmérnök vagy építőmérnök (szerkezetépítő, magasépítő üzemmérnök) szakképzettség, vagy ezekkel egyenértékűnek elismert szakképzettség szükséges.
+
+[^1]: A 3. § (1) bekezdés a) pontja az 513/2026. (XI. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

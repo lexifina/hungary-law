@@ -1,3 +1,3 @@
-84. §[^13]
+84. §[^16]
 
-[^13]: A 84. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 84. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

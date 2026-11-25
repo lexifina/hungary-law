@@ -12,7 +12,7 @@ Adatlapok
 
 1.1.3. Védettségre vonatkozó jogi aktusok
 
-1.1.4. Település, településrész; vármegye
+1.1.4.[^27] Település, településrész; megye
 
 1.1.5. Cím
 
@@ -121,3 +121,5 @@ Adatlapok
 4.4. Térkép
 
 4.5. A történeti kert elemei és fragmentumai (a kerti épületek, építmények esetén a részletes adatokat külön adatlapon kell felvenni)
+
+[^27]: A 2. melléklet 1. pont 1.1. alpont 1.1.4. pontja az 513/2026. (XI. 24.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
