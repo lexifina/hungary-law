@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-717-20-
 | 2021-01-02 | 2020-717-20-22.2 | 2010: CXXX. törvény |
 | 2023-01-01 | 2020-717-20-22.3 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2024-07-01 | 2020-717-20-22.4 | 106/2024. (V. 9.) Korm. rendelet |
+| 2026-11-25 | 2020-717-20-22.5 | 511/2026. (XI. 24.) Korm. rendelet |

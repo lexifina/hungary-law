@@ -20,7 +20,7 @@
 
 8. fizikai adathordozón megjelent elektronikus kiadvány: optikai vagy digitális adathordozón tartósan tárolt kiadvány, amely lehetővé teszi az adatok változatlan formában és tartalommal történő megjelenítését;
 
-9.[^1] helyi kiadvány: az adott településen vagy vármegyében a kiadó székhelye szerinti megjelenési helyen kiadott kiadvány;
+9.[^1] helyi kiadvány: az adott településen vagy megyében a kiadó székhelye szerinti megjelenési helyen kiadott kiadvány;
 
 10. kartográfiai kiadvány: a Földet vagy bármely égitestet egészben vagy részben, kartográfiai módszerekkel ábrázoló, nyomtatott vagy elektronikus kiadvány, továbbá a földgömb, valamint az éggömb;
 
@@ -64,4 +64,4 @@ a mű nyilvánosságra hozatalához adott engedélyt visszavonó vagy felhaszná
 
 24. videotermék: optikai vagy más fizikai adathordozón lakossági kereskedelmi forgalomba került film.
 
-[^1]: A 2. § 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 312. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § 9. pontja az 511/2026. (XI. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

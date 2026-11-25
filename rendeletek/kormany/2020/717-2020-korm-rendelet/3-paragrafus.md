@@ -6,7 +6,7 @@ a) nyomtatott kiadványok esetében
 
 aa)[^2] a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK),
 
-ab)[^3] a kiadó székhelye szerint illetékes vármegyei hatókörű városi könyvtár,
+ab)[^3] a kiadó székhelye szerint illetékes megyei hatókörű városi könyvtár,
 
 ac) budapesti székhelyű kiadó esetén a Fővárosi Szabó Ervin Könyvtár (a továbbiakban: FSZEK),
 
@@ -25,7 +25,7 @@ g) a szabadalmi leírás esetében a Szellemi Tulajdon Nemzeti Hivatala (a tová
 (2) E rendeletben meghatározott jogokkal és kötelezettségekkel összefüggő feladatokat az NFI a Magyar Nemzeti Filmarchívum útján látja el.
 
 [^2]: A 3. § (1) bekezdés a) pont aa) alpontja a 106/2024. (V. 9.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés a) pont ab) alpontja a 616/2022. (XII. 29.) Korm. rendelet 312. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés a) pont ab) alpontja az 511/2026. (XI. 24.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés b) pontja a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés c) pontja a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés e) pontja a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
