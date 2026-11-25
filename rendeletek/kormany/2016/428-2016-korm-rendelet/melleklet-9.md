@@ -1,4 +1,4 @@
-9. melléklet a 428/2016. (XII. 15.) Korm. rendelethez[^26]
+9. melléklet a 428/2016. (XII. 15.) Korm. rendelethez
 
 Szakmai beszámoló
 
@@ -97,5 +97,3 @@ I. Színház, balett- és táncegyüttes
 ## Egyéb, központi költségvetési támogatásból a tárgyévben megvalósult szakmai program: (opcionális) max. 4000 karakter
 
 II. Zenekar, énekkar
-
-[^26]: A 9. melléklet a 616/2022. (XII. 29.) Korm. rendelet 249. § c) pontja szerint módosított szöveg.

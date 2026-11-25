@@ -34,9 +34,9 @@
 
 |  | b) székhelyen kívül |  |
 
-|  | ba) vármegyén belül: |  |
+|  | ba) megyén belül:[^26] |  |
 
-|  | bb) vármegyén kívül: |  |
+|  | bb) megyén kívül:[^27] |  |
 
 | Az énekkar összes fellépésének számán belül a cappella hangversenyek száma: |  |
 
@@ -209,3 +209,6 @@ II. Nemzeti vagy kiemelt minősítésű, gazdasági társaságként vagy civil s
 | ................................................... Előadó-művészeti szervezet | ................................................... Fenntartó |
 
 Dátum
+
+[^26]: A 9. melléklet II. pont „A központi költségvetési támogatásból a tárgyévre vonatkozóan megvalósult produkciók szakmai adatai” megjelölésű részében foglalt táblázat b) pont ba) alpontja az 507/2026. (XI. 24.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^27]: A 9. melléklet II. pont „A központi költségvetési támogatásból a tárgyévre vonatkozóan megvalósult produkciók szakmai adatai” megjelölésű részében foglalt táblázat b) pont bb) alpontja az 507/2026. (XI. 24.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

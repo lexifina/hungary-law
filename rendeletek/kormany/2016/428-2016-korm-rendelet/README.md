@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-428-20-
 | 2020-06-13 | 2016-428-20-22.6 | 272/2020. (VI. 12.) Korm. rendelet |
 | 2023-01-01 | 2016-428-20-22.7 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2026-01-01 | 2016-428-20-22.8 | 395/2025. (XII. 16.) Korm. rendelet |
+| 2026-11-25 | 2016-428-20-22.9 | 507/2026. (XI. 24.) Korm. rendelet |

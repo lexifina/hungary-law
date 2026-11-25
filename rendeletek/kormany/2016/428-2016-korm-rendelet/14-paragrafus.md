@@ -24,7 +24,7 @@ d) által teljesített előadások fizető átlag-nézőszám arányát az álla
 
 e) által teljesített gyermek- és ifjúsági bemutatók és előadások számát,
 
-f)[^15] az állandó játszóhelyen kívüli helyi, a vármegyei, az országos vendég-, illetve tájelőadások és nemzetközi vendégelőadások számát, ezen belül
+f)[^15] az állandó játszóhelyen kívüli helyi, a megyei, az országos vendég-, illetve tájelőadások és nemzetközi vendégelőadások számát, ezen belül
 
 fa) a belföldi előadások tekintetében a kulturális szolgáltatásokkal kevésbé ellátott régiókban,
 
@@ -51,6 +51,6 @@ g) vezetőjének vezetői pályázatában rögzített, a művészeti tevékenys�
 [^12]: A 14. § (2) bekezdés b) pont bc) alpontja a 369/2019. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^13]: A 14. § (2) bekezdés b) pont bd) alpontja a 369/2019. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^14]: A 14. § (2) bekezdés b) pont be) alpontja a 369/2019. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^15]: A 14. § (2) bekezdés f) pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 249. § a) pontja szerint módosított szöveg.
+[^15]: A 14. § (2) bekezdés f) pont nyitó szövegrésze az 507/2026. (XI. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^16]: A 14. § (3) bekezdése a 369/2019. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^17]: A 14. § (3) bekezdés f) pontja a 369/2019. (XII. 30.) Korm. rendelet 3. § a) pontja, a 13/2020. (II. 7.) Korm. rendelet 114. § 1. pontja szerint módosított szöveg.
