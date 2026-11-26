@@ -6,7 +6,7 @@
 
 (2)[^49] A védelemben részesülő állatfajok egyedének tartását, hasznosítását, bemutatását
 
-a)[^50] solymászmadarak és a 14. § (4) bekezdése szerinti eljárás esetében országos illetékességgel a természetvédelmi feladatkörében eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: Kormányhivatal),
+a)[^50] solymászmadarak és a 14. § (4) bekezdése szerinti eljárás esetében országos illetékességgel a természetvédelmi feladatkörében eljáró Pest Megyei Kormányhivatal (a továbbiakban: Kormányhivatal),
 
 b)[^51] egyéb fokozottan védett állatfaj esetében országos illetékességgel a Kormányhivatal,
 
@@ -23,7 +23,7 @@ engedélyezi.
 [^47]: A 17. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (9) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^48]: A 17. § (1a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 84. § (10) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^49]: A 17. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg.
-[^50]: A 17. § (2) bekezdés a) pontja a 136/2022. (IV. 7.) Korm. rendelet 5. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 71. § a) pontja szerint módosított szöveg.
+[^50]: A 17. § (2) bekezdés a) pontja a 136/2022. (IV. 7.) Korm. rendelet 5. §-ával megállapított, az 515/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^51]: A 17. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 46. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^52]: A 17. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 85. § (4) bekezdése hatályon kívül helyezte, újonnan a 136/2022. (IV. 7.) Korm. rendelet 6. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
 [^53]: A 17. § (4) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 19. §-a hatályon kívül helyezte, újonnan a 155/2025. (VI. 23.) Korm. rendelet 7. § (5) bekezdése iktatta be.
