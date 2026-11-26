@@ -4,10 +4,10 @@
 
 (2) Az (EU) 2019/1021 európai parlamenti és tanácsi rendelet 3. cikk (1) és (2) bekezdésében megjelölt anyagok forgalomba hozatalának és felhasználásának ellenőrzése során
 
-a)[^1] az ipari vegyi anyagok esetében a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: népegészségügyi járási hivatal),
+a)[^1] az ipari vegyi anyagok esetében a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: népegészségügyi járási hivatal),
 
 b) a peszticidek esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)
 
 jár el.
 
-[^1]: A 2. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 306. §-a szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdés a) pontja az 538/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
