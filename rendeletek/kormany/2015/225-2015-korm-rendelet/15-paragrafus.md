@@ -10,7 +10,7 @@ c) amely a hulladékjegyzékről szóló miniszteri rendeletben meghatározott h
 
 d)[^12] amelynek adott hulladéktípusként történő, a hulladékgazdálkodási hatóság által elvégzett besorolását a hulladékbirtokos vitatja,
 
-a hulladékbirtokos az országos illetékességgel hulladékgazdálkodási feladatkörében eljáró Pest Vármegyei Kormányhivatalnál (a továbbiakban: országos hulladékgazdálkodási hatóság) a Ht. 55. § (2) és (3) bekezdésében foglaltakra figyelemmel kérelmezi a hulladék minősítését.
+a hulladékbirtokos az országos illetékességgel hulladékgazdálkodási feladatkörében eljáró Pest Megyei Kormányhivatalnál (a továbbiakban: országos hulladékgazdálkodási hatóság) a Ht. 55. § (2) és (3) bekezdésében foglaltakra figyelemmel kérelmezi a hulladék minősítését.
 
 (2)[^13]
 
@@ -28,7 +28,7 @@ e) akkreditált laboratórium által végzett mintavizsgálat eredményeit tarta
 
 (4)[^15] Az igazgatási szolgáltatási díj befizetését az országos hulladékgazdálkodási hatóság ellenőrzi.
 
-[^11]: A 15. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 217. §-a, a 107/2023. (III. 30.) Korm. rendelet 7. §-a, a 675/2023. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^11]: A 15. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés a) pontja, a 107/2023. (III. 30.) Korm. rendelet 7. §-a, a 675/2023. (XII. 29.) Korm. rendelet 16. §-a, az 547/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^12]: A 15. § (1) bekezdés d) pontja a 312/2021. (VI. 7.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^13]: A 15. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 82. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^14]: A 15. § (3) bekezdés a) pontja a 340/2024. (XI. 14.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.

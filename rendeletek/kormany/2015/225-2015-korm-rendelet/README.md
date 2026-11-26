@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-225-20-
 | 2023-12-31 | 2015-225-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2025-01-01 | 2015-225-20-22.11 | 340/2024. (XI. 14.) Korm. rendelet |
 | 2026-01-01 | 2015-225-20-22.12 | 340/2024. (XI. 14.) Korm. rendelet |
+| 2026-11-26 | 2015-225-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
