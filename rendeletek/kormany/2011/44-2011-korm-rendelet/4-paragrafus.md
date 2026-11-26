@@ -1,4 +1,4 @@
-## 3.[^25] Az uniós közbeszerzési értékhatárok alatti ellátás ellenértéke
+## 3.[^5] Az uniós közbeszerzési értékhatárok alatti ellátás ellenértéke
 
 4. § (1) A Központi Ellátó Szerv a termékek és szolgáltatások biztosítására a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaságokkal keretszerződést köt.
 
@@ -8,4 +8,4 @@
 
 (4) Az ellátás ellenértékét a Kedvezményezett a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság számára az általa kibocsátott számla alapján közvetlenül megtéríti, a számla kézhezvételétől számított 30 napon belül.
 
-[^25]: A 3. alcím címe a 280/2023. (VI. 29.) Korm. rendelet 32. § d) pontja szerint módosított szöveg.
+[^5]: A 3. alcím címe a 280/2023. (VI. 29.) Korm. rendelet 32. § d) pontja szerint módosított szöveg.
