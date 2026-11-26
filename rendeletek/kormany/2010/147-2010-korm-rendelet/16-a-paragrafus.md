@@ -24,7 +24,7 @@ b) közösségi ivóvízellátást biztosító saját célú ivóvízmű esetén
 
 (5)[^31] A (3) bekezdésben foglalt tevékenységet az engedélyező hatóság ellenőrzi.
 
-(6)[^32] Magán ivóvízellátást biztosító saját célú ivóvízmű esetében az ellenőrzés során az engedélyező hatóság megkeresheti a víz felhasználási feltételeinek meghatározásához a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
+(6)[^32] Magán ivóvízellátást biztosító saját célú ivóvízmű esetében az ellenőrzés során az engedélyező hatóság megkeresheti a víz felhasználási feltételeinek meghatározásához a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
 
 (7)[^33] Közösségi ivóvízellátást biztosító saját célú ivóvízmű esetén a népegészségügyi ellenőrzésre az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet irányadó.
 
@@ -33,6 +33,6 @@ b) közösségi ivóvízellátást biztosító saját célú ivóvízmű esetén
 [^29]: A 6a. alcímet (16/A–16/C. §) a 100/2016. (V. 13.) Korm. rendelet 14. §-a iktatta be.
 [^30]: A 16/A. § (4) bekezdése a 6/2023. (I. 12.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^31]: A 16/A. § (5) bekezdése a 6/2023. (I. 12.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^32]: A 16/A. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 295. § (2) bekezdése iktatta be, szövege a 6/2023. (I. 12.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^32]: A 16/A. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 295. § (2) bekezdése iktatta be, szövege a 6/2023. (I. 12.) Korm. rendelet 20. § (1) bekezdésével megállapított, az 556/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^33]: A 16/A. § (7) bekezdését a 6/2023. (I. 12.) Korm. rendelet 20. § (2) bekezdése iktatta be.
 [^34]: A 16/A. § (8) bekezdését a 6/2023. (I. 12.) Korm. rendelet 20. § (2) bekezdése iktatta be.
