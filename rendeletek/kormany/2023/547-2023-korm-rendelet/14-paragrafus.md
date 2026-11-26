@@ -14,7 +14,7 @@ való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
-a)[^2] az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendelet;
+a)[^3] az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendelet;
 
 b) az európai Föld-megfigyelési programról (GMES) szóló 911/2010/EU európai parlamenti és tanácsi rendeletnek a GMES-felhasználókra vonatkozó nyilvántartásba vételi és engedélyezési feltételek és a különös GMES-adatokhoz és a GMES-szolgáltatásokból származó információkhoz való hozzáférés korlátozására vonatkozó kritériumok meghatározása révén történő kiegészítéséről szóló, 2013. július 12-i 1159/2013/EU felhatalmazáson alapuló bizottsági rendelet;
 
@@ -24,4 +24,4 @@ d) a légiforgalmi szolgáltatást/légi navigációs szolgálatokat és más l�
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^2]: A 14. § (2) bekezdés a) pontja a 310/2025. (X. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^3]: A 14. § (2) bekezdés a) pontja a 310/2025. (X. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
