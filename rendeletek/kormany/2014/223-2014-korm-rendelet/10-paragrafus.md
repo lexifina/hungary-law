@@ -2,29 +2,29 @@
 
 10. § (1)[^19] Területi vízügyi hatóságként, továbbá területi vízvédelmi hatóságként és – ha kormányrendelet eltérően nem rendelkezik – a (2a) bekezdésben foglalt kivétellel
 
-1.[^20] a Győr-Moson-Sopron Vármegyei Kormányhivatal,
+1.[^20] a Győr-Moson-Sopron Megyei Kormányhivatal,
 
-2.[^21] a Pest Vármegyei Kormányhivatal,
+2.[^21] a Pest Megyei Kormányhivatal,
 
-3.[^22] a Bács-Kiskun Vármegyei Kormányhivatal,
+3.[^22] a Bács-Kiskun Megyei Kormányhivatal,
 
-4.[^23] a Fejér Vármegyei Kormányhivatal,
+4.[^23] a Fejér Megyei Kormányhivatal,
 
-5.[^24] a Baranya Vármegyei Kormányhivatal,
+5.[^24] a Baranya Megyei Kormányhivatal,
 
-6.[^25] a Vas Vármegyei Kormányhivatal,
+6.[^25] a Vas Megyei Kormányhivatal,
 
-7.[^26] a Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal,
+7.[^26] a Szabolcs-Szatmár-Bereg Megyei Kormányhivatal,
 
-8.[^27] a Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal,
+8.[^27] a Borsod-Abaúj-Zemplén Megyei Kormányhivatal,
 
-9.[^28] a Hajdú-Bihar Vármegyei Kormányhivatal,
+9.[^28] a Hajdú-Bihar Megyei Kormányhivatal,
 
-10.[^29] a Jász-Nagykun-Szolnok Vármegyei Kormányhivatal,
+10.[^29] a Jász-Nagykun-Szolnok Megyei Kormányhivatal,
 
-11.[^30] a Csongrád-Csanád Vármegyei Kormányhivatal, és
+11.[^30] a Csongrád-Csanád Megyei Kormányhivatal, és
 
-12.[^31] a Békés Vármegyei Kormányhivatal
+12.[^31] a Békés Megyei Kormányhivatal
 
 (az 1–12. pontban foglaltak a továbbiakban együtt: hatóság) jár el.
 
@@ -49,18 +49,18 @@
 (8)[^40] A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.
 
 [^19]: A 10. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja, az 511/2020. (XI. 20.) Korm. rendelet 1. § (4) bekezdés a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 128. § a) pontja szerint módosított szöveg.
-[^20]: A 10. § (1) bekezdés 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^21]: A 10. § (1) bekezdés 2. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § b) pontja szerint módosított szöveg.
-[^22]: A 10. § (1) bekezdés 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^23]: A 10. § (1) bekezdés 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^24]: A 10. § (1) bekezdés 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^25]: A 10. § (1) bekezdés 6. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^26]: A 10. § (1) bekezdés 7. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^27]: A 10. § (1) bekezdés 8. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^28]: A 10. § (1) bekezdés 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^29]: A 10. § (1) bekezdés 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^30]: A 10. § (1) bekezdés 11. pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^31]: A 10. § (1) bekezdés 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
+[^20]: A 10. § (1) bekezdés 1. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^21]: A 10. § (1) bekezdés 2. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § b) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^22]: A 10. § (1) bekezdés 3. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 10. § (1) bekezdés 4. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: A 10. § (1) bekezdés 5. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^25]: A 10. § (1) bekezdés 6. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^26]: A 10. § (1) bekezdés 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^27]: A 10. § (1) bekezdés 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^28]: A 10. § (1) bekezdés 9. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^29]: A 10. § (1) bekezdés 10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^30]: A 10. § (1) bekezdés 11. pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^31]: A 10. § (1) bekezdés 12. pontja a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja, az 559/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^32]: A 10. § (2a) bekezdését újonnan az 511/2020. (XI. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 107/2024. (V. 9.) Korm. rendelet 20. §-a, a 198/2025. (VII. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^33]: A 10. § (3) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 128. § b) pontja hatályon kívül helyezte.
 [^34]: A 10. § (3a) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 128. § c) pontja szerint módosított szöveg.

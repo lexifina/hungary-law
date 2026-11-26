@@ -108,7 +108,7 @@ f) a szomszédos országokkal létesített vízgazdálkodási egyezmények végr
 
 g) a többoldalú nemzetközi együttműködések vízgazdálkodási feladatainak végrehajtásában.
 
-(7)[^14] A területi vízügyi igazgatóság véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
+(7)[^14] A területi vízügyi igazgatóság véleményezi a kiemelt térségre és a megyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
 
 (8) A területi vízügyi igazgatóság együttműködik a helyi önkormányzatokkal és a vízitársulatokkal a vízgazdálkodási feladatok megoldásában.
 
@@ -132,6 +132,6 @@ f) a vízügyi igazgatóság fenntartásában álló vizeken, vízilétesítmén
 [^11]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg.
 [^12]: A 7. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdése iktatta be.
 [^13]: A 7. § (4) bekezdés b) pontja a 195/2017. (VII. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^14]: A 7. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 188. § a) pontja szerint módosított szöveg.
+[^14]: A 7. § (7) bekezdése az 559/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^15]: A 7. § (9) bekezdését a 460/2021. (VIII. 4.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 7. § (10) bekezdését a 383/2024. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.

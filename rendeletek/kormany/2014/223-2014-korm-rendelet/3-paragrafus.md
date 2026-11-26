@@ -50,7 +50,7 @@ b) a jogszabályokhoz kapcsolódó előzetes és utólagos hatásvizsgálatok, v
 
 a) ellátja a vízügyi múzeumi és levéltári feladatokat, továbbá felügyeli a területi vízügyi igazgatásra vonatkozó oktatási, kutatási, múzeumi és levéltári tevékenységekkel kapcsolatos feladatokat,
 
-b)[^6] véleményezi a kiemelt térségre és vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet,
+b)[^6] véleményezi a kiemelt térségre és megyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet,
 
 c) közreműködik a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv végrehajtásához kapcsolódó vízgazdálkodási vonatkozású feladatokban,
 
@@ -85,6 +85,6 @@ p)[^8] ellátja a vizek többletéből eredő kockázattal érintett területek 
 [^3]: A 3. § (1) bekezdés f) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 35/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés i) pontja a 238/2022. (VI. 30.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (2) bekezdés d) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (4) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdés b) pontja az 559/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^7]: A 3. § (4) bekezdés o) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
 [^8]: A 3. § (4) bekezdés p) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
