@@ -10,8 +10,8 @@ b) hulladékgazdálkodási tevékenység folytatását kizáró foglalkozástól
 
 c)[^65] a környezet védelmének általános szabályairól szóló törvény szerinti kármentesítési kötelezettségét véglegesen megállapították-e, és a teljesítésre megállapított határidő lejártáig kötelezettségét teljesítette-e;
 
-d)[^66] bármilyen, általa vagy olyan gazdasági társaság által folytatott korábbi tevékenysége, amelynek vezető tisztségviselője volt, eredményezte-e azt, hogy a felszámolást követően hátrahagyott hulladék kezeléséről költségvetési forrásból az államnak, a vármegyei vagy a települési önkormányzatnak kellett gondoskodnia.
+d)[^66] bármilyen, általa vagy olyan gazdasági társaság által folytatott korábbi tevékenysége, amelynek vezető tisztségviselője volt, eredményezte-e azt, hogy a felszámolást követően hátrahagyott hulladék kezeléséről költségvetési forrásból az államnak, a megyei vagy a települési önkormányzatnak kellett gondoskodnia.
 
 [^64]: A 11. § nyitó szövegrésze a 368/2014. (XII. 30.) Korm. rendelet 3. § (3) bekezdése, a 675/2023. (XII. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^65]: A 11. § c) pontja a 457/2017. (XII. 28.) Korm. rendelet 424. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^66]: A 11. § d) pontja a 616/2022. (XII. 29.) Korm. rendelet 151. § a) pontja szerint módosított szöveg.
+[^66]: A 11. § d) pontja az 542/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

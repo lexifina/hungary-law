@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-439-20-
 | 2026-01-01 | 2012-439-20-22.15 | 342/2025. (X. 31.) Korm. rendelet |
 | 2026-06-30 | 2012-439-20-22.16 | 98/2026. (VI. 29.) Korm. rendelet |
 | 2026-08-12 | 2012-439-20-22.17 | 98/2026. (VI. 29.) Korm. rendelet |
+| 2026-11-26 | 2012-439-20-22.18 | 542/2026. (XI. 25.) Korm. rendelet |

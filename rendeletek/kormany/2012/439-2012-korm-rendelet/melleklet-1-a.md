@@ -66,4 +66,4 @@
 
 A hulladékszállítás nyilvántartásba vételéhez kötött tevékenység bejelentése
 
-[^91]: Az 1/A. mellékletet a 440/2016. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
+[^91]: Az 1/A. mellékletet a 440/2016. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege az 542/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

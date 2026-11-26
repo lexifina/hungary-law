@@ -24,7 +24,7 @@
 
 | A tevékenységre vonatkozó információk: |
 
-| 1. Az érintett hulladék - hulladékjegyzék szerinti azonosító kódja: - típus szerinti elnevezése: - jellege: - mennyisége: 2. A tevékenység részletes leírása: 3. A tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése: (vármegye megnevezése vagy országos) |
+| 1. Az érintett hulladék - hulladékjegyzék szerinti azonosító kódja: - típus szerinti elnevezése: - jellege: - mennyisége: 2. A tevékenység részletes leírása: 3. A tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése: (megye megnevezése vagy országos) |
 
 | A bejelentésért felelős: |  |  |
 
