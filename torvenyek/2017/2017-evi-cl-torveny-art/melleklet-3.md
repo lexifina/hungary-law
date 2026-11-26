@@ -235,25 +235,3 @@
 ## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 ## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 4. Járulékok
-
-## 4.1. Társadalombiztosítási járulék, nyugdíjjárulék
-
-## 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
-## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot negyedévente a tárgynegyedévet követő hónap tizenkettedik napjáig
-
-## fizeti meg.
-
-## 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
-## A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.
-
-## 5. Játékadó
-
-## 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
