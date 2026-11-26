@@ -75,3 +75,5 @@ van összefüggésben.
 (8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a felügyeleti ellenőrzési eljárás során a csoportfelügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
 
 (9) Nem jelenti a biztosítási titok sérelmét a Hpt. 164/B. § szerinti adattovábbítás.
+
+(10) Nem jelenti a biztosítási titok sérelmét a vagyonbiztosítási szerződés – így különösen a vagyontárgyakhoz, követelésekhez, vagyoni jogokhoz kapcsolódó biztosítási szerződések –, valamint a megtakarítási jellegű életbiztosítás – ideértve a befektetési egységhez kötött életbiztosítást és tradicionális életbiztosítást is – tekintetében az adókötelezettségek teljesítésével összefüggő kockázatok azonosítása, valamint az azonosított kockázatok fennállásának kizárása vagy megállapítása érdekében kockázatelemzést végző adóhatóság, vámhatóság részére – e szervnek a szolgáltatóhoz intézett adatkérése vagy írásbeli megkeresése alapján – történő adattovábbítás.
