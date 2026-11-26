@@ -1,8 +1,8 @@
 ## 15. Derogáció és átmeneti eltérések
 
-21. § (1)[^44] Az ONI az ivóvízszolgáltatót annak kérelmére, a (3) bekezdésben meghatározott esetekben azok előrelátható időtartamának figyelembevételével, legfeljebb három évre engedélyben mentesíti az 1. melléklet 2. pontjában foglalt határértékeknek való megfelelési kötelezettség alól (a továbbiakban: derogáció), feltéve, hogy a derogáció nem jelent veszélyt az emberi egészségre, és az adott térségben az ivóvíz szolgáltatását más, észszerű módon nem lehet fenntartani. Az engedélyben az ONI meghatározza az érintett vízminőségi jellemző ideiglenes határértékét, a derogáció időtartamát és a felülvizsgálatra vonatkozó követelményeket, valamint az intézkedési terv végrehajtásának követésére alkalmas, új monitorozási rendszert állapít meg, szükség szerint megnövelt monitorozási gyakorisággal.
+21. § (1)[^47] Az ONI az ivóvízszolgáltatót annak kérelmére, a (3) bekezdésben meghatározott esetekben azok előrelátható időtartamának figyelembevételével, legfeljebb három évre engedélyben mentesíti az 1. melléklet 2. pontjában foglalt határértékeknek való megfelelési kötelezettség alól (a továbbiakban: derogáció), feltéve, hogy a derogáció nem jelent veszélyt az emberi egészségre, és az adott térségben az ivóvíz szolgáltatását más, észszerű módon nem lehet fenntartani. Az engedélyben az ONI meghatározza az érintett vízminőségi jellemző ideiglenes határértékét, a derogáció időtartamát és a felülvizsgálatra vonatkozó követelményeket, valamint az intézkedési terv végrehajtásának követésére alkalmas, új monitorozási rendszert állapít meg, szükség szerint megnövelt monitorozási gyakorisággal.
 
-(2)[^45] A derogáció ideje alatt engedélyezett ideiglenes határértéket és az eltérés engedélyezett időtartamát az ONI a HUMVI rendszerben rögzíti.
+(2)[^48] A derogáció ideje alatt engedélyezett ideiglenes határértéket és az eltérés engedélyezett időtartamát az ONI a HUMVI rendszerben rögzíti.
 
 (3) Az ivóvízszolgáltatónak derogációra vonatkozó engedély akkor adható, ha
 
@@ -28,7 +28,7 @@ e) intézkedési tervet a derogáció alapjául szolgáló eltérés megoldásá
 
 f) a derogáció kérelmezett időtartamát.
 
-(5)[^46] Az ONI az ivóvízszolgáltató kérelmére a (3) bekezdés a) és b) pontjában meghatározottak tekintetében rendkívüli körülmények között egy alkalommal a lehető legrövidebb időtartamra, de legfeljebb további három évre ismételten engedélyt adhat a derogációra (a továbbiakban: második derogáció).
+(5)[^49] Az ONI az ivóvízszolgáltató kérelmére a (3) bekezdés a) és b) pontjában meghatározottak tekintetében rendkívüli körülmények között egy alkalommal a lehető legrövidebb időtartamra, de legfeljebb további három évre ismételten engedélyt adhat a derogációra (a továbbiakban: második derogáció).
 
 (6) A második derogáció engedélyezése esetén az országos tisztifőorvos jelentése alapján az egészségügyért felelős miniszter értesíti az Európai Bizottságot az első derogáció értékelésének eredményéről és a második derogációra vonatkozó döntést megalapozó indokokról.
 
@@ -36,6 +36,6 @@ f) a derogáció kérelmezett időtartamát.
 
 (8) Ha egy adott szolgáltatási helyen az ivóvízszolgáltatás a megelőző tizenkét hónapban összesen harminc napot meghaladó ideig nem felelt meg valamely határértéknek, a (7) bekezdés további alkalmazása nem lehetséges.
 
-[^44]: A 21. § (1) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^45]: A 21. § (2) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^46]: A 21. § (5) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^47]: A 21. § (1) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^48]: A 21. § (2) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^49]: A 21. § (5) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

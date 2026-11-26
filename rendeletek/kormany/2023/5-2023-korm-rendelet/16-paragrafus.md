@@ -1,8 +1,8 @@
 ## 10. Informatikai rendszer
 
-16. § (1)[^34] Az ivóvízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint az ivóvízminőség-javító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az ONI működteti a HUMVI rendszert. Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a NÉBIH gyűjti az adatokat.
+16. § (1)[^36] Az ivóvízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint az ivóvízminőség-javító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az ONI működteti a HUMVI rendszert. Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a NÉBIH gyűjti az adatokat.
 
-(2)[^35] A HUMVI rendszerbe az ONI, valamint az ONI felhatalmazása alapján
+(2)[^37] A HUMVI rendszerbe az ONI, valamint az ONI felhatalmazása alapján
 
 a) a népegészségügyi szerv,
 
@@ -22,7 +22,7 @@ tölthet fel adatokat.
 
 (3) A HUMVI rendszerbe az ivóvízszolgáltató és az általa megbízott ivóvízvizsgálatra akkreditált laboratórium a (4)–(6) bekezdésben foglaltak szerint rögzít adatokat.
 
-(4)[^36] Az ivóvíz-szolgáltató gondoskodik arról, hogy az általa végzett, illetve végeztetett valamennyi ivóvízre vonatkozó vizsgálat eredménye feltöltésre kerüljön az aktuális negyedévet követő tizenöt napon belül a HUMVI rendszerbe. Határérték-túllépés, illetve parametrikus érték túllépése esetén a feltöltés keretében a túllépés okát, a túllépés időtartamát és a szükséges beavatkozást is rögzíteni kell. Az ivóvíz-szolgáltató által feltöltött adatokat a népegészségügyi szerv az aktuális negyedévet követő harminc napon belül validálja.
+(4)[^38] Az ivóvíz-szolgáltató gondoskodik arról, hogy az általa végzett, illetve végeztetett valamennyi ivóvízre vonatkozó vizsgálat eredménye feltöltésre kerüljön az aktuális negyedévet követő tizenöt napon belül a HUMVI rendszerbe. Határérték-túllépés, illetve parametrikus érték túllépése esetén a feltöltés keretében a túllépés okát, a túllépés időtartamát és a szükséges beavatkozást is rögzíteni kell. Az ivóvíz-szolgáltató által feltöltött adatokat a népegészségügyi szerv az aktuális negyedévet követő harminc napon belül validálja.
 
 (5) A (4) bekezdésben foglaltak a következők szerint teljesíthetők:
 
@@ -34,7 +34,7 @@ b) a laboratórium rögzíti az adatokat a HUMVI rendszerben, amely adatokat az 
 
 a) szolgáltatott ivóvízmennyiség,
 
-b)[^37]
+b)[^39]
 
 c) ellátott lakosok száma,
 
@@ -46,18 +46,18 @@ f) ivóvízkezelésre vonatkozó technikai információk,
 
 g) ivóvízfertőtlenítés módja.
 
-(7)[^38] Az ivóvízre vonatkozó, valamennyi hatósági ivóvízminőség-ellenőrző vizsgálat eredményét az aktuális negyedévet követő tizenöt napon belül a népegészségügyi szerv által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a népegészségügyi szerv tizenöt napon belül validálja.
+(7)[^40] Az ivóvízre vonatkozó, valamennyi hatósági ivóvízminőség-ellenőrző vizsgálat eredményét az aktuális negyedévet követő tizenöt napon belül a népegészségügyi szerv által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a népegészségügyi szerv tizenöt napon belül validálja.
 
-(8)[^39] Az ivóvízre vonatkozó, 9. § (4) bekezdés b) pontja szerinti ivóvízminőségi vízvizsgálati eredményeket az aktuális negyedévet követő harminc napon belül a létesítmény üzemeltetője vagy ennek hiányában tulajdonosa által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a járási hivatal tizenöt napon belül validálja.
+(8)[^41] Az ivóvízre vonatkozó, 9. § (4) bekezdés b) pontja szerinti ivóvízminőségi vízvizsgálati eredményeket az aktuális negyedévet követő harminc napon belül a létesítmény üzemeltetője vagy ennek hiányában tulajdonosa által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a járási hivatal tizenöt napon belül validálja.
 
 (9) Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a laboratórium a vonatkozó rendeletnek megfelelően küldi az adatokat a NÉBIH számára.
 
-(10)[^40] A 15. § szerinti vizsgálatok és adatgyűjtés alapján az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozások által végzett, az élelmiszerüzemi célú ivóvíz vizsgálatára vonatkozó eredményeket az aktuális negyedévet követő huszonegy napon belül összesíti és továbbítja a NÉBIH-nek, amely ezen adatokat az ONI részére átadja.
+(10)[^42] A 15. § szerinti vizsgálatok és adatgyűjtés alapján az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozások által végzett, az élelmiszerüzemi célú ivóvíz vizsgálatára vonatkozó eredményeket az aktuális negyedévet követő huszonegy napon belül összesíti és továbbítja a NÉBIH-nek, amely ezen adatokat az ONI részére átadja.
 
-[^34]: A 16. § (1) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^35]: A 16. § (2) bekezdés nyitó szövegrésze a 378/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^36]: A 16. § (4) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^37]: A 16. § (6) bekezdés b) pontját a 264/2023. (VI. 28.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
-[^38]: A 16. § (7) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^39]: A 16. § (8) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^40]: A 16. § (10) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^36]: A 16. § (1) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^37]: A 16. § (2) bekezdés nyitó szövegrésze a 378/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^38]: A 16. § (4) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^39]: A 16. § (6) bekezdés b) pontját a 264/2023. (VI. 28.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^40]: A 16. § (7) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^41]: A 16. § (8) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^42]: A 16. § (10) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

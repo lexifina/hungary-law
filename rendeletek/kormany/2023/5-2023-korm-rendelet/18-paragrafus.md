@@ -1,6 +1,6 @@
 ## 12. A vízhasználat korlátozása
 
-18. § (1)[^42] Az emberi egészségre veszélyt jelentő ivóvíz fogyasztását és felhasználását a népegészségügyi szerv, az élelmiszerüzemi célú víz felhasználását az élelmiszerlánc-felügyeleti szerv
+18. § (1)[^44] Az emberi egészségre veszélyt jelentő ivóvíz fogyasztását és felhasználását a népegészségügyi szerv, az élelmiszerüzemi célú víz felhasználását az élelmiszerlánc-felügyeleti szerv
 
 a) haladéktalanul megtilthatja vagy korlátozhatja a határérték-túllépés, valamint a veszély mértékének és az egészségkockázat mérlegelése alapján, ha valamely vízminőségi jellemző az 1. melléklet 1. és 2. pontjában foglalt táblázatban meghatározott értéket meghaladja, vagy
 
@@ -16,4 +16,4 @@ b) a határértékeknek való megfeleléstől függetlenül megtiltja vagy korl�
 
 (6) Ha a vízszolgáltatás – az (1) bekezdésben foglaltakon kívüli okból – az ivóvízszolgáltató által 6 óra időtartamot meghaladó előre tervezett leállítására kerül sor, az ivóvízszolgáltató saját költségén – az 58/2013. (II. 27.) Korm. rendeletben meghatározottak szerint – köteles ivóvizet biztosítani.
 
-[^42]: A 18. § (1) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^44]: A 18. § (1) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

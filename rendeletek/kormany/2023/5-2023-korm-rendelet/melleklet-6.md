@@ -24,11 +24,11 @@
 
 ## 2.6. Ivóvízzel vagy használati melegvízzel érintkezésbe kerülő egyéb termékek, beleértve a szerelvényeket, szelepeket, szivattyúkat, csapokat, vízmérőket, tömítéseket, ragasztókat, forraszanyagokat, a kivitelezés helyszínén előállított in-situ bevonatokat, bevonatrendszereket, javításra használt anyagokat, amelyek vizsgálatára és értékelésére vonatkozóan nincs érvényes magyar szabványként bevezetett európai termékszabvány.
 
-## 3.[^72] Az ONI-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei és mellékletei
+## 3.[^75] Az ONI-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei és mellékletei
 
 ## 1. A kérelem tartalmi követelményei:
 
-## 1.1.[^73] A termék, termékcsalád forgalmazási neve, termék, termékcsalád típusainak listája
+## 1.1.[^76] A termék, termékcsalád forgalmazási neve, termék, termékcsalád típusainak listája
 
 ## 1.2. A hazai forgalmazó cégek neve, adószáma, telephelyei
 
@@ -44,13 +44,13 @@
 
 ## 2.3.Igazgatási szolgáltatási díj megfizetését igazoló dokumentum
 
-## 2.4.[^74] ONI által előzetesen elkészített közegészségügyi értékelés száma
+## 2.4.[^77] ONI által előzetesen elkészített közegészségügyi értékelés száma
 
-## 4.[^75] Az ONI-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei és mellékletei
+## 4.[^78] Az ONI-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei és mellékletei
 
 ## 1. A kérelem tartalmi követelményei:
 
-## 1.1.[^76] A termék, termékcsalád forgalmazási neve, termék, termékcsalád típusainak listája
+## 1.1.[^79] A termék, termékcsalád forgalmazási neve, termék, termékcsalád típusainak listája
 
 ## 1.2. A hazai forgalmazó cégek neve, adószáma, telephelyei
 
@@ -68,9 +68,9 @@
 
 ## 2.4. Magyar nyelvű használati útmutató, vagy kezelési-üzemeltetési utasítás vagy gépkönyv, amely tartalmazza a közegészségügyi szempontú alkalmazási feltételeket, valamint esetlegesen a termék használatával összefüggésbe hozható, kizárólag annak rendeltetésből egyértelműen levezethető állításokat
 
-## 2.5.[^77] ONI által előzetesen elkészített közegészségügyi értékelés száma
+## 2.5.[^80] ONI által előzetesen elkészített közegészségügyi értékelés száma
 
-6. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^78]
+6. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^81]
 
 Az ivóvízbiztonsági terv tartalmi követelményei és a jóváhagyáshoz benyújtandó dokumentumok*
 
@@ -130,7 +130,7 @@ Az ivóvízbiztonsági terv tartalmi követelményei és a jóváhagyáshoz beny
 
 1.6. Kockázatértékelés módszertana
 
-1.7.[^79] Felszíni vizet, vagy felszíni szennyezés kockázatának kitett nyersvizet alkalmazó ivóvízellátó rendszerekben, illetve ahol a kockázatértékelés alapján indokolt az ivóvízkezelő technológiák vírus-eltávolítási hatékonyságának igazolása.
+1.7.[^82] Felszíni vizet, vagy felszíni szennyezés kockázatának kitett nyersvizet alkalmazó ivóvízellátó rendszerekben, illetve ahol a kockázatértékelés alapján indokolt az ivóvízkezelő technológiák vírus-eltávolítási hatékonyságának igazolása.
 
 A kockázatértékelés elvégzése során az MSZ EN 15975-2 szabványban, vagy azzal egyenértékű nemzetközi vagy hazai ajánlásokban meghatározott általános kockázatértékelési elveket kell figyelembe venni. A módszertan alkalmasságát az ONI szakvéleményezési eljárás során értékeli.
 
@@ -146,16 +146,16 @@ A nyersvíz minőségének értékelése illetve a nyersvíz minőségével öss
 
 4. Aktuális, érvényes üzemeltetési szabályzat
 
-5.[^80] Az ONI előzetes közegészségügyi szempontú értékelése
+5.[^83] Az ONI előzetes közegészségügyi szempontú értékelése
 
 *Megjegyzés: Az ivóvízellátó rendszer főbb elemein végig vezetve kell a szükséges adatokat, a lehetséges veszélyeket és kockázatokat (figyelembe véve az az éghajlatváltozásra, az ivóvízellátó rendszerben előforduló szivárgásokra és az azokra visszavezethető kockázatokat, illetve az ivóvízzel érintkezésbe kerülő anyagok, ivóvízkezelő vegyszerek és szűrőanyagok megfelelőségét), a kockázatértékelés módját, a beavatkozási lehetőségeket és az ellenőrző rendszert az ivóvízbiztonsági tervben rögzíteni.
 
-[^72]: Az 5. melléklet 3. pont címe a 378/2026. (X. 29.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
-[^73]: Az 5. melléklet 3. pont 1.1. alpontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
-[^74]: Az 5. melléklet 3. pont 2.4. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
-[^75]: Az 5. melléklet 4. pont címe a 378/2026. (X. 29.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
-[^76]: Az 5. melléklet 4. pont 1.1. alpontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
-[^77]: Az 5. melléklet 4. pont 2. alpont 2.5. pontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^78]: A 6. melléklet a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
-[^79]: A 6. melléklet 1. pont 1.7. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^80]: A 6. melléklet 2. pont 5. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^75]: Az 5. melléklet 3. pont címe a 378/2026. (X. 29.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
+[^76]: Az 5. melléklet 3. pont 1.1. alpontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
+[^77]: Az 5. melléklet 3. pont 2.4. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
+[^78]: Az 5. melléklet 4. pont címe a 378/2026. (X. 29.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
+[^79]: Az 5. melléklet 4. pont 1.1. alpontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
+[^80]: Az 5. melléklet 4. pont 2. alpont 2.5. pontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^81]: A 6. melléklet a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^82]: A 6. melléklet 1. pont 1.7. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^83]: A 6. melléklet 2. pont 5. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

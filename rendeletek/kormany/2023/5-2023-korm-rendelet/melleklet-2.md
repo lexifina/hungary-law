@@ -158,7 +158,7 @@
 
 ## Csak azokat a növényvédő szereket és releváns bomlástermékeiket kell monitorozni, amelyek egy adott szolgáltatott vízben valószínűleg jelen vannak. Ennek eldöntéséhez évente honlapján ad támpontot az országos tisztifőorvos, de a helyi információk (népegészségügyi és növényvédelmi feladatkörben eljáró kormányhivatalok véleményének) figyelembevétele is szükséges.
 
-## 15.[^58] A 0,10 μg/liter határérték minden egyes növényvédő szerre és annak releváns bomlástermékeire is külön-külön vonatkozik. Az aldrin, dieldrin, heptaklór és heptaklór-epoxid esetében a határérték 0,030 μg/liter.
+## 15.[^61] A 0,10 μg/liter határérték minden egyes növényvédő szerre és annak releváns bomlástermékeire is külön-külön vonatkozik. Az aldrin, dieldrin, heptaklór és heptaklór-epoxid esetében a határérték 0,030 μg/liter.
 
 ## 16. „Peszticidek összesen”: a monitorozás során észlelt és számszerűsített, az előző sorban meghatározott egyes peszticid-tartalmak összege.
 
@@ -348,7 +348,7 @@
 
 ## Ez az üledék nem tartalmazhat
 
-## a)[^59]
+## a)[^62]
 
 ## b) natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zoogloea, Beggiatoa), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus, Candida, kivéve: Alternaria, Cladosporium fajokat), amelyek előfordulását kizárólag az üledék minőségénél kell jelezni.
 
@@ -390,5 +390,5 @@
 
 Vízminőség-ellenőrzési követelmények
 
-[^58]: Az 1. melléklet 2. alcím 15. pontja a 463/2024. (XII. 30.) Korm. rendelet 85. § a) pontja szerint módosított szöveg.
-[^59]: Az 1. melléklet 4. alcíme szerinti megjegyzések 1. pont a) alpontját a 264/2023. (VI. 28.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^61]: Az 1. melléklet 2. alcím 15. pontja a 463/2024. (XII. 30.) Korm. rendelet 85. § a) pontja szerint módosított szöveg.
+[^62]: Az 1. melléklet 4. alcíme szerinti megjegyzések 1. pont a) alpontját a 264/2023. (VI. 28.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

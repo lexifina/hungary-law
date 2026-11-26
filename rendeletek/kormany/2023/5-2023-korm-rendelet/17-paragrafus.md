@@ -1,6 +1,6 @@
 ## 11. Minőségjavító beavatkozások
 
-17. § (1)[^41] Az ivóvíz minőségére vonatkozó, ivóvízszolgáltató által jelentett vagy a népegészségügyi szerv által észlelt, a 4. §-ban meghatározott határértékek és parametrikus értékek bármelyikének túllépése, illetve szennyezés veszélyével járó rendkívüli esemény esetén a népegészségügyi szerv a túllépés okát kivizsgálja, és a szükséges ivóvízminőség-javító, valamint a víz minőségének helyreállítására irányuló korrekciós intézkedéseket elrendeli, kivéve, ha a népegészségügyi szerv véleménye szerint a parametrikus értéktől való eltérés elhanyagolható vagy nem jelent közegészségügyi kockázatot, figyelemmel a (6) bekezdésben foglaltakra.
+17. § (1)[^43] Az ivóvíz minőségére vonatkozó, ivóvízszolgáltató által jelentett vagy a népegészségügyi szerv által észlelt, a 4. §-ban meghatározott határértékek és parametrikus értékek bármelyikének túllépése, illetve szennyezés veszélyével járó rendkívüli esemény esetén a népegészségügyi szerv a túllépés okát kivizsgálja, és a szükséges ivóvízminőség-javító, valamint a víz minőségének helyreállítására irányuló korrekciós intézkedéseket elrendeli, kivéve, ha a népegészségügyi szerv véleménye szerint a parametrikus értéktől való eltérés elhanyagolható vagy nem jelent közegészségügyi kockázatot, figyelemmel a (6) bekezdésben foglaltakra.
 
 (2) Az élelmiszerüzemi célú víz élelmiszeripari vállalkozások által élelmiszer-előállításra történő felhasználása esetén az élelmiszerlánc-felügyeleti szerv vizsgálja ki a 4. §-ban meghatározott határértékek és parametrikus értékek túllépésének okát és rendeli el az élelmiszeripari vállalkozás részére a szükséges ivóvízminőség-javító, valamint a víz minőségének helyreállítására irányuló korrekciós intézkedéseket. Az élelmiszerlánc-felügyeleti szerv azt az intézkedést rendeli el, amely a legalkalmasabb az ivóvízminőség javítására vagy a víz minőségének helyreállítására.
 
@@ -34,4 +34,4 @@ c) ha az ivóvíz minősége a házi vízellátó rendszernek állapota, anyagai
 
 (8) A népegészségügyi szerv állásfoglalásában kizárólag az 1. melléklet 3. és 4. pontjában foglalt táblázatban meghatározott vízminőségi jellemzők vonatkozásában állapíthat meg elhanyagolható, jelentéktelen mértékű parametrikus értéktől való eltérést. A parametrikus értéktől való eltérés akkor tekinthető elhanyagolhatónak, jelentéktelen mértékűnek, ha az emberi egészségre nem jelent veszélyt.
 
-[^41]: A 17. § (1) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^43]: A 17. § (1) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

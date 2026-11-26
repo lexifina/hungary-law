@@ -76,7 +76,7 @@ b) valamennyi víz, amelyet a 178/2002/EK rendelet 2. cikke szerint az élelmisz
 
 36. radioaktív anyag: az az anyag, amely egy vagy több olyan radioaktív nuklidot tartalmaz, amelynek aktivitása vagy koncentrációja sugárvédelmi szempontból nem elhanyagolható,
 
-37.[^1] saját célú ivóvízmű: a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet [a továbbiakban: 147/2010. (IV. 29.) Korm. rendelet] 2. § 28a. pontja szerinti fogalom,
+37.[^2] saját célú ivóvízmű: a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet [a továbbiakban: 147/2010. (IV. 29.) Korm. rendelet] 2. § 28a. pontja szerinti fogalom,
 
 38. szűrőanyag: a felületén mechanikai (fizikai), kémiai vagy biológiai eljárásokkal vízkezelést végző természetes vagy mesterséges eredetű szemcsés anyag, töltet, beleértve a homokszűrőt, a kavicsszűrőt, az aktívszén adszorbenst, az ioncserélő gyantákat,
 
@@ -90,4 +90,4 @@ b) valamennyi víz, amelyet a 178/2002/EK rendelet 2. cikke szerint az élelmisz
 
 43. vízminőségi jellemzők: a víz minőségének leírására és értékelésére szolgáló mutatók (paraméterek).
 
-[^1]: A 2. § 37. pontja a 264/2023. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § 37. pontja a 264/2023. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

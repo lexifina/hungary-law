@@ -80,13 +80,13 @@
 
 ## 2.3. A vízminőség-ellenőrző paraméterek vizsgálati számának csökkentésére vonatkozó követelmények
 
-## 2.3.1.[^60] Az „A” és „B” csoportba tartozó paramétereket a 3. táblázatban meghatározott gyakorisággal kell mérni, kivéve, ha a népegészségügyi szerv, illetve az élelmiszerüzemi célú víz megfelelőségi ponttól a NÉBIH az országos tisztifőorvossal egyeztetve az ivóvízszolgáltató kérésére meghatározott időre a vizsgálati szám csökkentését a vizsgálati program elfogadásával engedélyezi.
+## 2.3.1.[^63] Az „A” és „B” csoportba tartozó paramétereket a 3. táblázatban meghatározott gyakorisággal kell mérni, kivéve, ha a népegészségügyi szerv, illetve az élelmiszerüzemi célú víz megfelelőségi ponttól a NÉBIH az országos tisztifőorvossal egyeztetve az ivóvízszolgáltató kérésére meghatározott időre a vizsgálati szám csökkentését a vizsgálati program elfogadásával engedélyezi.
 
 ## A minimális vizsgálati szám akkor csökkenthető egy vízminőségi jellemző esetében, ha legalább egy hároméves időszak alatt rendszeres időközönként, a teljes ivóvízellátási körzetre reprezentatív mintavételi helyen vett minden minta eredménye alacsonyabb értéket mutat, mint a határ- vagy parametrikus érték 60%-a, a Pseudomonas aeruginosa, a Clostridium perfringens és a mikroszkópos biológiai paraméterek esetén a parametrikus érték túllépés gyakorisága nem éri el a 10%-ot, és ha az ivóvízbiztonsági tervben elvégzett, a vízbázis ellenőrzésére is kiterjedő veszélyelemzés és kockázatértékelés, valamint a 6. § (1) bekezdése szerinti kockázatértékelés, valamint a rendelkezésre álló összes közegészségügyi szempontból releváns információ megerősíti, hogy nincs olyan észszerűen várható tényező, amely az ivóvíz minőségének romlását okozná, vagy az emberi egészséget veszélyeztetné.
 
 ## A minimális vizsgálati szám legfeljebb a 3. táblázatban meghatározott gyakoriság 25%-ára csökkenthető. A vizsgálati szám nem csökkenthető a 2.2.1. pont a) alpontjában felsorolt paraméterekre vonatkozóan.
 
-## 2.3.2.[^61] Az alumínium, az arzén, a benzol, a benz(a)pirén, a bór, a cianid, a cisz–1,2-diklór-etilén, az 1,2-diklór-etán, a fluorid, a peszticidek, a tetraklór-etilén, a triklór-etilén, a policiklusos aromás szénhidrogének, a higany, a szelén, kadmium, klorid, szulfát, nátrium, urán, THM, PFA, trícium, radon, indikatív dózis továbbá a 4. § (5) bekezdése szerinti paraméterekre a vizsgálati szám ivóvízellátó rendszerenként az országos tisztifőorvos engedélyével, illetve – az élelmiszerüzemi célú víz megfelelőségi ponttól, ahol az élelmiszerüzemi célú vizet az élelmiszer-előállításhoz, illetve kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – az országos tisztifőorvos bevonásával a NÉBIH által kiadott engedély alapján háromévente egy vizsgálatra csökkenthető az ivóvízellátó rendszerbe betáplálási ponton.
+## 2.3.2.[^64] Az alumínium, az arzén, a benzol, a benz(a)pirén, a bór, a cianid, a cisz–1,2-diklór-etilén, az 1,2-diklór-etán, a fluorid, a peszticidek, a tetraklór-etilén, a triklór-etilén, a policiklusos aromás szénhidrogének, a higany, a szelén, kadmium, klorid, szulfát, nátrium, urán, THM, PFA, trícium, radon, indikatív dózis továbbá a 4. § (5) bekezdése szerinti paraméterekre a vizsgálati szám ivóvízellátó rendszerenként az országos tisztifőorvos engedélyével, illetve – az élelmiszerüzemi célú víz megfelelőségi ponttól, ahol az élelmiszerüzemi célú vizet az élelmiszer-előállításhoz, illetve kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – az országos tisztifőorvos bevonásával a NÉBIH által kiadott engedély alapján háromévente egy vizsgálatra csökkenthető az ivóvízellátó rendszerbe betáplálási ponton.
 
 ## Az első engedély kiadásának együttes feltételei: a komponensek nem voltak kimutathatók az alsó méréshatárt vagy a határérték 30%-át meghaladó koncentrációban legalább a kérelem beadását megelőző hároméves időszak alatt a rendszeres időközönként a teljes ivóvízellátási körzetre reprezentatív mintavételi helyen vett mintából, és az ivóvízbiztonsági tervben elvégzett, a vízbázis ellenőrzésére is kiterjedő veszélyelemzés és a 6. § (1) bekezdése szerinti kockázatértékelés, valamint a rendelkezésre álló, közegészségügyi szempontból releváns összes információ megerősíti, hogy nincs olyan észszerűen várható tényező, amely az ivóvíz minőségének romlását okozná vagy az emberi egészséget veszélyeztetné. Az indikatív dózis paraméterre vonatkozó vizsgálati szám csökkentés nem érvényesíthető, ha az összesalfa- vagy az összesbéta-aktivitáskoncentráció eléri vagy meghaladja a 3. melléklet 3. táblázata szerinti kimutatási határt.
 
@@ -94,7 +94,7 @@
 
 ## 2.3.3. A vizsgálati szám nem csökkenthető olyan paraméterek vizsgálatára vonatkozóan, amelyek ivóvízben történő megjelenésére az elosztó hálózatból vagy a fogyasztó belső hálózatából történő kioldódás következtében is számítani lehet, valamint értéke a hálózatban különböző biológiai és biokémiai folyamatok következtében változhat.
 
-## 2.4.[^62] A vízminőség-ellenőrző paraméterek körének bővítésére vagy vizsgálati számának növelésére vonatkozó követelmények
+## 2.4.[^65] A vízminőség-ellenőrző paraméterek körének bővítésére vagy vizsgálati számának növelésére vonatkozó követelmények
 
 ## 2.4.1. A vizsgálati paraméterek listája bővíthető, valamint az „A” és „B” csoportba tartozó paraméterek vizsgálati gyakorisága növelhető a 3. táblázat szerinti számhoz képest, vagy a paraméter a „B” csoportból az „A” csoportba sorolható át, ha
 
@@ -150,9 +150,9 @@
 
 ## 3.2.2. A kalcium, magnézium és kálium paraméterek vizsgálata az ivóvízellátó rendszer egy reprezentatív pontján háromévente egyszer kötelező, az eredmények az 4. melléklet szerinti tájékoztatási követelmény teljesítéséhez használhatók fel.
 
-## 3.2.3.[^63] Az ivóvízellátó rendszerbe betáplálási ponton vett minták a vizsgálati követelmény teljesítésébe a következő paraméterekre vonatkozóan vehetők figyelembe: alumínium, benzol, benz(a)pirén, bór, cianid, cisz-1,2-diklór-etilén, 1,2-diklór-etán, vinil-klorid, urán, fluorid, higany, keménység, klorid, nátrium, peszticidek, policiklusos aromás szénhidrogének, szelén, tetraklór-etilén, triklór-etilén, kalcium, magnézium, kálium, trícium, radon, indikatív dózis, szulfát, kadmium és PFA.
+## 3.2.3.[^66] Az ivóvízellátó rendszerbe betáplálási ponton vett minták a vizsgálati követelmény teljesítésébe a következő paraméterekre vonatkozóan vehetők figyelembe: alumínium, benzol, benz(a)pirén, bór, cianid, cisz-1,2-diklór-etilén, 1,2-diklór-etán, vinil-klorid, urán, fluorid, higany, keménység, klorid, nátrium, peszticidek, policiklusos aromás szénhidrogének, szelén, tetraklór-etilén, triklór-etilén, kalcium, magnézium, kálium, trícium, radon, indikatív dózis, szulfát, kadmium és PFA.
 
-## 3.2.4.[^64] Radiológiai paraméterek esetén a mintavételezést a fogyasztói csapon vagy az ivóvízellátó rendszer betáplálási pontján kell végezni, de trícium vizsgálata esetén a kútból származó vízminták is figyelembe vehetőek.
+## 3.2.4.[^67] Radiológiai paraméterek esetén a mintavételezést a fogyasztói csapon vagy az ivóvízellátó rendszer betáplálási pontján kell végezni, de trícium vizsgálata esetén a kútból származó vízminták is figyelembe vehetőek.
 
 ## 3.2.5. Ha egy adott mintában valamelyik radiológiai paraméter értékének parametrikus érték túllépése tapasztalható, a népegészségügyi szerv, valamint élelmiszerüzemi célú víz esetén az élelmiszerlánc-felügyeleti szerv meghatározza, hogy milyen mértékben szükséges a mintavételt megismételni annak biztosításához, hogy a mért értékek az egész évi átlagos aktivitási koncentráció szempontjából reprezentatívak legyenek.
 
@@ -196,13 +196,13 @@
 
 ## r) Fertőtlenítéssel összefüggő paraméterek
 
-3. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^65]
+3. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^68]
 
 A vízminőségi jellemzők mérésére vonatkozó előírások
 
-[^60]: A 2. melléklet B) rész 2. pont 2.3. alpont 2.3.1. alpontja a 264/2023. (VI. 28.) Korm. rendelet 13. § d) pontja szerint módosított megállapított szöveg.
-[^61]: A 2. melléklet B) rész 2.3.2. pontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
-[^62]: A 2. melléklet B) rész 2. pont 2.4. alpontját a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^63]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.3. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^64]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.4. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^65]: A 3. melléklet a 264/2023. (VI. 28.) Korm. rendelet 11. § (2) bekezdése, a 334/2023. (VII. 20.) Korm. rendelet 71. § b) és c) pontja szerint módosított szöveg.
+[^63]: A 2. melléklet B) rész 2. pont 2.3. alpont 2.3.1. alpontja a 264/2023. (VI. 28.) Korm. rendelet 13. § d) pontja szerint módosított megállapított szöveg.
+[^64]: A 2. melléklet B) rész 2.3.2. pontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
+[^65]: A 2. melléklet B) rész 2. pont 2.4. alpontját a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^66]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.3. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^67]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.4. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^68]: A 3. melléklet a 264/2023. (VI. 28.) Korm. rendelet 11. § (2) bekezdése, a 334/2023. (VII. 20.) Korm. rendelet 71. § b) és c) pontja szerint módosított szöveg.

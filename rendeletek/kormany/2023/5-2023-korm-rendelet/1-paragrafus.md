@@ -10,7 +10,7 @@ b) a gyógyvízre,
 
 c) az ivóvízben és a használati melegvízben alkalmazott biocid termékekre,
 
-d) az ivástól és ételkészítéstől eltérő céllal használt ivóvízre, amelynek minősége nem jelent sem közvetlen, sem közvetett káros hatást a vízhasználók egészségére, és felhasználását a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), illetve a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban együtt: népegészségügyi szerv) vagy annak jogelődje szociális vízellátásként vagy ivástól és ételkészítéstől eltérő egyéb háztartási használati célú vízellátásként engedélyezte, valamint
+d)[^1] az ivástól és ételkészítéstől eltérő céllal használt ivóvízre, amelynek minősége nem jelent sem közvetlen, sem közvetett káros hatást a vízhasználók egészségére, és felhasználását a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), illetve a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban együtt: népegészségügyi szerv) vagy annak jogelődje szociális vízellátásként vagy ivástól és ételkészítéstől eltérő egyéb háztartási használati célú vízellátásként engedélyezte, valamint
 
 e) az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszer-biztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerint az élelmiszeripari vállalkozásokban élelmiszer előállításához felhasznált vízre és mindazon anyag és termék gyártására, feldolgozására, tartósítására és forgalmazására, amely emberi fogyasztásra szolgál, ha ezek megfelelnek a 178/2002/EK rendelet követelményeinek, és az élelmiszerlánc-felügyeleti szerv megállapítja, hogy a víz minősége nem befolyásolja a késztermék, élelmiszer minőségét.
 
@@ -29,3 +29,5 @@ vízellátásból származó ivóvíz esetén, kivéve, ha az ilyen vizet közö
 (6) E rendeletet a vizet sótalanító, utasokat szállító és vízszolgáltatóként tevékenykedő tengeri hajókra – az 1–5. §, a 7–19. §, valamint az 1–3. és 5–6. melléklet kivételével – nem kell alkalmazni.
 
 (7) E rendelet 1. melléklet 1. pontjában szereplő minimumkövetelményekre vonatkozó rendelkezéseit a forrásvizekre nem kell alkalmazni.
+
+[^1]: Az 1. § (2) bekezdés d) pontja az 563/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
