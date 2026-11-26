@@ -1,0 +1,23 @@
+{
+  "corpus": "hu/national/acts",
+  "name": "Hungarian law: the Fundamental Law and the Acts of Parliament, every open time state of the Nemzeti Jogszabálytár from 2010",
+  "label": "Hungary",
+  "language": "hu",
+  "history_from": "2010-01-01",
+  "history_note": "NJT opens time states from 2010-01-01 (the Fundamental Law from 2012-01-01); earlier states are to be rebuilt from the Magyar Közlöny",
+  "built": "2026-11-26",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": ["In-force-evidence", "Source", "Kind"],
+    "time": "12:00 Europe/Budapest (UTC+1, UTC+2 in summer time)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the instrument NJT's footnotes name as making the changes new in that state; else 'Nemzeti Jogszabálytár (egységes szerkezet)'",
+  "citation": {
+    "file": "torvenyek/(?P<year>[0-9]{4})/[0-9]{4}-evi-(?P<n>[ivxlcdm]+)-torveny[^/]*/",
+    "cites": "{year}\\. évi {N}\\. törvény",
+    "note": "an Act is cited by year and Roman number (\"2013. évi V. törvény\"); the Fundamental Law is alaptorveny/"
+  },
+  "sources": ["https://njt.jog.gov.hu"]
+}

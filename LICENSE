@@ -1,0 +1,17 @@
+Lexifina's work in this repository (the file layout, commit structure, metadata, README files, corpus.json and
+tools) is dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The legal texts are not Lexifina's. Each source and its own terms:
+
+1. Nemzeti Jogszabálytár, https://njt.jog.gov.hu (consolidated legislation; free public service under Government
+   Decree 338/2011. (XII. 29.), operated by MKIFK Zrt. for the Ministry of Justice). Terms of use:
+   https://jog.gov.hu/felhasznalasi-feltetelek (read 2026-10-28 and 2026-11-26). Statutes, other legal instruments
+   and official decisions are outside copyright under Act LXXVI of 1999 on Copyright (Szjt.) 1. § (4): "Nem
+   tartoznak a szerzői jogi védelem alá a jogszabályok, az állami irányítás egyéb jogi eszközei, a bírósági és
+   hatósági határozatok, a hatósági és egyéb hivatalos közlemények, valamint a jogszabállyal vagy annak alapján
+   kötelezően alkalmazandó szabványok és más hasonló rendelkezések." NJT's text is consolidated, not authentic.
+2. Magyar Közlöny, https://magyarkozlony.hu (official gazette, authentic text): Szjt. 1. § (4).
+3. Bírósági Határozatok Gyűjteménye, https://eakta.birosag.hu (Országos Bírósági Hivatal; anonymised decisions
+   published free to read): Szjt. 1. § (4).
+4. Alkotmánybíróság, https://alkotmanybirosag.hu (decisions of the Constitutional Court): Szjt. 1. § (4).
