@@ -1,0 +1,9 @@
+## [1] A közélet tisztaságának és a közpénzekkel való felelős gazdálkodásnak alapvető feltétele, hogy a közhatalmat gyakorló személyek vagyoni helyzetének átláthatósága és annak ellenőrizhetősége megfelelő garanciák mellett biztosított legyen. A társadalom jogos elvárása, hogy az országgyűlési képviselőkkel, valamint a politikai vezetőkkel és közigazgatási államtitkárokkal szemben a közfeladat ellátásából fakadó fokozott felelősségüknek megfelelő követelmények érvényesüljenek.
+
+## [2] A közbizalom fenntartása és erősítése érdekében indokolt, hogy az érintett közjogi tisztséget betöltő, illetve ilyen tisztséget korábban betöltött személyek vagyongyarapodásának vizsgálata során az adóhatóság rendelkezzen mindazon eszközökkel, amelyek alkalmasak a vagyoni helyzet és az annak fedezetéül szolgáló jövedelem közötti összhang vizsgálatára.
+
+## [3] A közbizalom helyreállítását szolgáló új szabályozással összhangban ezért szükséges megteremteni annak lehetőségét, hogy az állami adó- és vámhatóság a meghatározott közjogi tisztséget betöltő, illetve vezető politikai vagy közigazgatási államtitkári pozíciót betöltött személyek esetében is alkalmazhassa a vagyongyarapodás és az életvitel fedezetéül szolgáló jövedelem meghatározására irányuló becslési szabályt.
+
+## [4] A Kormány az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 136. § c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 87. § (1) bekezdésében a „gyanúja esetén” szövegrész helyébe a „gyanúja esetén, továbbá abban az esetben, ha az adóhatóság a közvagyon védelmét és a közbizalom helyreállítását szolgáló egyes intézkedésekről szóló 2026. évi LXXIV. törvény 1. §-a szerinti alanyi kört érintően adóellenőrzést folytat” szöveg lép.
