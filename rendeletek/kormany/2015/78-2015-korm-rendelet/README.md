@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-78-20-2
 | 2023-01-01 | 2015-78-20-22.8 | 264/2015. (IX. 14.) Korm. rendelet |
 | 2023-03-01 | 2015-78-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2024-10-01 | 2015-78-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2026-11-26 | 2015-78-20-22.11 | 264/2015. (IX. 14.) Korm. rendelet |
