@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-90-20-2
 | 2018-01-01 | 2007-90-20-22.17 | 518/2017. (XII. 29.) Korm. rendelet |
 | 2022-12-31 | 2007-90-20-22.19 | 624/2022. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2007-90-20-22.18 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-11-26 | 2007-90-20-22.20 | 533/2026. (XI. 25.) Korm. rendelet |
