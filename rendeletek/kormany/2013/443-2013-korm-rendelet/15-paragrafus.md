@@ -14,12 +14,12 @@ c) együttműködik az ellenőrzést végzőkkel és részükre a szükséges fe
 
 (4)[^71] Figyelemmel a Fémtv. 14. § (2b) bekezdésében meghatározottakra, a zár alá vett dolgok tárolásával érintett fémkereskedő, illetve koncesszori fémkereskedő az árverés, elektronikus árverés során köteles a fémkereskedelmi hatósággal együttműködni.
 
-(5)[^72] A Fémtv. 4. § (11) bekezdése alapján a NAV vármegyei (fővárosi) adó- és vámigazgatósága, valamint a Kiemelt Adó- és Vámigazgatóság felkéri az illetékességi területén tevékenységet végző, sorsolással kiválasztott fémkereskedő(ke)t, hogy szolgáltasson adatot a fémkereskedelmi engedélyköteles anyagok fajtái szerint a jogi személyek által értékesített fémkereskedelmi engedélyköteles anyagok vételárával kapcsolatosan.
+(5)[^72] A Fémtv. 4. § (11) bekezdése alapján a NAV megyei (fővárosi) adó- és vámigazgatósága, valamint a Kiemelt Adó- és Vámigazgatóság felkéri az illetékességi területén tevékenységet végző, sorsolással kiválasztott fémkereskedő(ke)t, hogy szolgáltasson adatot a fémkereskedelmi engedélyköteles anyagok fajtái szerint a jogi személyek által értékesített fémkereskedelmi engedélyköteles anyagok vételárával kapcsolatosan.
 
 (6)[^73] A hulladékgazdálkodási koncessziós társaság a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, hulladéknak minősülő fémkereskedelmi engedélyköteles anyag tekintetében kifizetett ellenérték vonatkozásában legkésőbb a tárgyhónapot követő hónap második munkanapjáig a 15. melléklet szerinti adattartamú adatszolgáltatást teljesít a fémkereskedelmi hatóság részére.
 
 [^69]: A 15. § (1) bekezdés nyitó szövegrésze a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. pontja szerint módosított szöveg.
 [^70]: A 15. § (2) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 24. pontja szerint módosított szöveg.
 [^71]: A 15. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (6) bekezdésével megállapított, a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. pontja szerint módosított szöveg.
-[^72]: A 15. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.
+[^72]: A 15. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § c) pontja, az 545/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^73]: A 15. § (6) bekezdését a 309/2023. (VII. 14.) Korm. rendelet 5. §-a iktatta be.

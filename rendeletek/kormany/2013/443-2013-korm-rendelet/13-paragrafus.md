@@ -12,11 +12,11 @@
 
 (6)[^63] A fémkereskedő, illetve koncesszori fémkereskedő a telephelyen tárolt, raktározott fémkereskedelmi engedélyköteles anyagok beszerzésére vonatkozó okiratokat – ideértve az anyagkísérő okmányokat, pótlapokat, szállítólevelet – és nyilvántartásokat köteles a helyszínen másolatban őrizni.
 
-(7)[^64] A fémkereskedő, illetve koncesszori fémkereskedő a fémkereskedelmi engedélyköteles anyagok mérlegeléséhez csak a mérésügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal által hitelesített mérleget használhat. A fémkereskedő, illetve koncesszori fémkereskedő az anyagmozgatást szolgáló technikai eszközöket és személyzetet köteles biztosítani a fémkereskedelmi hatóság ellenőrzése során.
+(7)[^64] A fémkereskedő, illetve koncesszori fémkereskedő a fémkereskedelmi engedélyköteles anyagok mérlegeléséhez csak a mérésügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által hitelesített mérleget használhat. A fémkereskedő, illetve koncesszori fémkereskedő az anyagmozgatást szolgáló technikai eszközöket és személyzetet köteles biztosítani a fémkereskedelmi hatóság ellenőrzése során.
 
 (8) Az ellenőrzést végző fémkereskedelmi hatóság köteles jegyzőkönyvben rögzíteni, ha az ellenőrzés során a mérőeszköz mérési pontatlansága az 5%-ot meghaladja.
 
-(9)[^65] A fémkereskedelmi hatóság a jegyzőkönyvben foglalt eltérés okainak kivizsgálása céljából 8 napon belül megkeresi a mérésügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt, akinek végleges döntéséig a mérlegelő-berendezés nem használható.
+(9)[^65] A fémkereskedelmi hatóság a jegyzőkönyvben foglalt eltérés okainak kivizsgálása céljából 8 napon belül megkeresi a mérésügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, akinek végleges döntéséig a mérlegelő-berendezés nem használható.
 
 [^58]: A 13. § (1) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 39. § (4) bekezdésével megállapított, a 309/2023. (VII. 14.) Korm. rendelet 9. § 11., 24. és 26. pontja szerint módosított szöveg.
 [^59]: A 13. § (2) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 27. pontja szerint módosított szöveg.
@@ -24,5 +24,5 @@
 [^61]: A 13. § (4) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 28. pontja szerint módosított szöveg.
 [^62]: A 13. § (5) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. pontja szerint módosított szöveg.
 [^63]: A 13. § (6) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. pontja szerint módosított szöveg.
-[^64]: A 13. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a, a 309/2023. (VII. 14.) Korm. rendelet 9. § 29. pontja szerint módosított szöveg.
-[^65]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 468. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.
+[^64]: A 13. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § a) pontja, a 309/2023. (VII. 14.) Korm. rendelet 9. § 29. pontja, az 545/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^65]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 468. § a) pontja, az 545/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.

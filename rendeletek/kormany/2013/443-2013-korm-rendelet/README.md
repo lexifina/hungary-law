@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-443-20-
 | 2025-01-01 | 2013-443-20-22.15 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2026-01-01 | 2013-443-20-22.16 | 309/2023. (VII. 14.) Korm. rendelet |
 | 2026-07-01 | 2013-443-20-22.17 | 395/2025. (XII. 16.) Korm. rendelet |
+| 2026-11-26 | 2013-443-20-22.18 | 486/2015. (XII. 29.) Korm. rendelet |
