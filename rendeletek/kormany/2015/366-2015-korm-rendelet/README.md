@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-366-20-
 | 2023-01-01 | 2015-366-20-22.7 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2024-10-01 | 2015-366-20-22.8 | 257/2024. (VIII. 29.) Korm. rendelet |
 | 2024-12-10 | 2015-366-20-22.9 | 576/2021. (X. 12.) Korm. rendelet |
+| 2026-11-26 | 2015-366-20-22.10 | 560/2026. (XI. 25.) Korm. rendelet |

@@ -6,8 +6,8 @@ b) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE)
 
 c) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelvnek,
 
-d)[^26] a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és a tanácsi irányelvnek
+d)[^27] a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és a tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-[^26]: A 12. § d) pontját a 289/2016. (IX. 22.) Korm. rendelet 18. §-a iktatta be.
+[^27]: A 12. § d) pontját a 289/2016. (IX. 22.) Korm. rendelet 18. §-a iktatta be.
