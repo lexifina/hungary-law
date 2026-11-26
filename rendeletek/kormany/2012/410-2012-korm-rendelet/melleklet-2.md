@@ -46,7 +46,7 @@
 
 ## B.2.4[^287] Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a (EU) 2018/2066 bizottsági végrehajtási rendelet iránymutatásait.
 
-## B.2.5.[^288] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és vármegyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
+## B.2.5.[^288] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
 
 ## B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
@@ -283,7 +283,7 @@ A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gáz
 [^285]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^286]: Az 1. melléklet B.2.1 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
 [^287]: Az 1. melléklet B.2.4 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
-[^288]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 150. §-a szerint módosított szöveg.
+[^288]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, az 523/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^289]: Az 1. melléklet D. pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
 [^290]: Az 1. melléklet F.2.7 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 40. pontja szerint módosított szöveg.
 [^291]: Az 1. melléklet Megjegyzés része a 127/2025. (VI. 5.) Korm. rendelet 32. § 32. pontja szerint módosított szöveg.
