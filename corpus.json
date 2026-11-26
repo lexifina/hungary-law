@@ -8,16 +8,22 @@
   "built": "2026-11-26",
   "dates": {
     "commit": "in-force",
-    "other_trailers": ["In-force-evidence", "Source", "Kind"],
+    "other_trailers": [
+      "In-force-evidence",
+      "Source",
+      "Kind"
+    ],
     "time": "12:00 Europe/Budapest (UTC+1, UTC+2 in summer time)"
   },
   "in_force_trailer": "In-force",
   "has_future_branch": false,
   "author": "the instrument NJT's footnotes name as making the changes new in that state; else 'Nemzeti Jogszabálytár (egységes szerkezet)'",
   "citation": {
-    "file": "torvenyek/(?P<year>[0-9]{4})/[0-9]{4}-evi-(?P<n>[ivxlcdm]+)-torveny[^/]*/",
-    "cites": "{year}\\. évi {N}\\. törvény",
-    "note": "an Act is cited by year and Roman number (\"2013. évi V. törvény\"); the Fundamental Law is alaptorveny/"
+    "file": "(torvenyek/[0-9]{4}/[^/]+)/(?:[0-9]+-)?([0-9]+)-paragrafus\\.md",
+    "cites": "(^|[^0-9/])([0-9]+:)?{n}\\. ?§",
+    "note": "a section is cited inside its Act as \"12. §\", or book:section in the codes (\"3:167. §\", file 3-167-paragrafus.md); sections with a letter (8/A. §, file 8-a-paragrafus.md) are not matched"
   },
-  "sources": ["https://njt.jog.gov.hu"]
+  "sources": [
+    "https://njt.jog.gov.hu"
+  ]
 }
