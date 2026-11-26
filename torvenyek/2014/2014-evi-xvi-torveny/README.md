@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2026-07-18 | 2026. évi XXVII. törvény | 2014-16-00-00.58 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2014-16-00-00.59 |
 | 2026-11-16 | 2026. évi LXVIII. törvény | 2014-16-00-00.60 |
+| 2026-11-26 | 2026. évi LXXIV. törvény | 2014-16-00-00.61 |
