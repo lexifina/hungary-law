@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-369-20-
 | 2025-01-01 | 2014-369-20-22.15 | 465/2024. (XII. 30.) Korm. rendelet |
 | 2025-03-01 | 2014-369-20-22.16 | 416/2024. (XII. 20.) Korm. rendelet |
 | 2025-07-09 | 2014-369-20-22.17 | 312/2021. (VI. 7.) Korm. rendelet |
+| 2026-11-26 | 2014-369-20-22.19 | 360/2019. (XII. 30.) Korm. rendelet |
