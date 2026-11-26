@@ -20,7 +20,7 @@ d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
 (3)[^7] A (2) bekezdés szerinti adatszolgáltatás valóságtartalmát a területi hulladékgazdálkodási hatóság ellenőrzi.
 
-(4)[^8] A hulladékgazdálkodási feladatkörében eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: országos hulladékgazdálkodási hatóság) a területi hulladékgazdálkodási hatóságot és a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
+(4)[^8] A hulladékgazdálkodási feladatkörében eljáró Pest Megyei Kormányhivatal (a továbbiakban: országos hulladékgazdálkodási hatóság) a területi hulladékgazdálkodási hatóságot és a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
 
 a)[^9] a hulladékgazdálkodási engedéllyel rendelkező szolgáltatókról,
 
@@ -41,7 +41,7 @@ e)[^12]
 [^5]: Az 1. § (2) bekezdés b) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § (2) bekezdés c) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^7]: Az 1. § (3) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 93. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 238. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 161. §-a, a 675/2023. (XII. 29.) Korm. rendelet 6. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 238. § a) pontja, a 675/2023. (XII. 29.) Korm. rendelet 6. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 93. § b) pontja, az 543/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^9]: Az 1. § (4) bekezdés a) pontja a 675/2023. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^10]: Az 1. § (4) bekezdés c) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^11]: Az 1. § (4) bekezdés d) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
