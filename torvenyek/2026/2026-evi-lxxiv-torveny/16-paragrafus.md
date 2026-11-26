@@ -1,0 +1,7 @@
+16. § Az Art. a következő 263/A. §-sal egészül ki:
+
+„263/A. § [Adóhiánnyal rendelkező adózókra vonatkozó különös közzétételi szabály]
+
+(1) Az állami adó- és vámhatóság negyedévenként – a negyedévet követő harminc napon belül – legfeljebb kettő évre közzéteszi a személyi jövedelemadó adónemben adóhiánnyal rendelkező adózók közzétételi listáján azon országgyűlési képviselő, európai parlamenti képviselő, miniszterelnök, miniszter, államtitkár, közigazgatási államtitkár, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 3. § (5) bekezdése szerinti biztosi jogviszonyban álló személy nevét, az ellenőrzéssel lezárt időszakban betöltött, e § szerinti közzététel alapjául szolgáló tisztség, illetve tisztségek megnevezését és annak időtartamát, a személyi jövedelemadóban és az ahhoz kapcsolódó adónemekben megállapított adóhiány és jogkövetkezmény összegét, akinek a terhére az előző negyedév során véglegessé vált határozatban – a 263. §-tól eltérően – legalább ötmillió forint összegű adóhiányt állapított meg.
+
+(2) Az állami adó- és vámhatóság a közzétételtől számított kilencven nap elteltét követően akkor törli az adózót az e § szerinti közzétételi listáról, ha az adózó az (1) bekezdés szerinti határozatban előírt fizetési kötelezettségét maradéktalanul teljesíti.”

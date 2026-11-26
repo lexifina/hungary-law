@@ -1,0 +1,1 @@
+11. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 60. § (2) bekezdés h) pontjában az „az adó-” szövegrész helyébe az „az adókötelezettségek teljesítésével összefüggő kockázatok azonosítása, valamint az azonosított kockázatok fennállásának kizárása vagy megállapítása érdekében kockázatelemzést végző, illetve az adó-” szöveg lép.

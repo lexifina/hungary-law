@@ -1,0 +1,1 @@
+12. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 161. § (2) bekezdés h) pontjában az „az adó-” szövegrész helyébe az „az adókötelezettségek teljesítésével összefüggő kockázatok azonosítása, valamint az azonosított kockázatok fennállásának kizárása vagy megállapítása érdekében kockázatelemzést végző, illetve az adó-” szöveg lép.
