@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-124-20-
 | 2025-07-01 | 2021-124-20-22.15 | 175/2025. (VI. 30.) Korm. rendelet |
 | 2025-08-18 | 2021-124-20-22.16 | 203/2025. (VII. 17.) Korm. rendelet |
 | 2026-01-06 | 2021-124-20-22.17 | 436/2025. (XII. 23.) Korm. rendelet |
+| 2026-11-26 | 2021-124-20-22.18 | 548/2026. (XI. 25.) Korm. rendelet |
