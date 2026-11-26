@@ -24,6 +24,6 @@ i) a fájdalom, szenvedés és kín csökkentésére vagy megszüntetésére alk
 
 j) kíméletes végpontok alkalmazását.
 
-(4)[^11] Ha a kísérlet lefolytatását rendkívüli és tudományosan igazolható indok szükségessé teszi, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: Pest Vármegyei Kormányhivatal) – ideiglenes jelleggel, legfeljebb a rendkívüli és tudományosan igazolható indokra figyelemmel szükséges időtartamra – engedélyt adhat olyan kísérlet lefolytatására, amely az állatok számára súlyos, várhatóan hosszú ideig tartó és nem enyhíthető fájdalommal, szenvedéssel vagy kínnal jár.
+(4)[^11] Ha a kísérlet lefolytatását rendkívüli és tudományosan igazolható indok szükségessé teszi, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatal – ideiglenes jelleggel, legfeljebb a rendkívüli és tudományosan igazolható indokra figyelemmel szükséges időtartamra – engedélyt adhat olyan kísérlet lefolytatására, amely az állatok számára súlyos, várhatóan hosszú ideig tartó és nem enyhíthető fájdalommal, szenvedéssel vagy kínnal jár.
 
-[^11]: A 11. § (4) bekezdése a 240/2017. (VIII. 28.) Korm. rendelet 3. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 155. § b) pontja szerint módosított szöveg.
+[^11]: A 11. § (4) bekezdése a 240/2017. (VIII. 28.) Korm. rendelet 3. §-ával megállapított, az 518/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
