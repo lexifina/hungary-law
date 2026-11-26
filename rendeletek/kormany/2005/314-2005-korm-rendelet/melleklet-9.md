@@ -66,7 +66,7 @@
 
 Az elérhető legjobb technika meghatározásának szempontjai
 
-Az elérhető legjobb technika meghatározásánál különösen a következő szempontokat kell figyelembe venni:[^376]
+## Az elérhető legjobb technika meghatározásánál különösen a következő szempontokat kell figyelembe venni:[^376]
 
 1. kevés hulladékot termelő technológia alkalmazása,
 

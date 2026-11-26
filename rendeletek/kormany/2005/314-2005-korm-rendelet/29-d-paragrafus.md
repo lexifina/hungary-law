@@ -1,4 +1,4 @@
-## 29/C. §[^262] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mkr5.) megállapított rendelkezéseit az Mkr5. hatálybalépését[^263] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+29/D. §[^264] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 80/2012. (IV. 18.) Korm. rendelettel (a továbbiakban: Mkr6.) megállapított rendelkezéseit az Mkr6. hatálybalépését[^265] követően indult ügyekben kell alkalmazni.
 
-[^262]: A 29/C. §-t a 308/2011. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^263]: A hatályba lépés időpontja 2012. január 7.
+[^264]: A 29/D. §-t a 80/2012. (IV. 18.) Korm. rendelet 2. §-a iktatta be.
+[^265]: A hatálybalépés napja 2012. május 1.

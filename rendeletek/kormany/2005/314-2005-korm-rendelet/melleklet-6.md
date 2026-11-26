@@ -80,7 +80,7 @@
 
 A környezeti hatástanulmány általános tartalmi követelményei
 
-A helyszíni vizsgálatokkal alátámasztott környezeti hatástanulmánynak – az előzetes vizsgálatban elfogadott vagy az előzetes konzultációban lehetségesnek tartott változatra (változatokra) a környezetvédelmi hatóság által meghatározott mélységben és részletezettségben – a következőket kell tartalmaznia:[^336]
+## A helyszíni vizsgálatokkal alátámasztott környezeti hatástanulmánynak – az előzetes vizsgálatban elfogadott vagy az előzetes konzultációban lehetségesnek tartott változatra (változatokra) a környezetvédelmi hatóság által meghatározott mélységben és részletezettségben – a következőket kell tartalmaznia:[^336]
 
 1.[^337] Az előzmények összefoglalása, különösen
 

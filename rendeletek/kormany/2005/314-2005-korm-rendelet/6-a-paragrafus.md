@@ -1,4 +1,4 @@
-## 6/A. §[^101] A környezeti hatásvizsgálat magában foglalja
+6/A. §[^101] A környezeti hatásvizsgálat magában foglalja
 
 a) a környezeti hatástanulmánynak a kérelmező által történő elkészítését és benyújtását,
 

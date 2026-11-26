@@ -188,9 +188,9 @@
 
 Az egységes környezethasználati engedélyhez kötött tevékenységek
 
-A megadott küszöbértékek a termelési kapacitásokra, a kibocsátási kapacitásokra vagy a teljesítményre vonatkoznak. Amennyiben ugyanazon létesítményben több, azonos jellegű és küszöbértékkel rendelkező tevékenységet végeznek, akkor ezen tevékenységek kapacitásának összegét kell figyelembe venni a küszöbértékkel történő összehasonlításnál. A hulladékkezelési tevékenységek esetében ezt a számítás kell alkalmazni az 5.1. és az 5.3. pontban említett tevékenységeknél.
+## A megadott küszöbértékek a termelési kapacitásokra, a kibocsátási kapacitásokra vagy a teljesítményre vonatkoznak. Amennyiben ugyanazon létesítményben több, azonos jellegű és küszöbértékkel rendelkező tevékenységet végeznek, akkor ezen tevékenységek kapacitásának összegét kell figyelembe venni a küszöbértékkel történő összehasonlításnál. A hulladékkezelési tevékenységek esetében ezt a számítás kell alkalmazni az 5.1. és az 5.3. pontban említett tevékenységeknél.
 
-Iparágak, tevékenységek
+## Iparágak, tevékenységek
 
 1. Energiaipar
 

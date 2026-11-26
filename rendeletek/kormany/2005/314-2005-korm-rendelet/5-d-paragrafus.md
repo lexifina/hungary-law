@@ -1,5 +1,3 @@
-## 5/C. §[^92] A környezethasználó félévente utólagosan köteles bejelenteni a környezetvédelmi hatóság részére a 22 kV feletti, de 35 kV alatti légvezeték létesítésére vonatkozó tevékenység megvalósítását. A bejelentéssel egyidejűleg igazgatási szolgáltatási díjat kell fizetni. A környezetvédelmi hatóság a bejelentés tudomásulvételéről a bejelentőt negyven napon belül tájékoztatja.
-
 ## A KÖRNYEZETI KÖRZETI TERV JÓVÁHAGYÁSA[^93]
 
 5/D. § (1) Az öntözési igazgatási szerv az öntözéses gazdálkodásról szóló törvényben meghatározott esetekben az öntözni kívánt területre vonatkozó környezeti körzeti tervet nyújt be a környezetvédelmi hatóságnak jóváhagyás céljából.
@@ -58,5 +56,4 @@ o) a talajvédelmi szakértői jogosultság igazolását.
 
 (7) Az öntözési igazgatási szerv a környezetvédelmi hatóság által jóváhagyott környezeti körzeti terv véglegessé válását követő 30 napon belül kezdeményezi a környezetvédelmi hatóságnál a környezeti körzeti terv jogosultjának a módosítását, amely alapján az öntözési igazgatási szerv helyett az öntözési közösség válik a környezeti körzeti terv jogosultjává.
 
-[^92]: Az 5/C. §-t a 343/2017. (XI. 15.) Korm. rendelet 3. §-a iktatta be.
 [^93]: Az „A KÖRNYEZETI KÖRZETI TERV JÓVÁHAGYÁSA” fejezetet (5/D. §) a 302/2020. (VI. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
