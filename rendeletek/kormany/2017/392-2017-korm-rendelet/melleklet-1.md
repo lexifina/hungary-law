@@ -18,7 +18,7 @@ d) a barlangbejárat(ok) ingatlan-nyilvántartási helyrajzi száma(i).
 
 1.2. Közigazgatási adatok:
 
-a)[^5] a barlang bejárata(i) szerinti vármegye neve,
+a)[^5] a barlang bejárata(i) szerinti megye neve,
 
 b) a barlang bejárata(i) szerinti település(ek) neve,
 
@@ -70,4 +70,4 @@ g) a barlang kutatásának ténye, jellege, az erről szóló határozat(ok) sz�
 
 2.3. a barlangok felszín alatti kiterjedését ábrázoló 1:1000–4000 méretarányú térképek.
 
-[^5]: Az 1. melléklet 1.2. pont a) alpontja a 616/2022. (XII. 29.) Korm. rendelet 266. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 1. pont 1.2. pont a) alpontja az 521/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.

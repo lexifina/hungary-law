@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-392-20-
 | 2021-05-10 | 2017-392-20-22.4 | 172/2021. (IV. 9.) Korm. rendelet |
 | 2023-01-01 | 2017-392-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2026-01-01 | 2017-392-20-22.6 | 342/2025. (X. 31.) Korm. rendelet |
+| 2026-11-26 | 2017-392-20-22.7 | 521/2026. (XI. 25.) Korm. rendelet |
