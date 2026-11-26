@@ -12,7 +12,7 @@
 
 | Kútfúró neve, a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló miniszteri rendeletben meghatározott végzettség, igazolás vagy megfelelőségi nyilatkozat megnevezése: |
 
-| Telepítés helye: (vármegye, település, helyrajzi szám, EOV koordináták) |  |
+| Telepítés helye: (megye, település, helyrajzi szám, EOV koordináták) |  |
 
 | Talpmélység: |  | m |  |
 

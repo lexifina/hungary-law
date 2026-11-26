@@ -1,4 +1,4 @@
-## 5X05684.docx
+## 6X06432M.docx
 
 | I. ALAPADATOK |
 
@@ -12,7 +12,7 @@
 
 | Új kút esetében a kútfúró neve, a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló miniszteri rendeletben meghatározott végzettség, igazolás vagy megfelelőségi nyilatkozat megnevezése: |
 
-| Telepítés, üzemelés helye: |  | vármegye/település |
+| Telepítés, üzemelés helye: |  | megye/település |
 
 |  |  | hrsz. |
 
@@ -68,7 +68,7 @@
 
 | V. ADATOK HASZONÁLLAT-ÁLLOMÁNY ELLÁTÁS ESETÉN |
 
-| Az állattartó telep helye: |  | vármegye/település |
+| Az állattartó telep helye: |  | megye/település |
 
 |  |  | hrsz. |
 

@@ -6,7 +6,7 @@
 
 a) az Országos Vízügyi Főigazgatóság által üzemeltetett VIZEK Keretrendszer és
 
-b)[^231] a Közigazgatási és Területfejlesztési Minisztérium birtokában lévő adatbázisként funkcionáló integrált hatósági rendszer
+b)[^231] a Vidék- és Településfejlesztési Minisztérium birtokában lévő adatbázisként funkcionáló integrált hatósági rendszer
 
 képezi.
 
@@ -27,7 +27,7 @@ részére a VIZEK rendszert működteti.
 [^228]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^229]: A „VIZEK rendszer” alcímet (23/A–23/G. §) a 286/2019. (XII. 4.) Korm. rendelet 12. §-a iktatta be.
 [^230]: A 23/A. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^231]: A 23/A. § (1) bekezdés b) pontja a 224/2025. (VII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^231]: A 23/A. § (1) bekezdés b) pontja a 224/2025. (VII. 24.) Korm. rendelet 4. §-ával megállapított, az 551/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^232]: A 23/A. § (2) bekezdés nyitó szövegrésze a 224/2025. (VII. 24.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
 [^233]: A 23/A. § (2) bekezdés a) pontja a 224/2025. (VII. 24.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
 [^234]: A 23/A. § (3) bekezdését a 224/2025. (VII. 24.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.

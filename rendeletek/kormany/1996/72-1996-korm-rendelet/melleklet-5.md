@@ -48,4 +48,4 @@
 
 [^300]: A 4. mellékletben foglalt táblázat 21. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
 [^301]: A 4. mellékletben foglalt táblázat 22. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
-[^302]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^302]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege az 551/2026. (XI. 25.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
