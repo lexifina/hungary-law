@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-681-20-
 | 2026-01-01 | 2023-681-20-22.5 | 395/2025. (XII. 16.) Korm. rendelet |
 | 2026-05-21 | 2023-681-20-22.6 | 412/2025. (XII. 22.) Korm. rendelet |
 | 2026-08-12 | 2023-681-20-22.7 | 412/2025. (XII. 22.) Korm. rendelet |
+| 2026-11-26 | 2023-681-20-22.8 | 549/2026. (XI. 25.) Korm. rendelet |
