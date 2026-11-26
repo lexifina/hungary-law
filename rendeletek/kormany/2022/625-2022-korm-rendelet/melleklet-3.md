@@ -22,11 +22,11 @@
 
 ## II. A nemzeti park igazgatóságok működési területe
 
-## 1. AGGTELEKI NEMZETI PARK IGAZGATÓSÁG
+## 1.[^14] AGGTELEKI NEMZETI PARK IGAZGATÓSÁG
 
 ## Működési területe
 
-## 1.1. Borsod-Abaúj-Zemplén vármegye területéből a Sajótól északra és keletre eső terület a Sajó kisvízi medrével együtt, kivéve
+## 1.1.[^15] Borsod-Abaúj-Zemplén megye területéből a Sajótól északra és keletre eső terület a Sajó kisvízi medrével együtt, kivéve
 
 ## 1.1.1. Berzék,
 
@@ -80,9 +80,9 @@
 
 ## Működési területe
 
-## 2.1. Veszprém vármegye, kivéve a 6.4. pont szerint a Fertő-Hanság Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 2.1.[^16] Veszprém megye, kivéve a 6.4. pont szerint a Fertő-Hanság Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 2.2. Győr-Moson-Sopron vármegye területén:
+## 2.2.[^17] Győr-Moson-Sopron megye területén:
 
 ## 2.2.1. Bakonygyirót,
 
@@ -98,9 +98,9 @@
 
 ## települések közigazgatási területe.
 
-## 2.3. Zala vármegye, kivéve a 10.2. pont szerint az Őrségi Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 2.3.[^18] Zala megye, kivéve a 10.2. pont szerint az Őrségi Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 2.4. Somogy vármegye területén:
+## 2.4.[^19] Somogy megye területén:
 
 ## 2.4.1. Ádánd,
 
@@ -248,7 +248,7 @@
 
 ## Működési területe
 
-## 3.1. Borsod-Abaúj-Zemplén vármegye, kivéve
+## 3.1.[^20] Borsod-Abaúj-Zemplén megye, kivéve
 
 ## 3.1.1. az 1.1. pont szerint az Aggteleki Nemzeti Park Igazgatóság működési területéhez tartozó,
 
@@ -256,15 +256,15 @@
 
 ## terület.
 
-## 3.2. Heves vármegye, kivéve a 7.4. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 3.2.[^21] Heves megye, kivéve a 7.4. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 3.3. Nógrád vármegye, kivéve az 5.5. pont szerint a Duna-Ipoly Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 3.3.[^22] Nógrád megye, kivéve az 5.5. pont szerint a Duna-Ipoly Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 3.4. Szabolcs-Szatmár-Bereg vármegye területén:
+## 3.4.[^23] Szabolcs-Szatmár-Bereg megye területén:
 
 ## 3.4.1. a Kesznyéteni Tájvédelmi Körzet területe Tiszadob településen.
 
-## 3.5. Jász-Nagykun-Szolnok vármegye területén:
+## 3.5.[^24] Jász-Nagykun-Szolnok megye területén:
 
 ## 3.5.1. a Hevesi füves puszták Tájvédelmi Körzet területe Jászivány településen.
 
@@ -272,13 +272,13 @@
 
 ## Működési területe
 
-## 4.1. Baranya vármegye.
+## 4.1.[^25] Baranya megye.
 
-## 4.2. Somogy vármegye, kivéve a 2.4. pont szerint a Balaton-felvidéki Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 4.2.[^26] Somogy megye, kivéve a 2.4. pont szerint a Balaton-felvidéki Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 4.3. Tolna vármegye.
+## 4.3.[^27] Tolna megye.
 
-## 4.4. Bács-Kiskun vármegye területén:
+## 4.4.[^28] Bács-Kiskun megye területén:
 
 ## 4.4.1. Bátmonostor,
 
@@ -308,7 +308,7 @@
 
 ## településen.
 
-## 4.5. Fejér vármegye területén:
+## 4.5.[^29] Fejér megye területén:
 
 ## 4.5.1. a Dél-Mezőföldi Tájvédelmi Körzet területe
 
@@ -326,13 +326,13 @@
 
 ## 5.1. Budapest főváros.
 
-## 5.2. Fejér vármegye, kivéve a 4.5. pont szerint a Duna-Dráva Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 5.2.[^30] Fejér megye, kivéve a 4.5. pont szerint a Duna-Dráva Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 5.3. Komárom-Esztergom vármegye, kivéve a 6.2. pont szerint a Fertő-Hanság Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 5.3.[^31] Komárom-Esztergom megye, kivéve a 6.2. pont szerint a Fertő-Hanság Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 5.4. Pest vármegye, kivéve a 8.4. pont szerint a Kiskunsági Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 5.4.[^32] Pest megye, kivéve a 8.4. pont szerint a Kiskunsági Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 5.5. Nógrád vármegye területén:
+## 5.5.[^33] Nógrád megye területén:
 
 ## 5.5.1. a Duna–Ipoly Nemzeti Park területe
 
@@ -360,7 +360,7 @@
 
 ## településen.
 
-## 5.6. Jász-Nagykun-Szolnok vármegye területén:
+## 5.6.[^34] Jász-Nagykun-Szolnok megye területén:
 
 ## 5.6.1. a Tápió-Hajta Vidéke Tájvédelmi Körzet területe Újszász településen.
 
@@ -368,13 +368,13 @@
 
 ## Működési területe
 
-## 6.1. Győr-Moson-Sopron vármegye, kivéve a 2.2. pont szerint a Balaton-felvidéki Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 6.1.[^35] Győr-Moson-Sopron megye, kivéve a 2.2. pont szerint a Balaton-felvidéki Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 6.2. Komárom-Esztergom vármegye területén:
+## 6.2.[^36] Komárom-Esztergom megye területén:
 
 ## 6.2.1. a Pannonhalmi Tájvédelmi Körzet területe Komárom településen.
 
-## 6.3. Vas vármegye területén:
+## 6.3.[^37] Vas megye területén:
 
 ## 6.3.1. a Fertő–Hanság Nemzeti Park területe
 
@@ -384,7 +384,7 @@
 
 ## településen.
 
-## 6.4. Veszprém vármegye területén:
+## 6.4.[^38] Veszprém megye területén:
 
 ## 6.4.1. a Pannonhalmi Tájvédelmi Körzet területe Gic településen.
 
@@ -392,9 +392,9 @@
 
 ## Működési területe
 
-## 7.1. Hajdú-Bihar vármegye.
+## 7.1.[^39] Hajdú-Bihar megye.
 
-## 7.2. Jász-Nagykun-Szolnok vármegye, kivéve
+## 7.2.[^40] Jász-Nagykun-Szolnok megye, kivéve
 
 ## 7.2.1. a 8.3. pont szerint a Kiskunsági Nemzeti Park Igazgatóság működési területéhez tartozó terület,
 
@@ -404,9 +404,9 @@
 
 ## 7.2.4. a 9.2. pont szerint a Körös-Maros Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 7.3. Szabolcs-Szatmár-Bereg vármegye, kivéve a 3.4. pont szerint a Bükki Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 7.3.[^41] Szabolcs-Szatmár-Bereg megye, kivéve a 3.4. pont szerint a Bükki Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 7.4. Heves vármegye területén:
+## 7.4.[^42] Heves megye területén:
 
 ## 7.4.1. a Közép-tiszai Tájvédelmi Körzet területe
 
@@ -430,7 +430,7 @@
 
 ## településen.
 
-## 7.5. Bács-Kiskun vármegye területén:
+## 7.5.[^43] Bács-Kiskun megye területén:
 
 ## 7.5.1. a Közép-tiszai Tájvédelmi Körzet területe
 
@@ -442,7 +442,7 @@
 
 ## településen.
 
-## 7.6. Borsod-Abaúj-Zemplén vármegye területén:
+## 7.6.[^44] Borsod-Abaúj-Zemplén megye területén:
 
 ## 7.6.1. a Tiszatelek-tiszaberceli ártér Természetvédelmi Terület területe
 
@@ -470,13 +470,13 @@
 
 ## Működési területe
 
-## 8.1. Bács-Kiskun vármegye, kivéve
+## 8.1.[^45] Bács-Kiskun megye, kivéve
 
 ## 8.1.1. a 4.4. pont szerint a Duna-Dráva Nemzeti Park Igazgatóság működési területéhez tartozó terület,
 
 ## 8.1.2. a 7.5.1. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 8.2. Csongrád-Csanád vármegye területén:
+## 8.2.[^46] Csongrád-Csanád megye területén:
 
 ## 8.2.1. Algyő,
 
@@ -550,11 +550,11 @@
 
 ## 8.2.31. a Pusztaszeri Tájvédelmi Körzet területe Szentes településen.
 
-## 8.3. Jász-Nagykun-Szolnok vármegye területén:
+## 8.3.[^47] Jász-Nagykun-Szolnok megye területén:
 
 ## 8.3.1. Tiszasas településen a Tisza jobb partjára eső területek.
 
-## 8.4. Pest vármegye területén:
+## 8.4.[^48] Pest megye területén:
 
 ## 8.4.1. a Kiskunsági Nemzeti Park területe
 
@@ -570,9 +570,9 @@
 
 ## Működési területe
 
-## 9.1. Békés vármegye.
+## 9.1.[^49] Békés megye.
 
-## 9.2. Jász-Nagykun-Szolnok vármegye területén:
+## 9.2.[^50] Jász-Nagykun-Szolnok megye területén:
 
 ## 9.2.1. a Körös–Maros Nemzeti Park területe
 
@@ -594,7 +594,7 @@
 
 ## településen.
 
-## 9.3. Csongrád-Csanád vármegye területén:
+## 9.3.[^51] Csongrád-Csanád megye területén:
 
 ## 9.3.1. Ambrózfalva,
 
@@ -666,9 +666,9 @@
 
 ## Működési területe
 
-## 10.1. Vas vármegye, kivéve a 6.3. pont szerint a Fertő-Hanság Nemzeti Park Igazgatóság működési területéhez tartozó terület.
+## 10.1.[^52] Vas megye, kivéve a 6.3. pont szerint a Fertő-Hanság Nemzeti Park Igazgatóság működési területéhez tartozó terület.
 
-## 10.2. Zala vármegye területén:
+## 10.2.[^53] Zala megye területén:
 
 ## 10.2.1. az Őrségi Nemzeti Park területe
 
@@ -709,3 +709,44 @@ Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések
 | 6. | A különösen és közepesen veszélyes állat tartására, szaporítására, elidegenítésére, megvételére, illetve bemutatására irányuló engedélyezési eljárásában. | minden esetben | Az állategészségügyi és állatvédelmi szabályoknak való megfelelés kérdésében. |
 
 | 7. | A Tvt. 38. § (1) bekezdés i) pontja szerinti, erdőben technikai jellegű sporttevékenység folytatásának engedélyezésére irányuló eljárás. | minden esetben | Az erdőre gyakorolt hatások vizsgálata kérdésében. |
+
+[^14]: A 2. melléklet II. rész 1. pontja a 344/2023. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: A 2. melléklet II. rész 1.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet II. rész 2.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet II. rész 2.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet II. rész 2.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet II. rész 2.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^20]: A 2. melléklet II. rész 3.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^21]: A 2. melléklet II. rész 3.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet II. rész 3.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet II. rész 3.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet II. rész 3.5. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet II. rész 4.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet II. rész 4.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^27]: A 2. melléklet II. rész 4.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^28]: A 2. melléklet II. rész 4.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^29]: A 2. melléklet II. rész 4.5. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^30]: A 2. melléklet II. rész 5.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet II. rész 5.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^32]: A 2. melléklet II. rész 5.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet II. rész 5.5. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet II. rész 5.6. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet II. rész 6.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^36]: A 2. melléklet II. rész 6.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^37]: A 2. melléklet II. rész 6.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^38]: A 2. melléklet II. rész 6.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^39]: A 2. melléklet II. rész 7.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^40]: A 2. melléklet II. rész 7.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^41]: A 2. melléklet II. rész 7.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^42]: A 2. melléklet II. rész 7.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^43]: A 2. melléklet II. rész 7.5. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^44]: A 2. melléklet II. rész 7.6. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^45]: A 2. melléklet II. rész 8.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^46]: A 2. melléklet II. rész 8.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^47]: A 2. melléklet II. rész 8.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^48]: A 2. melléklet II. rész 8.4. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^49]: A 2. melléklet II. rész 9.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^50]: A 2. melléklet II. rész 9.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^51]: A 2. melléklet II. rész 9.3. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^52]: A 2. melléklet II. rész 10.1. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^53]: A 2. melléklet II. rész 10.2. pontja az 522/2026. (XI. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
