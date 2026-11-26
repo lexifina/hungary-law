@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-221-20-
 | --- | --- | --- |
 | 2025-08-23 | 2025-221-20-22.1 | 221/2025. (VII. 24.) Korm. rendelet |
 | 2026-01-01 | 2025-221-20-22.2 | 489/2025. (XII. 31.) Korm. rendelet |
+| 2026-11-26 | 2025-221-20-22.3 | 564/2026. (XI. 25.) Korm. rendelet |

@@ -4,7 +4,7 @@
 
 (2) A különleges vízkészlet-gazdálkodási körzetben – a háztartási kutakat kivéve – valamennyi felszín alatti vízkivétel céljából létesült vízilétesítmény a víz mennyiségének mérését biztosító folyamatosan mérő hitelesített vízmérővel vagy akkreditált kalibráló laboratórium által 5 évnél nem régebben kalibrált digitális kútvízmérő alkalmazásával üzemeltethető.
 
-(3) A monitoringrendszerre vonatkozó monitoringtervet a termelőkút létesítését megelőzően jóváhagyás céljából az illetékes vízügyi és vízvédelmi hatóságként eljáró vármegyei kormányhivatal részére kell benyújtani. A monitoringtervben a vízkivétel utánpótlódási területén belül legalább három, az igénybe vett vízadóra szűrőzött kút létesítésére kell javaslatot tenni. A vízkivétel utánpótlódási területén belül az igénybe vett vízadóra szűrőzött és érvényes üzemeltetésre jogosító vízjogi engedéllyel rendelkező monitoringkúttal az új kút létesítése kiváltható.
+(3)[^2] A monitoringrendszerre vonatkozó monitoringtervet a termelőkút létesítését megelőzően jóváhagyás céljából az illetékes vízügyi és vízvédelmi hatóságként eljáró megyei kormányhivatal részére kell benyújtani. A monitoringtervben a vízkivétel utánpótlódási területén belül legalább három, az igénybe vett vízadóra szűrőzött kút létesítésére kell javaslatot tenni. A vízkivétel utánpótlódási területén belül az igénybe vett vízadóra szűrőzött és érvényes üzemeltetésre jogosító vízjogi engedéllyel rendelkező monitoringkúttal az új kút létesítése kiváltható.
 
 (4) A monitoringterv tartalmának minimumkövetelményei:
 
@@ -22,7 +22,7 @@ f) az értékélés és az adatszolgáltatás rendje.
 
 (5) A monitoringtervben – az üzemeltető hozzájárulásával – az utánpótlódási területén belül már meglévő, üzemeltetésre alkalmas és engedéllyel rendelkező monitoringkút bevonására is tehető javaslat, amelynek során a működési területükkel érintett vízügyi igazgatási szerv üzemeltetésében álló, az országos vízrajzi monitoring-hálózat részét képező kutakat kell előnyben részesíteni.
 
-(6) Az illetékes vízügyi és vízvédelmi hatóságként eljáró vármegyei kormányhivatal a monitoringtervet hatósági eljárás keretében – a működési területével érintett vízügyi igazgatási szerv vagyonkezelői hozzájárulása alapján – hagyja jóvá. A vízjogi engedélyhez kötött mezőgazdasági célú kúttal kapcsolatos eljárás esetén a monitoringtervet jóváhagyó határozatot, illetve a monitoringrendszerre vonatkozó vízjogi üzemeltetési engedélyt megküldi az öntözési igazgatási szerv részére.
+(6)[^3] Az illetékes vízügyi és vízvédelmi hatóságként eljáró megyei kormányhivatal a monitoringtervet hatósági eljárás keretében – a működési területével érintett vízügyi igazgatási szerv vagyonkezelői hozzájárulása alapján – hagyja jóvá. A vízjogi engedélyhez kötött mezőgazdasági célú kúttal kapcsolatos eljárás esetén a monitoringtervet jóváhagyó határozatot, illetve a monitoringrendszerre vonatkozó vízjogi üzemeltetési engedélyt megküldi az öntözési igazgatási szerv részére.
 
 (7) A vizsgálandó komponensek körét és a mintavétel gyakoriságát a területi vízügyi igazgatási szerv vagyonkezelői hozzájárulásában foglaltak figyelembevételével az eljáró hatóság
 
@@ -48,7 +48,7 @@ c) − ha a süllyedés mértéke túllépi a működési területével érintet
 
 d) műholdas, távérzékelési eszközöket is igénybe vehet a tényleges vízhasználatok nyomon követésére;
 
-e)[^2]
+e)[^4]
 
 (12) A vízügyi és vízvédelmi hatóság a vízkészletek mennyiségi és minőségi védelme érdekében
 
@@ -63,4 +63,6 @@ d) a vízügyi igazgatási szerv jelzése alapján hivatalból gondoskodik az ü
 e) a vízkivételek fenntarthatósága érdekében általános hatáscsökkentő és vízkészletnövelő területi intézkedések bevezetésére kötelezheti a vízhasználót.
 
 [^1]: A 3. § (1a) bekezdését a 489/2025. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^2]: A 3. § (11) bekezdés e) pontját a 489/2025. (XII. 31.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^2]: A 3. § (3) bekezdése az 564/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: A 3. § (6) bekezdése az 564/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 3. § (11) bekezdés e) pontját a 489/2025. (XII. 31.) Korm. rendelet 4. §-a hatályon kívül helyezte.
