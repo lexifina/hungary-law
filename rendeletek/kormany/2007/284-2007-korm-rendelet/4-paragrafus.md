@@ -22,9 +22,9 @@ b) valamennyi előzetes vizsgálat köteles, környezeti hatásvizsgálat kötel
 
 c) a fokozottan zajos területekkel kapcsolatos eljárásokban.
 
-(4)[^11] A honvédelmi és katonai célú építmények vonatkozásában a hatósági jogkört a környezetvédelmi feladatkörében eljáró Jász-Nagykun-Szolnok Vármegyei Kormányhivatal gyakorolja.
+(4)[^11] A honvédelmi és katonai célú építmények vonatkozásában a hatósági jogkört a környezetvédelmi feladatkörében eljáró Jász-Nagykun-Szolnok Megyei Kormányhivatal gyakorolja.
 
 [^8]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 255/2013. (VII. 5.) Korm. rendelet 23. §-a, a 360/2019. (XII. 30.) Korm. rendelet 53. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^9]: A 4. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 53. § (4) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^10]: A 4. § (3) bekezdés nyitó szövegrésze a 427/2015. (XII. 23.) Korm. rendelet 10. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 106. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 53. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^11]: A 4. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 82. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított, az 534/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@
 
 (6)[^14] Azokban a zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban, amelyekben a környezetvédelmi hatóság – a tevékenység környezeti zaj és rezgés elleni védelem követelményeinek való megfelelősége kérdésében – szakhatóságként jár el vagy szakkérdést vizsgál, az eljáráshoz benyújtott dokumentációnak zaj elleni védelemről szóló munkarészt kell tartalmaznia. A munkarész tartalmi követelményeit a 2. számú melléklet tartalmazza.
 
-(7)[^15] A környezeti hatásvizsgálat vagy egységes környezethasználati engedélyköteles tevékenységek létesítéséhez és megvalósításához kapcsolódó szállítási, fuvarozási útvonalakat úgy kell megválasztani, hogy hatásterületük a lehető legkisebb legyen. A kapcsolódó szállítás, fuvarozás zajterhelésére tekintettel a területi környezetvédelmi hatóság javaslatára a közlekedési feladatkörében eljáró fővárosi és vármegyei kormányhivatal megvizsgálja a meghatározott útvonal előírásának lehetőségét.
+(7)[^15] A környezeti hatásvizsgálat vagy egységes környezethasználati engedélyköteles tevékenységek létesítéséhez és megvalósításához kapcsolódó szállítási, fuvarozási útvonalakat úgy kell megválasztani, hogy hatásterületük a lehető legkisebb legyen. A kapcsolódó szállítás, fuvarozás zajterhelésére tekintettel a területi környezetvédelmi hatóság javaslatára a közlekedési feladatkörében eljáró fővárosi és megyei kormányhivatal megvizsgálja a meghatározott útvonal előírásának lehetőségét.
 
 [^14]: A 9. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdésének 3. pontja, a 70/2015. (III. 30.) Korm. rendelet 108. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^15]: A 9. § (7) bekezdése a 416/2024. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^15]: A 9. § (7) bekezdése a 416/2024. (XII. 20.) Korm. rendelet 12. §-ával megállapított, az 534/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
