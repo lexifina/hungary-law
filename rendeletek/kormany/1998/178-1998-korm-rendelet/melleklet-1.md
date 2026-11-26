@@ -28,7 +28,7 @@ B) Adatkörök
 
 | 3. | A főművek fontosabb kapacitás és vízszolgáltatási adatai [Kitermelt és értékesített víz mennyisége (öntözés, halastó, egyéb); Vízjogilag engedélyezett terület (öntözés, halastó); Üzemeltetésre bejelentett terület (öntözés, halastó)] |
 
-| 4. | Öntözés és tógazdaság megoszlása vármegyénként (Vízjogilag engedélyezett terület; Az év folyamán üzemeltetett terület; Értékesített vízmennyiség) |
+| 4. | Öntözés és tógazdaság megoszlása megyénként (Vízjogilag engedélyezett terület; Az év folyamán üzemeltetett terület; Értékesített vízmennyiség) |
 
 | 5. | A felszín alatti vizet kitermelő vízkivételek, valamint megfigyelőkutak üzemi figyelési tevékenysége (VH-FAV) | Termelő és megfigyelőkút, forrás törzsadatai |
 
@@ -74,4 +74,4 @@ B) Adatkörök
 
 | 26. | Tározó adatai [helye (vízfolyás, szelvény, település); jellemző méretei és a tározás célja; vízjogi engedélyezési adatai; vízforgalmának tényleges havonkénti jellemző mennyiségei (m3)] |
 
-[^16]: Az 1. mellékletet az 518/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be, szövege a 286/2019. (XII. 4.) Korm. rendelet 17. § (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^16]: Az 1. mellékletet az 518/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be, szövege a 286/2019. (XII. 4.) Korm. rendelet 17. § (2) bekezdése, az 553/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
