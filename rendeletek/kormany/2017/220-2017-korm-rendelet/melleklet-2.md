@@ -1,4 +1,4 @@
-## 2X11169N.docx
+## 6X06438M.docx
 
 | I. Tevékenység megnevezése: Vízszerelés |
 
@@ -16,7 +16,7 @@
 
 | 6. | Anyja neve: |
 
-| 7. | Lakcíme (vármegye, irányítószám, helység, utca, házszám): |
+| 7. | Lakcíme (megye, irányítószám, helység, utca, házszám): |
 
 | 8. | Értesítési címe: |
 
@@ -36,7 +36,7 @@
 
 | 3. | Nyilatkozom, hogy a bekötővezeték kiépítéséhez és biztonságos üzembe helyezéséhez szükséges tárgyi feltételeket a munkavégzés megkezdésekor biztosítani tudom, illetve az alkalmazott technológiához más jogszabályban előírt feltételeknek megfelelek. |
 
-| 4. | Gazdasági társaság vagy egyéni cég bejelentő esetében: Kijelentem, hogy a rendeletben meghatározott képesítéssel és gyakorlati idővel rendelkező személy az adott tevékenységet személyesen ellátó munkavállaló o személyesen közreműködő tag o |
+| 4. | Gazdasági társaság vagy egyéni cég bejelentő esetében: Kijelentem, hogy a rendeletben meghatározott képesítéssel és gyakorlati idővel rendelkező személy az adott tevékenységet személyesen ellátó munkavállaló ◻ személyesen közreműködő tag ◻ |
 
 | IV. Képesítések |
 

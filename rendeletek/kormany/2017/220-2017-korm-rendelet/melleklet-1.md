@@ -4,4 +4,4 @@
 
 A vízszerelői nyilvántartásba vételre irányuló bejelentés adattartalma
 
-[^5]: Az 1. melléklet a 616/2022. (XII. 29.) Korm. rendelet 261. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet az 562/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
