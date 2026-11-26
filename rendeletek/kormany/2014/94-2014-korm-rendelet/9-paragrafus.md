@@ -38,13 +38,13 @@
 
 18. a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság,
 
-19.[^4] a vármegyei önkormányzatok és hivatalaik,
+19.[^4] a megyei önkormányzatok és hivatalaik,
 
 20. a települési önkormányzatok és hivatalaik,
 
 21. az országos önkormányzati szövetségek,
 
-22.[^5] a civil szervezetek országos, regionális, vármegyei szinten létrehozott egyeztető fórumának,
+22.[^5] a civil szervezetek országos, regionális, megyei szinten létrehozott egyeztető fórumának,
 
 23. a térségi fejlesztési tanácsok és munkaszervezeteik, valamint
 
@@ -56,5 +56,5 @@ regisztrált tagjait.
 
 [^2]: A 9. § (2) bekezdés 10. pontja a 345/2019. (XII. 23.) Korm. rendelet 5. §-a, a 246/2023. (VI. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^3]: A 9. § (2) bekezdés 15. pontját az 591/2023. (XII. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
-[^4]: A 9. § (2) bekezdés 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
-[^5]: A 9. § (2) bekezdés 22. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
+[^4]: A 9. § (2) bekezdés 19. pontja az 524/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 9. § (2) bekezdés 22. pontja az 524/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
