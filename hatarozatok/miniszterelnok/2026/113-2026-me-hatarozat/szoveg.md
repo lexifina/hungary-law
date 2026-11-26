@@ -10,4 +10,6 @@ a) Dr. Szabó Mátyást a Terület- és Településfejlesztési Operatív Progra
 
 b) dr. Stumpf Péter Bencét, a VTM parlamenti államtitkárát a Terület- és Településfejlesztési Operatív Program Plusz monitoring bizottsága elnökévé – 2026. november 26-i hatállyal – kinevezem.
 
-3. Visszavonom a Terület- és Településfejlesztési Operatív Program monitoring bizottsága, valamint a Terület- és Településfejlesztési Operatív Program Plusz monitoring bizottsága elnökének felmentéséről, továbbá e monitoring bizottságok elnökének kinevezéséről szóló 47/2026. (VI. 24.) ME határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
