@@ -34,7 +34,7 @@ b) az ellátásért felelős önkormányzattal,
 
 c) az ideiglenes begyűjtési ellátással érintett települési önkormányzattal és a befogadó telep üzemeltetőjével,
 
-d)[^12] az ideiglenes begyűjtési ellátással érintett települések szerint illetékes fővárosi és vármegyei kormányhivatallal,
+d)[^12] az ideiglenes begyűjtési ellátással érintett települések szerint illetékes fővárosi és megyei kormányhivatallal,
 
 e) az ideiglenes begyűjtési ellátást megelőzően a településen közszolgáltatást végző gazdálkodó szervezettel.
 
@@ -50,7 +50,7 @@ e) az ideiglenes begyűjtési ellátást megelőzően a településen közszolg�
 [^9]: A 3. § (3) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.
 [^10]: A 3. § (4) bekezdés b) pontja a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.
 [^11]: A 3. § (5) bekezdés e) pontja a 280/2019. (XI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (6) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 225. §-a szerint módosított szöveg.
+[^12]: A 3. § (6) bekezdés d) pontja az 561/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (7) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^14]: A 3. § (8) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
 [^15]: A 3. § (9) bekezdését a 280/2019. (XI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@ a) 3/F. § (2) bekezdésében meghatározott ideiglenes ellátása (a továbbiak
 
 b) 3/G. §-ában meghatározott ellátásának kiesése esetén a nem közművel összegyűjtött háztartási szennyvíz begyűjtésének megszervezésével és elvégzésével (a továbbiakban: rendkívüli ellátás) kapcsolatos feladatok ellátására
 
-a vízügyi és vízvédelmi hatósági feladatkörében eljáró vármegyei kormányhivatalt (a továbbiakban: vízügyi hatóság) jelöli ki.
+a vízügyi és vízvédelmi hatósági feladatkörében eljáró megyei kormányhivatalt (a továbbiakban: vízügyi hatóság) jelöli ki.
 
 (2)[^2] Az ideiglenes begyűjtési ellátásra a Tv. alapján kijelölhető közérdekű szolgáltató a honlapján folyamatosan közzéteszi, vagy ennek hiányában a vízügyi hatóságnak negyedévente továbbítja – az ideiglenes begyűjtési ellátás tervezése céljából – a következő adatokat:
 
@@ -38,7 +38,7 @@ c) a település közműcsatlakozással nem rendelkező ingatlanjainak összesí
 
 d) azon közszolgáltatók felsorolását, amelyek a tájékoztatást megelőző egy évben a települési önkormányzattal kötött közszolgáltatási szerződés alapján a közszolgáltatást ellátták.
 
-[^1]: Az 1. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 174. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 174. §-ával megállapított, záró szövegrésze az 561/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 175. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdés nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.

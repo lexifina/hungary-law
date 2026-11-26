@@ -2,7 +2,7 @@
 
 (2) A rendkívüli ellátás ingatlantulajdonost terhelő költségeit az ingatlantulajdonos utólag fizeti meg a települési önkormányzat számlájára történő befizetéssel.
 
-(3)[^26] A települési önkormányzat a rendkívüli ellátás költségei címén számlájára befolyt összeget öt napon belül átutalja a Közigazgatási és Területfejlesztési Minisztérium részére.
+(3)[^26] A települési önkormányzat a rendkívüli ellátás költségei címén számlájára befolyt összeget öt napon belül átutalja a Vidék- és Településfejlesztési Minisztérium részére.
 
 [^25]: A 11. § (1) bekezdése a 280/2019. (XI. 21.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^26]: A 11. § (3) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^26]: A 11. § (3) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 13. § a) pontja, az 561/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
