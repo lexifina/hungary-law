@@ -34,8 +34,8 @@ P. H.
 
 .................................................
 
-főispán
+kormánymegbízott
 
 capital and county government commissioner
 
-[^29]: Az 1. melléklet a 416/2024. (XII. 20.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^29]: Az 1. melléklet az 535/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
