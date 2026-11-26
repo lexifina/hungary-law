@@ -2,7 +2,7 @@
 
 8. § (1) A Hatóság a klímagázok, a HR és MR szektor és szerves Rankine-ciklus alkalmazások, valamint a klímagázokat tartalmazó vagy azzal működtetett alkalmazások felhasználására, használatára vonatkozóan, a klímagázok forgalomba helyezésének, felhasználásának és ártalmatlanításnak monitoringja, valamint ezek potenciális környezetbe jutásának megelőzése érdekében egységes adatbázist hoz létre és üzemeltet.
 
-(2)[^5] Az (1) bekezdés szerinti adatbázis informatikai rendszere üzemeltetésével kapcsolatos, az e rendeletben foglalt hatósági feladatok elvégzéséhez szükséges adatbázis berendezés-, hűtőkör- és adatnyilvántartó, számlázási, valamint személy- és cégképesítő IT rendszerének informatikai támogatását, e rendszer üzemeltetési, rendelkezésre állási és adatfeldolgozással kapcsolatos feladatainak ellátását a Hatóság a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendeletben kijelölt központi szolgáltató igénybevételével látja el.
+(2)[^6] Az (1) bekezdés szerinti adatbázis informatikai rendszere üzemeltetésével kapcsolatos, az e rendeletben foglalt hatósági feladatok elvégzéséhez szükséges adatbázis berendezés-, hűtőkör- és adatnyilvántartó, számlázási, valamint személy- és cégképesítő IT rendszerének informatikai támogatását, e rendszer üzemeltetési, rendelkezésre állási és adatfeldolgozással kapcsolatos feladatainak ellátását a Hatóság a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendeletben kijelölt központi szolgáltató igénybevételével látja el.
 
 (3) Az adatbázisba regisztrációra köteles
 
@@ -14,13 +14,13 @@ c) minden olyan vállalkozás, amely klímagázt vásárol, elad, felhasznál, �
 
 d) minden olyan vállalkozás, amely klímagázzal előtöltött vagy azzal működtetett alkalmazás telepítését, beüzemelését, címkézését, karbantartását, szervizelését, szivárgásvizsgálatát, javítását, valamint használaton kívül helyezését végzi;
 
-e)[^6] minden olyan üzemeltető, amely a Klímagáz tv. 5. § (3)–(6) bekezdés szerinti regisztrációra kötelezett klímagázt tartalmazó – honvédségi alkalmazásnak nem minősülő – alkalmazást, valamint üvegházhatású gázokkal töltött elektromos kapcsolóberendezést üzemeltet, tárol;
+e)[^7] minden olyan üzemeltető, amely a Klímagáz tv. 5. § (3)–(6) bekezdés szerinti regisztrációra kötelezett klímagázt tartalmazó – honvédségi alkalmazásnak nem minősülő – alkalmazást, valamint üvegházhatású gázokkal töltött elektromos kapcsolóberendezést üzemeltet, tárol;
 
 f) minden olyan vállalkozás, amely más személy vagy szervezet megbízásából szervezi szivárgásvizsgálatra kötelezett klímagázt tartalmazó alkalmazás telepítését, beüzemelését, címkézését, karbantartását, szervizelését, szivárgásvizsgálatát, javítását, valamint használaton kívül helyezését végzi;
 
 g) minden olyan üzemeltető, amely szulfuril-fluoriddal történő gázosítás esetén leválasztási és gyűjtési intézkedést alkalmaz.
 
-(4)[^7] A (3) bekezdés e) pontja szerinti üzemeltető az adatbázis saját üzemeltetésben lévő alkalmazások nyilvántartására szolgáló felületén az üzembe helyezést követő 8 napon belül regisztrálja a Klímagáz tv. 5. § (3)–(6) bekezdés szerinti klímagázt tartalmazó – honvédségi alkalmazásnak nem minősülő – alkalmazását, valamint üvegházhatású gázokkal töltött elektromos kapcsolóberendezését. Mentesül az e bekezdés szerinti regisztrációs kötelezettsége alól az az üzemeltető, akinek az üvegházhatású gázokkal töltött elektromos kapcsolóberendezése megfelel a következő feltételek valamelyikének:
+(4)[^8] A (3) bekezdés e) pontja szerinti üzemeltető az adatbázis saját üzemeltetésben lévő alkalmazások nyilvántartására szolgáló felületén az üzembe helyezést követő 8 napon belül regisztrálja a Klímagáz tv. 5. § (3)–(6) bekezdés szerinti klímagázt tartalmazó – honvédségi alkalmazásnak nem minősülő – alkalmazását, valamint üvegházhatású gázokkal töltött elektromos kapcsolóberendezését. Mentesül az e bekezdés szerinti regisztrációs kötelezettsége alól az az üzemeltető, akinek az üvegházhatású gázokkal töltött elektromos kapcsolóberendezése megfelel a következő feltételek valamelyikének:
 
 a) igazolt szivárgási mértéke a gyártó műszaki leírásában foglaltak szerint évente kevesebb, mint 0,1%, és ennek megfelelően címkézték fel, vagy
 
@@ -34,7 +34,7 @@ b) 6 kg-nál kevesebb fluortartalmú üvegházhatású gázt tartalmaz.
 
 (8) A (4) bekezdés szerinti regisztrációköteles alkalmazás üzemeltetőjének személyében bekövetkezett változás esetén a korábbi üzemeltető 8 napon belül a változást az adatbázisban az új üzemeltető megjelölésével rögzíti, és ezt követően az új üzemeltető 8 napon belül azt jóváhagyja az adatbázisban. Ha az új üzemeltető a változást 8 napon belül nem hagyja jóvá, a korábbi üzemeltető a határidő lejártát követő 15 napon belül a változást alátámasztó dokumentumok csatolása mellett erről a tényről a Hatóságot értesíti.
 
-(9)[^8] A regisztrációt az 1. melléklet 2. pontjában foglalt táblázat 9–10. és 15–19. sorában meghatározott regisztrált vállalkozások tevékenységi kategória szerinti tevékenysége tervezett megkezdése előtt kell elvégezni az adatbázisban.
+(9)[^9] A regisztrációt az 1. melléklet 2. pontjában foglalt táblázat 9–10. és 15–19. sorában meghatározott regisztrált vállalkozások tevékenységi kategória szerinti tevékenysége tervezett megkezdése előtt kell elvégezni az adatbázisban.
 
 (10) A Hatóság az adatbázisba bejelentett adatokat a Klímagáz tv. 11. §-ában, az e rendeletben, és a Klímagáz tv. végrehajtására kiadott miniszteri rendeletben meghatározottak szerint tartja nyilván és kezeli.
 
@@ -60,7 +60,7 @@ b) többszöri regisztráció esetén a régebbi regisztrációt.
 
 (14) A honvédségi alkalmazásokról a honvédelemért felelős miniszter nyilvántartást vezet, a nyilvántartásban szereplő adatokról megkeresésre, összesített formában adatot szolgáltat, kivéve az (EU) 2024/573 európai parlamenti és tanácsi rendelet és az (EU) 2024/590 európai parlamenti és tanácsi rendelet szerinti kötelező adatszolgáltatásokat és jelentéseket.
 
-[^5]: A 8. § (2) bekezdése a 490/2025. (XII. 31.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.
-[^6]: A 8. § (3) bekezdés e) pontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 6. pontja szerint módosított szöveg.
-[^7]: A 8. § (4) bekezdés nyitó szövegrésze a 490/2025. (XII. 31.) Korm. rendelet 8. § 7. pontja szerint módosított szöveg.
-[^8]: A 8. § (9) bekezdése a 490/2025. (XII. 31.) Korm. rendelet 8. § 8. pontja szerint módosított szöveg.
+[^6]: A 8. § (2) bekezdése a 490/2025. (XII. 31.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.
+[^7]: A 8. § (3) bekezdés e) pontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 6. pontja szerint módosított szöveg.
+[^8]: A 8. § (4) bekezdés nyitó szövegrésze a 490/2025. (XII. 31.) Korm. rendelet 8. § 7. pontja szerint módosított szöveg.
+[^9]: A 8. § (9) bekezdése a 490/2025. (XII. 31.) Korm. rendelet 8. § 8. pontja szerint módosított szöveg.

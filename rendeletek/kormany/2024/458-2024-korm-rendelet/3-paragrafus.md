@@ -2,7 +2,7 @@
 
 3. § (1) A Kormány – a (2)–(4) és (6)–(9) bekezdésben foglaltak kivételével – klímavédelemért felelős hatóságként országos illetékességgel az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium részeként működő Nemzeti Klímavédelmi Hatóságot (a továbbiakban: Hatóság) jelöli ki. A Hatóság jogszabályban meghatározott feladat- és hatáskörei ellátásával kapcsolatban önállóan jár el, nem utasítható, csak jogszabálynak van alárendelve.
 
-(2) Az illetékes fővárosi és vármegyei kormányhivatal jár el
+(2)[^1] Az illetékes fővárosi és megyei kormányhivatal jár el
 
 a) a klímagázt tartalmazó tűzoltó-technikai termékek, valamint a klímagázt tartalmazó beépített tűzvédelmi berendezések és tűzoltó készülékek telepítését, javítását, karbantartását, szervizelését, szivárgásvizsgálatát végző vállalkozások megfelelő képesítésének ellenőrzésében,
 
@@ -25,3 +25,5 @@ c) a klímagázt tartalmazó tűzoltó-technikai termékek, valamint a klímagá
 (9) A Nemzeti Adó- és Vámhivatal a szabad forgalomba bocsátás vámeljárás során ellenőrzi az (EU) 2024/573 európai parlamenti és tanácsi rendelet és az (EU) 2024/590 európai parlamenti és tanácsi rendelet szerinti megfelelőségi nyilatkozatokat és dokumentációt.
 
 (10) Ha a Nemzeti Adó- és Vámhivatal a (7)–(9) bekezdésben foglaltak ellenőrzése során jogsértést állapít meg, az árut feltartóztatja, lefolytatja a vámhatósági eljárást és dönt az áru végleges sorsáról. A Nemzeti Adó- és Vámhivatal a vámhatósági eljárásról és az áru végleges sorára vonatkozó döntéséről értesíti a Hatóságot, figyelemmel a 4. § (2) bekezdés b) pontjában foglaltakra.
+
+[^1]: A 3. § (2) bekezdés nyitó szövegrésze az 526/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.

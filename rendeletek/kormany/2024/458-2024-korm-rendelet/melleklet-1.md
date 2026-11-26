@@ -1,6 +1,6 @@
 1. melléklet a 458/2024. (XII. 30.) Korm. rendelethez
 
-1.[^40] HR és MR szektor klímagázt tartalmazó alkalmazást szerelő, karbantartó, szervizelő és szivárgásvizsgáló, valamint klímagáz-kezelést végző természetes személy képesítési igazolásainak jele, megnevezése és az (EU) 2024/573 európai parlamenti és tanácsi rendeletnek való megfelelése:
+1.[^41] HR és MR szektor klímagázt tartalmazó alkalmazást szerelő, karbantartó, szervizelő és szivárgásvizsgáló, valamint klímagáz-kezelést végző természetes személy képesítési igazolásainak jele, megnevezése és az (EU) 2024/573 európai parlamenti és tanácsi rendeletnek való megfelelése:
 
 |  | A | B | C | D | E |
 
@@ -68,7 +68,7 @@
 
 | 14. | Regeneráló | Klímagáz regenerálásra történő átvétele és regenerálása. | – |
 
-| 15. | Képző szerv | Hatósággal kötött képzési megállapodás vagy átképzési terv alapján képzési tevékenység folytatása: klímagáz vásárlásra képzési, továbbképzési tevékenysége mértékében, korlátozottan jogosít.[^41] | – |
+| 15. | Képző szerv | Hatósággal kötött képzési megállapodás vagy átképzési terv alapján képzési tevékenység folytatása: klímagáz vásárlásra képzési, továbbképzési tevékenysége mértékében, korlátozottan jogosít.[^42] | – |
 
 | 16. | Szakmai továbbképző szerv | Hatóság jóváhagyása alapján képzési tevékenység folytatása: klímagáz vásárlásra továbbképzési tevékenysége mértékében, korlátozottan jogosít. | – |
 
@@ -84,5 +84,5 @@
 
 2.2. „6”: A 2002/96/EK Irányelv szerint működő ártalmatlanító szervezetekre vonatkozó követelményeinek való megfelelés.
 
-[^40]: Az 1. melléklet 1. pontja a 490/2025. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^41]: Az 1. melléklet 2. pontjában foglalt táblázat B:15 mezője a 490/2025. (XII. 31.) Korm. rendelet 8. § 24. pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 1. pontja a 490/2025. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet 2. pontjában foglalt táblázat B:15 mezője a 490/2025. (XII. 31.) Korm. rendelet 8. § 24. pontja szerint módosított szöveg.
