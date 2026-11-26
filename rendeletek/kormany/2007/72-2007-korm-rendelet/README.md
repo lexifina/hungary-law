@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-72-20-2
 | 2018-01-01 | 2007-72-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2007-72-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-01-01 | 2007-72-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2026-11-26 | 2007-72-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |

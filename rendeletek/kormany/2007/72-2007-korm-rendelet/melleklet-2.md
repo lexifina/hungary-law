@@ -374,68 +374,68 @@ A közigazgatási szerv fizetési számlája
 
 | 1. | Fizetési számlát kezelő szerv neve | Számlaszám |
 
-| 2. | Baranya Vármegyei Kormányhivatal | 10024003-00335649-00000000 |
+| 2. | Baranya Megyei Kormányhivatal | 10024003-00335649-00000000 |
 
-| 3. | Bács-Kiskun Vármegyei Kormányhivatal | 10025004-00299657-00000000 |
+| 3. | Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| 4. | Békés Vármegyei Kormányhivatal | 10026005-00299578-00000000 |
+| 4. | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal | 10027006-00335656-00000000 |
+| 5. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00335656-00000000 |
 
-| 6. | Csongrád-Csanád Vármegyei Kormányhivatal | 10028007-00335663-00000000 |
+| 6. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00335663-00000000 |
 
-| 7. | Fejér Vármegyei Kormányhivatal | 10029008-00335670-00000000 |
+| 7. | Fejér Megyei Kormányhivatal | 10029008-00335670-00000000 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Kormányhivatal | 10033001-00299633-00000000 |
+| 8. | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| 9. | Hajdú-Bihar Vármegyei Kormányhivatal | 10034002-00335687-00000000 |
+| 9. | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00335687-00000000 |
 
-| 10. | Heves Vármegyei Kormányhivatal | 10035003-00299619-00000000 |
+| 10. | Heves Megyei Kormányhivatal | 10035003-00299619-00000000 |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal | 10045002-00335694-00000000 |
+| 11. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00335694-00000000 |
 
-| 12. | Komárom-Esztergom Vármegyei Kormányhivatal | 10036004-00299554-00000000 |
+| 12. | Komárom-Esztergom Megyei Kormányhivatal | 10036004-00299554-00000000 |
 
-| 13. | Nógrád Vármegyei Kormányhivatal | 10037005-00299547-00000000 |
+| 13. | Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
 
-| 14. | Pest Vármegyei Kormányhivatal | 10023002-00335728-00000000 |
+| 14. | Pest Megyei Kormányhivatal | 10023002-00335728-00000000 |
 
 | 15. | Somogy Vármegyei Kormányhivatal | 10039007-00299688-00000000 |
 
-| 16. | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal | 10044001-00299695-00000000 |
+| 16. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
 
-| 17. | Tolna Vármegyei Kormányhivatal | 10046003-00299530-00000000 |
+| 17. | Tolna Megyei Kormányhivatal | 10046003-00299530-00000000 |
 
-| 18. | Vas Vármegyei Kormányhivatal | 10047004-00335711-00000000 |
+| 18. | Vas Megyei Kormányhivatal | 10047004-00335711-00000000 |
 
-| 19. | Veszprém Vármegyei Kormányhivatal | 10048005-00299516-00000000 |
+| 19. | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
 
-| 20. | Zala Vármegyei Kormányhivatal | 10049006-00299509-00000000 |
+| 20. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
 
 | 21. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
 
-| 22. | Baranya Vármegyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
+| 22. | Baranya Megyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
 
-| 23. | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
+| 23. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
 
-| 24. | Békés Vármegyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
+| 24. | Békés Megyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
 
-| 25. | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
+| 25. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 26. | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 26. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
-| 27. | Fejér Vármegyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
+| 27. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
 | 28. | Fővárosi Katasztrófavédelmi Igazgatóság | 10023002-00319566-00000000 |
 
-| 29. | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
+| 29. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
 
-| 30. | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
+| 30. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
 
-| 31. | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
+| 31. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
 
-| 32. | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
+| 32. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
 
-| 33. | Vas Vármegyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
+| 33. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-[^8]: A 2. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 10. §-a, a 616/2022. (XII. 29.) Korm. rendelet 74. §-aszerint módosított szöveg.
+[^8]: A 2. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 10. §-a, az 555/2026. (XI. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
