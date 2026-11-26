@@ -1,0 +1,9 @@
+3. § A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet 5. és 6. §-a helyébe a következő rendelkezések lépnek:
+
+„5. § A Központi Ellátó Szerv az uniós közbeszerzési értékhatárokat elérő vagy meghaladó igényeket a közbeszerzési jogszabályoknak megfelelően teljesíthet.
+
+6. § (1) A Kedvezményezett az uniós közbeszerzési értékhatárokat elérő vagy meghaladó, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körébe tartozó tervezett igényeivel a Központi Ellátó Szervhez ajánlatért fordulhat. Az igénybejelentésben meg kell határozni az igényelt termék vagy szolgáltatás mennyiségét, minimális műszaki tartalmát, paramétereit, minőségét, valamint a teljesítés helyét és a teljesítési határidőt.
+
+(2) A Központi Ellátó Szerv az igénybejelentés alapján a teljesítésre képes, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság közreműködésével 30 napon belül indikatív ajánlatot tesz vagy a teljesítés akadályáról tájékoztatja a Kedvezményezettet. Az ajánlatnak tartalmaznia kell a termék vagy szolgáltatás műszaki leírását, paramétereit, minőségét, az igénybejelentésben meghatározott feltételektől való esetleges eltérést, az egységárakat és az ellenértéket.
+
+(3) A Kedvezményezett a Központi Ellátó Szerv ajánlatának elfogadása esetén a Központi Ellátó Szervvel az igénybejelentés és az elfogadott ajánlat alapján 30 napon belül ellátási megállapodást köt. Ha a Kedvezményezett az árajánlat elfogadásáról nem nyilatkozik, vagy az ellátási megállapodást nem köti meg, a Központi Ellátó Szerv az ellátási megállapodás megkötésétől és az ellátási igény teljesítésétől eláll.”
