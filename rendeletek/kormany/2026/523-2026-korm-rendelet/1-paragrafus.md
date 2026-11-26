@@ -1,0 +1,5 @@
+## [1] A Magyarország Alaptörvényének 17. módosításával, valamint a megye és a kormánymegbízott elnevezés alkalmazásával összefüggő egyes törvények módosításáról szóló 2026. évi XLIX. törvénnyel való összhang megteremtése érdekében szükséges a területi közigazgatási szervek elnevezésére vonatkozó terminológiai módosításokat a kormányrendeletek szövegén is megfelelően átvezetni.
+
+## [2] A Kormány az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény 39. § (1) bekezdés 1–4., 7., 9. és 10. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 1. melléklet B.2.5. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.

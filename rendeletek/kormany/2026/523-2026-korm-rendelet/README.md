@@ -1,0 +1,9 @@
+# 523/2026. (XI. 25.) Korm. rendelet
+
+az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-523-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-11-26 | 2026-523-20-22.1 | 523/2026. (XI. 25.) Korm. rendelet |
