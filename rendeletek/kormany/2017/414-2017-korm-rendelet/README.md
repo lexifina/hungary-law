@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-414-20-
 | 2018-01-02 | 2017-414-20-22.3 | 2010: CXXX. törvény |
 | 2020-04-19 | 2017-414-20-22.4 | 111/2020. (IV. 14.) Korm. rendelet |
 | 2023-01-01 | 2017-414-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-11-26 | 2017-414-20-22.6 | 528/2026. (XI. 25.) Korm. rendelet |
