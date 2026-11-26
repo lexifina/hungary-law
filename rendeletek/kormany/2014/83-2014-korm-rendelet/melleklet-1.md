@@ -18,7 +18,7 @@ A nagyvízi mederkezelési tervet megalapozó tervdokumentáció tartalma
 
 1.3.1.2. A tárgyi nagyvízi medret érintő fontosabb elemek az országos tervjavaslatban
 
-1.3.2.[^40] Vármegyei Területrendezési Terv (a továbbiakban: vármegyei terv)
+1.3.2.[^40] Megyei Területrendezési Terv (a továbbiakban: megyei terv)
 
 1.3.2.1. A folyó térségi jelentőségének kifejtése a területrendezési tervet megalapozó munkarészben
 
@@ -164,4 +164,4 @@ A nagyvízi mederkezelési tervet megalapozó tervdokumentáció tartalma
 
 [^38]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 100/2016. (V. 13.) Korm. rendelet 25. §-a iktatta be.
 [^39]: A hatálybalépés időpontja 2016. június 15.
-[^40]: Az 1. melléklet 1.3.2. pontja a 616/2022. (XII. 29.) Korm. rendelet 182. § a) és b) pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 1. pont 1.3. alpont 1.3.2. pontja az 558/2026. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

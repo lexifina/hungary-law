@@ -22,9 +22,9 @@ A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, foly
 
 | 2. | 01.Észak-dunántúli Vízügyi Igazgatóság (a továbbiakban: ÉDUVÍZIG) | Duna | 01.NMT.01. | Államhatár (Duna) | 1850,20 | Ásványráró – Győrzámoly közigazgatási határ | 1809,76 |
 
-| 3. | 01.ÉDUVÍZIG | Duna | 01.NMT.02. | Ásványráró – Győrzámoly közigazgatási határ | 1809,76 | Komárom-Esztergom vármegyehatár (Nagyszentjános-Ács közigazgatási határ) | 1786,00 |
+| 3. | 01.ÉDUVÍZIG | Duna | 01.NMT.02. | Ásványráró – Győrzámoly közigazgatási határ | 1809,76 | Komárom-Esztergom megyehatár (Nagyszentjános-Ács közigazgatási határ) | 1786,00 |
 
-| 4. | 01.ÉDUVÍZIG | Duna | 01.NMT.03. | Komárom-Esztergom vármegyehatár (Nagyszentjános-Ács közigazgatási határ) | 1786,00 | Nyergesújfalu-Tát közigazgatási határ | 1729,35 |
+| 4. | 01.ÉDUVÍZIG | Duna | 01.NMT.03. | Komárom-Esztergom megyehatár (Nagyszentjános-Ács közigazgatási határ) | 1786,00 | Nyergesújfalu-Tát közigazgatási határ | 1729,35 |
 
 | 5. | 01.ÉDUVÍZIG | Duna | 01.NMT.04. | Nyergesújfalu-Tát közigazgatási határ | 1729,35 | Dömös vízügyi igazgatósági határ (Dömös-Visegrád közigazgatási határ) | 1699,50 |
 
@@ -154,4 +154,4 @@ A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, foly
 
 | 68. | 12.KÖVÍZIG | Hortobágy-Berettyó | 12.NMT.06. | Borzi szivattyútelep | 54,80 | Hármas-Körös-torkolat | 0 |
 
-[^42]: A 4. melléklet a 288/2018. (XII. 21.) Korm. rendelet 3. § (4) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 182. § c) pontja szerint módosított szöveg.
+[^42]: A 4. melléklet a 288/2018. (XII. 21.) Korm. rendelet 3. § (4) bekezdése, az 558/2026. (XI. 25.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
