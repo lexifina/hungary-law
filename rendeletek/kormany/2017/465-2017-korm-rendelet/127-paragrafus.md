@@ -1,3 +1,3 @@
-127. §[^137]
+127. §[^138]
 
-[^137]: A 127. §-t a 611/2023. (XII. 22.) Korm. rendelet 37. § 4. pontja hatályon kívül helyezte.
+[^138]: A 127. §-t a 611/2023. (XII. 22.) Korm. rendelet 37. § 4. pontja hatályon kívül helyezte.
