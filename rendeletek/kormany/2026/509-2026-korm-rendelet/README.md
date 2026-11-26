@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-509-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-11-25 | 2026-509-20-22.1 | 509/2026. (XI. 24.) Korm. rendelet |
+| 2026-11-26 | 2026-509-20-22.2 | 2010. évi CXXX. törvény |
