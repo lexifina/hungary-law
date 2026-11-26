@@ -1,5 +1,5 @@
-## 13.[^14]
+## 13.[^15]
 
 29. §
 
-[^14]: A 13. alcímet (29. §-t) a 261/2025. (VIII. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^15]: A 13. alcímet (29. §-t) a 261/2025. (VIII. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.
