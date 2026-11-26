@@ -1,0 +1,5 @@
+## [1] A Magyarország Alaptörvényének 17. módosításával, valamint a megye és a kormánymegbízott elnevezés alkalmazásával összefüggő egyes törvények módosításáról szóló 2026. évi XLIX. törvénnyel való összhang megteremtése érdekében szükséges a területi közigazgatási szervek elnevezésére vonatkozó terminológiai módosításokat a kormányrendeletek szövegén is megfelelően átvezetni.
+
+## [2] A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 21. pontjában, valamint a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § A környezetvédelmi és vízügyi hatósági eljárás során felmerülő egyéb eljárási költségekről szóló 72/2007. (IV. 17.) Korm. rendelet 2. számú mellékletében foglalt táblázat A:2–A:14, A:16–A:20, A:22–A:27 és A:29–A:33 mezőjében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg lép.
