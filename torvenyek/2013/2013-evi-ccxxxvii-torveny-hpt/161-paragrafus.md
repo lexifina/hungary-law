@@ -24,7 +24,7 @@ f) a külön törvényben meghatározott feltételek megléte esetén a titkos i
 
 g) a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
-h) az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel, illetve szociális hatáskört gyakorló szervvel,
+h) az adókötelezettségek teljesítésével összefüggő kockázatok azonosítása, valamint az azonosított kockázatok fennállásának kizárása vagy megállapítása érdekében kockázatelemzést végző, illetve az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel, illetve szociális hatáskört gyakorló szervvel,
 
 i) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve a bírósági végrehajtásról szóló 1994. évi LIII. törvény 79/C. § (2) bekezdése alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendeletek alapján bekapcsolódni szándékozó lakáscélú állami támogatások ügyében eljáró szervvel,
 
