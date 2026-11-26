@@ -1,0 +1,5 @@
+## [1] A Magyarország Alaptörvényének 17. módosításával, valamint a megye és a kormánymegbízott elnevezés alkalmazásával összefüggő egyes törvények módosításáról szóló 2026. évi XLIX. törvénnyel való összhang megteremtése érdekében szükséges a területi közigazgatási szervek elnevezésére vonatkozó terminológiai módosításokat a kormányrendeletek szövegén is megfelelően átvezetni.
+
+## [2] A Kormány a Biológiai Sokféleség Egyezményhez kapcsolódó, a genetikai erőforrásokhoz való hozzáférésről, valamint a hasznosításukból származó hasznok igazságos és méltányos megosztásáról szóló Nagojai Jegyzőkönyv kihirdetéséről szóló 2014. évi VIII. törvény 4. § (4) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § A genetikai erőforrásokhoz való hozzáféréssel és a hasznosításukból származó hasznok igazságos és méltányos megosztásával kapcsolatos nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 3/2016. (I. 20.) Korm. rendelet 5. § (1) bekezdés b) pont ba) alpontjában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg lép.
